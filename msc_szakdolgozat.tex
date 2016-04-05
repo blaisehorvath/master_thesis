@@ -1,0 +1,114 @@
+\documentclass[a4paper,12pt]{article}
+
+%temporary includes
+\usepackage{textcomp} %for arrows in comments
+
+%includes
+\usepackage{color}
+\usepackage{cite}
+\usepackage[utf8]{inputenc}
+\DeclareUnicodeCharacter{00A0}{ }
+%\DeclareUnicodeCharacter{00A0}{~} % not using no-break space
+\usepackage{geometry}
+\geometry{
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    bottom=25mm,
+}
+
+% Adding dots after section numbers
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+
+
+\pdfinfo{%
+  /Title    (Bakteriális patogén és ember közötti molekuláris hálózatok vizsgálata)
+  /Author   (Horváth Balázs)
+  /Creator  ()
+  /Producer ()
+  /Subject  (MSc Szakdolgozat)
+  /Keywords ()
+}
+
+%Title page 
+%TODO: add more information, logo and stuff as requested
+\title{Bakteriális patogén es ember közötti molekuláris hálózatok vizsgálata}
+\author{Horváth Balázs}
+\date{2015}
+
+\begin{document}
+\maketitle
+\pagebreak
+
+\section{Tartalomjegyzék}
+\pagebreak
+
+\section{Rövidítésjegyzék}
+\pagebreak
+
+\section{Bevezetés}
+	\subsection{A bél mikrobióta fontosságának ismertetése}
+	\subsection{A szakirodalomban publikált gazda patogén hálózatok} 
+	\subsection{A Humán-Salmonella kapcsolat ismertetése és hatása az 	autofágiára}
+	\subsection{Ökológiai hálózatok elemzésére használt topológiai mérőszámok}
+	 
+	 \paragraph{Miért van szükség topológiai mérőszámokra?} \mbox{}\\ %linebreak after paragraph title
+	 A konzervrációs biológia az élettudományok azon ága mely a Föld biodiverzitásának megőrzésével foglalkozik. Mivel az összes faj védelme nem megoldható, ezért szükségessé vált olyan fajok kiválogatása melyek kiemelt figyelmet igényelnek konzervációs biológiai szempontból.\cite{new_zeland} Az 1990-es évek előtt a védelemre való kiválasztás fő szempontja a faj ritkasága volt.  A fajok ilyen alapú szelekciója nem veszi figyelembe hogy például az adott taxon kulcsszerepet játszik-e az ökoszisztéma funkciók ellátásában. \cite{jordan_comparison}
+	 
+	 \paragraph{Kulcsfajok} \mbox{}\\ %linebreak after paragraph title
+	 1966-ban Robert Paine megalkotta a kulcsfaj koncepciót(\textit{keystone species}). Megfigyelte hogy ha kiesik a Kaliforniai sziklás tengerparti közösségből a \textit{Piaster ochraceus} csúcsragadozó tengeri csillag akkor az egész közösség fajösszetétele összeomlik. A mai legelfogadottabb kulcsfaj definíció szerint ezek olyan fajok, melyek ökológiai hatása aránytalanul nagy az abundanciájukhoz képest. A fogalommal kapcsolatban azonban további kérdések merülnek fel: Milyen hatás számít nagynak? Pontosan mekkora biomassza hányad után mondható az adott faj ereje aránytalannak? \cite{new_zeland} Ez utóbbi kérdések megválaszolásához szükség van olyan mérőszámokra, melyek segítségével kvantitatívvé tehető egy adott faj ökológiai fontossága. Másrészt így lehetővé válik a fajkiválasztás során a szubjektivitás csökkentése is. Az ilyen mérőszámok használatával objektív fontossági sorrendet lehet felállítani az adott élőhelyen előforduló taxonok között. \cite{jordan_comparison} 
+	 
+	 \paragraph{Rangsorolásra használt topológiai mérőszámok az ökológiában} \mbox{}\\
+	 Ma már a kulcsfajok kiválasztása részben ökológiai interakciós hálózatok elemzése alapján történik. A használt hálók kizárólag biotikus-biotikus (faj-faj) kapcsolatokat tartalmaznak. Erre azért van szükség, mert például minden élőlény összekötésben áll a detritusszal és ez eltorzítaná az analízis eredményét. Sőt ilyen esetben a detritusz maga is struktúrális kulcsfajnak számítana. Egy adott fajnak az ökológiai interakciós hálóban betöltött szerepét pozicionális fontossági mérőszámokkal, vagy más néven centralitási indexekkel lehet jellemezni. A konzervációs biológiában sokfajta ilyen mérőszámot használnak, melyeknek közös tulajdonsága, hogy mindegyik valamilyen egyedi tulajdonságra fekteti a hangsúlyt és az alapján rangsorolja a hálózatban szereplő fajokat. Ilyen eltérés lehet két index között például, az hogy az egyik egy adott pont lokális kapcsolati mintázatára, míg a másik az egész hálózatra vonatkozó hatását számszerűsíti. Adott hálóra különböző mérőszámok eltérő fajsorrendeket adnak, de a hasonló tulajdonságok figyelembevételén alapuló mérőszámok között felállíthatók konszenzus fák. \cite{jordan_comparison} \textcolor{red}{ !TODO: esetleg lehetne még kicsit írni arról, hogy sok ökológiai mérőszám igazábol szociológiából jött \textrightarrow  Wasserman, S., Faust, K., 1994. Social Network Analysis. Cambridge University Press,
+	 Cambridge. }
+	 
+	 \paragraph{Főbb topológiai mérőszámok}
+	 
+	 \textcolor{red}{ !TODO: Úgy gondoltam, hogy ide jönnek a főbb mérőszámok és rövid jellemzésük, esetleg mindegyiknek egy képlet hogy hogyan kell kiszámolni}
+	 
+	 \paragraph{Normalised degree - D} \mbox{}\\Az adott ponttal kapcsolódó pontok száma elosztva a hálózat összes pontjának számával. \cite{top_indexes}
+	 
+	 \paragraph{Closeness centrality - CC } \mbox{}\\ A pontok száma elosztva az adott pontból eredő azt minden más ponttal összekötő legrövidebb topológiai távolságok összegével. \cite{top_indexes}
+	 
+	 \paragraph{Betweenness centrality - BC} \mbox{}\\ A vizsgálni kívánt ponton áthaladó a hálózat többi pont párját összekötő legrövidebb utak összege elosztva a hálózat többi pontpárját összekötő összes legrövidebb út összegével. \cite{top_indexes}
+	 
+  	 \paragraph{Information Centrality - IC} \textcolor{red}{ !TODO}
+	 
+	 \paragraph{Topological importance - TI\textsuperscript{n}} \textcolor{red}{! TODO, Bővebb leírás, képlet, mintagráfon szemléltetés}
+	 
+ 	 \paragraph{Weighted Topological Importance - WI\textsuperscript{n}} \textcolor{red}{ !TODO}
+
+\section{Források és módszertan}
+
+	\subsection{Adatbázisok}
+		\subsubsection{SLK3 Layer 0 összeállítása és ebből a Rho útvonal extrakciója}
+		\subsubsection{Arn Core}
+		\subsubsection{Salmonet}
+		\subsubsection{Predictions}
+
+	\subsection{Az adatbázisok egyesítése}
+		\subsubsection{Algoritmusok leírása}
+		\subsubsection{Módszerek és technológiák leírása}
+
+	\subsection{Az egyesített hálózat elemzésének módszere}
+		\subsubsection{Topológiai mérőszámok jellemzői}
+		\subsubsection{Algoritmusok, alkalmazott technológiák}
+
+\section{Eredmények (A hálózat elemzése)}
+	\subsection{Főbb statisztikák}
+	\subsection{Kapott topológiai adatok és jelentésük}
+	
+\section{Diszkusszió}
+\section{Összefoglalás}
+\section{Summary}
+\section{Hivatkozások jegyzéke}
+\section{Köszönetnyilvánítás}
+\section{Nyilatkozat}
+
+
+\bibliography{msc_szakdolgozat}{}
+\bibliographystyle{apalike}
+
+\end{document}
+
