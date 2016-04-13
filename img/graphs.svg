@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="graphs.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="568.30261"
+     inkscape:cy="878.5151"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2991"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="640"
+     inkscape:window-height="412"
+     inkscape:window-x="2020"
+     inkscape:window-y="374"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="367.85714,1005"
+       id="guide3492" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="630.71429,758.57143"
+       id="guide3494" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="88.571429,1005"
+       id="guide3496" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3510"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="630.71429,877.85714"
+       id="guide3859" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="1. réteg"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2991"
+       stroke-miterlimit="10"
+       style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="translate(-286.28572,238.21933)">
+      <!-- drawing style -->
+      <g
+         id="g2997"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g2999"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+          <path
+             id="path3001"
+             d="m -337.51517,-98.464264 281.41017,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3003"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3005"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+          <path
+             id="path3007"
+             d="m -337.51517,101.53574 286.41017,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3009"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3011"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+          <path
+             id="path3013"
+             d="m -342.20428,119.03574 121.24357,70"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3015"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3017"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+          <path
+             id="path3019"
+             d="M -214.31007,-172.48351 -355.01517,71.224846"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3021"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3023"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+          <path
+             id="path3025"
+             d="M -47.755634,89.035744 -342.20428,-80.964264"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3027"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3029"
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+          <path
+             id="path3031"
+             d="M -211.81007,179.8851 -355.01517,-68.153374"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3033"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3035"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+          <path
+             id="path3037"
+             d="m 3.8950005,-98.464264 c 0,16.568543 -13.4314575,30 -30.0000005,30 -16.568542,0 -30,-13.431457 -30,-30 0,-16.568546 13.431458,-29.999996 30,-29.999996 16.568543,0 30.0000005,13.43145 30.0000005,29.999996 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3039"
+         transform="matrix(0.53942834,0,0,0.53942834,574.37366,-116.18762)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           id="text3041"
+           y="0"
+           x="0"
+           font-size="35"
+           font-weight="normal"
+           font-style="normal"
+           style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3154">D</tspan>
+        </text>
+      </g>
+      <!-- transform -->
+      <g
+         id="g3043"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3045"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+          <path
+             id="path3047"
+             d="m -337.51517,101.53574 c 0,19.32996 -15.67003,35 -35,35 -19.32996,0 -35,-15.67004 -35,-35 0,-19.32997 15.67004,-35.000004 35,-35.000004 19.32997,0 35,15.670034 35,35.000004 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3049"
+         transform="matrix(0.53942834,0,0,0.53942834,388.26515,-8.3019544)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           id="text3051"
+           y="0"
+           x="0"
+           font-size="35"
+           font-weight="normal"
+           font-style="normal"
+           style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3160">E</tspan>
+        </text>
+      </g>
+      <!-- transform -->
+      <g
+         id="g3053"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3055"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+          <path
+             id="path3057"
+             d="m -1.1049995,101.53574 c 0,13.80712 -11.1928815,25 -25.0000005,25 -13.807118,0 -25,-11.19288 -25,-25 0,-13.807115 11.192882,-24.999996 25,-24.999996 13.807119,0 25.0000005,11.192881 25.0000005,24.999996 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3059"
+         transform="matrix(0.53942834,0,0,0.53942834,574.93987,-8.3019444)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           id="text3061"
+           y="0"
+           x="0"
+           font-size="35"
+           font-weight="normal"
+           font-style="normal"
+           style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3156">C</tspan>
+        </text>
+      </g>
+      <!-- transform -->
+      <g
+         id="g3063"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3065"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+          <path
+             id="path3067"
+             d="m -337.51517,-98.464264 c 0,19.329966 -15.67003,35 -35,35 -19.32996,0 -35,-15.670034 -35,-35 0,-19.329966 15.67004,-34.999996 35,-34.999996 19.32997,0 35,15.67003 35,34.999996 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3069"
+         transform="matrix(0.53942834,0,0,0.53942834,389.0201,-116.18762)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           id="text3071"
+           y="0"
+           x="0"
+           font-size="35"
+           font-weight="normal"
+           font-style="normal"
+           style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3150">F</tspan>
+        </text>
+      </g>
+      <!-- transform -->
+      <g
+         id="g3073"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3075"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+          <path
+             id="path3077"
+             d="m -169.31007,-198.46426 c 0,16.56854 -13.43146,30 -30,30 -16.56855,0 -30,-13.43146 -30,-30 0,-16.56855 13.43145,-30 30,-30 16.56854,0 30,13.43145 30,30 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3079"
+         transform="matrix(0.53942834,0,0,0.53942834,482.07436,-170.13045)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           id="text3081"
+           y="0"
+           x="0"
+           font-size="35"
+           font-weight="normal"
+           font-style="normal"
+           style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3152">A</tspan>
+        </text>
+      </g>
+      <!-- transform -->
+      <g
+         id="g3083"
+         transform="matrix(0.53942834,0,0,0.53942834,596.00493,-67.338664)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           id="g3085"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+          <path
+             id="path3087"
+             d="m -174.31007,201.53574 c 0,13.80711 -11.19289,25 -25,25 -13.80712,0 -25,-11.19289 -25,-25 0,-13.80712 11.19288,-25 25,-25 13.80711,0 25,11.19288 25,25 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- transform -->
+      <g
+         id="g3089"
+         transform="matrix(0.53942834,0,0,0.53942834,481.50815,45.640886)"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           id="text3091"
+           y="0"
+           x="0"
+           font-size="35"
+           font-weight="normal"
+           font-style="normal"
+           style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3158">B</tspan>
+        </text>
+      </g>
+      <!-- transform -->
+      <g
+         id="g3333"
+         stroke-miterlimit="10"
+         transform="translate(436.71429,-152.14286)"
+         style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/blaise/Dropbox/Szakdolgozat/Tex/img/graphs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <!-- drawing style -->
+        <g
+           id="g3339"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3341"
+             style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+            <path
+               id="path3343"
+               d="m -342.51517,-98.464256 291.41017,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3345"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3347"
+             style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+            <path
+               id="path3349"
+               d="m -56.41589,84.035744 -290.1185,-167.5"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3351"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3353"
+             style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+            <path
+               id="path3355"
+               d="m -342.51517,101.53574 281.41017,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3357"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3359"
+             style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+            <path
+               id="path3361"
+               d="m -346.53439,116.53574 116.91343,67.5"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3363"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3365"
+             style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+            <path
+               id="path3367"
+               d="M -211.81007,-176.81363 -357.51517,75.554977"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3369"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3371"
+             style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+            <path
+               id="path3373"
+               d="M -216.81007,171.22485 -357.51517,-72.483498"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3375"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3377"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <path
+               id="path3379"
+               d="m -1.1049995,-98.464256 c 0,13.807118 -11.1928815,25 -25.0000005,25 -13.807118,0 -25,-11.192882 -25,-25 0,-13.807124 11.192882,-25.000004 25,-25.000004 13.807119,0 25.0000005,11.19288 25.0000005,25.000004 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3381"
+           transform="matrix(0.53201551,0,0,0.53201551,454.81864,32.233411)">
+          <text
+             id="text3383"
+             y="0"
+             x="0"
+             font-size="35"
+             font-weight="normal"
+             font-style="normal"
+             style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+            <tspan
+               style="-inkscape-font-specification:TeX Gyre Bonum;font-family:TeX Gyre Bonum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan3500">D</tspan>
+          </text>
+        </g>
+        <!-- transform -->
+        <g
+           id="g3385"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3387"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <path
+               id="path3389"
+               d="m 8.8950005,101.53574 c 0,19.32996 -15.6700338,35 -35.0000005,35 -19.329966,0 -35,-15.67004 -35,-35 0,-19.329964 15.670034,-34.999996 35,-34.999996 19.3299667,0 35.0000005,15.670032 35.0000005,34.999996 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3391"
+           transform="matrix(0.53201551,0,0,0.53201551,455.37708,138.63651)">
+          <text
+             id="text3393"
+             y="0"
+             x="0"
+             font-size="35"
+             font-weight="normal"
+             font-style="normal"
+             style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+            <tspan
+               style="-inkscape-font-specification:TeX Gyre Bonum;font-family:TeX Gyre Bonum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan3502">C</tspan>
+          </text>
+        </g>
+        <!-- transform -->
+        <g
+           id="g3395"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3397"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <path
+               id="path3399"
+               d="m -342.51517,101.53574 c 0,16.56854 -13.43145,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-29.999996 30,-29.999996 16.56855,0 30,13.431456 30,29.999996 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3401"
+           transform="matrix(0.53201551,0,0,0.53201551,271.26763,138.63651)">
+          <text
+             id="text3403"
+             y="0"
+             x="0"
+             font-size="35"
+             font-weight="normal"
+             font-style="normal"
+             style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+            <tspan
+               style="-inkscape-font-specification:TeX Gyre Bonum;font-family:TeX Gyre Bonum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan3506">E</tspan>
+          </text>
+        </g>
+        <!-- transform -->
+        <g
+           id="g3405"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3407"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <path
+               id="path3409"
+               d="m -164.31007,201.53574 c 0,19.32996 -15.67004,35 -35,35 -19.32997,0 -35,-15.67004 -35,-35 0,-19.32997 15.67003,-35 35,-35 19.32996,0 35,15.67003 35,35 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3411"
+           transform="matrix(0.53201551,0,0,0.53201551,363.22929,191.83806)">
+          <text
+             id="text3413"
+             y="0"
+             x="0"
+             font-size="35"
+             font-weight="normal"
+             font-style="normal"
+             style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+            <tspan
+               style="-inkscape-font-specification:TeX Gyre Bonum;font-family:TeX Gyre Bonum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan3504">B</tspan>
+          </text>
+        </g>
+        <!-- transform -->
+        <g
+           id="g3415"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3417"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <path
+               id="path3419"
+               d="m -342.51517,-98.46426 c 0,16.568545 -13.43145,30.000004 -30,30.000004 -16.56854,0 -30,-13.431459 -30,-30.000004 0,-16.56854 13.43146,-30 30,-30 16.56855,0 30,13.43146 30,30 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3421"
+           transform="matrix(0.53201551,0,0,0.53201551,272.01221,32.233402)">
+          <text
+             id="text3423"
+             y="0"
+             x="0"
+             font-size="35"
+             font-weight="normal"
+             font-style="normal"
+             style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+            <tspan
+               style="-inkscape-font-specification:TeX Gyre Bonum;font-family:TeX Gyre Bonum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan3508">F</tspan>
+          </text>
+        </g>
+        <!-- transform -->
+        <g
+           id="g3425"
+           transform="matrix(0.53201551,0,0,0.53201551,476.15266,80.411075)">
+          <g
+             id="g3427"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+            <path
+               id="path3429"
+               d="m -174.31007,-198.46426 c 0,13.80711 -11.19289,25 -25,25 -13.80712,0 -25,-11.19289 -25,-25 0,-13.80712 11.19288,-25 25,-25 13.80711,0 25,11.19288 25,25 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- transform -->
+        <g
+           id="g3431"
+           transform="matrix(0.53201551,0,0,0.53201551,363.78772,-20.968146)">
+          <text
+             id="text3433"
+             y="0"
+             x="0"
+             font-size="35"
+             font-weight="normal"
+             font-style="normal"
+             style="font-size:35px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyreBonum-Regular">
+            <tspan
+               style="-inkscape-font-specification:TeX Gyre Bonum;font-family:TeX Gyre Bonum;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan3498">A</tspan>
+          </text>
+        </g>
+        <!-- transform -->
+      </g>
+    </g>
+  </g>
+</svg>

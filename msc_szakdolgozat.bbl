@@ -1,21 +1,31 @@
 \begin{thebibliography}{}
 
-\bibitem[Ferenc~Jordán, 2007]{jordan_comparison}
-Ferenc~Jordán, Zsófia~Benedek, J.~P. (2007).
-\newblock Quantifying positional importance in food webs: A comparison of
-  centrality indices.
-\newblock {\em Ecological modelling}.
-
-\bibitem[Gabriella~Baranyi, 2011]{top_indexes}
-Gabriella~Baranyi, Santiago~Saura, J. P. F.~J. (2011).
+\bibitem[Baranyi et~al., 2011]{top_indexes}
+Baranyi, G., Saura, S., Podani, J., and Jordán, F. (2011).
 \newblock Contribution of habitat patches to network connectivity: Redundancy
   and uniqueuness of topological indices.
 \newblock {\em Ecological Indicators}.
 
-\bibitem[Ian J.~Payton, 2002]{new_zeland}
-Ian J.~Payton, Michael~Fenner, W. G.~L. (2002).
+\bibitem[Jordán et~al., 2007]{jordan_comparison}
+Jordán, F., Benedek, Z., and Podani, J. (2007).
+\newblock Quantifying positional importance in food webs: A comparison of
+  centrality indices.
+\newblock {\em Ecological modelling}.
+
+\bibitem[Jordán et~al., 2003]{ti}
+Jordán, F., Liu, W.-C., and van Veen, F. (2003).
+\newblock Quantifying the importance of species and their interactions in a
+  host-parasitoid community.
+\newblock {\em Community ecology}.
+
+\bibitem[Newman, 2010]{newman_networks}
+Newman, M. E.~J. (2010).
+\newblock {\em Networks: An Introduction}.
+
+\bibitem[Payton et~al., 2002]{new_zeland}
+Payton, I.~J., Fenner, M., and Lee, W.~G. (2002).
 \newblock Keystone species: the concept and its relevance for conservation
-  management in new zealand.
+  management in {N}ew {Z}ealand.
 \newblock {\em Science for canservation}.
 
 \end{thebibliography}
