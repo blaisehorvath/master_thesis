@@ -82,6 +82,12 @@
 
 \section{Bevezetés}
 	\subsection{A bél mikrobióta fontosságának ismertetése}
+		\paragraph{Miért van szükség a bél mikrobióta vizsgálatára?} \mbox{}\\
+		A humán bél mikrobióta egy komplex ökoszisztéma. A mikrobiomot alkotó sejtek száma nagyjából a humán szomatikus és csírasejtek összegének tízszerese. A bél mikrobiom mind metabolikusan, mind immunológiailag komplex kapcsolatban áll az emberrel. Eddig több mint három millió nem redundáns mikrobiális gént sikerült kimutatni az emberben. Ez a nagy genetikai állomány lehetővé teszi, hogy olyan metabolikus folyamatok játszódjanak le a humán bélben, melyeket az emberi sejtek nem képesek végrehajtani. A bél mikrobióta felelős bizonyos glikánok, aminosavak és xenobiotikumok metabolizmusárt valamint rövid láncú zsírsavak, vitaminok és kofaktorok termeléséért.  Emellett kulcsszerepet játszik az immun-homeosztázis fenntartásában. Az immunrendszerrel mind bakteriális mintázatokat észlelő receptorok által, mind a mikro organizmusok által termelt anyagokon keresztül kapcsolatban áll. Ilyen anyag pl. az \textit{Eubacterium spp.} által oligoszacharidokból képzett vajsav, mely részt vesz az emberi szervezet energia egyensúlyának szabályzásában, valamint karciogenezis gátló mivel proliferáció gátló és apoptózis induláló hatása van. Éppen ez okokból a bél mikrobióta tekinthető egy új metabolikus szervnek is. Kapcsolatok mutathatók ki a bél mikrobiom megváltozása és olyan betegségek között mint az IBD (\textit{inflammatory bowl disease}), elhízás vagy a rák. \cite{gut_microbiome}
+		
+		\paragraph{A bél mikrobióta vizsgálatának módszerei} \mbox{}\\
+		Vizsgálatának fő eszközei a ``meta omikák". Ezek közül is a legfőbb ezköz a metagenomika, de alkalmaznak már metabolomikai, metatranszkriptomikai és metaproteomikai technikákat is. A metagenomikai vizsgálatok során a környezetből származó mintát közvetlenül shotgun szekvenálásnak vetik alá.\cite{gut_microbiome} \\ Quin és társai2010-re meghatározták a minimális bél metagenomot. A vizsgálat során Illumina GA short-read alapú technológiával 124 egy kohortba tartozó nordikus és mediterrán személy székletmintája alapját elemezték. Az ebből kinyert 576,7 gigabázásnyi DNS-ből 3.3 millió nem redundáns mikrobiális gént mutattak ki. Az így kimutatott gének az emberi genom százötvenszeresét teszik ki. A mintákra egészére jellemző, hogy a bennük található gének két fő részre osztható: A legnagyobb csoportba (86\%) a sűrűn előforduló mikrobiális gének, míg a másik fő csoportba pedig a kifejezetten a humán bélflórára jellemző mikrobiális gének tartoznak. Az összes személyből származó vizsgált génhalmaz 99,1\%-a \textit{Eubacteria}, 0,8\%-a \textit{Archea} és a fennmaradó 0,1\%-a pedig vegyesen \textit{Eucaryota} és virális eredetű. A bakteriális eredetű gének összesen 1000-1150 uralkodó baktériumfajhoz tartozhatnak, ami személyenként kb. 160 domináns fajt jelent. A személyekre jellemző nagyjából 160 uralkodó baktériumfaj listái között a személyeket összevetve nagyfokú hasonlóság figyelhető meg. Egy adott személy bél metagenomjának minimálisan 40\%-a megtalálható a minták legalább felében. A közelítőleg ezer fajból 75 faj található meg a minták több mint felében és 57 faj van ami a minták nagyobb mint 90\%-ban kimutatható.  \cite{meta_omics}
+		
 	\subsection{A szakirodalomban publikált gazda patogén hálózatok} 
 	\subsection{A Humán-Salmonella kapcsolat ismertetése és hatása az 	autofágiára}
 	\subsection{Ökológiai hálózatok elemzésére használt topológiai mérőszámok}
@@ -113,10 +119,10 @@
 	 	 \end{itemize}
 	 
 	 A két számítás között stratégiai különbség van. A baloldali egyenlet azt feltételezi, hogy adott pontnak önmagára mért hatása nem releváns a hálózat működésének szempontjából. Azonban még erre az esetre is jellemző, hogy mivel definíció szerint a $d_{ii}$ távolság 0, ezért az összeget ez az érték nem növeli csupán az osztót. \cite{newman_networks}  \\
-	 Az $\ell_i$ érték önmagában még nem centralitási index, mert kis számokat ad a magas központiságú pontokra. A megkapjuk a \textit{Closeness Centrality}-t az $\ell_i$ inverzét kell vennünk: \cite{newman_networks}
+	 Az $\ell_i$ érték önmagában még nem centralitási index, mert kis számokat ad a magas központiságú pontokra. Ahhoz, hogy megkapjuk a \textit{Closeness Centrality}-t az $\ell_i$ inverzét kell vennünk: \cite{newman_networks}
 	 
 	 	\begin{equation}
-			C = \frac{1}{\ell_i}
+			C_i = \frac{1}{\ell_i}
 	 	\end{equation}
 	 
 	 \paragraph{Betweenness centrality - BC} \mbox{}\\ 
@@ -247,6 +253,8 @@
 \section{Hivatkozások jegyzéke}
 \section{Köszönetnyilvánítás}
 \section{Nyilatkozat}
+
+\pagebreak
 
 
 \bibliography{msc_szakdolgozat}{}

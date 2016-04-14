@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 APR 2016 11:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  14 APR 2016 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,83 +833,83 @@ LaTeX Font Info:    Try loading font information for U+bbold on input line 75.
 (/usr/share/texlive/texmf-dist/tex/latex/bbold/Ubbold.fd) [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (27.6503pt too wide) in paragraph at lines 87--87
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Overfull \hbox (27.6503pt too wide) in paragraph at lines 93--93
  |[][]\OT1/cmr/bx/n/14.4 Okol^^Sogiai h^^Sal^^Sozatok elemz^^Ses^^Sere haszn^^S
 alt to-pol^^Sogiai m^^Ser}osz^^Samok| 
  []
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 87.
+(hyperref)                removing `\H' on input line 93.
 
 
-Overfull \hbox (12.86948pt too wide) in paragraph at lines 92--94
+Overfull \hbox (12.86948pt too wide) in paragraph at lines 98--100
 \OT1/cmr/m/n/12 hogy ha ki-esik a Ka-li-for-ni-ai szikl^^Sas ten-ger-par-ti k^^
 ?oz^^?oss^^Segb}ol a \OT1/cmr/m/it/12 Pi-as-ter och-ra-ce-us \OT1/cmr/m/n/12 cs
 ^^Sucsragadoz^^So
  []
 
-[4] [5] [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 149.
+[5] [6] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 155.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 149.
- [7]
-<img/graphs.png, id=186, 434.423pt x 196.735pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 155.
+ [8]
+<img/graphs.png, id=193, 434.423pt x 196.735pt>
 File: img/graphs.png Graphic file (type png)
  <use img/graphs.png>
-Package pdftex.def Info: img/graphs.png used on input line 180.
+Package pdftex.def Info: img/graphs.png used on input line 186.
 (pdftex.def)             Requested size: 434.42194pt x 196.7345pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.215 	\]
-          <./img/graphs.png>] [9]
+l.194 
+       <./img/graphs.png>] [10]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 227.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 237.
+(hyperref)                removing `\H' on input line 233.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 237.
+(hyperref)                removing `\H' on input line 243.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 241.
-
-(./msc_szakdolgozat.bbl [10]
-Overfull \vbox (157.84201pt too high) has occurred while \output is active []
+(hyperref)                removing `\H' on input line 243.
 
 
-[11])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 247.
+
+[11]
+Overfull \vbox (79.35876pt too high) has occurred while \output is active []
+
+
+[12] (./msc_szakdolgozat.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
  (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 263.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 263.
 Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
 (rerunfilecheck)             Checksum: 08EBB15110D6764DC3C9F0BCEAF1378C;2307.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
  ) 
 Here is how much of TeX's memory you used:
- 9384 strings out of 494465
- 138298 string characters out of 6166362
- 246977 words of memory out of 5000000
- 12447 multiletter control sequences out of 15000+600000
+ 9391 strings out of 494465
+ 138390 string characters out of 6166362
+ 248080 words of memory out of 5000000
+ 12451 multiletter control sequences out of 15000+600000
  12801 words of font info for 48 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 29i,7n,34p,1531b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,7n,34p,1843b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive
@@ -924,10 +924,10 @@ cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on msc_szakdolgozat.pdf (12 pages, 183429 bytes).
+Output written on msc_szakdolgozat.pdf (13 pages, 188629 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
  230 words of extra memory for PDF output out of 10000 (max. 10000000)
 

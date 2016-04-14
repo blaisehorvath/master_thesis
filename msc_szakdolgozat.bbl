@@ -18,14 +18,26 @@ Jordán, F., Liu, W.-C., and van Veen, F. (2003).
   host-parasitoid community.
 \newblock {\em Community ecology}.
 
+\bibitem[Karlsson et~al., 2011]{gut_microbiome}
+Karlsson, F.~H., Nookaew, I., Petranovic, D., and Nielsen, J. (2011).
+\newblock Prospects for systems biology and modeling of the gut microbiome.
+\newblock {\em Cell}.
+
 \bibitem[Newman, 2010]{newman_networks}
 Newman, M. E.~J. (2010).
 \newblock {\em Networks: An Introduction}.
+\newblock Oxford University Press.
 
 \bibitem[Payton et~al., 2002]{new_zeland}
 Payton, I.~J., Fenner, M., and Lee, W.~G. (2002).
 \newblock Keystone species: the concept and its relevance for conservation
   management in {N}ew {Z}ealand.
 \newblock {\em Science for canservation}.
+
+\bibitem[Qin et~al., 2010]{meta_omics}
+Qin, J., Li, R., Raes, J., Arumugam, M., Bork, P., and Wang, J. (2010).
+\newblock A human gut microbial gene catalogue established by metagenomic
+  sequencing.
+\newblock {\em Nature}.
 
 \end{thebibliography}
