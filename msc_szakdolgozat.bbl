@@ -1,10 +1,44 @@
 \begin{thebibliography}{}
 
+\bibitem[Backhed et~al., 2005a]{scfa_and_vitamine}
+Backhed, F., Ley, R.~E., Sonnenburg, J.~L., Peterson, D.~A., and Gordon, J.~I.
+  (2005a).
+\newblock {{H}ost-bacterial mutualism in the human intestine}.
+\newblock {\em Science}, 307(5717):1915--1920.
+
+\bibitem[Backhed et~al., 2005b]{host_bacterial_mutualism}
+Backhed, F., Ley, R.~E., Sonnenburg, J.~L., Peterson, D.~A., and Gordon, J.~I.
+  (2005b).
+\newblock {{H}ost-bacterial mutualism in the human intestine}.
+\newblock {\em Science}, 307(5717):1915--1920.
+
 \bibitem[Baranyi et~al., 2011]{top_indexes}
 Baranyi, G., Saura, S., Podani, J., and Jordán, F. (2011).
 \newblock Contribution of habitat patches to network connectivity: Redundancy
   and uniqueuness of topological indices.
 \newblock {\em Ecological Indicators}.
+
+\bibitem[Brown et~al., 2003]{buthyrate_immune}
+Brown, A.~J., Goldsworthy, S.~M., Barnes, A.~A., Eilert, M.~M., Tcheang, L.,
+  Daniels, D., Muir, A.~I., Wigglesworth, M.~J., Kinghorn, I., Fraser, N.~J.,
+  Pike, N.~B., Strum, J.~C., Steplewski, K.~M., Murdock, P.~R., Holder, J.~C.,
+  Marshall, F.~H., Szekeres, P.~G., Wilson, S., Ignar, D.~M., Foord, S.~M.,
+  Wise, A., and Dowell, S.~J. (2003).
+\newblock {{T}he {O}rphan {G} protein-coupled receptors {G}{P}{R}41 and
+  {G}{P}{R}43 are activated by propionate and other short chain carboxylic
+  acids}.
+\newblock {\em J. Biol. Chem.}, 278(13):11312--11319.
+
+\bibitem[Haraga et~al., 2008]{salmonella_and_host_cell_nature}
+Haraga, A., Ohlson, M.~B., and Miller, S.~I. (2008).
+\newblock {{S}almonellae interplay with host cells}.
+\newblock {\em Nat. Rev. Microbiol.}, 6(1):53--66.
+
+\bibitem[Jo et~al., 2013]{salmonella_authopagy_intro}
+Jo, E.~K., Yuk, J.~M., Shin, D.~M., and Sasakawa, C. (2013).
+\newblock {{R}oles of autophagy in elimination of intracellular bacterial
+  pathogens}.
+\newblock {\em Front Immunol}, 4:97.
 
 \bibitem[Jordán et~al., 2007]{jordan_comparison}
 Jordán, F., Benedek, Z., and Podani, J. (2007).
@@ -20,11 +54,11 @@ Jordán, F., Liu, W.-C., and van Veen, F. (2003).
 
 \bibitem[Karlsson et~al., 2011]{gut_microbiome}
 Karlsson, F.~H., Nookaew, I., Petranovic, D., and Nielsen, J. (2011).
-\newblock Prospects for systems biology and modeling of the gut microbiome.
-\newblock {\em Cell}.
+\newblock {{P}rospects for systems biology and modeling of the gut microbiome}.
+\newblock {\em Trends Biotechnol.}, 29(6):251--258.
 
 \bibitem[Newman, 2010]{newman_networks}
-Newman, M. E.~J. (2010).
+Newman, M. (2010).
 \newblock {\em Networks: An Introduction}.
 \newblock Oxford University Press.
 
@@ -35,9 +69,29 @@ Payton, I.~J., Fenner, M., and Lee, W.~G. (2002).
 \newblock {\em Science for canservation}.
 
 \bibitem[Qin et~al., 2010]{meta_omics}
-Qin, J., Li, R., Raes, J., Arumugam, M., Bork, P., and Wang, J. (2010).
-\newblock A human gut microbial gene catalogue established by metagenomic
-  sequencing.
-\newblock {\em Nature}.
+Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
+  Nielsen, T., Pons, N., Levenez, F., Yamada, T., Mende, D.~R., Li, J., Xu, J.,
+  Li, S., Li, D., Cao, J., Wang, B., Liang, H., Zheng, H., Xie, Y., Tap, J.,
+  Lepage, P., Bertalan, M., Batto, J.~M., Hansen, T., Le~Paslier, D.,
+  Linneberg, A., Nielsen, H.~B., Pelletier, E., Renault, P., Sicheritz-Ponten,
+  T., Turner, K., Zhu, H., Yu, C., Li, S., Jian, M., Zhou, Y., Li, Y., Zhang,
+  X., Li, S., Qin, N., Yang, H., Wang, J., Brunak, S., Dore, J., Guarner, F.,
+  Kristiansen, K., Pedersen, O., Parkhill, J., Weissenbach, J., Bork, P.,
+  Ehrlich, S.~D., Wang, J., Antolin, M., Artiguenave, F., Blottiere, H.,
+  Borruel, N., Bruls, T., Casellas, F., Chervaux, C., Cultrone, A., Delorme,
+  C., Denariaz, G., Dervyn, R., Forte, M., Friss, C., van~de Guchte, M.,
+  Guedon, E., Haimet, F., Jamet, A., Juste, C., Kaci, G., Kleerebezem, M.,
+  Knol, J., Kristensen, M., Layec, S., Le~Roux, K., Leclerc, M., Maguin, E.,
+  Minardi, R.~M., Oozeer, R., Rescigno, M., Sanchez, N., Tims, S., Torrejon,
+  T., Varela, E., de~Vos, W., Winogradsky, Y., and Zoetendal, E. (2010).
+\newblock {{A} human gut microbial gene catalogue established by metagenomic
+  sequencing}.
+\newblock {\em Nature}, 464(7285):59--65.
+
+\bibitem[Ray et~al., 2009]{salmonella_autophagy_nature_old}
+Ray, K., Marteyn, B., Sansonetti, P.~J., and Tang, C.~M. (2009).
+\newblock {{L}ife on the inside: the intracellular lifestyle of cytosolic
+  bacteria}.
+\newblock {\em Nat. Rev. Microbiol.}, 7(5):333--340.
 
 \end{thebibliography}
