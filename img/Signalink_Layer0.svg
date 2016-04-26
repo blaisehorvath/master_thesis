@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="305"
+   height="851"
+   version="1.1"
+   content="%3CmxGraphModel%20dx%3D%221434%22%20dy%3D%22775%22%20grid%3D%221%22%20gridSize%3D%2210%22%20guides%3D%221%22%20tooltips%3D%221%22%20connect%3D%221%22%20arrows%3D%221%22%20fold%3D%221%22%20page%3D%221%22%20pageScale%3D%221%22%20pageWidth%3D%22826%22%20pageHeight%3D%221169%22%20background%3D%22%23ffffff%22%20math%3D%220%22%20shadow%3D%220%22%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%227e6a460d50af54b9-3%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BUniprot%20ID%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22261%22%20y%3D%22590%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-4%22%20value%3D%22%22%20style%3D%22endArrow%3Dblock%3Bhtml%3D1%3BendFill%3D1%3BendSize%3D12%3BstartSize%3D9%3BstrokeWidth%3D4%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22412%22%20y%3D%22220%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22412%22%20y%3D%22310%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-5%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2016px%26quot%3B%26gt%3BAdatb%C3%A1zis%20feldolgoz%C3%B3%20szkriptek%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BlabelBackgroundColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%227e6a460d50af54b9-4%22%3E%3CmxGeometry%20x%3D%22-0.2333%22%20y%3D%223%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-11%22%20value%3D%22SQL%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%2270%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-15%22%20value%3D%22%22%20style%3D%22endArrow%3Dblock%3Bhtml%3D1%3BendFill%3D1%3BendSize%3D12%3BstartSize%3D9%3BstrokeWidth%3D4%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22412%22%20y%3D%22490%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22412%22%20y%3D%22580%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-16%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2016px%20%3B%20line-height%3A%2019.2px%26quot%3B%26gt%3BAzonos%C3%ADt%C3%B3%20ford%C3%ADt%C3%B3%20szkript%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BlabelBackgroundColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%227e6a460d50af54b9-15%22%3E%3CmxGeometry%20x%3D%22-0.2333%22%20y%3D%223%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-17%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20face%3D%26quot%3BLucida%20Console%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22261%22%20y%3D%22330%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-18%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20face%3D%26quot%3BLucida%20Console%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22371%22%20y%3D%22330%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-19%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20face%3D%26quot%3BLucida%20Console%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22481%22%20y%3D%22330%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-20%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BUniprot%20ID%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22371%22%20y%3D%22590%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-21%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BUniprot%20ID%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%22590%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-22%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BUniprot%20ID%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22371%22%20y%3D%22590%22%20width%3D%2284%22%20height%3D%22140%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-24%22%20value%3D%22%22%20style%3D%22endArrow%3Dblock%3Bhtml%3D1%3BendFill%3D1%3BendSize%3D12%3BstartSize%3D9%3BstrokeWidth%3D4%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22413%22%20y%3D%22740%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22413%22%20y%3D%22830%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-25%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2016px%20%3B%20line-height%3A%2019.2px%26quot%3B%26gt%3BAdatb%C3%A1zis%20%C3%B6sszeejt%C5%91%20szkript%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BlabelBackgroundColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%227e6a460d50af54b9-24%22%3E%3CmxGeometry%20x%3D%22-0.2333%22%20y%3D%223%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-26%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%C3%96sszeejtett%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2017px%26quot%3B%26gt%3BMiTab%20SQL%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dcylinder%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22362%22%20y%3D%22850%22%20width%3D%22102%22%20height%3D%22170%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-27%22%20value%3D%22TEXT%22%20style%3D%22shape%3Dnote%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%2285%22%20width%3D%2280%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227e6a460d50af54b9-28%22%20value%3D%22%26amp%3Blt%3BXML%26amp%3Bgt%3B%22%20style%3D%22shape%3Dnote%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22375%22%20y%3D%2285%22%20width%3D%2280%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Signalink_Layer0.svg">
+  <metadata
+     id="metadata178">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     id="namedview176"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.8017158"
+     inkscape:cx="222.62544"
+     inkscape:cy="153.0183"
+     inkscape:window-x="1359"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="149.62198,425.10617"
+       id="guide4055" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter4021"
+       x="-0.025007734"
+       width="1.0500154"
+       y="-0.37326828"
+       height="1.7465366"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.754361"
+         id="feGaussianBlur4023" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-0.5,-0.5)"
+     id="g6">
+    <path
+       d="m 1,489 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 1,489 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(2.5,554.5)"
+       id="g12">
+      <switch
+         id="switch14">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="72"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject16">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:br />
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+              <xhtml:div>
+                <xhtml:font
+                   style="font-size: 17px">Uniprot ID</xhtml:font>
+              </xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="42"
+           font-size="12px"
+           id="text18"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica" />
+      </switch>
+    </g>
+    <path
+       d="m 209.29225,29 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 209.28615,29 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path34"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(249.5,64.5)"
+       id="g36">
+      <switch
+         id="switch38">
+        <foreignObject
+           pointer-events="all"
+           width="24"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject40">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 26px; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">SQL</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="1.2922775"
+           y="12"
+           font-size="12px"
+           id="text42"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+             id="tspan3159">SQL</tspan>
+        </text>
+      </switch>
+    </g>
+    <path
+       d="m 1,255 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path56"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 1,255 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path58"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(2.5,267.5)"
+       id="g60">
+      <switch
+         id="switch62">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="58"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject64">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   face="Lucida Console"
+                   style="font-size: 17px">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="35"
+           font-size="12px"
+           id="text66"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+             id="tspan3175">MiTab SQL</tspan>
+        </text>
+      </switch>
+    </g>
+    <path
+       d="m 111,255 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 111,255 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(112.5,267.5)"
+       id="g72">
+      <switch
+         id="switch74">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="58"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject76">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   face="Lucida Console"
+                   style="font-size: 17px">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="35"
+           font-size="12px"
+           id="text78"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+           sodipodi:linespacing="125%">MiTab SQL</text>
+      </switch>
+    </g>
+    <path
+       d="m 221,255 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 221,255 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path82"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(222.5,267.5)"
+       id="g84">
+      <switch
+         id="switch86">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="58"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject88">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   face="Lucida Console"
+                   style="font-size: 17px">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="35"
+           font-size="12px"
+           id="text90"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+             id="tspan3177">MiTab SQL</tspan>
+        </text>
+      </switch>
+    </g>
+    <path
+       d="m 111,489 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path92"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 111,489 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path94"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 220,489 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path104"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 220,489 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path106"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 111,489 c 0,-37.33 84,-37.33 84,0 l 0,84 c 0,37.33 -84,37.33 -84,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path116"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 111,489 c 0,28 84,28 84,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path118"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 100.2154,715 c 0,-45.33 102,-45.33 102,0 l 0,102 c 0,45.33 -102,45.33 -102,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path140"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 100.2154,715 c 0,34 102,34 102,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path142"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(107.7154,752.5)"
+       id="g144">
+      <text
+         xml:space="preserve"
+         style="font-size:19.88147736px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="42.763527"
+         y="18.391088"
+         id="text4188"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4190"
+           x="42.763527"
+           y="18.391088"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Egyesített</tspan><tspan
+           sodipodi:role="line"
+           x="42.763527"
+           y="43.242935"
+           id="tspan4192"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">hálózat</tspan></text>
+    </g>
+    <path
+       d="m 20,16 50,0 30,30 0,80 -80,0 0,-110 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path152"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 70,16 0,30 30,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path154"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(44.5,64.5)"
+       id="g156">
+      <switch
+         id="switch158">
+        <foreignObject
+           pointer-events="all"
+           width="30"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject160">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 32px; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">TEXT</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="15"
+           y="12"
+           font-size="12px"
+           id="text162"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3157">TEXT</tspan>
+        </text>
+      </switch>
+    </g>
+    <path
+       d="m 115,16 50,0 30,30 0,80 -80,0 0,-110 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path164"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 165,16 0,30 30,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path166"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       transform="translate(135.5,64.5)"
+       id="g168">
+      <switch
+         id="switch170">
+        <foreignObject
+           pointer-events="all"
+           width="38"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject172">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 40px; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">&lt;XML&gt;</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="19"
+           y="12"
+           font-size="12px"
+           id="text174"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Bonum;-inkscape-font-specification:TeX Gyre Bonum"
+             id="tspan3155">&lt;XML&gt;</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       id="g4089"
+       transform="translate(2.5,502.05462)">
+      <switch
+         id="switch4091">
+        <foreignObject
+           id="foreignObject4093"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="58"
+           width="80"
+           pointer-events="all">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   style="font-size: 17px"
+                   face="Lucida Console">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica"
+           id="text4095"
+           font-size="12px"
+           y="35"
+           x="40">
+          <tspan
+             id="tspan4097"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">MiTab SQL</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       transform="translate(2.5,520.61467)"
+       id="g4099">
+      <switch
+         id="switch4101">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="58"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject4103">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   face="Lucida Console"
+                   style="font-size: 17px">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="35"
+           font-size="12px"
+           id="text4105"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+             id="tspan4107">Uniprot ID</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       transform="translate(112.97738,502.05462)"
+       id="g4109">
+      <switch
+         id="switch4111">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="58"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject4113">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   face="Lucida Console"
+                   style="font-size: 17px">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="35"
+           font-size="12px"
+           id="text4115"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+             id="tspan4117">MiTab SQL</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       id="g4119"
+       transform="translate(112.97738,520.61467)">
+      <switch
+         id="switch4121">
+        <foreignObject
+           id="foreignObject4123"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="58"
+           width="80"
+           pointer-events="all">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   style="font-size: 17px"
+                   face="Lucida Console">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica"
+           id="text4125"
+           font-size="12px"
+           y="35"
+           x="40">
+          <tspan
+             id="tspan4127"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Uniprot ID</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       id="g4129"
+       transform="translate(222.19616,502.05462)">
+      <switch
+         id="switch4131">
+        <foreignObject
+           id="foreignObject4133"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           height="58"
+           width="80"
+           pointer-events="all">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   style="font-size: 17px"
+                   face="Lucida Console">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica"
+           id="text4135"
+           font-size="12px"
+           y="35"
+           x="40">
+          <tspan
+             id="tspan4137"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">MiTab SQL</tspan>
+        </text>
+      </switch>
+    </g>
+    <g
+       transform="translate(222.19616,520.61467)"
+       id="g4139">
+      <switch
+         id="switch4141">
+        <foreignObject
+           pointer-events="all"
+           width="80"
+           height="58"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject4143">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:div>
+                <xhtml:font
+                   face="Lucida Console"
+                   style="font-size: 17px">
+                  <xhtml:br />
+                </xhtml:font>
+              </xhtml:div>
+              <xhtml:font
+                 style="font-size: 17px">MiTab SQL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="35"
+           font-size="12px"
+           id="text4145"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+             id="tspan4147">Uniprot ID</tspan>
+        </text>
+      </switch>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:19.47401237px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="39.311298"
+       y="396.54007"
+       id="text4194"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4196"
+         x="39.311298"
+         y="396.54007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">Adatbázis fordító szkript</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#001100;fill-opacity:1;stroke:#000000;stroke-width:2.70988417;stroke-miterlimit:10;stroke-opacity:1"
+       id="path4198"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 150.77002,400.76875 0,33.79032" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.77764606;stroke-miterlimit:10;stroke-opacity:1"
+       id="path4200"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 150.60147,451.53383 -7.55528,-15.1106 15.11057,0 z" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4210"
+       y="163.97932"
+       x="13.311298"
+       style="font-size:19.47401237px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+         y="163.97932"
+         x="13.311298"
+         id="tspan4212"
+         sodipodi:role="line">Forrásokat feldolgozó szkriptek</tspan></text>
+    <path
+       d="m 150.77002,168.20801 0,33.79032"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4214"
+       style="opacity:0.5;fill:#001100;fill-opacity:1;stroke:#000000;stroke-width:2.70988417;stroke-miterlimit:10;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 150.60147,218.97309 -7.55528,-15.1106 15.11057,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4216"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.77764606;stroke-miterlimit:10;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#001100;fill-opacity:1;stroke:#000000;stroke-width:2.70988417;stroke-miterlimit:10;stroke-opacity:1"
+       id="path4218"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 258.77002,168.20801 0,33.79032" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.77764606;stroke-miterlimit:10;stroke-opacity:1"
+       id="path4220"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 258.60147,218.97309 -7.55528,-15.1106 15.11057,0 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#001100;fill-opacity:1;stroke:#000000;stroke-width:2.70988417;stroke-miterlimit:10;stroke-opacity:1"
+       id="path4222"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 44.77002,168.20801 0,33.79032" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.77764606;stroke-miterlimit:10;stroke-opacity:1"
+       id="path4224"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 44.60147,218.97309 -7.55528,-15.1106 15.11057,0 z" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4234"
+       y="620.54004"
+       x="39.311298"
+       style="font-size:19.47401237px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+         y="620.54004"
+         x="39.311298"
+         id="tspan4236"
+         sodipodi:role="line">Adatbázis egyesítő szkript</tspan></text>
+    <path
+       d="m 150.77002,624.76875 0,33.79032"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4238"
+       style="opacity:0.5;fill:#001100;fill-opacity:1;stroke:#000000;stroke-width:2.70988417;stroke-miterlimit:10;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 150.60147,675.53383 -7.55528,-15.1106 15.11057,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4240"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.77764606;stroke-miterlimit:10;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4242"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-0.5,-0.5)"><flowRegion
+         id="flowRegion4244"><rect
+           id="rect4246"
+           width="221.64989"
+           height="201.66214"
+           x="48.184757"
+           y="740.27319" /></flowRegion><flowPara
+         id="flowPara4248"></flowPara></flowRoot>  </g>
+</svg>

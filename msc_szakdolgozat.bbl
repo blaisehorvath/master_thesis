@@ -57,10 +57,27 @@ Karlsson, F.~H., Nookaew, I., Petranovic, D., and Nielsen, J. (2011).
 \newblock {{P}rospects for systems biology and modeling of the gut microbiome}.
 \newblock {\em Trends Biotechnol.}, 29(6):251--258.
 
+\bibitem[Krishnadev and Srinivasan, 2011]{Krishnadev}
+Krishnadev, O. and Srinivasan, N. (2011).
+\newblock {{P}rediction of protein-protein interactions between human host and
+  a pathogen and its application to three pathogenic bacteria}.
+\newblock {\em Int. J. Biol. Macromol.}, 48(4):613--619.
+
+\bibitem[Kshirsagar et~al., 2012]{Kshirsagar}
+Kshirsagar, M., Carbonell, J., and Klein-Seetharaman, J. (2012).
+\newblock {{T}echniques to cope with missing data in host-pathogen protein
+  interaction prediction}.
+\newblock {\em Bioinformatics}, 28(18):i466--i472.
+
 \bibitem[Newman, 2010]{newman_networks}
 Newman, M. (2010).
 \newblock {\em Networks: An Introduction}.
 \newblock Oxford University Press.
+
+\bibitem[Owens, 2006]{sqlite3}
+Owens, M. (2006).
+\newblock {\em The Definitive Guide to SQLite}.
+\newblock Apress.
 
 \bibitem[Payton et~al., 2002]{new_zeland}
 Payton, I.~J., Fenner, M., and Lee, W.~G. (2002).
@@ -93,5 +110,13 @@ Ray, K., Marteyn, B., Sansonetti, P.~J., and Tang, C.~M. (2009).
 \newblock {{L}ife on the inside: the intracellular lifestyle of cytosolic
   bacteria}.
 \newblock {\em Nat. Rev. Microbiol.}, 7(5):333--340.
+
+\bibitem[Turei et~al., 2015]{ARN}
+Turei, D., Foldvari-Nagy, L., Fazekas, D., Modos, D., Kubisch, J., Kadlecsik,
+  T., Demeter, A., Lenti, K., Csermely, P., Vellai, T., and Korcsmaros, T.
+  (2015).
+\newblock {{A}utophagy {R}egulatory {N}etwork - a systems-level bioinformatics
+  resource for studying the mechanism and regulation of autophagy}.
+\newblock {\em Autophagy}, 11(1):155--165.
 
 \end{thebibliography}
