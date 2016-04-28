@@ -285,8 +285,8 @@ PPI - protein protein interaction
 		\item Program írása mely képes az ARN (Autophagy Regulatory Network) adatbázis kurált humán autofágia specifikus fehérje-fehérje kapcsolati rétegének (``ARN core") MiTab SQL formátumra átalakítására.
 		\item Program írása mely képes a Salmonet adatbázis kurált \textit{Salmonella} fehérje-fehérje kapcsolati hálózatának MiTab SQL formátumra átalakítására.
 		\item Programok írása melyek képesek a Krishnadev és Skhirshagar féle humán-\textit{Salmonella} fehérje-fehéjre kapcsolati predikciók MiTab SQL formátumra alakítására.
-		\item Program írása mely képes a létrehozott MiTab SQL fájlokban a fehérjék azonosítójának \textit{uniprot} azonosítóra fordítására.
-		\item Program írása mely képes a már csak \textit{uniprot} azonosítókat tartalmazó adatbázisok összeejtésére.
+		\item Program írása mely képes a létrehozott MiTab SQL fájlokban a fehérjék azonosítójának \textit{Uniprot} azonosítóra fordítására.
+		\item Program írása mely képes a már csak \textit{Uniprot} azonosítókat tartalmazó adatbázisok összeejtésére.
 		\item Program írása mely képes hálózatokban a megadott útvonalhosszra kiszámolni a topológiai fontosságot.
 		\item A kapott adatsorok értékelése, hálózatok ábrázolása, biológiai relevancia keresése.
 	\end{enumerate}
@@ -342,9 +342,12 @@ PPI - protein protein interaction
 						\item Az adatszűrésre használt SQL szkriptek
 				\end{itemize}
 				
-	\subsection{A források feldolgozása}
+			\paragraph{Tesztelés}
+			A bonyolultabb algoritmusok esetén \textit{egységteszteket (unit test)} alkalmaztam. A topológiai fontosságot kiszámító \textit{Python} osztály összes metódusának működését ilyen módon ellenőriztem. A teszteléshez a \textit{pyhthon} saját \textit{unittest} nevű csomagját használtam.
+				
+
 		
-		\subsubsection{Az források feldolgozásának eszközei}
+		\subsection{Az források feldolgozásának eszközei}
 		
 			\paragraph{MiTab SQLite adatbázis API} \mbox{}\\
 			A \textit{PsimiSQL} egy \textit{Python} 2.7-es szintaxisban írt osztály, melyet még a \textit{Signalink 3} összeállításához kezdtem el készíteni, de azóta más projektekben is használtam és továbbfejlesztettem. A \textit{PsimiSQL} segítségével a molekuláris biológiai hálózatok könnyen átalakíthatók MiTab SQLite adatbázisokká. Az osztály számos függvényével megkönnyíti a MiTab SQLite adatbázisok kezelését \textit{Python} alól. Ilyen függvény például a redundáns adatok képzését gátló \textit{insert\_unique\_node()} mely ellenőrzi, hogy az adott hálózatban szerepel-e már az importálni kívánt pont. Az osztály példányosításakor a memóriában létrejön egy példányhoz kötött MiTab SQL sémával rendelkező SQLite 3 adatbázis. Az adatbázis benépesítése és az adatok keresése tehát nagy sebességgel történik. Az osztálynak vannak függvényei melyekkel könnyen importálni és exportálni lehet MiTab SQL adatbázis fájlokat.
@@ -352,13 +355,13 @@ PPI - protein protein interaction
 			\paragraph{A szótárak építése és a fordítás} \mbox{}\\
 			Ahhoz hogy a feldolgozott forrásokat össze lehessen fűzni egy nagy gráfba szükség van arra, hogy a hálózatokban ne szerepeljen ugyanaz a biológiai entitás más azonosítóval. Ennek érdekében a mindegyik hálózat fehérjéit a legfrisebb \textit{Uniprot} adatbázis azonosítókra fordítottam. Ehhez két szkriptet kellett írnom. 
 			
-			A Salmonet és az ARN már eleve \textit{Uniprot} azonosítókat használ. Azonban az \textit{Uniprot} adatbázis állandó frissítései miatt, fenn áll a lehetőség, hogy nem egy időben készült fájlok ugyanarra a fehérjére más \textit{Uniprot} azonosítót használnak. Egy másik hibaforrás az lehet, hogy a \textit{Uniprot} adatbázis egy fehérjét több azonosítóval is tárol. Előfordulhat, hogy egy fehérje többször is szerepel csak más \textit{Uniprot} azonosítókkal. Amikor egy fehérjét beletesznek a \textit{Uniprot} adatbázisba, akkor kap egy elsődleges azonosítót. Elsődleges azonosítót kapnak még olyan fehérjék is, melyek már benne voltak az adatbázisban de csak később külön izoformákra lettek szétválasztva. Új elsődleges azonosítót kapnak olyan fehérjék is melyeket több vélt fehérjéből egyesítettek. Minden ilyen művelet után, a legfrissebb elsődleges azonosító marad az új elsődleges, az összes többi pedig másodlagos azonosítók lesznek. A \textit{Uniprot} azonosítókat még csoportosítani lehet az alapján is, hogy a fehérje manuálisan vagy automatikusan lett annotálva. Az első típusba az úgynevezett \textit{swissprot} az utóbbiba pedig a \textit{trembl} azonosítók tartoznak. Minden swissprot azonosító egyben elsődleges azonosító is. A szkriptem az összes pont azonosítójára, ha az nem \textit{swissprot}, kikeresi a swissprot azonosítót ha létezik, vagy az elsődleges trembl azonosítót. Az ARN és a Salmonet fordításához szükség volt egy \textit{Salmonella}-\textit{Salmonella} és egy humán-humán szótárra, amiket a Kadlecsik Tamás féle szótárépítő scripttel állítottam elő. Az azonosítókat a szótárak alapján saját készítésű szkripttel fordítottam.
+			A Salmonet és az ARN már eleve \textit{Uniprot} azonosítókat használ. Azonban az \textit{Uniprot} adatbázis állandó frissítései miatt, fenn áll a lehetőség, hogy nem egy időben készült fájlok ugyanarra a fehérjére más \textit{Uniprot} azonosítót használnak. Egy másik hibaforrás az lehet, hogy a \textit{Uniprot} adatbázis egy fehérjét több azonosítóval is tárol. Előfordulhat, hogy egy fehérje többször is szerepel csak más \textit{Uniprot} azonosítókkal. Amikor egy fehérjét beletesznek a \textit{Uniprot} adatbázisba, akkor kap egy elsődleges azonosítót. Primer azonosítót kapnak még olyan fehérjék is, melyek már benne voltak az adatbázisban de később külön izoformákra lettek szétválasztva. Új elsődleges azonosítót kapnak olyan fehérjék is melyeket több vélt fehérjéből egyesítettek. Minden ilyen művelet után, a legfrissebb elsődleges azonosító marad az új elsődleges, az összes többi pedig másodlagos azonosítók lesznek. A \textit{Uniprot} azonosítókat még csoportosítani lehet az alapján is, hogy a fehérje manuálisan vagy automatikusan lett annotálva. Az első típusba az úgynevezett \textit{Swissprot} az utóbbiba pedig a \textit{trEMBL} azonosítók tartoznak. Minden swissprot azonosító egyben elsődleges azonosító is. A szkriptem az összes pont azonosítójára, ha az nem \textit{Swissprot}, kikeresi a swissprot azonosítót ha létezik, vagy az elsődleges trembl azonosítót. Az ARN és a Salmonet fordításához szükség volt egy \textit{Salmonella}-\textit{Salmonella} és egy humán-humán szótárra, amiket a Kadlecsik Tamás féle szótárépítő scripttel állítottam elő. Az azonosítókat a szótárak alapján saját készítésű szkripttel fordítottam.
 			
-			A predikciókhoz egy olyan szótárat kellet létrehozni, mely \textit{Salmonella} génazonosítókhoz rendel \textit{Salmonella} uniprot azonosítókat. Ezt szintén Kadlecsik Tamás szkriptjével állítottam elő. Egy általam írt másik fordítószkript segítségével pedig az előzőhöz hasonló módon fordítottam a predikciókat.
+			A predikciókhoz egy olyan szótárat kellet létrehozni, mely \textit{Salmonella} génazonosítókhoz rendel \textit{Salmonella} \textit{Uniprot} azonosítókat. Ezt szintén Kadlecsik Tamás szkriptjével állítottam elő. Egy általam írt másik fordítószkript segítségével pedig az előzőhöz hasonló módon fordítottam a predikciókat.
 			
 			
-		\subsubsection{A források}
-			\paragraph{\textit{Autophagy Regulatory Network} (ARN)} \mbox{}\\
+		\subsection{A források}
+			\subsubsection{Autophagy Regulatory Network (ARN)}
 			Az ARN egy széles terjedelmű autofágia adatbázis. Az adatbázis az irodalomból kézi gyűjtéssel kapott élek mellett tartalmaz még 19 más adatbázisból importált valamint 4 féle predikcióval készült feltételezett kapcsolatokat is. Az ARN-ben található 1485 darab fehérje között 4013 kapcsolat van. Az adatbázis komponensei között vannak az autofágia mechanizmusában szerepet játszó fehérjék és ezek regulátorai valamint transzkripciós faktorai. Az adatbázisban 413 transzkripciós faktor valamint 386 olyan miRNS melyek képesek lehetnek autofágia komponensek szabályzására.\cite{ARN} \\
 			Az ARN hat rétegből épül fel:
 			\begin{enumerate}
@@ -371,13 +374,15 @@ PPI - protein protein interaction
 			\end{enumerate} \cite{ARN}
 			
 			\paragraph{Az ARN feldolgozása} \mbox{}\\
-			Az ARN adatbázisnak csak az első, autofágia fehérjéket tartalmazó rétegét használtam fel a gazda patogén hálózat összeállításához. A hálózat letöltését követően azt egy általam írt \textit{Python} scripttel MiTab SQL formátumba alakítottam. A fordító szkripttel az akkor legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam.
+			A gazda patogén hálózat összeállításához az ARN adatbázisnak csak az első, autofágia fehérjéket tartalmazó rétegét használtam fel. A hálózat letöltését követően azt egy általam írt \textit{Python} scripttel MiTab SQL formátumba alakítottam. A fordító szkripttel az akkor legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam.
 		
-		\subsubsection{Salmonet}
-
-		\subsubsection{A predikciók}
+			\subsubsection{Salmonet} 
+			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. A háló kézi gyűjtésű \textit{Salmonella-Salmonella} fehérje-fehérje kapcsolatokat tartalmaz.
 			
-			\paragraph{A predikciók forrása} \mbox{}\\
+			\paragraph{A Salmonet feldolgozása} \mbox{}\\
+			Az \textit{Salmonet} átalakítása az ARN-hez hasonló módon történt, azzal a különbséggel, hogy fordításkor \textit{Salmonella}-\textit{Salmonella} szótárat használtam.
+
+			\subsubsection{A predikciók}
 			Az eddig ismertetett források csak fajon belüli kapcsolatokból felépülő hálózatokat tartalmaztak. Ahhoz, hogy szakdolgozatomban tudjam tanulmányozni a humán-\textit{Salmonella kapcsolatot} szükségem van még interspecifikus élekre is. A predikciós forrásokból származó interspecifikus kapcsolatok fogják összekapcsolni a gazda hálózatát a patogénével. Szakdolgozatomban \cite{Krishnadev} és \cite{Kshirsagar} humán-\textit{Salmonella} predikcióit használtam.
 			
 			\paragraph{A predikciók feldolgozása} \mbox{}\\
@@ -392,7 +397,7 @@ PPI - protein protein interaction
 	\subsection{A hálózatok topológiai elemzése}
 	
 		\subsubsection{A TopologyAnalyser osztály}
-		A \textit{TopologyAnalyser} osztály \textit{Python 3} szintaxist használ. Az osztály segítségével kiszámítható a Jordán Ferenc féle topológiai fontosság (TI$^n$). Az TopologyAnalyser egyetlen külső függősége a NetworkX csomag. A NetworkX egy \textit{python}ban írt, komplex hálózatok létrehozására, manipulálására és elemzésére használható ingyenes csomag. 
+		A \textit{TopologyAnalyser} osztály \textit{Python 3} szintaxist használ. Az osztály segítségével kiszámítható a Jordán Ferenc féle topológiai fontosság (TI$^n$). Az TopologyAnalyser egyetlen külső függősége a NetworkX csomag. A NetworkX egy \textit{Python}ban írt, komplex hálózatok létrehozására, manipulálására és elemzésére használható ingyenes csomag. 
 		
 		Az osztály konstruktorának egyetlen paramétere egy éllista. Példányosítás után a \textit{TopologyAnalyser} típusú objektum, egy éllistát, egy \textit{Graph} típusú objektumot és egy egység-élerősségi mátrixot tartalmaz.
 		
