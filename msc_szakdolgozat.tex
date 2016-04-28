@@ -392,11 +392,78 @@ PPI - protein protein interaction
 	\subsection{A hálózatok topológiai elemzése}
 	
 		\subsubsection{A TopologyAnalyser osztály}
-		A \textit{TopologyAnalyser} osztály \textit{Python 3} szintaxist használ. Az osztály segítségével kiszámítható a Jordán Ferenc féle topológiai fontosság (TI$^n$). Az TopologyAnalyser egyetlen külső függősége a NetworkX csomag. A NetworkX egy \textit{python}ban írt, komplex hálózatok létrehozására, manipulálására és elemzésére létrehozott ingyenes csomag. A \textit{TopologyAnalyser} topológiai fontosság meghatározásához használt függvényeit én írtam.
+		A \textit{TopologyAnalyser} osztály \textit{Python 3} szintaxist használ. Az osztály segítségével kiszámítható a Jordán Ferenc féle topológiai fontosság (TI$^n$). Az TopologyAnalyser egyetlen külső függősége a NetworkX csomag. A NetworkX egy \textit{python}ban írt, komplex hálózatok létrehozására, manipulálására és elemzésére használható ingyenes csomag. 
 		
-		Az osztály konstruktorának egyetlen paramétere egy éllista. Példányosítás után a \textit{TopologyAnalyser} típusú objektum, egy éllistát, egy \textit{Networkx.Graph} objektumot és egy egység-élerősségi mátrixot tartalmaz \textit{hashmap}-ként letárolva. Az élerősség mátrix (\textit{self.edgeStrength}) \textit{hashmap} kulcsai a mátrix indexei, az értékei pedig az élerősségek \textit{Fraction} típusú objektumok. A mátrix indexei az egység-élerő mátrix esetén maguk az élt alkotó pontok \textit{Uniprot} azonosítói. Az élerősség mátrix 0 értékkel rendelkező cellái nincsenek letárolva a \textit{hasmap}-ben. Az egység   
+		Az osztály konstruktorának egyetlen paramétere egy éllista. Példányosítás után a \textit{TopologyAnalyser} típusú objektum, egy éllistát, egy \textit{Graph} típusú objektumot és egy egység-élerősségi mátrixot tartalmaz.
+		
+		A \textit{Graph} osztály a NetworkX csomag része és irányítatlan gráfok tárolására alkalmas. A hálózat példányhoz kötött \textit{Graph} típusú objektum (\textit{self.graph}) tárolása előnyös, mert így elérhetők a NetworkX csomag különböző gráf elemzésre használható metódusai. Ilyen függvény például a \textit{Graph.neighbors\_iter(node)} mely egy adott pont szomszédjainak iterálható listáját adja vissza.
+		
+		Az élerősség mátrix (\textit{self.edgeStrength}) egy példányhoz kötött \textit{Python Dictionary}. A \textit{Dictionary} osztály   \textit{Pythonban} \textit{hashmap} adatstruktúrával van implementálva, ezáltal a benne tárolt adatok gyorsan elérhetők. A szótár kulcsai a mátrix indexei, az értékei pedig az élerősségek \textit{Fraction} típusú objektumokként letárolva. Az egységerő mátrix celláinak indexei maguk az élt alkotó pontok \textit{Uniprot} azonosítói. Az élerősség mátrix 0 értékkel rendelkező cellái nincsenek letárolva a \textit{hasmap}-ben.
+		
+		\paragraph{Az osztály fontosabb metódusai és működésük}
+
+		\begin{itemize}
+			\item \textit{getNthNeighbors()}
 			
-		\subsubsection{Algoritmusok, alkalmazott technológiák}
+			A függvény rekurzívan kikeresi az adott pont $n$. szomszédját.
+		
+			\item \textit{pathFinder()}
+			
+			Ez a függvény megkeresi az összes $n$ hosszúságú útvonalat egy forrás és egy cél nódus között.
+			
+			  		\begin{algorithm}[H]
+						\footnotesize
+						
+						\SetAlgoVlined
+						\SetKwProg{Def}{def}{:}{}
+						\Def{pathfinder(mélység, forrás nódus, cél nódus, útvonal, összegyűjtött útonalak)}{
+							\uIf{útvonalhossz == 0}{
+														forrás nódus hozzáadása az útvonalhoz \;
+														mélység =- 1 
+													}
+													\uElseIf{mélység == 0 és forrás nódus == cél nódus}{
+														\Return útvonal
+													}
+													\ElseIf{mélység == 0 és forrás nódus $\neq$ cél nódus}{
+														\Return
+													}
+													
+													\For{forrás nódus első szomszédai}{
+														szomszéd nódus hozzáadása az útvonalhoz\;
+														pathfinder( mélység - 1, szomszéd nódus, cél nódus, útvonal, összegyűjtött útvonalak) \;
+														az utolsó pont eltávolítása az útvonalból\;
+													}
+						}
+						
+						
+						
+			  		\end{algorithm}
+			  		
+			\item \textit{buildEdgeUnitStrengthDict()}
+			
+			Ez a függvény egyszer hívódik meg a konstruktor lefutása során. A metódus imperatív módon egy \textbf{for} ciklussal végigmegy a kapott éllistán. A függvény visszatérési értéke egy egységerő mátrix.
+			  		
+			\item \textit{getNthPathwaysForNodes()}
+			
+			A függvény először minden pontnak megkeresi az $n$. szomszédját.  Mint az irodalmi bevezetőben ismertettem, a topológiai fontosság számolásánál páros lépésszámnál hurkon keresztül egy adott pont mindig önmagának a szomszédja is. A metódus két egymásba ágyazott \textbf{for} ciklust használ. A külső ciklus minden ponra előállítja a pont $n$. szomszédjainak halmazát. A belső ciklus pedig minden cél és forrás pont párra meghívja a \textit{pathFinder()} függvényt, majd a kapott útvonalakat imperatívan hozzáadja egy listához, amit még a ciklusokon kívül definiáltam. A metódus visszatérési értéke egy lista amelyben minden lehetséges forrás és célpont közötti $n$ hosszúságú útvonal benne van.
+			
+			\item \textit{getEdgesFromPathway()}
+			
+			A metódus egy útvonalat fogad és az azt alkotó élek listájával tér vissza. 
+			
+			\item \textit{countPathwayStrength()}
+			
+			A metódus egy útvonalat kap, amire meghívja a \textit{getEdgesFromPathway} függvényt. A kapott éllistán végigmegy és minden élre kikeresi az egységerő mátrixból a megfelelő értéket. Az összes él erejének összeszorzása után az út erősségével tér vissza.
+			
+			\item \textit{getPathWaysToNthNeighbours()}
+			
+			Ez a függvény kikeresi egy adott pont összes $n$. szomszédját és egy listában letárolja. Amikor elkészült a szomszédok listájával, akkor ezen egy \textbf{for} ciklus segítségével végigmegy. Ekkor minden periódusban meghívja a forrás és az aktuális cél nódusra a \textit{pathfinder} függvényt, majd a kapott útvonalakat imperatíven hozzáfűzi egy a cikluson kívül definiált listához. A ciklus után a függvény visszatér az elkészül listával.
+			
+			\item \textit{countTI()}
+			
+			A függvény egy adott pontra meghatározza annak topológiai fontosságát. Első lépésként létrehoz egy útvonal listát a \textit{getPathWaysToNthNeighbours} metódus segítségével, majd végigmegy az útvonalak listáján egy \textbf{for} ciklusban. Minden periódusban meghívja a \textit{countPathwayStrength(pathway)} függvényt az aktuális útvonalra, és annak eredményét egy a cikluson kívül definiált változóba akkumulálja.
+			
+		\end{itemize}
 
 \section{Eredmények (A hálózat elemzése)}
 	\subsection{Főbb statisztikák}

@@ -80,3 +80,25 @@
   		
   		\caption{How to write algorithms}
   		\end{algorithm}
+  		
+  					  		\begin{algorithm}[H]
+  		
+  								\SetAlgoVlined
+  								\uIf{útvonalhossz == 0}{
+  									forrás nódus hozzáadása az útvonalhoz \;
+  									mélység =- 1 
+  								}
+  								\uElseIf{mélység == 0 és forrás nódus == cél nódus}{
+  									\Return útvonal
+  								}
+  								\ElseIf{mélység == 0 és forrás nódus != cél nódus}{
+  									\Return
+  								}
+  								
+  								\ForEach{szomszéd nódus a forrás nódus első szomszédaiból}{
+  									szomszéd nódus hozzáadása az útvonalhoz\;
+  									pathfinder( mélység - 1, szomszéd nódus, cél nódus, útvonal, összegyűjtött útvonalak) \;
+  									az utolsó pont eltávolítása az útvonalból\;
+  								}
+  								
+  					  		\end{algorithm}

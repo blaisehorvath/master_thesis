@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  25 APR 2016 19:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  28 APR 2016 11:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1098,56 +1098,73 @@ Saly \OT1/cmr/m/it/12 Py-thon 3 \OT1/cmr/m/n/12 szin-ta-xist haszn^^Sal. Az osz
 t^^Saly seg^^S^^Pts^^Seg^^Sevel kisz^^Sam^^S^^Pthat^^So
  []
 
-
-Overfull \hbox (52.4541pt too wide) in paragraph at lines 397--398
-\OT1/cmr/m/n/12 egys^^Seg-^^Seler}oss^^Segi m^^Satrixot tar-tal-maz \OT1/cmr/m/
-it/12 hash-map\OT1/cmr/m/n/12 -k^^Sent let^^Sarolva. Az ^^Seler}oss^^Seg m^^Sat
-rix (\OT1/cmr/m/it/12 self.edgeStrength\OT1/cmr/m/n/12 )
+[21]
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 414--440
+$[]$ 
  []
 
-[21]
+[22]
+Overfull \hbox (31.58176pt too wide) in paragraph at lines 464--465
+\OT1/cmr/m/n/12 l^^Sep^^Sesk^^Sent l^^Setrehoz egy ^^Sutvonal list^^Sat a \OT1/
+cmr/m/it/12 get-Path-Way-sToNth-Ne-igh-bours \OT1/cmr/m/n/12 met^^Sodus seg^^S^
+^Pts^^Seg^^Sevel,
+ []
+
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 402.
+(hyperref)                removing `\H' on input line 469.
 
-[22] (./msc_szakdolgozat.bbl [23] [24])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 419.
- [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 419.
+[23] [24] (./msc_szakdolgozat.bbl [25] [26])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 486.
+ [27]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 486.
  (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 419.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 419.
-Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
-(rerunfilecheck)             Checksum: EDBACAD727C82E02DCCC3CF650A44C52;2212.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 419.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 486.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 486.
+
+
+Package rerunfilecheck Warning: File `msc_szakdolgozat.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `msc_szakdolgozat.out':
+(rerunfilecheck)             Before: C4D0F8BFE8A4D6F5FF9E740CDE6FA8CB;2217
+(rerunfilecheck)             After:  5CB077DCC7422F3D6AD2EBAA20CF654A;2108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 486.
  ) 
 Here is how much of TeX's memory you used:
- 11023 strings out of 494465
- 161830 string characters out of 6166362
+ 11036 strings out of 494465
+ 161965 string characters out of 6166362
  293219 words of memory out of 5000000
- 14015 multiletter control sequences out of 15000+600000
- 13160 words of font info for 49 fonts, out of 8000000 for 9000
+ 14023 multiletter control sequences out of 15000+600000
+ 13814 words of font info for 51 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 29i,7n,34p,1841b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on msc_szakdolgozat.pdf (25 pages, 590085 bytes).
+ 29i,13n,34p,1841b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsubsection.5.3.2} has been referenced but does
+ not exist, replaced by a fixed one
+
+ </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti8.pfb>
+Output written on msc_szakdolgozat.pdf (27 pages, 634975 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 418 compressed objects within 5 object streams
- 97 named destinations out of 1000 (max. 500000)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
+ 100 named destinations out of 1000 (max. 500000)
  245 words of extra memory for PDF output out of 10000 (max. 10000000)
 
