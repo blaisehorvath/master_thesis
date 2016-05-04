@@ -29,6 +29,13 @@ Brown, A.~J., Goldsworthy, S.~M., Barnes, A.~A., Eilert, M.~M., Tcheang, L.,
   acids}.
 \newblock {\em J. Biol. Chem.}, 278(13):11312--11319.
 
+\bibitem[Freeman et~al., 2003]{sifB}
+Freeman, J.~A., Ohl, M.~E., and Miller, S.~I. (2003).
+\newblock {{T}he {S}almonella enterica serovar typhimurium translocated
+  effectors {S}se{J} and {S}if{B} are targeted to the {S}almonella-containing
+  vacuole}.
+\newblock {\em Infect. Immun.}, 71(1):418--427.
+
 \bibitem[Haraga et~al., 2008]{salmonella_and_host_cell_nature}
 Haraga, A., Ohlson, M.~B., and Miller, S.~I. (2008).
 \newblock {{S}almonellae interplay with host cells}.
@@ -105,11 +112,24 @@ Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
   sequencing}.
 \newblock {\em Nature}, 464(7285):59--65.
 
+\bibitem[Quezada et~al., 2009]{ssph2}
+Quezada, C.~M., Hicks, S.~W., Galan, J.~E., and Stebbins, C.~E. (2009).
+\newblock {{A} family of {S}almonella virulence factors functions as a distinct
+  class of autoregulated {E}3 ubiquitin ligases}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 106(12):4864--4869.
+
 \bibitem[Ray et~al., 2009]{salmonella_autophagy_nature_old}
 Ray, K., Marteyn, B., Sansonetti, P.~J., and Tang, C.~M. (2009).
 \newblock {{L}ife on the inside: the intracellular lifestyle of cytosolic
   bacteria}.
 \newblock {\em Nat. Rev. Microbiol.}, 7(5):333--340.
+
+\bibitem[Rytkonen et~al., 2007]{sseL}
+Rytkonen, A., Poh, J., Garmendia, J., Boyle, C., Thompson, A., Liu, M.,
+  Freemont, P., Hinton, J.~C., and Holden, D.~W. (2007).
+\newblock {{S}se{L}, a {S}almonella deubiquitinase required for macrophage
+  killing and virulence}.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 104(9):3502--3507.
 
 \bibitem[Turei et~al., 2015]{ARN}
 Turei, D., Foldvari-Nagy, L., Fazekas, D., Modos, D., Kubisch, J., Kadlecsik,

@@ -342,7 +342,7 @@ PPI - protein protein interaction
 						\item Az adatszűrésre használt SQL szkriptek
 				\end{itemize}
 				
-			\paragraph{Tesztelés}
+			\paragraph{Tesztelés} \mbox{}\\
 			A bonyolultabb algoritmusok esetén \textit{egységteszteket (unit test)} alkalmaztam. A topológiai fontosságot kiszámító \textit{Python} osztály összes metódusának működését ilyen módon ellenőriztem. A teszteléshez a \textit{pyhthon} saját \textit{unittest} nevű csomagját használtam.
 				
 
@@ -392,7 +392,11 @@ PPI - protein protein interaction
 		
 
 	\subsubsection{Az adatbázisok egyesítése}
-		Az adatbázisok egyesítésekor a fő szempont az, hogy az végleges hálózatban ne legyenek redundáns pontok vagy élek. Az adatbázis egyesítő szkript beolvassa az összes adatbázisfájlt és eg \textit{has-map}ben eltárolja a pontokat és éleket és ezek tulajdonságait. A \textit{hasm-map}-ből gyorsan ki kereshető, hogy egy adott él vagy pont benne van-e már. Ami a szkript végigmegy az összes adatbázisfájlon a \textit{has-map}-ek tartalmából létrehoz egy MiTab SQL fájlt mely nem redundánsan tartalmazza az összes forrás adatbázis tartalmát.
+		Az adatbázisok egyesítésekor a fő szempont az, hogy az végleges hálózatban ne legyenek redundáns pontok vagy élek. Az adatbázis egyesítő szkript beolvassa az összes adatbázisfájlt és egy \textit{has-map}ben eltárolja a pontokat és éleket és ezek tulajdonságait. A \textit{hasm-map}-ből gyorsan ki kereshető, hogy egy adott él vagy pont benne van-e már. Amíg a szkript végigmegy az összes adatbázisfájlon a \textit{has-map}-ek tartalmából létrehoz egy MiTab SQL fájlt mely nem redundánsan tartalmazza az összes forrás adatbázis tartalmát.
+		
+		Az egyesített adatbázis a két kézi gyűjtésű hálózat pontjait és kapcsolatait valamint a predikciókból csak az éleket tartalmazza. A predikciós élek közül is csak azokat tartottam meg, melynek mindkét nódusa megtalálható valamelyik kézi gyűjtésű forrásban. Tehát a predikciókból új pont nem került bele a hálózatba.
+		
+		Ezt az adatbázist már újabb \textit{Python} szkript írása nélkül csupán SQL lekérdezésekkel létre lehet hozni.
 
 	\subsection{A hálózatok topológiai elemzése}
 	
@@ -470,8 +474,49 @@ PPI - protein protein interaction
 			
 		\end{itemize}
 
-\section{Eredmények (A hálózat elemzése)}
-	\subsection{Főbb statisztikák}
+\section{Eredmények}
+	
+	\subsection{Az elkészült hálózatok}
+		
+		Elemzéseimet a \textit{Salmonet}, \textit{ARN} és az egyesített adatbázisokra végeztem el. A topológiai fontosságot mind a három hálózatra kiszámoltam 1, 2 és 3 lépés távolságra. Így meg lehet nézni, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül a különböző lépésszámoknál. Másik fontos információ az, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+	
+		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van.
+		
+		A \textit{Salmonet} 2425 nódust és 7973 élet tartalmaz.
+		
+	\subsection{A hármas típusú szekréciós rendszer kapcsolatai}	
+		Az \textit{ARN} pontjaiból 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével. 
+		
+		 A 40 darab interspecifikus kapcsolatért \textit{Salmonella} oldalról csupán a következő hat \textit{Salmonella} fehérje a felelős: sifB, slpA, sopB, sseI, sseL, sspH2 (\textit{\ref{fig:connection}. ábra}). A predikciók alapján tehát a \textit{Salmonella} fehérjék mindössze 0,2\%-a létesít csak kapcsolatot a gazda autofágia fehérjéivel.
+		
+				\begin{figure}[H]
+					 \includegraphics[scale=0.65]{img/connection-proteins.pdf}
+			 		 \centering
+			 		 \caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}
+			 		 A képen az \textit{ARN} két részre van osztva: Az bal oldali kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. Az ábra felső részén helyezkedő pontok a \textit{Salmonet} azont kiragadott pontjai, melyek az \textit{ARN}-nel kapcsolatot létesítenek. A szükre színű élek a \textit{humán-humán} kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága és színmélysége egyenesen arányos az egy lépésre számított topológiai fontosságukkal.
+			 		 \label{fig:connection}			 		 
+				\end{figure}
+				
+		\noindent A hat fehérje közül a következő öt bizonyítottan a T3SS-el jut ki a baktériumsejtből: 
+		
+		\begin{itemize}
+			\item \textbf{sifB}: A virulencia vagy más néven effektor fehérjék közé tartozik. Fertőzéskor \textit{Salmonella} által kiváltott filamentumok (\textit{Sif}) mentén eltávolodnak az SCV-től. \cite{sifB}
+			
+			\item \textbf{sspH2}: Szintén effektor fehérje. Egy olyan E3 ubikvitin ligáz mely a gazda ubikvitinációs szignalizációját befolyásolja. A szubsztrát hiányában öngátló állapotban van. Szubsztrát kötésekor bekapcsolódik. \cite{ssph2} Az sspH2 gátló hatással van az aktin polimerizációra. \cite{salmonella_and_host_cell_nature}
+			
+			\item \textbf{sopB}: Egy olyan esszenciális virulencia fehérje mely inozitol-foszfát-foszfatáz mechanizmusával közvetetten aktiválja a gazda Rho-GTP-ázait. Ilyen kis-G fehérje a Cdc42 és a Rho-G. Az aktiválások hatásának eredője az aktin sejtváz átrendeződése. \cite{salmonella_and_host_cell_nature}
+			
+			\item \textbf{sseI}: Egy olyan effektor fehérje melynek aminoterminusa nagy hasonlóságot mutat a SspH2-vel. Filaminon keresztül képes a polimerizált aktin kötésére. \cite{salmonella_and_host_cell_nature}
+			
+			\item \textbf{sseL}: Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős. \cite{sseL} 			
+			
+			
+			
+			
+		\end{itemize}
+		
+		
+	
 	\subsection{Kapott topológiai adatok és jelentésük}
 	
 \section{Diszkusszió}

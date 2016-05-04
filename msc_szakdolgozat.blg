@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: msc_szakdolgozat.aux
 The style file: apalike.bst
 Database file #1: msc_szakdolgozat.bib
-You've used 17 entries,
+You've used 20 entries,
             1935 wiz_defined-function locations,
-            573 strings with 8232 characters,
-and the built_in function-call counts, 10341 in all, are:
-= -- 882
-> -- 884
+            594 strings with 8937 characters,
+and the built_in function-call counts, 11881 in all, are:
+= -- 1029
+> -- 973
 < -- 3
-+ -- 337
-- -- 334
-* -- 1069
-:= -- 1898
-add.period$ -- 51
-call.type$ -- 17
-change.case$ -- 250
-chr.to.int$ -- 16
-cite$ -- 17
-duplicate$ -- 234
-empty$ -- 457
-format.name$ -- 353
-if$ -- 1860
++ -- 369
+- -- 366
+* -- 1224
+:= -- 2166
+add.period$ -- 60
+call.type$ -- 20
+change.case$ -- 281
+chr.to.int$ -- 19
+cite$ -- 20
+duplicate$ -- 276
+empty$ -- 551
+format.name$ -- 388
+if$ -- 2149
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 19
-newline$ -- 88
-num.names$ -- 51
-pop$ -- 233
+missing$ -- 22
+newline$ -- 103
+num.names$ -- 60
+pop$ -- 258
 preamble$ -- 1
-purify$ -- 252
+purify$ -- 283
 quote$ -- 0
-skip$ -- 171
+skip$ -- 201
 stack$ -- 0
-substring$ -- 476
-swap$ -- 17
+substring$ -- 599
+swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 98
+type$ -- 116
 warning$ -- 0
-while$ -- 54
+while$ -- 66
 width$ -- 0
-write$ -- 217
+write$ -- 256
