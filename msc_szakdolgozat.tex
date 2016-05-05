@@ -44,12 +44,17 @@
     top=25mm,
     bottom=25mm,
 }
+
+% távolságok állítása
+\usepackage{setspace}
+
 % sorköz
 \linespread{1.5}
 
 % For tables
 \usepackage{array}
 \usepackage{calc}
+
 
 % Equation description
 \usepackage{enumitem}
@@ -68,6 +73,16 @@
   /Keywords ()
 }
 
+% Képaláírás
+\newenvironment{imgdesc}{
+		\small
+		\singlespacing
+		\begin{center}
+		
+	}{
+		\end{center}	
+	}
+
 %Title page 
 %TODO: add more information, logo and stuff as requested
 \title{Bakteriális patogén és ember közötti molekuláris hálózatok vizsgálata}
@@ -83,6 +98,7 @@
 
 \section{Rövidítésjegyzék}
 PPI - protein protein interaction 
+NCBI
 \pagebreak
 
 \section{Bevezetés}
@@ -117,7 +133,10 @@ PPI - protein protein interaction
 			 \centering
 			 \includegraphics[scale=0.42]{img/salmonella_life_cycle.png}
 			 \caption{\textbf{Az intracelluláris baktériumok életciklusa}}
-			 Bejutáskor a baktériumok egy elsődleges vakólumba érkeznek. A sejt a belsejében a mikróbák olyan fehérjéket szekretálnak, melyek felbontják az őket határoló elsődleges vakólum membránját. A legtöbb intracelluláris baktériumra jellemző, hogy befolyásolni tudja az aktin polimerizációt és ezáltal képes az intra- és intercelluláris mozgásra. A szomszédos sejtbe átjutott baktériumok egy másdlagos memránburokba kerülnek, melyet ugyancsak felbontanak.
+			 \begin{imgdesc}
+				 Bejutáskor a baktériumok egy elsődleges vakólumba érkeznek. A sejt a belsejében a mikróbák olyan fehérjéket szekretálnak, melyek felbontják az őket határoló elsődleges vakólum membránját. A legtöbb intracelluláris baktériumra jellemző, hogy befolyásolni tudja az aktin polimerizációt és ezáltal képes az intra- és intercelluláris mozgásra. A szomszédos sejtbe átjutott baktériumok egy másdlagos memránburokba kerülnek, melyet ugyancsak felbontanak.
+			 \end{imgdesc}
+
 			\textcolor{red}{!TODO kép magyarítás és formázás, jobban látható feliratok}
 			 \label{fig:salmo_cycle}
 		 \end{figure}
@@ -265,6 +284,7 @@ PPI - protein protein interaction
 	\indent Az $n > 1$ lépésszámú $d^n$ értékeket tartalmazó mátrixokban már egy adott pont indirekt hatása önmagára is kiterjedhet. Páros számú lépések esetén viszont mindenképpen felírhatók olyan útvonalak melyeken a pont eléri önmagát, \cite{ti} vagyis $d^n_{X,X} \neq 0$ ha n $\in$ \{ $2k :  k \in \mathbb{Z}$ \}. Az \ref{fig:peldagraph}. ábrán látszik, hogy például az $F$ pont két lépés távolságban a következű útvonalakon hat önmagára: $F \rightarrow B \rightarrow F$, $F \rightarrow C \rightarrow F$ és  $F \rightarrow D \rightarrow F$.
 	
  	 \paragraph{Weighted Topological Importance - WI\textsuperscript{n}} \textcolor{red}{ !TODO}
+ 	 \pagebreak
 
 \section{Célkitűzések}
 	\paragraph{A diplomamunka célja} \mbox{}\\
@@ -290,6 +310,7 @@ PPI - protein protein interaction
 		\item Program írása mely képes hálózatokban a megadott útvonalhosszra kiszámolni a topológiai fontosságot.
 		\item A kapott adatsorok értékelése, hálózatok ábrázolása, biológiai relevancia keresése.
 	\end{enumerate}
+	\pagebreak
 
 \section{Források és módszertan}
 
@@ -302,8 +323,13 @@ PPI - protein protein interaction
 			 	 \begin{figure}[H]
 			 		 \includegraphics[scale=0.7]{img/Signalink_Layer0.pdf}
 			 		 \centering
+
 			 		 \caption{ \textbf{A hálózat létrehozásának folyamata} }
-			 		 A különböző forrásokból származó adatok esetén először a forrás formátumokat feldolgozni képes szkriptek átalakítják azokat MiTab SQL formátumra. Általában a különböző adatforrások különféle azonosítókkal illetik a komponenseiket. Ahhoz, hogy több hálózatot egyesíteni tudjunk, szükség van arra, hogy egy adott biológiai entitás csak egyfajta azonosítóval szerepeljen. A fordító szkript MiTab SQL fájlból olyan MiTab SQL fájlt gyárt, amiben az elsődleges azonosító már a kivánt, esetemben \textit{Uniprot} azonosító. Legvégül az adatbázis egyesítő szkript úgy ``összefűzi" a különböző hálózatok pontjait és éleit, hogy ne legyen benne redundáns információ.
+ 
+ 			 		 \begin{imgdesc}
+ 				 		 A különböző forrásokból származó adatok esetén először a forrás formátumokat feldolgozni képes szkriptek átalakítják azokat MiTab SQL formátumra. Általában a különböző adatforrások különféle azonosítókkal illetik a komponenseiket. Ahhoz, hogy több hálózatot egyesíteni tudjunk, szükség van arra, hogy egy adott biológiai entitás csak egyfajta azonosítóval szerepeljen. A fordító szkript MiTab SQL fájlból olyan MiTab SQL fájlt gyárt, amiben az elsődleges azonosító már a kivánt, esetemben \textit{Uniprot} azonosító. Legvégül az adatbázis egyesítő szkript úgy ``összefűzi" a különböző hálózatok pontjait és éleit, hogy ne legyen benne redundáns információ.
+ 			 		 \end{imgdesc}
+
 			 		 \label{fig:slk3uml}			 		 
 			 	 \end{figure}
 			 	 
@@ -377,7 +403,8 @@ PPI - protein protein interaction
 			A gazda patogén hálózat összeállításához az ARN adatbázisnak csak az első, autofágia fehérjéket tartalmazó rétegét használtam fel. A hálózat letöltését követően azt egy általam írt \textit{Python} scripttel MiTab SQL formátumba alakítottam. A fordító szkripttel az akkor legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam.
 		
 			\subsubsection{Salmonet} 
-			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. A háló kézi gyűjtésű \textit{Salmonella-Salmonella} fehérje-fehérje kapcsolatokat tartalmaz.
+			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. 
+			\cite{salmonet}
 			
 			\paragraph{A Salmonet feldolgozása} \mbox{}\\
 			Az \textit{Salmonet} átalakítása az ARN-hez hasonló módon történt, azzal a különbséggel, hogy fordításkor \textit{Salmonella}-\textit{Salmonella} szótárat használtam.
@@ -473,31 +500,72 @@ PPI - protein protein interaction
 			A függvény egy adott pontra meghatározza annak topológiai fontosságát. Első lépésként létrehoz egy útvonal listát a \textit{getPathWaysToNthNeighbours} metódus segítségével, majd végigmegy az útvonalak listáján egy \textbf{for} ciklusban. Minden periódusban meghívja a \textit{countPathwayStrength(pathway)} függvényt az aktuális útvonalra, és annak eredményét egy a cikluson kívül definiált változóba akkumulálja.
 			
 		\end{itemize}
+		\pagebreak
+
 
 \section{Eredmények}
 	
-	\subsection{Az elkészült hálózatok}
+	\subsection{Az integrált hálózat}
 		
-		Elemzéseimet a \textit{Salmonet}, \textit{ARN} és az egyesített adatbázisokra végeztem el. A topológiai fontosságot mind a három hálózatra kiszámoltam 1, 2 és 3 lépés távolságra. Így meg lehet nézni, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül a különböző lépésszámoknál. Másik fontos információ az, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+		Elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített adatbázisokra végeztem el. A topológiai fontosságot mind a három hálózatra kiszámoltam 1, 2 és 3 lépés távolságra. Így meg lehet nézni, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül a különböző lépésszámoknál. Fontos információt nyújt az is, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+		
+		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van. 
 	
-		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van.
+	\subsection{Topológiai index az integrált hálózatban}
+		\subsubsection{ARN}
+	
+				\begin{figure}[H]
+					\includegraphics[scale=0.4]{img/arn_123_comp.pdf}
+					\centering
+					\caption{ \textbf{Az \textit{ARN} 1, 2 és 3 lépésre számított topológiai fontosságai}}
 		
+					\label{fig:arn123}			 		 
+				\end{figure}
+				
+				\begin{table}[]
+				\centering
+				\caption{Az \textit{ARN} legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
+				\label{my-label}
+				\begin{tabular}{|c|c|c|c|c|c|}
+				\hline
+				\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
+				GABARAP            & 2,41                                   & GABARAP            & 2,21                                   & GABARAP            & 2,33                                   \\ \hline
+				MAP1LC3B           & 2,27                                   & GABARAPL2          & 1,96                                   & GABARAPL2          & 2,00                                   \\ \hline
+				BECN1              & 2,17                                   & MAP1LC3C           & 1,93                                   & MAP1LC3C           & 1,99                                   \\ \hline
+				MAP1LC3C           & 2,11                                   & MAP1LC3B           & 1,75                                   & MAP1LC3B           & 1,68                                   \\ \hline
+				ATG2A              & 1,99                                   & ATG3               & 1,56                                   & GABARAPL1          & 1,68                                   \\ \hline
+				\end{tabular}
+				\end{table}
+		
+		
+		\subsubsection{Salmonet}
 		A \textit{Salmonet} 2425 nódust és 7973 élet tartalmaz.
 		
 	\subsection{A hármas típusú szekréciós rendszer kapcsolatai}	
-		Az \textit{ARN} pontjaiból 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével. 
 		
-		 A 40 darab interspecifikus kapcsolatért \textit{Salmonella} oldalról csupán a következő hat \textit{Salmonella} fehérje a felelős: sifB, slpA, sopB, sseI, sseL, sspH2 (\textit{\ref{fig:connection}. ábra}). A predikciók alapján tehát a \textit{Salmonella} fehérjék mindössze 0,2\%-a létesít csak kapcsolatot a gazda autofágia fehérjéivel.
+		
+		Az \textit{ARN} pontjaiból 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével \textit{(\ref{fig:connection}. ábra)}.
 		
 				\begin{figure}[H]
-					 \includegraphics[scale=0.65]{img/connection-proteins.pdf}
-			 		 \centering
-			 		 \caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}
-			 		 A képen az \textit{ARN} két részre van osztva: Az bal oldali kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. Az ábra felső részén helyezkedő pontok a \textit{Salmonet} azont kiragadott pontjai, melyek az \textit{ARN}-nel kapcsolatot létesítenek. A szükre színű élek a \textit{humán-humán} kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága és színmélysége egyenesen arányos az egy lépésre számított topológiai fontosságukkal.
-			 		 \label{fig:connection}			 		 
+					\includegraphics[scale=0.6]{img/connection-proteins.pdf}
+					\centering
+					\caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}
+		
+					\label{fig:connection}			 		 
 				\end{figure}
 				
-		\noindent A hat fehérje közül a következő öt bizonyítottan a T3SS-el jut ki a baktériumsejtből: 
+
+		\begin{imgdesc}
+			A képen az \textit{ARN}, és \textit{ARN}-t és a \textit{Salmonet}-et összekötő hat pont látható az egyesített hálózatból kiragadva. Az bal oldali kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. Az ábra felső részén helyezkedő pontok a \textit{Salmonet} azont kiragadott pontjai, melyek az \textit{ARN}-nel kapcsolatot létesítenek. A szükre színű élek a \textit{humán-humán} kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága és színmélysége egyenesen arányos az egy lépésre számított topológiai fontosságukkal. Mivel a hálózat az egyesített hálózatból lett kiragadva, így a pontok TI értékei is a nagy hálóra vonatkoznak.
+		\end{imgdesc}
+
+				
+		 A 40 darab interspecifikus kapcsolatért \textit{Salmonella} oldalról csupán a következő hat \textit{Salmonella} fehérje a felelős: sifB, slpA, sopB, sseI, sseL, sspH2 (\textit{\ref{fig:connection}. ábra}). A predikciók alapján tehát a \textit{Salmonella} fehérjék mindössze 0,2\%-a létesít csak kapcsolatot a gazda autofágia fehérjéivel.
+		
+
+
+				
+		\noindent A hat fehérje közül a következő öt bizonyítottan a T3SS-el jut ki a baktériumsejtből, míg az utolsóról kevés információnk van: 
 		
 		\begin{itemize}
 			\item \textbf{sifB}: A virulencia vagy más néven effektor fehérjék közé tartozik. Fertőzéskor \textit{Salmonella} által kiváltott filamentumok (\textit{Sif}) mentén eltávolodnak az SCV-től. \cite{sifB}
@@ -508,22 +576,23 @@ PPI - protein protein interaction
 			
 			\item \textbf{sseI}: Egy olyan effektor fehérje melynek aminoterminusa nagy hasonlóságot mutat a SspH2-vel. Filaminon keresztül képes a polimerizált aktin kötésére. \cite{salmonella_and_host_cell_nature}
 			
-			\item \textbf{sseL}: Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős. \cite{sseL} 			
+			\item \textbf{sseL}: Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős. \cite{sseL}
 			
-			
-			
+			\item \textbf{slpA}: Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli. \textcolor{red}{TODO link} A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
 			
 		\end{itemize}
 		
+
 		
-	
-	\subsection{Kapott topológiai adatok és jelentésük}
+
+		\pagebreak
 	
 \section{Diszkusszió}
 \section{Összefoglalás}
 \section{Summary}
-\section{Hivatkozások jegyzéke}
+\section{Internetes hivatkozások jegyzéke}
 	1. link \textcolor{red}{TODO github link} \label{lst:github}
+	2. link \textcolor{red}{TODO} homológ fehérje http://www.uniprot.org/uniprot/P0AEM2
 \section{Köszönetnyilvánítás}
 \section{Nyilatkozat}
 

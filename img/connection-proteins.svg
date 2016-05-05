@@ -1,0 +1,4331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="568.1228"
+   height="615.90173"
+   viewBox="0 0 568.1228 615.90173"
+   id="svg7849"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="connection-proteins.pdf">
+  <metadata
+     id="metadata9621">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9619" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="748"
+     id="namedview9617"
+     showgrid="false"
+     inkscape:zoom="0.64021164"
+     inkscape:cx="274.61549"
+     inkscape:cy="265.34866"
+     inkscape:window-x="-7"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7849"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc7853">Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Tuesday, May 3, 2016 9:31:42 PM CEST</desc>
+  <g
+     stroke-miterlimit="10"
+     id="g7855"
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     transform="translate(-322.5625,-10.375)">
+    <!-- drawing style -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7861">
+      <g
+         id="g7863"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 299.35928,2217.7209 85.15735,-100.2973"
+           id="path7865"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7867">
+      <g
+         id="g7869"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 299.93585,2218.2651 66.32022,-63.2592"
+           id="path7871"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7873">
+      <g
+         id="g7875"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 298.43268,2217.0481 55.23837,-89.6724"
+           id="path7877"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7879">
+      <g
+         id="g7881"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 313.63556,2086.9995 295.5231,2215.9998"
+           id="path7883"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7885">
+      <g
+         id="g7887"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 251.74924,1803.0319 41.96109,412.9332"
+           id="path7889"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7891">
+      <g
+         id="g7893"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 314.03317,2183.7185 77.881126,2075.6365"
+           id="path7895"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7897">
+      <g
+         id="g7899"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 322.62524,2177.7158 c -1.58364,-20.2554 10.46528,-44.667 26.91202,-54.5244"
+           id="path7901"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7903">
+      <g
+         id="g7905"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 319.97733,2178.2783 C 311.97278,2155.7002 287.79749,2129.071 265.98035,2118.8"
+           id="path7907"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7909">
+      <g
+         id="g7911"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 313.44992,2185.3369 75.968513,2121.5066"
+           id="path7913"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7915">
+      <g
+         id="g7917"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 333.43973,2190.5959 15.93008,4.1006"
+           id="path7919"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7921">
+      <g
+         id="g7923"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 322.77982,2177.7048 -5.71686,-90.5742"
+           id="path7925"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7927">
+      <g
+         id="g7929"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 331.47449,2181.5298 33.99127,-27.4246"
+           id="path7931"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7933">
+      <g
+         id="g7935"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 332.16541,2182.4946 73.24801,-46.331"
+           id="path7937"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7939">
+      <g
+         id="g7941"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 333.73419,2188.8301 76.51462,6.0195"
+           id="path7943"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7945">
+      <g
+         id="g7947"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 329.97638,2180.0212 c 24.52621,-29.9697 40.94409,-83.0166 36.67035,-118.4834"
+           id="path7949"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7951">
+      <g
+         id="g7953"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 308.48358,2085.4111 c -12.49948,25.3145 -8.36142,67.3953 9.24262,93.9903"
+           id="path7955"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7957">
+      <g
+         id="g7959"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 253.54327,1802.7784 68.04276,375.0719"
+           id="path7961"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7963">
+      <g
+         id="g7965"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 404.04324,2132.7312 c -25.63006,5.0781 -58.96402,26.1157 -74.45346,46.9888"
+           id="path7967"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7969">
+      <g
+         id="g7971"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 354.48831,2127.8374 -26.31781,50.9978"
+           id="path7973"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7975">
+      <g
+         id="g7977"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 384.43286,2117.3518 330.1843,2180.196"
+           id="path7979"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7981">
+      <g
+         id="g7983"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 360.35632,2061.0239 -34.03988,117.0713"
+           id="path7985"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7987">
+      <g
+         id="g7989"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 263.63318,2121.969 52.86124,58.3889"
+           id="path7991"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7993">
+      <g
+         id="g7995"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 463.73294,2214.0479 50.14401,-139.1368"
+           id="path7997"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g7999">
+      <g
+         id="g8001"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 469.28189,2220.873 43.01492,-6.0764"
+           id="path8003"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8005">
+      <g
+         id="g8007"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 466.79346,2215.9641 57.70923,-59.1767"
+           id="path8009"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8011">
+      <g
+         id="g8013"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 259.4064,1800.8822 197.76032,413.495"
+           id="path8015"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8017">
+      <g
+         id="g8019"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 78.149643,2074.998 452.88873,2219.0081"
+           id="path8021"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8023">
+      <g
+         id="g8025"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 369.56192,2187.8071 38.18262,-49.0739"
+           id="path8027"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8029">
+      <g
+         id="g8031"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 354.72397,2187.2112 c -10.65177,-16.2246 -11.07861,-42.9868 -0.95343,-59.7749"
+           id="path8033"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8035">
+      <g
+         id="g8037"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 354.63196,2187.2722 c -10.21512,-15.27 -34.68524,-24.4641 -54.65558,-20.5356"
+           id="path8039"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8041">
+      <g
+         id="g8043"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 363.25369,2185.2097 c 4.1688,-34.5796 -11.5,-80.8227 -34.99722,-103.2868"
+           id="path8045"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8047">
+      <g
+         id="g8049"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 365.20834,2185.6021 7.56382,-26.6663"
+           id="path8051"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8053">
+      <g
+         id="g8055"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 366.85123,2186.1924 c 15.42517,-35.1721 17.06469,-91.4177 3.66195,-125.6279"
+           id="path8057"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8059">
+      <g
+         id="g8061"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 355.22153,2186.9006 c -16.58585,-27.9878 -56.32328,-59.031 -88.75605,-69.3371"
+           id="path8063"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8065">
+      <g
+         id="g8067"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 349.39975,2194.5825 75.971519,2121.4954"
+           id="path8069"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8071">
+      <g
+         id="g8073"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 374.47714,2197.4001 35.74674,-1.3378"
+           id="path8075"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8077">
+      <g
+         id="g8079"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 371.2782,2189.4175 c 17.49548,-15.4959 28.39398,-46.3884 24.34247,-69.0005"
+           id="path8081"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8083">
+      <g
+         id="g8085"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 321.71481,2086.1707 35.70914,99.6945"
+           id="path8087"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8089">
+      <g
+         id="g8091"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 255.42209,1802.3562 102.99258,383.199"
+           id="path8093"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8095">
+      <g
+         id="g8097"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 454.90625,2128.9534 -82.92154,61.3362"
+           id="path8099"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8101">
+      <g
+         id="g8103"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 490.96759,2199.3872 374.4852,2198.0264"
+           id="path8105"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8107">
+      <g
+         id="g8109"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 360.41394,2129.2166 1.06873,55.9038"
+           id="path8111"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8113">
+      <g
+         id="g8115"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 412.72629,2140.7864 c -2.62454,21.654 -20.1297,45.1543 -39.09891,52.4892"
+           id="path8117"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8119">
+      <g
+         id="g8121"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 299.44791,2172.0234 50.49417,20.962"
+           id="path8123"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8125">
+      <g
+         id="g8127"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 364.44516,2061.6479 -2.46405,123.4725"
+           id="path8129"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8131">
+      <g
+         id="g8133"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 388.81891,2119.8818 -22.90564,65.9427"
+           id="path8135"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8137">
+      <g
+         id="g8139"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 264.75433,2120.7737 86.9849,69.1628"
+           id="path8141"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8143">
+      <g
+         id="g8145"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 417.56549,2250.8799 -46.58462,-44.2183"
+           id="path8147"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8149">
+      <g
+         id="g8151"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 379.59094,2215.7427 -8.84225,-8.8428"
+           id="path8153"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8155">
+      <g
+         id="g8157"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 518.15192,2201.2371 468.6261,2131.1584"
+           id="path8159"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8161">
+      <g
+         id="g8163"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 527.60217,2198.6948 3.49347,-38.874"
+           id="path8165"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8167">
+      <g
+         id="g8169"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 513.12531,2207.6658 74.681023,2036.7744"
+           id="path8171"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8173">
+      <g
+         id="g8175"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 512.4433,2209.9814 76.087021,2121.0046"
+           id="path8177"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8179">
+      <g
+         id="g8181"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 512.19946,2213.9038 -113.84128,8.7795"
+           id="path8183"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8185">
+      <g
+         id="g8187"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 513.35535,2218.5168 -79.93488,35.128"
+           id="path8189"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8191">
+      <g
+         id="g8193"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 525.51447,2198.6616 -7.12214,-123.0954"
+           id="path8195"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8197">
+      <g
+         id="g8199"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 515.90723,2222.4185 -80.48319,74.1428"
+           id="path8201"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8203">
+      <g
+         id="g8205"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 261.89734,1799.4966 518.6936,2200.8728"
+           id="path8207"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8209">
+      <g
+         id="g8211"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 78.39328,2074.2944 434.39694,134.3313"
+           id="path8213"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8215">
+      <g
+         id="g8217"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 422.08942,2136.719 92.79412,67.7368"
+           id="path8219"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8221">
+      <g
+         id="g8223"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 74.96579,2035.8987 c 128.18002,33.6997 324.65295,109.9416 438.83456,170.291"
+           id="path8225"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8227">
+      <g
+         id="g8229"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 491.61746,2196.428 389.91357,2150.9309"
+           id="path8231"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8233">
+      <g
+         id="g8235"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 490.97598,2199.1099 -59.83493,-2.9278"
+           id="path8237"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8239">
+      <g
+         id="g8241"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 261.2373,1799.9036 233.38212,393.1555"
+           id="path8243"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8245">
+      <g
+         id="g8247"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 412.65521,2202.3872 -16.82992,14.0772"
+           id="path8249"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8251">
+      <g
+         id="g8253"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 326.8627,2083.2256 87.1156,104.407"
+           id="path8255"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8257">
+      <g
+         id="g8259"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 258.23587,1801.4028 158.46112,384.5887"
+           id="path8261"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8263">
+      <g
+         id="g8265"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 367.72809,2126.6555 46.58417,60.71"
+           id="path8267"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8269">
+      <g
+         id="g8271"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 414.98318,2140.8057 4.61976,44.4526"
+           id="path8273"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8275">
+      <g
+         id="g8277"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 370.27646,2060.6548 46.74701,125.2085"
+           id="path8279"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8281">
+      <g
+         id="g8283"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 299.9541,2170.387 110.48474,23.1379"
+           id="path8285"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8287">
+      <g
+         id="g8289"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 397.23489,2120.0239 20.3505,65.6477"
+           id="path8291"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8293">
+      <g
+         id="g8295"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 386.19479,2155.9441 27.62723,31.8215"
+           id="path8297"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8299">
+      <g
+         id="g8301"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 242.42557,2187.3005 12.50566,-62.925"
+           id="path8303"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8305">
+      <g
+         id="g8307"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 248.94286,1803.146 -7.67522,384.0288"
+           id="path8309"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8311">
+      <g
+         id="g8313"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 354.64532,2057.981 245.38007,2188.7139"
+           id="path8315"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8317">
+      <g
+         id="g8319"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 207.6158,1783.412 121.6179,126.8155"
+           id="path8321"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8323">
+      <g
+         id="g8325"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 378.41232,1785.5229 -69.22665,197.663"
+           id="path8327"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8329">
+      <g
+         id="g8331"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 379.18152,1785.7422 -59.50855,267.897"
+           id="path8333"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8335">
+      <g
+         id="g8337"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 380.24631,1785.8912 365.69766,2030.135"
+           id="path8339"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8341">
+      <g
+         id="g8343"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 325.62198,1787.1874 12.26059,119.0362"
+           id="path8345"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8347">
+      <g
+         id="g8349"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 254.5892,1802.5636 57.61148,251.1017"
+           id="path8351"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8353">
+      <g
+         id="g8355"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 263.91095,1798.051 184.89478,230.4462"
+           id="path8357"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8359">
+      <g
+         id="g8361"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 254.13538,1802.663 87.58746,420.2245"
+           id="path8363"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8365">
+      <g
+         id="g8367"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 252.65536,1802.9218 69.47382,490.672"
+           id="path8369"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8371">
+      <g
+         id="g8373"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 257.3877,1801.733 163.85867,446.7274"
+           id="path8375"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8377">
+      <g
+         id="g8379"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 261.65182,1799.6516 195.99247,314.96"
+           id="path8381"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8383">
+      <g
+         id="g8385"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 255.32909,1802.3811 47.72728,180.5643"
+           id="path8387"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8389">
+      <g
+         id="g8391"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 256.29037,1802.1046 127.81659,410.9098"
+           id="path8393"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8395">
+      <g
+         id="g8397"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 251.87184,1803.019 38.12908,356.3677"
+           id="path8399"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8401">
+      <g
+         id="g8403"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 265.31705,1796.8267 244.60656,259.1049"
+           id="path8405"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8407">
+      <g
+         id="g8409"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 259.31723,1800.9247 91.54889,193.5328"
+           id="path8411"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8413">
+      <g
+         id="g8415"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 259.24838,1800.9572 150.4075,320.6785"
+           id="path8417"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8419">
+      <g
+         id="g8421"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 249.92436,1803.1449 6.74071,301.3304"
+           id="path8423"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8425">
+      <g
+         id="g8427"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 258.63037,1801.236 99.85257,230.1739"
+           id="path8429"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8431">
+      <g
+         id="g8433"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 258.73422,1801.1907 129.08249,293.613"
+           id="path8435"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8437">
+      <g
+         id="g8439"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 261.88464,1799.5048 69.6045,108.9487"
+           id="path8441"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8443">
+      <g
+         id="g8445"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 257.03842,1801.8579 114.91815,329.5193"
+           id="path8447"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8449">
+      <g
+         id="g8451"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 263.49927,1798.3737 525.479,2140.4331"
+           id="path8453"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8455">
+      <g
+         id="g8457"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 256.6467,1801.9906 99.65512,303.0404"
+           id="path8459"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8461">
+      <g
+         id="g8463"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 256.98422,1801.8767 427.4342,2294.5496"
+           id="path8465"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8467">
+      <g
+         id="g8469"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 260.5867,1800.2756 201.71982,366.3047"
+           id="path8471"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8473">
+      <g
+         id="g8475"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 466.83401,1786.7162 48.848,266.2975"
+           id="path8477"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8479">
+      <g
+         id="g8481"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 463.55209,1786.5948 415.3847,1971.137"
+           id="path8483"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8485">
+      <g
+         id="g8487"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 422.35172,1785.7604 -75.28946,122.5558"
+           id="path8489"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8491">
+      <g
+         id="g8493"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 424.63794,1786.6974 -56.32782,243.8144"
+           id="path8495"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8497">
+      <g
+         id="g8499"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 422.59753,1785.9052 310.86758,1983.9478"
+           id="path8501"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8503">
+      <g
+         id="g8505"
+         style="fill:none;stroke:#ff3300;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 423.64514,1786.3959 322.01086,2054.3384"
+           id="path8507"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8509">
+      <g
+         id="g8511"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 326.55051,1927.9103 77.501183,2065.6313"
+           id="path8513"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8515">
+      <g
+         id="g8517"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 347.02945,1933.3296 110.68564,181.2383"
+           id="path8519"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8521">
+      <g
+         id="g8523"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 328.37323,1930.4999 74.124641,2154.1582"
+           id="path8525"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8527">
+      <g
+         id="g8529"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 343.45767,1934.9025 46.04144,159.2913"
+           id="path8531"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8533">
+      <g
+         id="g8535"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 342.0871,1935.2283 10.96832,58.5193"
+           id="path8537"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8539">
+      <g
+         id="g8541"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 318.61862,2053.4397 18.4978,-118.137"
+           id="path8543"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8545">
+      <g
+         id="g8547"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 76.332855,2063.9182 C 138.76959,2012.1824 250.30565,1950.167 325.45563,1925.4031"
+           id="path8549"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8551">
+      <g
+         id="g8553"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 410.56409,2121.2625 344.29297,1934.6338"
+           id="path8555"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8557">
+      <g
+         id="g8559"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 385.90967,2095.8323 c -26.38538,-40.7078 -47.29614,-112.5008 -46.70548,-160.3542"
+           id="path8561"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8563">
+      <g
+         id="g8565"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 448.04343,2029.1814 -98.27365,-98.0117"
+           id="path8567"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8569">
+      <g
+         id="g8571"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 348.26343,1996.3181 c -16.5936,-16.1343 -23.29907,-43.9674 -14.97714,-62.1671"
+           id="path8573"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8575">
+      <g
+         id="g8577"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 403.48019,1974.9138 -52.88736,-44.6409"
+           id="path8579"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8581">
+      <g
+         id="g8583"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 363.25,2005.4208 82.55887,27.3874"
+           id="path8585"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8587">
+      <g
+         id="g8589"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 355.1423,2011.5734 4.44184,92.8509"
+           id="path8591"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8593">
+      <g
+         id="g8595"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 357.82275,2011.0288 30.75815,83.4663"
+           id="path8597"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8599">
+      <g
+         id="g8601"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 324.42462,2055.4785 25.81787,-45.0842"
+           id="path8603"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8605">
+      <g
+         id="g8607"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 78.586304,2068.4321 345.9628,2004.675"
+           id="path8609"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8611">
+      <g
+         id="g8613"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 361.19406,2030.5154 -4.44797,-19.1647"
+           id="path8615"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8617">
+      <g
+         id="g8619"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 447.27826,2030.0511 c -20.3143,-15.7335 -57.73087,-28.1029 -83.57227,-27.6278"
+           id="path8621"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8623">
+      <g
+         id="g8625"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 401.37161,1986.3209 -38.16552,13.3064"
+           id="path8627"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8629">
+      <g
+         id="g8631"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 78.755539,2072.7307 347.922,2114.8948"
+           id="path8633"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8635">
+      <g
+         id="g8637"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 78.41568,2067.7998 c 74.66408,-22.5259 195.85773,-33.2147 270.69357,-23.8741"
+           id="path8639"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8641">
+      <g
+         id="g8643"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 78.843513,2070.0007 445.37576,2036.5685"
+           id="path8645"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8647">
+      <g
+         id="g8649"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 67.793243,2082.1262 0.05082,28.8032"
+           id="path8651"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8653">
+      <g
+         id="g8655"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 78.583549,2073.6003 284.074711,68.0591"
+           id="path8657"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8659">
+      <g
+         id="g8661"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 78.889404,2070.9741 220.140716,-0.7187"
+           id="path8663"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8665">
+      <g
+         id="g8667"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 78.821579,2072.2371 301.021191,33.4211"
+           id="path8669"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8671">
+      <g
+         id="g8673"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 349.04401,2047.209 78.849876,2070.0732"
+           id="path8675"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8677">
+      <g
+         id="g8679"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 374.4469,2058.3257 c 10.76947,13.8374 8.32715,36.1164 -5.45514,49.7615"
+           id="path8681"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8683">
+      <g
+         id="g8685"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 366.64828,2061.5376 8.3379,69.1372"
+           id="path8687"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8689">
+      <g
+         id="g8691"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 350.64575,2052.9182 -19.4704,9.7105"
+           id="path8693"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8695">
+      <g
+         id="g8697"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 366.75183,2061.5249 19.23526,151.0806"
+           id="path8699"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8701">
+      <g
+         id="g8703"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 351.45343,2054.3464 -86.08679,54.7801"
+           id="path8705"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8707">
+      <g
+         id="g8709"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 371.40887,2060.1812 16.15018,34.739"
+           id="path8711"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8713">
+      <g
+         id="g8715"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 363.02829,2061.5557 345.22681,2222.72"
+           id="path8717"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8719">
+      <g
+         id="g8721"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 377.15787,2055.6282 77.92605,61.2771"
+           id="path8723"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8725">
+      <g
+         id="g8727"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 356.62848,2059.3936 -60.92301,101.2541"
+           id="path8729"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8731">
+      <g
+         id="g8733"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 374.23682,2033.2719 31.15539,-41.4463"
+           id="path8735"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8737">
+      <g
+         id="g8739"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 360.97659,2104.436 2.76639,-42.8176"
+           id="path8741"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8743">
+      <g
+         id="g8745"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 298.47388,2163.2229 c 31.16162,-21.9626 59.94827,-67.4944 64.29678,-101.6978"
+           id="path8747"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8749">
+      <g
+         id="g8751"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 397.43243,2094.3311 c 5.61835,-17.1851 -2.46377,-36.2293 -18.05194,-42.5364"
+           id="path8753"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8755">
+      <g
+         id="g8757"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 445.39606,2036.7673 -64.9639,7.3409"
+           id="path8759"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8761">
+      <g
+         id="g8763"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 313.52225,2000.0299 39.48422,35.3318"
+           id="path8765"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8767">
+      <g
+         id="g8769"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 409.91547,1993.9022 -30.09653,137.0053"
+           id="path8771"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8773">
+      <g
+         id="g8775"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 402.01349,1987.8177 75.211449,2155.7534"
+           id="path8777"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8779">
+      <g
+         id="g8781"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 408.18359,1993.3787 -43.51052,111.875"
+           id="path8783"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8785">
+      <g
+         id="g8787"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 419.69681,1991.6453 29.15503,36.8151"
+           id="path8789"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8791">
+      <g
+         id="g8793"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 328.54257,2058.7837 75.22434,-68.438"
+           id="path8795"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8797">
+      <g
+         id="g8799"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 316.13574,1992.0233 84.64041,-8.4007"
+           id="path8801"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8803">
+      <g
+         id="g8805"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 304.96588,2003.4863 c -2.3475,32.0905 -21.00299,78.3374 -41.66818,103.2952"
+           id="path8807"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8809">
+      <g
+         id="g8811"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 310.15491,2002.5314 60.44381,129.398"
+           id="path8813"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8815">
+      <g
+         id="g8817"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 312.98038,2000.5918 c 23.57181,24.4955 44.35412,70.9875 46.41858,103.8428"
+           id="path8819"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8821">
+      <g
+         id="g8823"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 307.10837,2003.4227 6.64825,49.9611"
+           id="path8825"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8827">
+      <g
+         id="g8829"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 312.09393,2001.3541 72.94312,95.0941"
+           id="path8831"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8833">
+      <g
+         id="g8835"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 355.18161,2105.4604 309.94037,2002.6287"
+           id="path8837"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8839">
+      <g
+         id="g8841"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 260.63812,2105.1982 41.1893,-102.439"
+           id="path8843"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8845">
+      <g
+         id="g8847"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 329.99286,2079.7827 129.94046,88.9514"
+           id="path8849"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8851">
+      <g
+         id="g8853"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 331.95712,2075.9424 121.58817,43.7407"
+           id="path8855"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8857">
+      <g
+         id="g8859"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 311.81052,2086.6404 -18.57175,72.9775"
+           id="path8861"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8863">
+      <g
+         id="g8865"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 331.29831,2077.5195 49.78165,23.8094"
+           id="path8867"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8869">
+      <g
+         id="g8871"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 332.95862,2070.188 c 16.43155,-0.012 28.91876,15.3183 27.89099,34.2405"
+           id="path8873"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8875">
+      <g
+         id="g8877"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 330.42264,2079.1226 74.93649,46.341"
+           id="path8879"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8881">
+      <g
+         id="g8883"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 302.422,2080.3774 -37.49366,28.1153"
+           id="path8885"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8887">
+      <g
+         id="g8889"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 318.85651,2086.9211 23.26077,135.8916"
+           id="path8891"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8893">
+      <g
+         id="g8895"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 326.68399,2083.3726 40.92355,50.4294"
+           id="path8897"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8899">
+      <g
+         id="g8901"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 323.15427,2085.5793 59.57568,127.9668"
+           id="path8903"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8905">
+      <g
+         id="g8907"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 351.64368,2107.8115 -23.97925,-25.299"
+           id="path8909"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8911">
+      <g
+         id="g8913"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 409.24109,2121.842 c -14.59613,-27.7321 -48.7507,-50.6909 -76.28635,-51.2795"
+           id="path8915"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8917">
+      <g
+         id="g8919"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 287.91464,2159.8608 c -9.55993,-26.9929 -2.63769,-62.059 15.46128,-78.3222"
+           id="path8921"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8923">
+      <g
+         id="g8925"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 380.09729,2110.1409 c -22.15643,5.0478 -47.52158,-6.0103 -56.65457,-24.6992"
+           id="path8927"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8929">
+      <g
+         id="g8931"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 445.61145,2037.9636 -113.15433,28.1419"
+           id="path8933"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8935">
+      <g
+         id="g8937"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 362.80585,2141.094 c -23.63532,-6.6831 -44.07596,-30.846 -45.65543,-53.9692"
+           id="path8939"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8941">
+      <g
+         id="g8943"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 449.22717,2043.2748 -64.12033,89.9796"
+           id="path8945"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8947">
+      <g
+         id="g8949"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 448.56583,2042.7567 -46.53666,54.163"
+           id="path8951"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8953">
+      <g
+         id="g8955"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 447.57428,2041.7649 -77.98669,66.9685"
+           id="path8957"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8959">
+      <g
+         id="g8961"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 506.38162,2063.4412 75.211952,2034.3942"
+           id="path8963"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8965">
+      <g
+         id="g8967"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 519.63055,2075.4263 10.63031,62.9258"
+           id="path8969"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8971">
+      <g
+         id="g8973"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 509.18637,2071.7163 c -24.80035,21.7881 -70.68344,37.9917 -102.4827,36.1917"
+           id="path8975"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8977">
+      <g
+         id="g8979"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 405.98834,2102.7498 100.98947,-34.8333"
+           id="path8981"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8983">
+      <g
+         id="g8985"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 75.136612,2035.0765 c 126.859448,19.517 326.850328,68.9511 446.692128,110.4142"
+           id="path8987"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8989">
+      <g
+         id="g8991"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 521.55121,2146.4275 74.994087,2035.7878"
+           id="path8993"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g8995">
+      <g
+         id="g8997"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 403.85104,2130.707 c -31.65295,-0.1985 -78.80346,14.4002 -105.31359,32.6072"
+           id="path8999"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9001">
+      <g
+         id="g9003"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 411.16275,2140.4697 -20.75308,72.4732"
+           id="path9005"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9007">
+      <g
+         id="g9009"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 453.08023,2124.5942 -29.17392,4.6036"
+           id="path9011"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9013">
+      <g
+         id="g9015"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 299.74524,2165.8159 104.54962,-32.0854"
+           id="path9017"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9019">
+      <g
+         id="g9021"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 423.7662,2247.9033 -8.98254,-107.0791"
+           id="path9023"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9025">
+      <g
+         id="g9027"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 394.53284,2215.1582 c 15.07785,-17.6426 24.43914,-50.9573 20.90909,-74.4109"
+           id="path9029"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9031">
+      <g
+         id="g9033"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 299.82315,2166.0842 62.95059,-17.2383"
+           id="path9035"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9037">
+      <g
+         id="g9039"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 290.96411,2159.3347 c -0.0217,-15.7676 -11.21847,-33.8918 -25.00876,-40.4819"
+           id="path9041"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9043">
+      <g
+         id="g9045"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 296.1987,2160.9663 c 17.69385,-25.5498 55.14612,-48.9487 83.65195,-52.2632"
+           id="path9047"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9049">
+      <g
+         id="g9051"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 294.61438,2160.0869 c 8.90033,-20.6011 32.74008,-39.3091 53.24762,-41.7854"
+           id="path9053"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9055">
+      <g
+         id="g9057"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 350.23911,2124.238 -51.9141,38.7796"
+           id="path9059"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9061">
+      <g
+         id="g9063"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 381.68182,2114.0828 -82.84008,49.705"
+           id="path9065"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9067">
+      <g
+         id="g9069"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 262.25403,2123.0164 23.82583,37.7348"
+           id="path9071"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9073">
+      <g
+         id="g9075"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 459.03448,2170.5916 -68.5111,-21.2764"
+           id="path9077"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9079">
+      <g
+         id="g9081"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 459.84183,2176.4185 -63.23087,41.1088"
+           id="path9083"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9085">
+      <g
+         id="g9087"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 363.24066,2128.8345 21.41721,84.0241"
+           id="path9089"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9091">
+      <g
+         id="g9093"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 452.97705,2122.4443 -80.41867,-4.8786"
+           id="path9095"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9097">
+      <g
+         id="g9099"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 345.53006,2222.7578 12.94803,-93.656"
+           id="path9101"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9103">
+      <g
+         id="g9105"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 266.62671,2116.9995 96.0806,24.4612"
+           id="path9107"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9109">
+      <g
+         id="g9111"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 521.69513,2145.9036 406.15048,2111.0405"
+           id="path9113"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9115">
+      <g
+         id="g9117"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 521.25543,2148.3408 76.239197,2119.8633"
+           id="path9119"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9121">
+      <g
+         id="g9123"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 403.98325,2115.2959 c 28.1011,21.323 80.60537,36.7327 117.27157,34.4187"
+           id="path9125"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9127">
+      <g
+         id="g9129"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 392.56427,2120.6113 -4.63205,91.92"
+           id="path9131"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9133">
+      <g
+         id="g9135"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 406.38708,2110.1465 46.8209,10.6885"
+           id="path9137"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9139">
+      <g
+         id="g9141"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 453.83102,2127.1162 c -17.543,7.8801 -40.78176,3.5571 -51.90521,-9.656"
+           id="path9143"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9145">
+      <g
+         id="g9147"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 348.04636,2223.4111 40.31149,-103.6987"
+           id="path9149"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9151">
+      <g
+         id="g9153"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 392.50037,2213.7813 c 13.66391,-26.0049 16.25259,-68.1485 5.78201,-94.1302"
+           id="path9155"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9157">
+      <g
+         id="g9159"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 453.26703,2125.5012 -62.54178,15.9531"
+           id="path9161"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9163">
+      <g
+         id="g9165"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 347.86124,2223.3411 23.85754,-64.7483"
+           id="path9167"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9169">
+      <g
+         id="g9171"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 385.896,2212.6174 -7.23349,-53.2646"
+           id="path9173"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9175">
+      <g
+         id="g9177"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 460.17065,2132.5999 -32.94879,115.6394"
+           id="path9179"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9181">
+      <g
+         id="g9183"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 456.92468,2130.9873 -62.93057,83.739"
+           id="path9185"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9187">
+      <g
+         id="g9189"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 396.53354,2217.4099 c 25.52084,-17.0598 53.88519,-55.0688 63.35354,-84.8955"
+           id="path9191"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9193">
+      <g
+         id="g9195"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="M 415.25818,2254.9653 75.796631,2161.4202"
+           id="path9197"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9199">
+      <g
+         id="g9201"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 352.76276,2240.7378 71.2287,56.2576"
+           id="path9203"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9205">
+      <g
+         id="g9207"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 324.78012,2293.8188 15.81476,-49.3684"
+           id="path9209"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9211">
+      <g
+         id="g9213"
+         style="fill:none;stroke:#848484;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           d="m 417.44186,2251.0127 -21.93557,-20.0523"
+           id="path9215"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9217">
+      <g
+         id="g9219"
+         style="fill:#fff800;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 302.02228,2223.4753 c 0,4.1691 -3.37971,7.5489 -7.5488,7.5489 -4.16909,0 -7.5488,-3.3798 -7.5488,-7.5489 0,-4.1691 3.37971,-7.5488 7.5488,-7.5488 4.16909,0 7.5488,3.3797 7.5488,7.5488 z"
+           id="path9221"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,583.96804,536.00511)"
+       id="g9223">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9225"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">FYCO1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9227">
+      <g
+         id="g9229"
+         style="fill:#ffd500;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 333.76602,2188.0195 c 0,5.708 -4.62721,10.3352 -10.33517,10.3352 -5.70796,0 -10.33518,-4.6272 -10.33518,-10.3352 0,-5.7079 4.62722,-10.3352 10.33518,-10.3352 5.70796,0 10.33517,4.6273 10.33517,10.3352 z"
+           id="path9231"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,615.46242,496.75598)"
+       id="g9233">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9235"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG4B</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9237">
+      <g
+         id="g9239"
+         style="fill:#ffec00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 469.36566,2222.0652 c 0,4.7065 -3.81546,8.522 -8.52206,8.522 -4.70661,0 -8.52207,-3.8155 -8.52207,-8.522 0,-4.7066 3.81546,-8.522 8.52207,-8.522 4.7066,0 8.52206,3.8154 8.52206,8.522 z"
+           id="path9241"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,767.90738,534.44408)"
+       id="g9243">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9245"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG14</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9247">
+      <g
+         id="g9249"
+         style="fill:#ffb600;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 374.48608,2197.8774 c 0,7.0469 -5.71264,12.7596 -12.75955,12.7596 -7.0469,0 -12.75955,-5.7127 -12.75955,-12.7596 0,-7.0468 5.71265,-12.7595 12.75955,-12.7595 7.04691,0 12.75955,5.7127 12.75955,12.7595 z"
+           id="path9251"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,662.41185,507.66856)"
+       id="g9253">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9255"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG3</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9257">
+      <g
+         id="g9259"
+         style="fill:#ffa400;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 540.50916,2212.8137 c 0,7.8291 -6.34675,14.1758 -14.17585,14.1758 -7.8291,0 -14.17584,-6.3467 -14.17584,-14.1758 0,-7.829 6.34674,-14.1758 14.17584,-14.1758 7.8291,0 14.17585,6.3468 14.17585,14.1758 z"
+           id="path9261"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,840.01773,524.20283)"
+       id="g9263">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9265"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">BECN1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9267">
+      <g
+         id="g9269"
+         style="fill:#fff900;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 505.88815,2199.4744 c 0,4.1203 -3.34019,7.4604 -7.46054,7.4604 -4.12034,0 -7.46054,-3.3401 -7.46054,-7.4604 0,-4.1203 3.3402,-7.4605 7.46054,-7.4605 4.12035,0 7.46054,3.3402 7.46054,7.4605 z"
+           id="path9271"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,791.86007,509.43633)"
+       id="g9273">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9275"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">MAP1LC3B2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9277">
+      <g
+         id="g9279"
+         style="fill:#ffd300;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 431.15356,2195.6707 c 0,5.7816 -4.68691,10.4685 -10.4685,10.4685 -5.7816,0 -10.46851,-4.6869 -10.46851,-10.4685 0,-5.7816 4.68691,-10.4686 10.46851,-10.4686 5.78159,0 10.4685,4.687 10.4685,10.4686 z"
+           id="path9281"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,723.45239,505.22567)"
+       id="g9283">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9285"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG10</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9287">
+      <g
+         id="g9289"
+         style="fill:#fffb00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 247.75435,2193.7925 c 0,3.6555 -2.96342,6.6189 -6.61897,6.6189 -3.65556,0 -6.61898,-2.9634 -6.61898,-6.6189 0,-3.6555 2.96342,-6.6189 6.61898,-6.6189 3.65555,0 6.61897,2.9634 6.61897,6.6189 z"
+           id="path9291"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,524.37535,503.14656)"
+       id="g9293">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9295"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG4A</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9297">
+      <g
+         id="g9299"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 209.15582,1779.8013 c 0,2.7629 -2.23981,5.0028 -5.00276,5.0028 -2.76295,0 -5.00276,-2.2399 -5.00276,-5.0028 0,-2.763 2.23981,-5.0028 5.00276,-5.0028 2.76295,0 5.00276,2.2398 5.00276,5.0028 z"
+           id="path9301"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,493.75279,44.863563)"
+       id="g9303">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9305"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">sifB</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9307">
+      <g
+         id="g9309"
+         style="fill:#fffa00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 387.41406,1779.1377 c 0,3.7365 -3.029,6.7655 -6.76547,6.7655 -3.73647,0 -6.76547,-3.029 -6.76547,-6.7655 0,-3.7365 3.029,-6.7655 6.76547,-6.7655 3.73647,0 6.76547,3.029 6.76547,6.7655 z"
+           id="path9311"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,688.36571,44.128995)"
+       id="g9313">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9315"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">sseI</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9317">
+      <g
+         id="g9319"
+         style="fill:#fff600;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 332.50165,1779.5626 c 0,4.2333 -3.43174,7.6651 -7.66501,7.6651 -4.23327,0 -7.66501,-3.4318 -7.66501,-7.6651 0,-4.2333 3.43174,-7.665 7.66501,-7.665 4.23327,0 7.66501,3.4317 7.66501,7.665 z"
+           id="path9321"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,623.2519,44.599384)"
+       id="g9323">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9325"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">sopB</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9327">
+      <g
+         id="g9329"
+         style="fill:#ff3300;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 272.58408,1779.9725 c 0,12.8009 -10.37718,23.1781 -23.17807,23.1781 -12.8009,0 -23.17807,-10.3772 -23.17807,-23.1781 0,-12.8009 10.37717,-23.1781 23.17807,-23.1781 12.80089,0 23.17807,10.3772 23.17807,23.1781 z"
+           id="path9331"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,535.69076,45.053151)"
+       id="g9333">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9335"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">sspH2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9337">
+      <g
+         id="g9339"
+         style="fill:#fff700;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 473.04633,1779.2606 c 0,4.1863 -3.39365,7.58 -7.57993,7.58 -4.18628,0 -7.57993,-3.3937 -7.57993,-7.58 0,-4.1863 3.39365,-7.5799 7.57993,-7.5799 4.18628,0 7.57993,3.3936 7.57993,7.5799 z"
+           id="path9341"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,781.15853,44.265071)"
+       id="g9343">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9345"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">slpA</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9347">
+      <g
+         id="g9349"
+         style="fill:#fff600;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 434.02579,1779.2311 c 0,4.2321 -3.43081,7.6629 -7.66294,7.6629 -4.23212,0 -7.66293,-3.4308 -7.66293,-7.6629 0,-4.2322 3.43081,-7.663 7.66293,-7.663 4.23213,0 7.66294,3.4308 7.66294,7.663 z"
+           id="path9351"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,737.22926,44.23237)"
+       id="g9353">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9355"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">sseL</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9357">
+      <g
+         id="g9359"
+         style="fill:#ff9e00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 354.05164,1920.8129 c 0,8.1 -6.56638,14.6663 -14.66642,14.6663 -8.10003,0 -14.66641,-6.5663 -14.66641,-14.6663 0,-8.1001 6.56638,-14.6664 14.66641,-14.6664 8.10004,0 14.66642,6.5663 14.66642,14.6664 z"
+           id="path9361"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,628.75522,200.9616)"
+       id="g9363">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9365"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">RB1CC1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9367">
+      <g
+         id="g9369"
+         style="fill:#ffe600;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 363.70752,2002.5886 c 0,4.9678 -4.02721,8.995 -8.99503,8.995 -4.96781,0 -8.99502,-4.0272 -8.99502,-8.995 0,-4.9678 4.02721,-8.995 8.99502,-8.995 4.96782,0 8.99503,4.0272 8.99503,8.995 z"
+           id="path9371"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,646.19581,291.48632)"
+       id="g9373">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9375"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG101</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9377">
+      <g
+         id="g9379"
+         style="fill:#ffcb00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 78.889465,2071.0105 c 0,6.139 -4.97673,11.1157 -11.115839,11.1157 -6.139108,0 -11.115839,-4.9767 -11.115839,-11.1157 0,-6.139 4.976731,-11.1157 11.115839,-11.1157 6.139109,0 11.115839,4.9767 11.115839,11.1157 z"
+           id="path9381"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,337.83997,367.22847)"
+       id="g9383">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9385"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ULK1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9387">
+      <g
+         id="g9389"
+         style="fill:#ff9000;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 380.53189,2045.8791 c 0,8.7106 -7.06138,15.772 -15.77203,15.772 -8.71066,0 -15.77204,-7.0614 -15.77204,-15.772 0,-8.7107 7.06138,-15.772 15.77204,-15.772 8.71065,0 15.77203,7.0613 15.77203,15.772 z"
+           id="path9391"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,643.86238,339.40839)"
+       id="g9393">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9395"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">GABARAPL2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9397">
+      <g
+         id="g9399"
+         style="fill:#ffc400;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 424.13644,1982.4662 c 0,6.4665 -5.24219,11.7087 -11.70877,11.7087 -6.46657,0 -11.70877,-5.2422 -11.70877,-11.7087 0,-6.4666 5.2422,-11.7088 11.70877,-11.7088 6.46658,0 11.70877,5.2422 11.70877,11.7088 z"
+           id="path9401"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,719.3676,269.21104)"
+       id="g9403">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9405"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ULK2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9407">
+      <g
+         id="g9409"
+         style="fill:#ffd300;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 316.18689,1993.0562 c 0,5.7758 -4.68221,10.458 -10.45801,10.458 -5.7758,0 -10.45801,-4.6822 -10.45801,-10.458 0,-5.7758 4.68221,-10.4581 10.45801,-10.4581 5.7758,0 10.45801,4.6823 10.45801,10.4581 z"
+           id="path9411"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,590.72297,280.934)"
+       id="g9413">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9415"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">SQSTM1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9417">
+      <g
+         id="g9419"
+         style="fill:#ff8100;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 332.95862,2070.2 c 0,9.3691 -7.59518,16.9643 -16.9643,16.9643 -9.36912,0 -16.96429,-7.5952 -16.96429,-16.9643 0,-9.3692 7.59517,-16.9644 16.96429,-16.9644 9.36912,0 16.9643,7.5952 16.9643,16.9644 z"
+           id="path9421"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,597.80576,366.3312)"
+       id="g9423">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9425"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">GABARAP</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9427">
+      <g
+         id="g9429"
+         style="fill:#ffe200;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 463.87479,2035.7266 c 0,5.1189 -4.14973,9.2686 -9.26868,9.2686 -5.11895,0 -9.26868,-4.1497 -9.26868,-9.2686 0,-5.119 4.14973,-9.2687 9.26868,-9.2687 5.11895,0 9.26868,4.1497 9.26868,9.2687 z"
+           id="path9431"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,761.00256,328.1696)"
+       id="g9433">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9435"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG13</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9437">
+      <g
+         id="g9439"
+         style="fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 529.1142,2064.2061 c 0,6.2845 -5.09462,11.3791 -11.37915,11.3791 -6.28453,0 -11.37915,-5.0946 -11.37915,-11.3791 0,-6.2846 5.09462,-11.3792 11.37915,-11.3792 6.28453,0 11.37915,5.0946 11.37915,11.3792 z"
+           id="path9441"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,829.69851,359.69604)"
+       id="g9443">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9445"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">PIK3R4</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9447">
+      <g
+         id="g9449"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 75.230141,2033.8535 c 0,4.4422 -3.601052,8.0432 -8.043175,8.0432 -4.442123,0 -8.043175,-3.601 -8.043175,-8.0432 0,-4.4421 3.601052,-8.0432 8.043175,-8.0432 4.442123,0 8.043175,3.6011 8.043175,8.0432 z"
+           id="path9451"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,330.62321,326.09616)"
+       id="g9453">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9455"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">UVRAG</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9457">
+      <g
+         id="g9459"
+         style="fill:#ffd800;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 424.02963,2130.7703 c 0,5.5722 -4.51717,10.0893 -10.08938,10.0893 -5.57222,0 -10.08939,-4.5171 -10.08939,-10.0893 0,-5.5722 4.51717,-10.0894 10.08939,-10.0894 5.57221,0 10.08938,4.5172 10.08938,10.0894 z"
+           id="path9461"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,715.98597,433.38177)"
+       id="g9463">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9465"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG12</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9467">
+      <g
+         id="g9469"
+         style="fill:#ffe300;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 300.14886,2168.5068 c 0,5.0657 -4.10651,9.1722 -9.17214,9.1722 -5.06564,0 -9.17215,-4.1065 -9.17215,-9.1722 0,-5.0656 4.10651,-9.1721 9.17215,-9.1721 5.06563,0 9.17214,4.1065 9.17214,9.1721 z"
+           id="path9471"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,584.0927,475.15567)"
+       id="g9473">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9475"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG7</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9477">
+      <g
+         id="g9479"
+         style="fill:#fffa00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 472.56918,2172.6448 c 0,3.8235 -3.09957,6.9231 -6.92309,6.9231 -3.82352,0 -6.9231,-3.0996 -6.9231,-6.9231 0,-3.8235 3.09958,-6.9231 6.9231,-6.9231 3.82352,0 6.92309,3.0996 6.92309,6.9231 z"
+           id="path9481"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,765.29748,479.73632)"
+       id="g9483">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9485"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG16L2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9487">
+      <g
+         id="g9489"
+         style="fill:#ffbb00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 372.58115,2116.8145 c 0,6.8507 -5.5536,12.4043 -12.4043,12.4043 -6.8507,0 -12.4043,-5.5536 -12.4043,-12.4043 0,-6.8508 5.5536,-12.4043 12.4043,-12.4043 6.8507,0 12.4043,5.5535 12.4043,12.4043 z"
+           id="path9491"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,638.78905,417.93286)"
+       id="g9493">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9495"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">GABARAPL1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9497">
+      <g
+         id="g9499"
+         style="fill:#ffd800;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 266.93732,2114.5205 c 0,5.5491 -4.49844,10.0476 -10.04754,10.0476 -5.5491,0 -10.04754,-4.4985 -10.04754,-10.0476 0,-5.5491 4.49844,-10.0476 10.04754,-10.0476 5.5491,0 10.04754,4.4985 10.04754,10.0476 z"
+           id="path9501"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,528.71952,415.39349)"
+       id="g9503">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9505"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">MAP1LC3A</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9507">
+      <g
+         id="g9509"
+         style="fill:#ffcf00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 542.89703,2149.0325 c 0,5.9822 -4.84958,10.8318 -10.83184,10.8318 -5.98227,0 -10.83185,-4.8496 -10.83185,-10.8318 0,-5.9823 4.84958,-10.8318 10.83185,-10.8318 5.98226,0 10.83184,4.8495 10.83184,10.8318 z"
+           id="path9511"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,845.53909,453.5978)"
+       id="g9513">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9515"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">PIK3C3</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9517">
+      <g
+         id="g9519"
+         style="fill:#ffad00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 406.72522,2107.146 c 0,7.4461 -6.03627,13.4824 -13.48239,13.4824 -7.44612,0 -13.48239,-6.0363 -13.48239,-13.4824 0,-7.4461 6.03627,-13.4824 13.48239,-13.4824 7.44612,0 13.48239,6.0363 13.48239,13.4824 z"
+           id="path9521"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,679.56657,407.23)"
+       id="g9523">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9525"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">MAP1LC3C</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9527">
+      <g
+         id="g9529"
+         style="fill:#ffa100;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 391.1738,2145.0276 c 0,7.9843 -6.47249,14.4568 -14.4567,14.4568 -7.98421,0 -14.45669,-6.4725 -14.45669,-14.4568 0,-7.9843 6.47248,-14.4568 14.45669,-14.4568 7.98421,0 14.4567,6.4725 14.4567,14.4568 z"
+           id="path9531"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,661.35388,449.16444)"
+       id="g9533">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9535"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">MAP1LC3B</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9537">
+      <g
+         id="g9539"
+         style="fill:#ffda00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 472.82675,2123.0459 c 0,5.4864 -4.44758,9.9341 -9.93396,9.9341 -5.48637,0 -9.93396,-4.4477 -9.93396,-9.9341 0,-5.4864 4.44759,-9.9341 9.93396,-9.9341 5.48638,0 9.93396,4.4477 9.93396,9.9341 z"
+           id="path9541"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,762.24961,424.83099)"
+       id="g9543">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9545"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG16L1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9547">
+      <g
+         id="g9549"
+         style="fill:#fff400;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 76.0784,2159.3372 c 0,4.3303 -3.51051,7.8408 -7.840943,7.8408 -4.330433,0 -7.840942,-3.5105 -7.840942,-7.8408 0,-4.3304 3.510509,-7.8409 7.840942,-7.8409 4.330433,0 7.840943,3.5105 7.840943,7.8409 z"
+           id="path9551"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,336.78051,465.00496)"
+       id="g9553">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9555"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">WIPI2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9557">
+      <g
+         id="g9559"
+         style="fill:#ffed00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 76.25634,2119.3269 c 0,4.6378 -3.759671,8.3975 -8.397461,8.3975 -4.63779,0 -8.397461,-3.7597 -8.397461,-8.3975 0,-4.6378 3.759671,-8.3975 8.397461,-8.3975 4.63779,0 8.397461,3.7597 8.397461,8.3975 z"
+           id="path9561"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,326.86231,420.71411)"
+       id="g9563">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9565"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">AMBRA1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9567">
+      <g
+         id="g9569"
+         style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 355.16595,2233.8176 c 0,6.1663 -4.99871,11.1651 -11.16494,11.1651 -6.16623,0 -11.16495,-4.9988 -11.16495,-11.1651 0,-6.1663 4.99872,-11.165 11.16495,-11.165 6.16623,0 11.16494,4.9987 11.16494,11.165 z"
+           id="path9571"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,638.2463,547.45389)"
+       id="g9573">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9575"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG2A</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9577">
+      <g
+         id="g9579"
+         style="fill:#fff800;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 437.4133,2301.6565 c 0,4.1533 -3.36695,7.5203 -7.52029,7.5203 -4.15335,0 -7.5203,-3.367 -7.5203,-7.5203 0,-4.1533 3.36695,-7.5203 7.5203,-7.5203 4.15334,0 7.52029,3.367 7.52029,7.5203 z"
+           id="path9581"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,737.12859,622.55065)"
+       id="g9583">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9585"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">WIPI1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9587">
+      <g
+         id="g9589"
+         style="fill:#ffdd00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 434.237,2257.5325 c 0,5.3367 -4.32628,9.6631 -9.66303,9.6631 -5.33674,0 -9.66302,-4.3264 -9.66302,-9.6631 0,-5.3368 4.32628,-9.6631 9.66302,-9.6631 5.33675,0 9.66303,4.3263 9.66303,9.6631 z"
+           id="path9591"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,724.21912,573.70591)"
+       id="g9593">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9595"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">TECPR1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9597">
+      <g
+         id="g9599"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 398.39078,2223.53 c 0,6.0822 -4.93061,11.0127 -11.01282,11.0127 -6.08221,0 -11.01282,-4.9305 -11.01282,-11.0127 0,-6.0821 4.93061,-11.0127 11.01282,-11.0127 6.08221,0 11.01282,4.9306 11.01282,11.0127 z"
+           id="path9601"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,690.80765,536.06565)"
+       id="g9603">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9605"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG5</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,279.95859,-1929.9525)"
+       id="g9607">
+      <g
+         id="g9609"
+         style="fill:#fffd00;fill-opacity:1;fill-rule:nonzero;stroke:none">
+        <path
+           d="m 328.91736,2299.4885 c 0,3.2881 -2.66548,5.9536 -5.95352,5.9536 -3.28804,0 -5.95353,-2.6655 -5.95353,-5.9536 0,-3.2881 2.66549,-5.9536 5.95353,-5.9536 3.28804,0 5.95352,2.6655 5.95352,5.9536 z"
+           id="path9611"
+           inkscape:connector-curvature="0" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1069873,0,0,1.1069873,614.94544,620.15073)"
+       id="g9613">
+      <text
+         font-style="normal"
+         font-weight="normal"
+         font-size="12"
+         x="0"
+         y="0"
+         id="text9615"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica">ATG2B</text>
+    </g>
+    <!-- transform -->
+  </g>
+  <!-- default stroke -->
+  <rect
+     style="opacity:0.35;color:#000000;fill:#0049ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect9625"
+     width="60.746887"
+     height="175.6138"
+     x="0.50054932"
+     y="293.20358"
+     rx="7.0866141"
+     ry="6.5864205" />
+  <rect
+     ry="6.5864205"
+     rx="7.0866141"
+     y="0.51396656"
+     x="155.68127"
+     height="56.328972"
+     width="347.36182"
+     id="rect10135"
+     style="opacity:0.35;color:#000000;fill:#30ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>
+<!-- bounding box -->
+
