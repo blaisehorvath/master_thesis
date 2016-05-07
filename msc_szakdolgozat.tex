@@ -403,8 +403,17 @@ NCBI
 			A gazda patogén hálózat összeállításához az ARN adatbázisnak csak az első, autofágia fehérjéket tartalmazó rétegét használtam fel. A hálózat letöltését követően azt egy általam írt \textit{Python} scripttel MiTab SQL formátumba alakítottam. A fordító szkripttel az akkor legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam.
 		
 			\subsubsection{Salmonet} 
-			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. 
+			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. A hálózat adatai kézi adatgyűjtésből, nagy áteresztőképességű módszerekből valamint predikciókból származnak. Az adatokból integrált hálózat transzkripciónális szabályzási, metabolikus és fehérje-fehérje kölcsönhatási szinteket tartalmaz. A \textit{Salmonet} összesen öt-öt gasztrointesztinális és extraintesztinális \textit{Salmonella} törzs hálózatából lett egyesítve. Egy törzs hálózata a metabolikus, szabályzási és fehérje-fehérje alhálózatok egyesítéséből készült. A \textit{Salmonet} ezen tíz törzs hálózatainak összeejtésével jött létre.
 			\cite{salmonet}
+			
+			\paragraph{A metabolikus hálózatok} \mbox{}\\
+				Ha egy metabolit egy bizonyos reakció képződménye és egy másik szubsztrátja, akkor a két reakciót katalizáló fehérje kapcsoltnak tekinthető. A reakciók adatai két forrásból származnak. Az adatok egy része a \textit{Salmonella Typhimurium LT2} kézi gyűjtésű metabolikus modelljéből származik, a másik része pedig a\textit{BioModels} adatbázisból származó predikciókból. \cite{salmonet}
+				
+			\paragraph{A szabályzási hálózatok} \mbox{}\\
+				Szabályzási kapcsolatnak tekintjuk a transzkripciós faktor promóterhez való kötődését. Az ilyen típusú kapcsolatok is kísérletesen bizonyított és predikciós adatok alapján lettek összeállítva.  \cite{salmonet}
+				
+			\paragraph{A fehérje-fehérje kapcsolati hálók} \mbox{}\\
+				\cite{salmonet}
 			
 			\paragraph{A Salmonet feldolgozása} \mbox{}\\
 			Az \textit{Salmonet} átalakítása az ARN-hez hasonló módon történt, azzal a különbséggel, hogy fordításkor \textit{Salmonella}-\textit{Salmonella} szótárat használtam.
@@ -507,9 +516,34 @@ NCBI
 	
 	\subsection{Az integrált hálózat}
 		
-		Elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített adatbázisokra végeztem el. A topológiai fontosságot mind a három hálózatra kiszámoltam 1, 2 és 3 lépés távolságra. Így meg lehet nézni, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül a különböző lépésszámoknál. Fontos információt nyújt az is, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+
+
+				\begin{figure}[H]
+					\includegraphics[scale=0.7]{img/merged.pdf}
+					\centering
+					\caption{\textbf{ Az egyesített hálózat}}
+					\begin{imgdesc}
+						A hálózaton piros élek jelölik az \textit{ARN}-t (\textit{baloldalt alul}) és a \textit{Salmonet}-et elválasztó prediktált éleket. Az ábrán a színátmenetek és méretek arányosak a pontokra kiszámolt TI$^3$-al. A topológiailag fontos pontok kiemelése érdekében három csoportot állítottam fel: Az első csoportba azok a pontok tartoznak, melyekből távozó hatás kisebb mint a beérkező (TI$^3\leq1$). A hálózatban 1674 ilyen nódus található, ami a háló 68,1\%-át teszi ki. Az utóbbi pontok színe a sötétkéktől a citromsárgáig terjed. A középső citromsárgától a narancsig ábrázolt pontok azok melyeknek már van nettó kimenő hatásuk ($1<$TI$^3<2$). Ebbe a halmazba 624 pont azaz a hálózat 25,4\%-a tartozik. A harmadik narancstól vörösig terjedő csoportot azok a nódusok alkotják melyeknek a legnagyobb a topológiai fontosságuk. Ez utóbbi 161 pont a hálózat 6,5\%-át teszi ki.
+					\end{imgdesc}
 		
-		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van. 
+					\label{fig:merged}			 		 
+				\end{figure}		
+
+		Elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített hálózatra végeztem el. A topológiai fontosságot mind a három hálóra kiszámoltam 1, 2 és 3 lépés távolságra. A többfajta lépéshosszra kiszámolt indexek információt szolgáltatnak arról, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül. Fontos információt nyújt az is, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+		
+		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van. A \textit{Salmonet}-ben pedig 2425 pont van amik között 7973 él húzódik. A predikciók az \textit{ARN}-ből és \textit{Salmonet}-ből származó 2459 nódus közé még 40 kapcsolatot adnak. A végleges hálózat így 2459 pontot és 8199 élt tartalmaz. (\textit{\ref{fig:merged}. ábra})
+		
+					\begin{figure}[H]
+						\vspace{48pt}
+						\includegraphics[scale=0.65]{img/merged-3-step-from-connecting-salmonella.pdf}
+						\centering
+						\caption{ \textbf{A három lépésre elérhető pontok}}
+						\begin{imgdesc}
+							Az ábra az egyesített hálózat azon részét tartalmazza mely elérhető három lépésre a \textit{Salmonella} hat darab humán fehérjékkel kapcsolatot létesítő fehérjéitől. A zöld színű élek a predikciókból származnak. A piros színű élek ez esetben a \textit{Salmonella} interfész fehérjéi és ezek \textit{Salmonellán} belüli első szomszédai között húzódnak. Látványos, hogy ez utóbbi élekből több is a nagy topológiai fontosságú pontokhoz tart. A pontok színezése megegyezik az \ref{fig:merged}. ábránál ismertetett sémával.
+						\end{imgdesc}			
+						\label{fig:merged-3-step}			 		 
+					\end{figure}
+	
 	
 	\subsection{Topológiai index az integrált hálózatban}
 		\subsubsection{ARN}
@@ -522,7 +556,7 @@ NCBI
 					\label{fig:arn123}			 		 
 				\end{figure}
 				
-				\begin{table}[]
+				\begin{table}[H]
 				\centering
 				\caption{Az \textit{ARN} legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
 				\label{my-label}
