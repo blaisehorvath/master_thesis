@@ -99,6 +99,8 @@
 \section{Rövidítésjegyzék}
 PPI - protein protein interaction 
 NCBI
+GABARAP -Gamma-aminobutyric acid receptor-associated protein
+MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 \pagebreak
 
 \section{Bevezetés}
@@ -410,9 +412,10 @@ NCBI
 				Ha egy metabolit egy bizonyos reakció képződménye és egy másik szubsztrátja, akkor a két reakciót katalizáló fehérje kapcsoltnak tekinthető. A reakciók adatai két forrásból származnak. Az adatok egy része a \textit{Salmonella Typhimurium LT2} kézi gyűjtésű metabolikus modelljéből származik, a másik része pedig a\textit{BioModels} adatbázisból származó predikciókból. \cite{salmonet}
 				
 			\paragraph{A szabályzási hálózatok} \mbox{}\\
-				Szabályzási kapcsolatnak tekintjuk a transzkripciós faktor promóterhez való kötődését. Az ilyen típusú kapcsolatok is kísérletesen bizonyított és predikciós adatok alapján lettek összeállítva.  \cite{salmonet}
+				Szabályzási kapcsolatnak tekintjük a transzkripciós faktor promóterhez való kötődését. Az ilyen típusú kapcsolatok is a szakirodalomból kézileg gyűjtött kísérletesen bizonyított valamint nagy áteresztőképességű kísérletek adatszettjei alapján lettek összeállítva.  \cite{salmonet}
 				
 			\paragraph{A fehérje-fehérje kapcsolati hálók} \mbox{}\\
+				A fehérje-fehérje kapcsolatok is több forrásból kerültek a \textit{Salmonet}be. Kézi gyűjtéshez a csoportunk által a \textit{Signalink} adatbázis létrehozásához használt módszert alkalmaztuk. A kézi gyűjtés mellett kísérletesen igazolt kapcsolatokat az \textit{IntAct} adatbázisból is integráltuk. Az előző két módszer mellett ez a réteg is tartalmaz predikciókból származó kapcsolatokat. 
 				\cite{salmonet}
 			
 			\paragraph{A Salmonet feldolgozása} \mbox{}\\
@@ -514,7 +517,7 @@ NCBI
 
 \section{Eredmények}
 	
-	\subsection{Az integrált hálózat}
+	\subsection{Topológiai indexek az integrált hálózatban}
 		
 
 
@@ -545,13 +548,16 @@ NCBI
 					\end{figure}
 	
 	
-	\subsection{Topológiai index az integrált hálózatban}
+	\subsection{Topológiai indexek az alhálózatokban}
 		\subsubsection{ARN}
 	
 				\begin{figure}[H]
 					\includegraphics[scale=0.4]{img/arn_123_comp.pdf}
 					\centering
 					\caption{ \textbf{Az \textit{ARN} 1, 2 és 3 lépésre számított topológiai fontosságai}}
+					\begin{imgdesc}
+						A pontok színmélysége citromsárgától narancsig, valamint átmérője egyenesen arányos az nódus TI értékével. Az \textit{ARN}-en belül a
+					\end{imgdesc}
 		
 					\label{fig:arn123}			 		 
 				\end{figure}
@@ -559,7 +565,8 @@ NCBI
 				\begin{table}[H]
 				\centering
 				\caption{Az \textit{ARN} legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
-				\label{my-label}
+				\label{table:arnti123}
+				\vspace{16pt}
 				\begin{tabular}{|c|c|c|c|c|c|}
 				\hline
 				\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
@@ -571,6 +578,24 @@ NCBI
 				\end{tabular}
 				\end{table}
 		
+				Az \textit{ARN} az egyesített hálózatnál jóval kompaktabb, nagyon sok benne a belső kapcsolat. Az erősebb belső kapcsoltságot az is jól jellemzi, hogy ebben a hálózatban nagyobb az olyan nódusok aránya melyeknek nagy a topológiai fontossága. Az egyesített hálózatban csupán a pontok 31,9\%-a rendelkeuett egynél nagyobb TI$^3$ értékkel, ugyanakkor ez arány az \textit{ARN} esetén már 44,1\%.
+				
+				Az \ref{table:arnti123}. táblázaton ábrázoltam a TI$^1$, TI$^2$ és TI$^3$  kategória első öt legfontosabb fehérjéit. A táblázatból látható, hogy egy adott fehérje különböző lépéshosszoknál számolt topológiai fontossága nagyjából hasonló értékeket vesz fel. A TI$^2$ adatok mindenképp magukba foglalják azt, hogy a pontok hogyan hatnak vissza önmagukra. A TI$^3$-as értékek is tartalmazhatnak olyan útvonalakat melyeken egy pont önmagára visszahat, de csak akkor ha a két nódusnak van közös első szomszédja. A TI$^3$ tehát magába foglalja az adott pont hatását önmagára de csak közvetett módon. TI$^3$-nál a pontból származó egységnyi erő nem oszlik több részre, mert a pont nem éri el magát még páros lépésszámú útvonalakon is.
+				
+				\paragraph{Az \textit{ARN} legnagyobb TI értékű fehérjéi} \mbox{}\\
+				A következő felsorolásba összegyűjtöttem azokat a fehérjéket amelyek mind a három topológiai fontosság kategóriában megtalálhatók a tíz legfontosabb fehérje halmazában. A következő nyolc fehérje tehát a közvetlen topológiai hatást figyelembe vevő TI$^1$, az önhatást hangsúlyozó TI$^2$ és távolabbi szomszédságot is elérő közvetett hatást hangsúlyozó TI$^3$ listáján is magas pontszámmal végzett:
+				
+				\begin{itemize}
+					\item \textbf{ATG3} -- Más néven \textit{ubiquitine-like-conjugating enzyme ATG3}, egy konjugáló enzim, mely az autofágiában és a mitokondrium homeosztázisban tölt be szerepet. Autofágia során ez az enzim katalizálja a foszfatidiletanolamin konjugációját az ATG8 szerű fehérjék C-terminális glicinjére. Ilyen ATG8 szerű fehérje a listán szereplő GABRAP, GABARAPL1, GABARAPL2 valamint a listán nem szereplő MAP1LC3A is. \cite{autophagy_proteins}
+
+					\item \textbf{BECN1} -- Más néven \textit{Beclin-1}. Az autofágia egyik központi fehérjéje. Bizonyos jelátviteli útvonalak hatására a VPS34-el együtt a fagofór kialakulását szabályozza. A \textit{Beclin-1} egy PI3K komplex alegysége, VPS34-el való kapcsolódása fokozza annak katalitikus hatását. \cite{autophagy_proteins}
+					\item \textbf{GABARAP, GABARAPL1 és a GABARAPL2} -- A GABARAP a nevét onnan kapta, hogy neuronokban a GABA$_A$ receptorokhoz kapcsolódik. A GABARAP egy 14kDa-os citoplazmatikus molekuláris chaperone (\textcolor{red}{erre mi a jó magyar szó?}). Ma már tudjuk, hogy a fehérje ennél sokkal szélesebb körű kapcsolatrendszerrel rendelkezik. Autofágiában fagofór formálódásánál csakúgy mint az LC3-ak, a GABARAP-ok is liopidálódnak. Amikor a sejt erős autofágiás állapotban van akkor a GABARAP-ek foszfatidiletanolaminra konjugálódnak, ezzel ellentétes helyzetben viszont konstitutív proteolítikus bomlásra vannak ítélve.
+
+					\item \textbf{MAP1LC3B} -- 
+					\item \textbf{MAP1LC3C}
+					\item \textbf{ULK1}
+				\end{itemize}
+				
 		
 		\subsubsection{Salmonet}
 		A \textit{Salmonet} 2425 nódust és 7973 élet tartalmaz.
@@ -590,7 +615,7 @@ NCBI
 				
 
 		\begin{imgdesc}
-			A képen az \textit{ARN}, és \textit{ARN}-t és a \textit{Salmonet}-et összekötő hat pont látható az egyesített hálózatból kiragadva. Az bal oldali kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. Az ábra felső részén helyezkedő pontok a \textit{Salmonet} azont kiragadott pontjai, melyek az \textit{ARN}-nel kapcsolatot létesítenek. A szükre színű élek a \textit{humán-humán} kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága és színmélysége egyenesen arányos az egy lépésre számított topológiai fontosságukkal. Mivel a hálózat az egyesített hálózatból lett kiragadva, így a pontok TI értékei is a nagy hálóra vonatkoznak.
+			A képen az \textit{ARN}, és \textit{ARN}-t és a \textit{Salmonet}-et összekötő hat pont látható az egyesített hálózatból kiragadva. Az bal oldali kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. Az ábra felső részén helyezkedő pontok a \textit{Salmonet} azont kiragadott pontjai, melyek az \textit{ARN}-nel kapcsolatot létesítenek. A szükre színű élek a \textit{humán-humán} kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága és színmélysége egyenesen arányos az egy lépésre számított topológiai fontosságukkal. Mivel a hálózat az egyesített hálózatból lett kiragadva, így a pontok TI értékei is a nagy hálóra vonatkoznak, de szemléletesség kedvéért a színezés és a méret kis hálózat minimum és maximum értékeihez van viszonyítva.
 		\end{imgdesc}
 
 				
@@ -627,6 +652,8 @@ NCBI
 \section{Internetes hivatkozások jegyzéke}
 	1. link \textcolor{red}{TODO github link} \label{lst:github}
 	2. link \textcolor{red}{TODO} homológ fehérje http://www.uniprot.org/uniprot/P0AEM2
+	3. link ATG3 http://www.uniprot.org/uniprot/Q9NT62
+	4. link Beclin-1 http://www.uniprot.org/uniprot/Q14457
 \section{Köszönetnyilvánítás}
 \section{Nyilatkozat}
 

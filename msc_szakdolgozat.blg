@@ -3,47 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: msc_szakdolgozat.aux
 The style file: apalike.bst
 Database file #1: msc_szakdolgozat.bib
-Warning--empty year in salmonet
 Warning--empty note in salmonet
-You've used 21 entries,
+You've used 22 entries,
             1935 wiz_defined-function locations,
-            597 strings with 9207 characters,
-and the built_in function-call counts, 12368 in all, are:
-= -- 1069
-> -- 1021
+            603 strings with 9333 characters,
+and the built_in function-call counts, 12772 in all, are:
+= -- 1109
+> -- 1039
 < -- 3
-+ -- 387
-- -- 384
-* -- 1274
-:= -- 2262
-add.period$ -- 62
-call.type$ -- 21
-change.case$ -- 295
-chr.to.int$ -- 20
++ -- 393
+- -- 390
+* -- 1314
+:= -- 2334
+add.period$ -- 65
+call.type$ -- 22
+change.case$ -- 303
+chr.to.int$ -- 21
 cite$ -- 23
-duplicate$ -- 285
-empty$ -- 565
-format.name$ -- 407
-if$ -- 2231
+duplicate$ -- 299
+empty$ -- 592
+format.name$ -- 414
+if$ -- 2307
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 22
-newline$ -- 107
-num.names$ -- 63
-pop$ -- 272
+missing$ -- 23
+newline$ -- 112
+num.names$ -- 66
+pop$ -- 276
 preamble$ -- 1
-purify$ -- 297
+purify$ -- 305
 quote$ -- 0
-skip$ -- 207
+skip$ -- 219
 stack$ -- 0
-substring$ -- 611
-swap$ -- 20
+substring$ -- 639
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 122
-warning$ -- 2
-while$ -- 68
+type$ -- 128
+warning$ -- 1
+while$ -- 72
 width$ -- 0
-write$ -- 265
-(There were 2 warnings)
+write$ -- 279
+(There was 1 warning)

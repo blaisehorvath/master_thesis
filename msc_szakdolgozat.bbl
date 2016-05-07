@@ -36,6 +36,11 @@ Freeman, J.~A., Ohl, M.~E., and Miller, S.~I. (2003).
   vacuole}.
 \newblock {\em Infect. Immun.}, 71(1):418--427.
 
+\bibitem[Glick et~al., 2010]{autophagy_proteins}
+Glick, D., Barth, S., and Macleod, K.~F. (2010).
+\newblock {{A}utophagy: cellular and molecular mechanisms}.
+\newblock {\em J. Pathol.}, 221(1):3--12.
+
 \bibitem[Haraga et~al., 2008]{salmonella_and_host_cell_nature}
 Haraga, A., Ohlson, M.~B., and Miller, S.~I. (2008).
 \newblock {{S}almonellae interplay with host cells}.
@@ -76,9 +81,9 @@ Kshirsagar, M., Carbonell, J., and Klein-Seetharaman, J. (2012).
   interaction prediction}.
 \newblock {\em Bioinformatics}, 28(18):i466--i472.
 
-\bibitem[Métris et~al., ]{salmonet}
+\bibitem[Métris et~al., 2015]{salmonet}
 Métris, A., Sudhakar, P., Fazekas, D., Demeter, A., Ari, E., Branchu, P.,
-  Kingsley, R., Baranyi, J., and Korcsmáros, T.
+  Kingsley, R., Baranyi, J., and Korcsmáros, T. (2015).
 \newblock Salmonet, an integrated network of ten salmonella enterica strains
   reveals common and distinct pathways to host adaptation.
 
