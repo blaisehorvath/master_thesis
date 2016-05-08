@@ -520,8 +520,6 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 	
 	\subsection{Topológiai indexek az integrált hálózatban}
 		
-
-
 				\begin{figure}[H]
 					\includegraphics[scale=0.7]{img/merged.pdf}
 					\centering
@@ -533,13 +531,49 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 					\label{fig:merged}			 		 
 				\end{figure}		
 
-		Elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített hálózatra végeztem el. A topológiai fontosságot mind a három hálóra kiszámoltam 1, 2 és 3 lépés távolságra. A többfajta lépéshosszra kiszámolt indexek információt szolgáltatnak arról, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül. Fontos információt nyújt az is, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+				\begin{table}[H]
+					\centering
+					\caption{
+						\textbf{Az egyesített hálózat legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
+					}
+
+					\label{table:merged123}
+					\vspace{8pt}
+					\begin{tabular}{|c|c|c|c|c|c|}
+					\hline
+					\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
+					phoP            & 64,38                                   & trxA            & 16,61                                   & phoP            & 53,53                                   \\ \hline
+					ssrB           & 59,17										& phoP          & 10.31                                   & ssrB          & 46,15                                   \\ \hline
+					rpoN              & 46,21                                   & yajL           & 9.95                                   & rpoN           & 37.36                                   \\ \hline
+					hilD           & 39,79                                   & hilD           & 8,71                                   & hilD           & 31,07                                 \\ \hline
+					trxA              & 23,77                                  & ssrB               & 7,93                                   & trxA          & 20.10                                   \\ \hline
+					\end{tabular}
+				\end{table}	
+
+		Elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített hálózatra végeztem el. A topológiai fontosságot mind a három hálóra kiszámoltam 1, 2 és 3 lépés távolságra. A többfajta lépéshosszra kiszámolt indexek információt szolgáltatnak arról, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül. Fontos információt nyújt az is, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.			
 		
 		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van. A \textit{Salmonet}-ben pedig 2425 pont van amik között 7973 él húzódik. A predikciók az \textit{ARN}-ből és \textit{Salmonet}-ből származó 2459 nódus közé még 40 kapcsolatot adnak. A végleges hálózat így 2459 pontot és 8199 élt tartalmaz. (\textit{\ref{fig:merged}. ábra})
 		
+		Az integrált hálózatban a \textit{Salmonet} tulajdonságai érvényesülnek. Az első öt nódus mind a három topológiai fontosság kategóriájában \textit{Salmonet} eredetű. (\textit{\ref{table:merged123}. táblázat})  A hálózatban a legerősebb hatással rendelkező humán fehérje a GABARAP, ami TI$^1$ (2,54) és TI$^3$ (2,12) esetén a 88., TI$^2$-nél (2,61) pedig a 112. legerősebb hatású pont.   
+		
 					\begin{figure}[H]
-						\vspace{48pt}
-						\includegraphics[scale=0.65]{img/merged-3-step-from-connecting-salmonella.pdf}
+						\includegraphics[scale=0.45]{img/mergedTIs.pdf}
+						\centering
+						\caption{\textbf{ Az egyesített hálózat rang abundancia görbéi}}
+						\begin{imgdesc}
+						\end{imgdesc}
+			
+						\label{fig:mergedTIs}			 		 
+					\end{figure}
+					
+		A hálózat fontossági rangsorára felrajzolhatók az ökológiában alkalmazott rang abundancia diagramok.  (\textit{\ref{fig:mergedTIs}. ábra}) A rang abundancia diagramok értelmezési tartománya a pontok rangsorszámainak halmaza, az értékkészlete pedig valamilyen pontra vonatkoztatott mérőszámámok. Ebben az esetben az \textit{y} értékek különböző lépéshosszhoz számított topológiai fontosságok.
+		
+		A \textit{\ref{fig:mergedTIs}. ábrán} megfigyelhető, hogy a hálózatban csupán néhány kiugróan magas topológiai fontosságú pont van. Az is jól látszik, hogy a visszahatást figyelmen kívül hagyó TI$^1$ és a csak közvetett útvonalakon végbemenő visszahatást figyelő TI$^3$ közel azonos lefutású. TI$^2$-nél minden pont eléri önmagát az összes első szomszédján keresztül. Egy pont hatása a cél pontja fokszámával fordítottan arányos. A megnövekedett bemenetszámok miatt a TI$^2$ értékek is kisebbek, viszont jól szemléltetik azt, hogy az adott pontok mennyire hatnak vissza önmagukra. 
+		
+		
+
+					\begin{figure}[H]
+						\includegraphics[scale=0.6]{img/merged-3-step-from-connecting-salmonella.pdf}
 						\centering
 						\caption{ \textbf{A három lépésre elérhető pontok}}
 						\begin{imgdesc}
@@ -579,7 +613,7 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 				\end{tabular}
 				\end{table}
 		
-				Az \textit{ARN} az egyesített hálózatnál jóval kompaktabb, nagyon sok benne a belső kapcsolat. Az erősebb belső kapcsoltságot az is jól jellemzi, hogy ebben a hálózatban nagyobb az olyan nódusok aránya melyeknek nagy a topológiai fontossága. Az egyesített hálózatban csupán a pontok 31,9\%-a rendelkeuett egynél nagyobb TI$^3$ értékkel, ugyanakkor ez arány az \textit{ARN} esetén már 44,1\%.
+				Az \textit{ARN} az egyesített hálózatnál jóval kompaktabb, a potok gazdagon kapcsoltak egymással. Az erősebb belső kapcsoltságot az is jól jellemzi, hogy ebben a hálózatban nagyobb az olyan nódusok aránya melyeknek nagy a topológiai fontossága. Az egyesített hálózatban csupán a pontok 31,9\%-a rendelkeuett egynél nagyobb TI$^3$ értékkel, ugyanakkor ez arány az \textit{ARN} esetén már 44,1\%.
 				
 				Az \ref{table:arnti123}. táblázaton ábrázoltam a TI$^1$, TI$^2$ és TI$^3$  kategória első öt legfontosabb fehérjéit. A táblázatból látható, hogy egy adott fehérje különböző lépéshosszoknál számolt topológiai fontossága nagyjából hasonló értékeket vesz fel. A TI$^2$ adatok mindenképp magukba foglalják azt, hogy a pontok hogyan hatnak vissza önmagukra. A TI$^3$-as értékek is tartalmazhatnak olyan útvonalakat melyeken egy pont önmagára visszahat, de csak akkor ha a két nódusnak van közös első szomszédja. A TI$^3$ tehát magába foglalja az adott pont hatását önmagára de csak közvetett módon. TI$^3$-nál a pontból származó egységnyi erő nem oszlik több részre, mert a pont nem éri el magát még páros lépésszámú útvonalakon is.
 				
@@ -601,18 +635,59 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 				
 		
 		\subsubsection{Salmonet}
-		A \textit{Salmonet} 2425 nódust és 7973 élt tartalmaz.
+		
+			\begin{figure}[H]
+					\includegraphics[scale=0.5]{img/salmonet_tis.pdf}
+					\centering
+					\caption{ \textbf{A \textit{Salmonet} pontjainak rang abundancia diagramjai}}
+					\begin{imgdesc}
+						A képen a \textit{Salmonet} pontjai a különböző topológiai fontossági értékek szerint sorba vannak rendezve. 
+					\end{imgdesc}
+		
+					\label{fig:salmonet_stats}			 		 
+				\end{figure}
+		
+			A \textit{Salmonet} 2425 nódust és 7973 élt tartalmaz. A \textit{Salmonet} jobban hasonlít az egyesített hálózatra. Az \textit{ARN}-el ellentétben de az egyesített hálózathoz hasonlóan, jóval  magasabbak a legnagyobb topológiai fontosságú pontok értékei. Sőt a \textit{Salmonet} különböző lépésszámokhoz rendelt öt legfontosabb fehérjéinek listája megegyezik az egyesített hálózatéval. (\textit{\ref{table:salmonet123}. és \ref{table:merged123}. táblázat}) 
+			
+				\begin{table}[H]
+				\centering
+				\caption{A \textit{Salmonet} legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
+				\label{table:salmonet123}
+				\vspace{16pt}
+				\begin{tabular}{|c|c|c|c|c|c|}
+				\hline
+				\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
+				phoP            & 64,46                                   & trxA            & 16,61                                   & phoP            & 53,84                                   \\ \hline
+				ssrB           & 59,77										& phoP          & 10.30                                   & ssrB          & 49.06                                   \\ \hline
+				rpoN              & 46,89                                   & yajL           & 9.95                                   & rpoN           & 38.11                                   \\ \hline
+				hilD           & 39,87                                   & hilD           & 8,70                                   & hilD           & 31,20                                 \\ \hline
+				trxA              & 23,77                                  & ssrB               & 7,70                                   & trxA          & 20.11                                   \\ \hline
+				\end{tabular}
+				\end{table}
+			
+			A \textit{Salmonet}-ben négy olyan fehérje van mely mind a három topológiai index szempontjából a legerősebb tíz helyezettben van:
+			
+			\begin{itemize}
+				\item \textbf{hilD} -- \textit{Salmonella typhimurium}ban a patogenitási sziget 1 (SPI-1) kódolja a T3SS fehérjéit amik az invázióhoz szükségesek. Az SPI-1 génjei többnyire a szigeten kívüli transzkripciós faktorok által szabályoznak. A sziget mester kapcsolója a hilA transzkripciós faktor, melyet két másik fehérje mellett a hilD szabályoz. A hilD-nek eddig 17 kötési helyét írták le a \textit{Salmonella} genomban. \cite{hilD}
+
+				\item \textbf{phoP} -- A T3SS komponenseit kódoló patogenitási sziget mellett egy másik fontos virulencia rendszer is szerepet játszik a \textit{Salmonella} fertőzés sikerességében. 
+				A phoP-phoQ egy kétkomponensű rendszer mely intracelluláris szignálokra aktiválódik, és nélkülözhetetlen a baktériumsejtek túléléséhez és replikációjához. A phoQ egy kináz mely a megfelelő jelátvitel hatására foszforilállja a phoP-t ami ekkor ki tudja fejezni transzkripciós aktivátor hatását. \cite{phoP}
+				
+				\item \textbf{ssrB} -- Az ssrA-ssrB is egy kétkomponensű rendszer mely egy szenzor kinázból és egy regulátor transzkripciós faktorból áll. Az ssrA-ssrB rendszer szuükséges a baktériumsejtek makrofágokon belüli túléléséhez és replikációjához. A patogenitási sziget 2 több ssrB promótert is tartalmaz. Az ssrB több gén mellett az SPI-2-ben kódolt T3SS fehérjéinek átírásáért is felelős. \cite{ssrB}
+				
+				\item \textbf{trxA} -- A trxA is egy több komponensű rendszer része. A trxA egyike a \textit{Salmonella} genom két ismert thioredoxinjának. A trxA által kódolt fehérje a trx1 egy kicsi oldható diszulfid reduktáz enzim.  A trx1 sok specifikus célfehérjéinn thiol-diszulfid redox folyamatot hajt végre, így fontos szerepet játszik az oxidatív stressz elleni védelemben. Az oxidált trx1 a redukált trxB-ből regenerálódik, mely NADPH-ból szerzi a redukálóerőt. \cite{trxA}
+			\end{itemize}			
 		
 	\subsection{A hármas típusú szekréciós rendszer kapcsolatai}	
 		
+		\subsubsection{A \textit{Salmonella} kapcsolatai az autofágia fehérjékkel}
 		
 		Az \textit{ARN} pontjaiból 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével \textit{(\ref{fig:connection}. ábra)}.
 		
 				\begin{figure}[H]
 					\includegraphics[scale=0.6]{img/connection-proteins.pdf}
 					\centering
-					\caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}
-		
+					\caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}		
 					\label{fig:connection}			 		 
 				\end{figure}
 				
@@ -630,22 +705,34 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 		\noindent A hat fehérje közül a következő öt bizonyítottan a T3SS-el jut ki a baktériumsejtből, míg az utolsóról kevés információnk van: 
 		
 		\begin{itemize}
-			\item \textbf{sifB}: A virulencia vagy más néven effektor fehérjék közé tartozik. Fertőzéskor \textit{Salmonella} által kiváltott filamentumok (\textit{Sif}) mentén eltávolodnak az SCV-től. \cite{sifB}
+			\item \textbf{sifB} -- A virulencia vagy más néven effektor fehérjék közé tartozik. Fertőzéskor \textit{Salmonella} által kiváltott filamentumok (\textit{Sif}) mentén eltávolodnak az SCV-től. \cite{sifB}
 			
-			\item \textbf{sspH2}: Szintén effektor fehérje. Egy olyan E3 ubikvitin ligáz mely a gazda ubikvitinációs szignalizációját befolyásolja. A szubsztrát hiányában öngátló állapotban van. Szubsztrát kötésekor bekapcsolódik. \cite{ssph2} Az sspH2 gátló hatással van az aktin polimerizációra. \cite{salmonella_and_host_cell_nature}
+			\item \textbf{sspH2} -- Szintén effektor fehérje. Egy olyan E3 ubikvitin ligáz mely a gazda ubikvitinációs szignalizációját befolyásolja. A szubsztrát hiányában öngátló állapotban van. Szubsztrát kötésekor bekapcsolódik. \cite{ssph2} Az sspH2 gátló hatással van az aktin polimerizációra. \cite{salmonella_and_host_cell_nature}
 			
-			\item \textbf{sopB}: Egy olyan esszenciális virulencia fehérje mely inozitol-foszfát-foszfatáz mechanizmusával közvetetten aktiválja a gazda Rho-GTP-ázait. Ilyen kis-G fehérje a Cdc42 és a Rho-G. Az aktiválások hatásának eredője az aktin sejtváz átrendeződése. \cite{salmonella_and_host_cell_nature}
+			\item \textbf{sopB} -- Egy olyan esszenciális virulencia fehérje mely inozitol-foszfát-foszfatáz mechanizmusával közvetetten aktiválja a gazda Rho-GTP-ázait. Ilyen kis-G fehérje a Cdc42 és a Rho-G. Az aktiválások hatásának eredője az aktin sejtváz átrendeződése. \cite{salmonella_and_host_cell_nature}
 			
-			\item \textbf{sseI}: Egy olyan effektor fehérje melynek aminoterminusa nagy hasonlóságot mutat a SspH2-vel. Filaminon keresztül képes a polimerizált aktin kötésére. \cite{salmonella_and_host_cell_nature}
+			\item \textbf{sseI} -- Egy olyan effektor fehérje melynek aminoterminusa nagy hasonlóságot mutat a SspH2-vel. Filaminon keresztül képes a polimerizált aktin kötésére. \cite{salmonella_and_host_cell_nature}
 			
-			\item \textbf{sseL}: Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős. \cite{sseL}
+			\item \textbf{sseL} -- Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős. \cite{sseL}
 			
-			\item \textbf{slpA}: Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli. \textcolor{red}{TODO link} A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
+			\item \textbf{slpA} -- Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli. \textcolor{red}{TODO link} A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
 			
 		\end{itemize}
 		
-
+		\subsubsection{A T3SS kapcsolatai és a \textit{Salmonella} belső kapcsolatai}
 		
+		\begin{figure}[H]
+			\includegraphics[scale=0.6]{img/t3ss-inner-salmonella.pdf}
+			\centering
+			\caption{ \textbf{A T3SS fehérjéinek első és második szomszédai}}
+			\begin{imgdesc}
+				A kép a \textit{\ref{fig:merged-3-step}. ábrán} látható hálózat egy részét tartalmazza, azonos színezéssel. A háló az interfész fehérjék első és második szomszédjait tartalmazza. Az öt \textit{Salmonella} oldali első szomszéd nevei fel vannak tüntetve.
+			\end{imgdesc}
+					
+			\label{fig:t3ss_inner}			 		 
+		\end{figure}
+
+		A \textit{\ref{fig:t3ss_inner}. ábrán} az öt feltüntetett fehérje közül csupán egy az invF olyan amelyik nincs benne se a \textit{\ref{table:merged123}.} se a \textit{\ref{table:salmonet123}. táblázatban}. Így elmondható, hogy a T3SS fehérjék \textit{Salmonella} oldali első szomszédjai a mind a három topológiai kiszámolt topológiai fontosság szempontból a legmagasabb rangú pontok közé tartoznak.
 
 		\pagebreak
 	

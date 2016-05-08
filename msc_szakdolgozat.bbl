@@ -81,6 +81,13 @@ Kshirsagar, M., Carbonell, J., and Klein-Seetharaman, J. (2012).
   interaction prediction}.
 \newblock {\em Bioinformatics}, 28(18):i466--i472.
 
+\bibitem[Lathrop et~al., 2015]{phoP}
+Lathrop, S.~K., Binder, K.~A., Starr, T., Cooper, K.~G., Chong, A., Carmody,
+  A.~B., and Steele-Mortimer, O. (2015).
+\newblock {{R}eplication of {S}almonella enterica {S}erovar {T}yphimurium in
+  {H}uman {M}onocyte-{D}erived {M}acrophages}.
+\newblock {\em Infect. Immun.}, 83(7):2661--2671.
+
 \bibitem[Métris et~al., 2015]{salmonet}
 Métris, A., Sudhakar, P., Fazekas, D., Demeter, A., Ari, E., Branchu, P.,
   Kingsley, R., Baranyi, J., and Korcsmáros, T. (2015).
@@ -102,6 +109,22 @@ Payton, I.~J., Fenner, M., and Lee, W.~G. (2002).
 \newblock Keystone species: the concept and its relevance for conservation
   management in {N}ew {Z}ealand.
 \newblock {\em Science for canservation}.
+
+\bibitem[Peters et~al., 2010]{trxA}
+Peters, S.~E., Paterson, G.~K., Bandularatne, E.~S., Northen, H.~C., Pleasance,
+  S., Willers, C., Wang, J., Foote, A.~K., Constantino-Casas, F., Scase, T.~J.,
+  Blacklaws, B.~A., Bryant, C.~E., Mastroeni, P., Charles, I.~G., and Maskell,
+  D.~J. (2010).
+\newblock {{S}almonella enterica serovar typhimurium trx{A} mutants are
+  protective against virulent challenge and induce less inflammation than the
+  live-attenuated vaccine strain {S}{L}3261}.
+\newblock {\em Infect. Immun.}, 78(1):326--336.
+
+\bibitem[Petrone et~al., 2014]{hilD}
+Petrone, B.~L., Stringer, A.~M., and Wade, J.~T. (2014).
+\newblock {{I}dentification of {H}il{D}-regulated genes in {S}almonella
+  enterica serovar {T}yphimurium}.
+\newblock {\em J. Bacteriol.}, 196(5):1094--1101.
 
 \bibitem[Qin et~al., 2010]{meta_omics}
 Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
@@ -156,5 +179,13 @@ Turei, D., Foldvari-Nagy, L., Fazekas, D., Modos, D., Kubisch, J., Kadlecsik,
 \newblock {{A}utophagy {R}egulatory {N}etwork - a systems-level bioinformatics
   resource for studying the mechanism and regulation of autophagy}.
 \newblock {\em Autophagy}, 11(1):155--165.
+
+\bibitem[Walthers et~al., 2007]{ssrB}
+Walthers, D., Carroll, R.~K., Navarre, W.~W., Libby, S.~J., Fang, F.~C., and
+  Kenney, L.~J. (2007).
+\newblock {{T}he response regulator {S}sr{B} activates expression of diverse
+  {S}almonella pathogenicity island 2 promoters and counters silencing by the
+  nucleoid-associated protein {H}-{N}{S}}.
+\newblock {\em Mol. Microbiol.}, 65(2):477--493.
 
 \end{thebibliography}
