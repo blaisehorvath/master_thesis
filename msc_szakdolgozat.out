@@ -2,31 +2,33 @@
 \BOOKMARK [1][-]{section.2}{R\366vid\355t\351sjegyz\351k}{}% 2
 \BOOKMARK [1][-]{section.3}{Bevezet\351s}{}% 3
 \BOOKMARK [2][-]{subsection.3.1}{A b\351l mikrobi\363ta fontoss\341g\341nak ismertet\351se}{section.3}% 4
-\BOOKMARK [2][-]{subsection.3.2}{A szakirodalomban publik\341lt gazda patog\351n h\341l\363zatok}{section.3}% 5
-\BOOKMARK [2][-]{subsection.3.3}{A Hum\341n-Salmonella kapcsolat ismertet\351se \351s hat\341sa az autof\341gi\341ra}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.4}{\326kol\363giai h\341l\363zatok elemz\351s\351re haszn\341lt topol\363giai m\351rosz\341mok}{section.3}% 7
-\BOOKMARK [1][-]{section.4}{C\351lkituz\351sek}{}% 8
-\BOOKMARK [1][-]{section.5}{Forr\341sok \351s m\363dszertan}{}% 9
-\BOOKMARK [2][-]{subsection.5.1}{Informatikai m\363dszerek}{section.5}% 10
-\BOOKMARK [2][-]{subsection.5.2}{Az forr\341sok feldolgoz\341s\341nak eszk\366zei}{section.5}% 11
-\BOOKMARK [2][-]{subsection.5.3}{A forr\341sok}{section.5}% 12
-\BOOKMARK [3][-]{subsubsection.5.3.1}{Autophagy Regulatory Network \(ARN\)}{subsection.5.3}% 13
-\BOOKMARK [3][-]{subsubsection.5.3.2}{Salmonet}{subsection.5.3}% 14
-\BOOKMARK [3][-]{subsubsection.5.3.3}{A predikci\363k}{subsection.5.3}% 15
-\BOOKMARK [3][-]{subsubsection.5.3.4}{Az adatb\341zisok egyes\355t\351se}{subsection.5.3}% 16
-\BOOKMARK [2][-]{subsection.5.4}{A h\341l\363zatok topol\363giai elemz\351se}{section.5}% 17
-\BOOKMARK [3][-]{subsubsection.5.4.1}{A TopologyAnalyser oszt\341ly}{subsection.5.4}% 18
-\BOOKMARK [1][-]{section.6}{Eredm\351nyek}{}% 19
-\BOOKMARK [2][-]{subsection.6.1}{Topol\363giai indexek az integr\341lt h\341l\363zatban}{section.6}% 20
-\BOOKMARK [2][-]{subsection.6.2}{Topol\363giai indexek az alh\341l\363zatokban}{section.6}% 21
-\BOOKMARK [3][-]{subsubsection.6.2.1}{ARN}{subsection.6.2}% 22
-\BOOKMARK [3][-]{subsubsection.6.2.2}{Salmonet}{subsection.6.2}% 23
-\BOOKMARK [2][-]{subsection.6.3}{A h\341rmas t\355pus\372 szekr\351ci\363s rendszer kapcsolatai}{section.6}% 24
-\BOOKMARK [3][-]{subsubsection.6.3.1}{A Salmonella kapcsolatai az autof\341gia feh\351rj\351kkel}{subsection.6.3}% 25
-\BOOKMARK [3][-]{subsubsection.6.3.2}{A T3SS kapcsolatai \351s a Salmonella belso kapcsolatai}{subsection.6.3}% 26
-\BOOKMARK [1][-]{section.7}{Diszkusszi\363}{}% 27
-\BOOKMARK [1][-]{section.8}{\326sszefoglal\341s}{}% 28
-\BOOKMARK [1][-]{section.9}{Summary}{}% 29
-\BOOKMARK [1][-]{section.10}{Internetes hivatkoz\341sok jegyz\351ke}{}% 30
-\BOOKMARK [1][-]{section.11}{K\366sz\366netnyilv\341n\355t\341s}{}% 31
-\BOOKMARK [1][-]{section.12}{Nyilatkozat}{}% 32
+\BOOKMARK [2][-]{subsection.3.2}{A Hum\341n-Salmonella kapcsolat ismertet\351se \351s hat\341sa az autof\341gi\341ra}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{\326kol\363giai h\341l\363zatok elemz\351s\351re haszn\341lt topol\363giai m\351rosz\341mok}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{C\351lkituz\351sek}{}% 7
+\BOOKMARK [1][-]{section.5}{Forr\341sok \351s m\363dszertan}{}% 8
+\BOOKMARK [2][-]{subsection.5.1}{Informatikai m\363dszerek}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.2}{Az forr\341sok feldolgoz\341s\341nak eszk\366zei}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.3}{A forr\341sok}{section.5}% 11
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Autophagy Regulatory Network \(ARN\)}{subsection.5.3}% 12
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Az ARN feldolgoz\341sa}{subsection.5.3}% 13
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Salmonet}{subsection.5.3}% 14
+\BOOKMARK [3][-]{subsubsection.5.3.4}{A Salmonet feldolgoz\341sa}{subsection.5.3}% 15
+\BOOKMARK [3][-]{subsubsection.5.3.5}{A predikci\363k}{subsection.5.3}% 16
+\BOOKMARK [3][-]{subsubsection.5.3.6}{A predikci\363k feldolgoz\341sa}{subsection.5.3}% 17
+\BOOKMARK [3][-]{subsubsection.5.3.7}{Az adatb\341zisok egyes\355t\351se}{subsection.5.3}% 18
+\BOOKMARK [2][-]{subsection.5.4}{A h\341l\363zatok topol\363giai elemz\351se}{section.5}% 19
+\BOOKMARK [3][-]{subsubsection.5.4.1}{A TopologyAnalyser oszt\341ly}{subsection.5.4}% 20
+\BOOKMARK [1][-]{section.6}{Eredm\351nyek}{}% 21
+\BOOKMARK [2][-]{subsection.6.1}{Topol\363giai indexek az integr\341lt h\341l\363zatban}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.2}{Topol\363giai indexek az alh\341l\363zatokban}{section.6}% 23
+\BOOKMARK [3][-]{subsubsection.6.2.1}{ARN}{subsection.6.2}% 24
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Salmonet}{subsection.6.2}% 25
+\BOOKMARK [2][-]{subsection.6.3}{A h\341rmas t\355pus\372 szekr\351ci\363s rendszer kapcsolatai}{section.6}% 26
+\BOOKMARK [3][-]{subsubsection.6.3.1}{A Salmonella kapcsolatai az autof\341gia feh\351rj\351kkel}{subsection.6.3}% 27
+\BOOKMARK [3][-]{subsubsection.6.3.2}{A T3SS kapcsolatai \351s a Salmonella belso kapcsolatai}{subsection.6.3}% 28
+\BOOKMARK [1][-]{section.7}{Diszkusszi\363}{}% 29
+\BOOKMARK [1][-]{section.8}{\326sszefoglal\341s}{}% 30
+\BOOKMARK [1][-]{section.9}{Summary}{}% 31
+\BOOKMARK [1][-]{section.10}{Internetes hivatkoz\341sok jegyz\351ke}{}% 32
+\BOOKMARK [1][-]{section.11}{K\366sz\366netnyilv\341n\355t\341s}{}% 33
+\BOOKMARK [1][-]{section.12}{Nyilatkozat}{}% 34
