@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  10 MAY 2016 11:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  10 MAY 2016 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1148,129 +1148,139 @@ cmr/m/it/12 get-Path-Way-sToNth-Ne-igh-bours \OT1/cmr/m/n/12 met^^Sodus seg^^S^
 ^Pts^^Seg^^Sevel,
  []
 
-[27] <img/merged.pdf, id=466, 607.82785pt x 488.44672pt>
-File: img/merged.pdf Graphic file (type pdf)
- <use img/merged.pdf>
-Package pdftex.def Info: img/merged.pdf used on input line 532.
-(pdftex.def)             Requested size: 425.4766pt x 341.91035pt.
-
-[28pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.560 
-       <./img/merged.pdf>]
-<img/mergedTIs.pdf, id=477, 918.46231pt x 386.24298pt>
-File: img/mergedTIs.pdf Graphic file (type pdf)
- <use img/mergedTIs.pdf>
-Package pdftex.def Info: img/mergedTIs.pdf used on input line 568.
-(pdftex.def)             Requested size: 413.30421pt x 173.80772pt.
-
-[29pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.578 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.578 
-       <./img/mergedTIs.pdf>]
-<img/merged-3-step-from-connecting-salmonella.pdf, id=488, 641.90364pt x 479.65
-993pt>
-File: img/merged-3-step-from-connecting-salmonella.pdf Graphic file (type pdf)
- <use img/merged-3-step-from-connecting-salmonella.pdf>
-Package pdftex.def Info: img/merged-3-step-from-connecting-salmonella.pdf used 
-on input line 584.
-(pdftex.def)             Requested size: 385.14516pt x 287.79817pt.
-
-<img/arn_123_comp.pdf, id=490, 830.2685pt x 867.44597pt>
+[27] <img/arn_123_comp.pdf, id=466, 830.2685pt x 867.44597pt>
 File: img/arn_123_comp.pdf Graphic file (type pdf)
 
 <use img/arn_123_comp.pdf>
-Package pdftex.def Info: img/arn_123_comp.pdf used on input line 598.
+Package pdftex.def Info: img/arn_123_comp.pdf used on input line 534.
 (pdftex.def)             Requested size: 332.10152pt x 346.97224pt.
- [30pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+ [28pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.607 
-       <./img/merged-3-step-from-connecting-salmonella.pdf>]
-Overfull \hbox (11.17668pt too wide) in paragraph at lines 624--625
-\OT1/cmr/m/n/12 Az \OT1/cmr/m/it/12 ARN \OT1/cmr/m/n/12 az egyes^^S^^Ptett h^^S
-al^^Sozatn^^Sal j^^Soval kom-pak-tabb, a po-tok gaz-da-gon kap-csol-tak egym^^S
-assal.
- []
-
-[31pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.625 
-      pdfTeX warning (ext4): destination with the same identifier (name{table.2
+l.561 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.625 
-       <./img/arn_123_comp.pdf>] [32]
-<img/salmonet_tis.pdf, id=520, 917.83987pt x 770.2983pt>
+l.561 
+       <./img/arn_123_comp.pdf>] [29]
+Overfull \hbox (15.05194pt too wide) in paragraph at lines 579--580
+\OT1/cmr/m/n/12 Az Ulk-1 a fa-gof^^Sor k^^Sez}od^^Ses egyik kulcs fak-to-ra. Ak
+-ti-vit^^Sas^^Sat az az mTORC1 szab^^Salyozza.
+ []
+
+[30] <img/salmonet_tis.pdf, id=493, 917.83987pt x 770.2983pt>
 File: img/salmonet_tis.pdf Graphic file (type pdf)
 
 <use img/salmonet_tis.pdf>
-Package pdftex.def Info: img/salmonet_tis.pdf used on input line 648.
+Package pdftex.def Info: img/salmonet_tis.pdf used on input line 586.
 (pdftex.def)             Requested size: 458.91882pt x 385.1482pt.
 
-Overfull \hbox (3.67471pt too wide) in paragraph at lines 648--650
+Overfull \hbox (3.67471pt too wide) in paragraph at lines 586--588
  [][] 
  []
 
-[33]
-Overfull \hbox (23.23703pt too wide) in paragraph at lines 658--659
+
+Overfull \hbox (23.23703pt too wide) in paragraph at lines 596--597
 \OT1/cmr/m/n/12 l^^Sep^^Sessz^^Samokhoz ren-delt ^^?ot leg-fon-to-sabb feh^^Ser
 j^^Seinek list^^Saja meg-egye-zik az egyes^^S^^Ptett h^^Sal^^Sozat^^Seval.
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 662--662
-[]\OT1/cmr/m/n/12 3. t^^Sabl^^Sazat. []A \OT1/cmr/m/it/12 Sal-mo-net \OT1/cmr/m
+Underfull \hbox (badness 6559) in paragraph at lines 600--600
+[]\OT1/cmr/m/n/12 2. t^^Sabl^^Sazat. []A \OT1/cmr/m/it/12 Sal-mo-net \OT1/cmr/m
 /n/12 leg-na-gyobb to-pol^^Sogiai fon-toss^^Sag^^Su pont-jai k^^?ul^^?onb^^?oz}
 o
  []
 
-[34pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.675 
-       <./img/salmonet_tis.pdf>] [35pdfTeX warning (ext4): destination with the
- same identifier (name{table.3}) has been already used, duplicate ignored
+l.613 
+       <./img/salmonet_tis.pdf>] [32pdfTeX warning (ext4): destination with the
+ same identifier (name{table.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.687 			\end{itemize}
-                      ]
-<img/connection-proteins.pdf, id=548, 456.20259pt x 494.56908pt>
+l.625 			\end{itemize}
+                      ] <img/merged.pdf, id=517, 705.95299pt x 495.04988pt>
+File: img/merged.pdf Graphic file (type pdf)
+
+<use img/merged.pdf>
+Package pdftex.def Info: img/merged.pdf used on input line 630.
+(pdftex.def)             Requested size: 494.16373pt x 346.53255pt.
+
+Overfull \hbox (38.91962pt too wide) in paragraph at lines 630--632
+ [][] 
+ []
+
+[33pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.658 
+       <./img/merged.pdf>]
+<img/mergedTIs.pdf, id=535, 918.46231pt x 386.24298pt>
+File: img/mergedTIs.pdf Graphic file (type pdf)
+ <use img/mergedTIs.pdf>
+Package pdftex.def Info: img/mergedTIs.pdf used on input line 670.
+(pdftex.def)             Requested size: 459.23003pt x 193.12102pt.
+
+Overfull \hbox (3.98592pt too wide) in paragraph at lines 670--672
+ [][] 
+ []
+
+[34pdfTeX warning (ext4): destination with the same identifier (name{table.3}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.678 						\end{figure}
+                        ]
+<img/merged-3-step-from-connecting-salmonella.pdf, id=541, 641.90364pt x 479.65
+993pt>
+File: img/merged-3-step-from-connecting-salmonella.pdf Graphic file (type pdf)
+ <use img/merged-3-step-from-connecting-salmonella.pdf>
+Package pdftex.def Info: img/merged-3-step-from-connecting-salmonella.pdf used 
+on input line 682.
+(pdftex.def)             Requested size: 311.95953pt x 233.11052pt.
+ [35pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.696 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.696 
+       <./img/mergedTIs.pdf> <./img/merged-3-step-from-connecting-salmonella.pd
+f
+
+pdfTeX warning: pdflatex (file ./img/merged-3-step-from-connecting-salmonella.p
+df): PDF inclusion: multiple pdfs with page group included in a single page
+>] <img/connection-proteins.pdf, id=552, 456.20259pt x 494.56908pt>
 File: img/connection-proteins.pdf Graphic file (type pdf)
 
 <use img/connection-proteins.pdf>
-Package pdftex.def Info: img/connection-proteins.pdf used on input line 696.
+Package pdftex.def Info: img/connection-proteins.pdf used on input line 698.
 (pdftex.def)             Requested size: 273.72366pt x 296.74373pt.
  [36pdfTeX warning (ext4): destination with the same identifier (name{figure.10
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.709 
+l.711 
        <./img/connection-proteins.pdf>]
-Overfull \hbox (15.49432pt too wide) in paragraph at lines 724--725
+Overfull \hbox (15.49432pt too wide) in paragraph at lines 726--727
 \OT1/cmr/m/n/12 v^^Segzi. Az sseL-nek \OT1/cmr/m/it/12 in vit-ro \OT1/cmr/m/n/1
 2 a lizin-63 kap-csolt ubik-vi-tin l^^Sancok sok-kal jobb szubsztr^^Satjai,
  []
@@ -1278,108 +1288,108 @@ Overfull \hbox (15.49432pt too wide) in paragraph at lines 724--725
 [37]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 730.
+(hyperref)                removing `\H' on input line 732.
 
-<img/t3ss-inner-salmonella.pdf, id=589, 640.44733pt x 490.03235pt>
+<img/t3ss-inner-salmonella.pdf, id=592, 640.44733pt x 490.03235pt>
 File: img/t3ss-inner-salmonella.pdf Graphic file (type pdf)
 
 <use img/t3ss-inner-salmonella.pdf>
-Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 733.
+Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 735.
 (pdftex.def)             Requested size: 384.27135pt x 294.02168pt.
  [38pdfTeX warning (ext4): destination with the same identifier (name{figure.11
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.745 
+l.747 
        <./img/t3ss-inner-salmonella.pdf>]
-Overfull \hbox (5.02055pt too wide) in paragraph at lines 753--754
+Overfull \hbox (5.02055pt too wide) in paragraph at lines 755--756
 []\OT1/cmr/m/n/12 Mint a be-ve-zet}oben eml^^S^^Ptettem, a b^^Sel mik-ro-bi^^So
 ta me-ta-bo-li-tok-kal kom-mu-nik^^Sal egym^^Sassal
  []
 
 [39]
-Overfull \hbox (3.39279pt too wide) in paragraph at lines 757--758
+Overfull \hbox (3.39279pt too wide) in paragraph at lines 759--760
 \OT1/cmr/m/n/12 fel^^Sall^^S^^Ptott gazda-patog^^Sen h^^Sal^^Sozaton, vagy hogy
  ho-gyan kor-rel^^Salnak a to-pol^^Sogiai fon-toss^^Sagn^^Sal
  []
 
 
-Overfull \hbox (18.07597pt too wide) in paragraph at lines 759--761
+Overfull \hbox (18.07597pt too wide) in paragraph at lines 761--763
 []\OT1/cmr/m/n/12 Az ed-dig fel-so-rolt ki-te-kint^^Sesek ^^Ses al-kal-maz^^Sas
 i le-het}os^^Seget t^^?obb-nyi-re ^^Suj elm^^Seleti m^^Sodszerekre
  []
 
 
-Overfull \hbox (4.43723pt too wide) in paragraph at lines 759--761
+Overfull \hbox (4.43723pt too wide) in paragraph at lines 761--763
 \OT1/cmr/m/n/12 az or-ga-no-ge-ne-zis, a re-ge-ne-rat^^S^^Pv or-vosl^^Sas a tu-
 mo-ri-ge-ne-zis ^^Ses az em^^Seszt}orendszer m}uk^^?od^^Ses^^Sevel
  []
 
 [40]
-Overfull \hbox (3.6803pt too wide) in paragraph at lines 762--764
+Overfull \hbox (3.6803pt too wide) in paragraph at lines 764--766
 \OT1/cmr/m/n/12 m^^Sodos^^S^^Ptani. [[]Pi-e-ter-se et al., 2009[]] Az ilyen ada
 -tokb^^Sol ^^Sep^^S^^Ptett mo-le-kul^^Saris h^^Sal^^Sozatok elemz^^Sese
  []
 
 [41]
-Overfull \hbox (19.45764pt too wide) in paragraph at lines 769--770
+Overfull \hbox (19.45764pt too wide) in paragraph at lines 771--772
 \OT1/cmr/m/it/12 To-po-lo-gy-Analy-ser Py-thon \OT1/cmr/m/n/12 oszt^^Saly k^^Se
 pes a b^^Sarmilyen h^^Sal^^Sozat form^^Satumb^^Sol k^^?onnyen el}o^^Sall^^S^^Pt
 hat^^So
  []
 
 
-Overfull \hbox (5.1063pt too wide) in paragraph at lines 769--770
+Overfull \hbox (5.1063pt too wide) in paragraph at lines 771--772
 \OT1/cmr/m/n/12 ^^Sellista f^^Sajlt to-pol^^Sogiai elemz^^Ses^^Sere. A cso-port
  ^^Saltal fel^^Sep^^S^^Ptett pro-to-koll egy hat^^Sekony m^^Sodszert
  []
 
 
-Overfull \hbox (1.12569pt too wide) in paragraph at lines 771--772
+Overfull \hbox (1.12569pt too wide) in paragraph at lines 773--774
 \OT1/cmr/m/n/12 mo-le-kul^^Saris h^^Sal^^Sozaton a k^^?ozpon-ti mo-le-kul^^Sak 
 ki-jel^^?ol^^Ses^^Sere. Az ilyen to-pol^^Sogiai m^^Ser}osz^^Samokat
  []
 
 
-Overfull \hbox (11.09003pt too wide) in paragraph at lines 773--774
+Overfull \hbox (11.09003pt too wide) in paragraph at lines 775--776
 []\OT1/cmr/m/n/12 A to-pol^^Sogiai fon-toss^^Sag pa-ram^^Setert}ol f^^?ugg}oen 
 t^^?obb szem-pontb^^Sol is le tud-ja ^^S^^Prni a h^^Sal^^Sozatot.
  []
 
 
-Overfull \hbox (21.1427pt too wide) in paragraph at lines 779--780
+Overfull \hbox (21.1427pt too wide) in paragraph at lines 781--782
 []\OT1/cmr/m/n/12 A to-pol^^Sogiai fon-toss^^Sag alapj^^San fel^^Sall^^S^^Ptott
  sor-ren-dek sz^^Samos k^^S^^Ps^^Serleti c^^Selpont kiv^^Salaszt^^Sas^^Saban
  []
 
 [42] [43]
-Overfull \hbox (55.31238pt too wide) in paragraph at lines 803--807
+Overfull \hbox (55.31238pt too wide) in paragraph at lines 805--809
 \OT1/cmr/m/n/12 1. link []TO-DO git-hub link[] [] 2. link []TO-DO[] ho-mol^^Sog
  feh^^Serje http://www.uniprot.org/uniprot/P0AEM2
  []
 
 
-Overfull \hbox (125.08507pt too wide) in paragraph at lines 803--807
+Overfull \hbox (125.08507pt too wide) in paragraph at lines 805--809
 \OT1/cmr/m/n/12 3. link ATG3 http://www.uniprot.org/uniprot/Q9NT62 4. link Becl
 in-1 http://www.uniprot.org/uniprot/Q14457 
  []
 
 [44] (./msc_szakdolgozat.bbl [45] [46] [47])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 816.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 818.
  [48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 816.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 818.
  (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 816.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 816.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 818.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 818.
 Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
-(rerunfilecheck)             Checksum: 2DE89A7CBB295040E27FFAD64AEFAB03;2735.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 816.
+(rerunfilecheck)             Checksum: 9DED35EEA6E24BEEA02D5DFA95882101;2735.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 818.
  ) 
 Here is how much of TeX's memory you used:
  11196 strings out of 494465
  164664 string characters out of 6166362
- 295082 words of memory out of 5000000
+ 295109 words of memory out of 5000000
  14122 multiletter control sequences out of 15000+600000
  15489 words of font info for 57 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
@@ -1403,10 +1413,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti8.pfb>
-Output written on msc_szakdolgozat.pdf (48 pages, 1478267 bytes).
+Output written on msc_szakdolgozat.pdf (48 pages, 1484721 bytes).
 PDF statistics:
- 763 PDF objects out of 1000 (max. 8388607)
- 639 compressed objects within 7 object streams
+ 766 PDF objects out of 1000 (max. 8388607)
+ 642 compressed objects within 7 object streams
  150 named destinations out of 1000 (max. 500000)
  328 words of extra memory for PDF output out of 10000 (max. 10000000)
 
