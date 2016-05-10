@@ -23,6 +23,8 @@
 % for set notation
 \usepackage{mathbbol}
 
+
+
 % for matrices
 \usepackage{amsmath}
 \usepackage{blkarray}
@@ -32,6 +34,9 @@
 \usepackage{float}
 \graphicspath{ {img/} }
 \usepackage{sidecap}
+
+% captions
+\usepackage[justification=centering]{caption}
 
 \DeclareUnicodeCharacter{00A0}{ }
 %\DeclareUnicodeCharacter{00A0}{~} % not using no-break space
@@ -62,7 +67,6 @@
 % Adding dots after section numbers
 \usepackage{titlesec}
 \titlelabel{\thetitle.\quad}
-
 
 \pdfinfo{%
   /Title    (Bakteriális patogén és ember közötti molekuláris hálózatok vizsgálata)
@@ -108,14 +112,16 @@ IFR
 \section{Bevezetés}
 	\subsection{A bél mikrobióta fontosságának ismertetése}
 		\paragraph{Miért van szükség a bél mikrobióta vizsgálatára?} \mbox{}\\
-		A humán bél mikrobióta egy komplex ökoszisztéma. A mikrobiomot alkotó sejtek száma nagyjából a humán szomatikus és csírasejtek összegének tízszerese.  A bél mikrobiom mind metabolikusan, mind immunológiailag komplex kapcsolatban áll az emberrel.\cite{gut_microbiome} Eddig több mint három millió nem redundáns mikrobiális gént sikerült kimutatni az emberben \cite{meta_omics}. Ez a nagy genetikai állomány lehetővé teszi, hogy olyan metabolikus folyamatok játszódjanak le a humán bélben, melyeket az emberi sejtek nem képesek végrehajtani. \cite{gut_microbiome} A bél mikrobióta felelős bizonyos glikánok, aminosavak és xenobiotikumok metabolizmusáért valamint rövid láncú zsírsavak (\textit{short chained fatty acids - SCFA}-k), vitaminok és kofaktorok termeléséért. A gazda által meg nem emésztett poliszacharidok bontását a bél mikrobióta végzi, mely folyamat eredményeképpen olyan rövid láncú zsírsavak keletkeznek mint az acetát, proprionát és vajsav. \cite{scfa_and_vitamine} \\
-		\indent		 A bélflóra kulcsszerepet játszik az immun-homeosztázis fenntartásában. Az immunrendszerrel bakteriális mintázatokat észlelő receptorokon keresztül és GPCR-ek által van kapcsolatban. A mikroorganizmusok által termelt SCFA-k képesek GPCR-eken keresztül sejtszignalizáció indítására. A veleszületett immunrendszer nagy részét alkotó monociták és neutrofil granulociták rendelkeznek GPR43 receptorral, mely szintén SCFA érzékeny, tehát a bélflóra metabolitokon keresztül is kapcsolatban áll az immunrendszerrel. \cite{buthyrate_immune} \\
-		\indent  A bélflóra hatással van még a gazda metabolizmusára is.  Az \textit{Eubacterium spp.} által oligoszacharidokból képzett vajsav részt vesz az emberi szervezet energia egyensúlyának szabályzásában. \cite{gut_microbiome} Az enteroendokrin sejtek és az adipociták is rendelkeznek a GPR41 receptorral mely vajsavra és proprionátra is érzékeny. Adipocitáknál ez a GPR41 szignalizáció \textit{leptin} elválasztást eredményez. \cite{buthyrate_immune} A vajsav segít a karcinogenezis kivédésében mivel apoptózis indukáló és proliferáció gátló hatása van. Éppen ezen okokból a bél mikrobióta tekinthető egy új metabolikus szervnek is. \cite{host_bacterial_mutualism} Kapcsolatok mutathatók ki a bél mikrobiom megváltozása és olyan betegségek között mint az IBD (\textit{inflammatory bowl disease}), elhízás vagy a különböző rák típusok. \cite{gut_microbiome}
+		A humán bél mikrobióta egy komplex ökoszisztéma. A mikrobiomot alkotó sejtek száma nagyjából a humán szomatikus és csírasejtek összegének tízszerese.  A bél mikrobiom mind metabolikusan, mind immunológiailag komplex kapcsolatban áll az emberrel.\cite{gut_microbiome} Az ember béltraktusban eddig több mint három millió nem redundáns mikrobiális gént sikerült kimutatni \cite{meta_omics}. Ez a nagy genetikai állomány lehetővé teszi, hogy olyan metabolikus folyamatok játszódjanak le az emberi bélben, melyeket az sejtjeink nem képesek végrehajtani. \cite{gut_microbiome} A bél mikrobióta felelős bizonyos glikánok, aminosavak és xenobiotikumok metabolizmusáért valamint rövid láncú zsírsavak (\textit{short chained fatty acids - SCFA}-k), vitaminok és kofaktorok termeléséért. A gazda által meg nem emésztett poliszacharidok bontását is a bél mikrobióta végzi. Ez utóbbi folyamat eredményeképpen olyan rövid láncú zsírsavak keletkeznek mint az acetát, proprionát és vajsav. \cite{scfa_and_vitamine}
+		
+		A bélflóra kulcsszerepet játszik az immun-homeosztázis fenntartásában. A mikrobióta az immunrendszerrel bakteriális mintázatokat észlelő receptorokon és G-fehérje kapcsolt receptorokon (GPCR) keresztül van kapcsolatban. A mikroorganizmusok által termelt SCFA-k képesek GPCR-eken révén a sejtszignalizáció indítására. A veleszületett immunrendszer nagy részét alkotó monociták és neutrofil granulociták rendelkeznek GPR43 receptorral. A GPR43 SCFA érzékeny, tehát a bélflóra metabolitokon keresztül is kapcsolatban áll az immunrendszerrel. \cite{buthyrate_immune}
+		
+		A bélflóra hatással van még a gazda metabolizmusára is.  Az \textit{Eubacterium spp.} által oligoszacharidokból képzett vajsav részt vesz az emberi szervezet energia egyensúlyának szabályzásában. \cite{gut_microbiome} Az enteroendokrin sejtek és az adipociták is rendelkeznek GPR41 receptorral mely vajsavra és proprionátra is érzékeny. Adipocitáknál ez a GPR41 szignalizáció \textit{leptin} elválasztást eredményez. \cite{buthyrate_immune} A vajsav segít a karcinogenezis kivédésében mivel apoptózis indukáló és proliferáció gátló hatása van. Éppen ezen okokból a bél mikrobióta tekinthető egy új metabolikus szervnek is. \cite{host_bacterial_mutualism} Kapcsolatok mutathatók ki a bél mikrobiom megváltozása és olyan betegségek között mint az IBD (\textit{inflammatory bowl disease}), elhízás vagy a különböző rák típusok. \cite{gut_microbiome}
 		
 		\paragraph{A bél mikrobióta vizsgálatának módszerei} \mbox{}\\
 		A mikrobióta vizsgálatát elsősorban a különböző meta omikák eszköztárával közelítik meg. Ezek közül is a legfontosabb eszköztár a metagenomika, de alkalmaznak már metabolomikai, metatranszkriptomikai és metaproteomikai megközelítést is. A metagenomikai vizsgálatok során a környezetből származó mintát megfelelő előkészítés után közvetlenül \textit{shotgun} szekvenálásnak vetik alá.\cite{gut_microbiome} 
 		
-		Quin és társai 2010-re meghatározták a minimális bél metagenomot. A vizsgálat során Illumina GA short-read alapú technológiával 124 egy kohortba tartozó nordikus és mediterrán személy székletmintáját elemezték. Az ebből kinyert 576,7 gigabázásnyi DNS-ből 3,3 millió nem redundáns mikrobiális gént mutattak ki. Az így kimutatott gének az emberi genom százötvenszeresét teszik ki. A minták egészére jellemző, hogy a bennük található gének két fő részre osztható: A legnagyobb csoportba (86\%) a sűrűn előforduló mikrobiális gének, míg a másik fő csoportba pedig a kifejezetten a humán bélflórára jellemző mikrobiális gének tartoznak. Az összes személyből származó vizsgált génhalmaz 99,1\%-a \textit{Eubacteria}, 0,8\%-a \textit{Archea} és a fennmaradó 0,1\%-a pedig vegyesen \textit{Eucaryota} és virális eredetű. A bakteriális eredetű gének összesen 1000-1150 uralkodó baktériumfajhoz tartozhatnak, ami személyenként kb. 160 domináns fajt jelent. A személyekre jellemző nagyjából 160 uralkodó baktériumfaj listái között a személyeket összevetve nagyfokú hasonlóság figyelhető meg. Egy adott személy bél metagenomjának minimálisan 40\%-a megtalálható a minták legalább felében. A közelítőleg ezer fajból 75 faj található meg a minták több mint felében és 57 faj van ami a minták nagyobb mint 90\%-ban kimutatható.  \cite{meta_omics}
+		Quin és társai 2010-re meghatározták a minimális bél metagenomot. A vizsgálat során \textit{Illumina GA short-read} alapú technológiával 124 egy kohortba tartozó nordikus és mediterrán személy székletmintáját elemezték. Az ebből kinyert 576,7 gigabázásnyi DNS-ből mintegy 3,3 millió nem redundáns mikrobiális gént mutattak ki. Az így kimutatott gének az emberi genom százötvenszeresét teszik ki. A minták egészére jellemző, hogy a bennük található gének két fő részre osztható: A legnagyobb csoportba (86\%) a sűrűn előforduló mikrobiális gének, míg a másik fő csoportba a kifejezetten a humán bélflórára jellemző mikrobiális gének tartoznak. Az összes személyből származó vizsgált génhalmaz 99,1\%-a \textit{Eubacteria}, 0,8\%-a \textit{Archea} és a fennmaradó 0,1\%-a pedig vegyesen \textit{Eucaryota} és virális eredetű. A bakteriális eredetű gének összesen 1000-1150 uralkodó baktériumfajhoz tartozhatnak, ami személyenként kb. 160 domináns fajt jelent. A személyekre jellemző nagyjából 160 uralkodó baktériumfaj listái között a személyeket összevetve nagyfokú hasonlóság figyelhető meg. Egy adott személy bél metagenomjának minimálisan 40\%-a megtalálható a minták legalább felében. A közelítőleg ezer fajból 75 faj található meg a minták több mint felében és 57 faj van ami a minták nagyobb mint 90\%-ban kimutatható.  \cite{meta_omics}
 		
 	
 	\subsection{A Humán-Salmonella kapcsolat ismertetése és hatása az autofágiára}
@@ -133,13 +139,11 @@ IFR
 		
 		 \begin{figure}[H]
 			 \centering
-			 \includegraphics[scale=0.42]{img/salmonella_life_cycle.png}
+			 \includegraphics[scale=0.7]{img/intracell_bakt_terj_am.png}
 			 \caption{\textbf{Az intracelluláris baktériumok életciklusa}}
 			 \begin{imgdesc}
 				 Bejutáskor a baktériumok egy elsődleges vakólumba érkeznek. A sejt a belsejében a mikróbák olyan fehérjéket szekretálnak, melyek felbontják az őket határoló elsődleges vakólum membránját. A legtöbb intracelluláris baktériumra jellemző, hogy befolyásolni tudja az aktin polimerizációt és ezáltal képes az intra- és intercelluláris mozgásra. A szomszédos sejtbe átjutott baktériumok egy másdlagos memránburokba kerülnek, melyet ugyancsak felbontanak.
 			 \end{imgdesc}
-
-			\textcolor{red}{!TODO kép magyarítás és formázás, jobban látható feliratok}
 			 \label{fig:salmo_cycle}
 		 \end{figure}
 		
@@ -362,7 +366,7 @@ IFR
 				\end{figure}
 				
 			\paragraph{Verziókövetés} \mbox{}\\
-			Diplomamunkám készítése során a \textit{Git} verziókövető rendszert használtam, melynek tartalmát a web-alapú \textit{GitHub} tárhely szolgáltatásra töltöttem fel. A diplomamunkám GitHub tárhelyén (\ref{lst:github}. hivatkozás) a következő általam írt kódok érhetők el: 
+			Diplomamunkám készítése során a \textit{Git} verziókövető rendszert használtam, melynek tartalmát a web-alapú \textit{GitHub} tárhely szolgáltatásra töltöttem fel. A diplomamunkám GitHub tárhelyén \cite{github} a következő általam írt kódok érhetők el: 
 				\begin{itemize}
 						\item A \ref{fig:slk3uml}. ábrán ábrázolt munkafolyamatot lebonyolító szkriptek
 						\item A fordításhoz használt adatbázist megépítő szkript (Kadlecsik Tamás szkriptje alapján)
@@ -531,11 +535,11 @@ IFR
 		\subsubsection{ARN}
 	
 				\begin{figure}[H]
-					\includegraphics[scale=0.4]{img/arn_123_comp.pdf}
+					\includegraphics[scale=0.5]{img/arn_123_comp.pdf}
 					\centering
 					\caption{ \textbf{Az \textit{ARN} 1, 2 és 3 lépésre számított topológiai fontosságai}}
 					\begin{imgdesc}
-						A pontok színmélysége citromsárgától narancsig, valamint átmérője egyenesen arányos az nódus TI értékével. Az \textit{ARN}-en belül a
+						A pontok színmélységét leíró skála a bal oldalon látható. Az ábra a különböző lépéshosszokra kiszámolt topológiai fontosságokat eltéréseit szemlélteti.
 					\end{imgdesc}
 		
 					\label{fig:arn123}			 		 
@@ -545,18 +549,17 @@ IFR
 				\centering
 				\caption{Az \textit{ARN} legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
 				\label{table:arnti123}
-				\vspace{16pt}
-				\begin{tabular}{|c|c|c|c|c|c|}
+				\begin{tabular}{|c!{\vrule width1.5pt}c|c!{\vrule width1.5pt}c|c!{\vrule width1.5pt}c|c|}
 				\hline
-				\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
-				GABARAP            & 2,41                                   & GABARAP            & 2,21                                   & GABARAP            & 2,33                                   \\ \hline
-				MAP1LC3B           & 2,27                                   & GABARAPL2          & 1,96                                   & GABARAPL2          & 2,00                                   \\ \hline
-				BECN1              & 2,17                                   & MAP1LC3C           & 1,93                                   & MAP1LC3C           & 1,99                                   \\ \hline
-				MAP1LC3C           & 2,11                                   & MAP1LC3B           & 1,75                                   & MAP1LC3B           & 1,68                                   \\ \hline
-				ATG2A              & 1,99                                   & ATG3               & 1,56                                   & GABARAPL1          & 1,68                                   \\ \hline
+				\textbf{Rang} & \textbf{Azonosító} & \textbf{TI$^1$} & \textbf{Azonosító} & \textbf{TI$^2$} & \textbf{Azonosító} & \textbf{TI$^3$} \\ \hline
+				1.   & GABARAP            & 2,41                        & GABARAP            & 2,21                        & GABARAP            & 2,33                        \\ \hline
+				2.   & MAP1LC3B           & 2,27                        & GABARAPL2          & 1,96                        & GABARAPL2          & 2,00                        \\ \hline
+				3.   & BECN1              & 2,17                        & MAP1LC3C           & 1,93                        & MAP1LC3C           & 1,99                        \\ \hline
+				4.   & MAP1LC3C           & 2,11                        & MAP1LC3B           & 1,75                        & MAP1LC3B           & 1,68                        \\ \hline
+				5.   & ATG2A              & 1,99                        & ATG3               & 1,56                        & GABARAPL1          & 1,68                        \\ \hline
 				\end{tabular}
 				\end{table}
-		
+						
 				Az egyesített hálózat az \textit{ARN}-nél jóval kompaktabb, az \textit{ARN}-ben pontok kevésbé gazdagon kapcsoltak egymással. Az egyesített hálózat denzitása 0,00136 \%, míg az \textit{ARN}-é 0,00099\%. A denzitási értékekkel ellentétesen az \textit{ARN}-ben nagyobb az olyan nódusok aránya melyeknek nagy a topológiai fontossága. Az egyesített hálózatban csupán a pontok 31,9\%-a rendelkezett egynél nagyobb TI$^3$ értékkel, ugyanakkor ez az arány az \textit{ARN} esetén már 44,1\%.
 				
 				Az \ref{table:arnti123}. táblázaton ábrázoltam a TI$^1$, TI$^2$ és TI$^3$  kategória első öt legfontosabb fehérjéit. A táblázatból látható, hogy egy adott fehérje különböző lépéshosszoknál számolt topológiai fontossága nagyjából hasonló értékeket vesz fel. A TI$^2$ adatok mindenképp magukba foglalják azt, hogy a pontok hogyan hatnak vissza önmagukra. A TI$^3$-as értékek is tartalmazhatnak olyan útvonalakat melyeken egy pont önmagára visszahat, de csak akkor ha a két nódusnak van közös első szomszédja. A TI$^3$ tehát magába foglalja az adott pont hatását önmagára de csak közvetett módon. TI$^3$-nál a pontból származó egységnyi erő nem oszlik több részre, mert a pont nem éri el magát még páros lépésszámú útvonalakon is.
@@ -594,23 +597,22 @@ IFR
 				\end{figure}
 		
 			A \textit{Salmonet} 2425 nódust és 7973 élt tartalmaz. A \textit{Salmonet} jobban hasonlít az egyesített hálózatra. Az \textit{ARN}-el ellentétben de az egyesített hálózathoz hasonlóan, jóval  magasabbak a legnagyobb topológiai fontosságú pontok értékei. Sőt a \textit{Salmonet} különböző lépésszámokhoz rendelt öt legfontosabb fehérjéinek listája megegyezik az egyesített hálózatéval. (\textit{\ref{table:salmonet123}. és \ref{table:merged123}. táblázat}) 
-			
+										
 				\begin{table}[H]
 				\centering
 				\caption{A \textit{Salmonet} legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
 				\label{table:salmonet123}
-				\vspace{16pt}
-				\begin{tabular}{|c|c|c|c|c|c|}
+				\begin{tabular}{|c!{\vrule width1.5pt}c|c!{\vrule width1.5pt}c|c!{\vrule width1.5pt}c|c|}
 				\hline
-				\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
-				phoP            & 64,46                                   & trxA            & 16,61                                   & phoP            & 53,84                                   \\ \hline
-				ssrB           & 59,77										& phoP          & 10.30                                   & ssrB          & 49.06                                   \\ \hline
-				rpoN              & 46,89                                   & yajL           & 9.95                                   & rpoN           & 38.11                                   \\ \hline
-				hilD           & 39,87                                   & hilD           & 8,70                                   & hilD           & 31,20                                 \\ \hline
-				trxA              & 23,77                                  & ssrB               & 7,70                                   & trxA          & 20.11                                   \\ \hline
+				\textbf{Rang} & \textbf{Azonosító} & \textbf{TI$^1$} & \textbf{Azonosító} & \textbf{TI$^2$} & \textbf{Azonosító} & \textbf{TI$^3$} \\ \hline
+				1.   & phoP               & 64,46                       & trxA               & 16,61                       & phoP               & 53,84                       \\ \hline
+				2.   & ssrB               & 59,77                       & phoP               & 10.30                       & ssrB               & 49.06                       \\ \hline
+				3.   & rpoN               & 46,89                       & yajL               & 9.95                        & rpoN               & 38.11                       \\ \hline
+				4.   & hilD               & 39,87                       & hilD               & 8,70                        & hilD               & 31,20                       \\ \hline
+				5.   & trxA               & 23,77                       & ssrB               & 7,70                        & trxA               & 20.11                       \\ \hline
 				\end{tabular}
 				\end{table}
-			
+				
 			A \textit{Salmonet}-ben négy olyan fehérje van mely mind a három topológiai index szempontjából a legerősebb tíz helyezettben van:
 			
 			\begin{itemize}
@@ -627,34 +629,37 @@ IFR
 	\subsection{Topológiai indexek az integrált hálózatban}
 			
 					\begin{figure}[H]
-						\includegraphics[scale=0.7]{img/merged.pdf}
+						\includegraphics[scale=0.6]{img/merged.pdf}
 						\centering
 						\caption{\textbf{ Az egyesített hálózat}}
 						\begin{imgdesc}
-							A hálózaton piros élek jelölik az \textit{ARN}-t (\textit{baloldalt alul}) és a \textit{Salmonet}-et elválasztó prediktált éleket. Az ábrán a színátmenetek és méretek arányosak a pontokra kiszámolt TI$^3$-al. A topológiailag fontos pontok kiemelése érdekében három csoportot állítottam fel: Az első csoportba azok a pontok tartoznak, melyekből távozó hatás kisebb mint a beérkező (TI$^3\leq1$). A hálózatban 1674 ilyen nódus található, ami a háló 68,1\%-át teszi ki. Az utóbbi pontok színe a sötétkéktől a citromsárgáig terjed. A középső citromsárgától a narancsig ábrázolt pontok azok melyeknek már van nettó kimenő hatásuk ($1<$TI$^3<2$). Ebbe a halmazba 624 pont azaz a hálózat 25,4\%-a tartozik. A harmadik narancstól vörösig terjedő csoportot azok a nódusok alkotják melyeknek a legnagyobb a topológiai fontosságuk. Ez utóbbi 161 pont a hálózat 6,5\%-át teszi ki.
+							A hálózaton piros élek jelölik az \textit{ARN}-t (\textit{baloldalt alul}) és a \textit{Salmonet}-et elválasztó prediktált éleket. Az ábrán a színátmenetek és méretek arányosak a pontokra kiszámolt TI$^3$-al. A színátmenetet szemléltető nem lineáris skála a bal felső sarokban látható. A topológiailag fontos pontok kiemelése érdekében három csoportot állítottam fel: Az első csoportba azok a pontok tartoznak, melyekből távozó hatás kisebb vagy egyenlő mint a beérkező (TI$^3\leq1$). A hálózatban 1674 ilyen nódus található, ami a háló 68,1\%-át teszi ki. Az utóbbi pontok színe a sötétkéktől a citromsárgáig terjed. A középső a színskálán citromsárgától narancsig terjedő kitöltésű pontok azok melyeknek már van nettó kimenő hatásuk ($1<$TI$^3<2$). Ebbe a halmazba 624 pont azaz a hálózat 25,4\%-a tartozik. A harmadik narancstól vörösig terjedő csoportot azok a nódusok alkotják melyeknek a legnagyobb a topológiai fontosságuk. Ez utóbbi 161 pont a hálózat 6,5\%-át teszi ki.
 						\end{imgdesc}
 			
 						\label{fig:merged}			 		 
 					\end{figure}		
-	
+					
 					\begin{table}[H]
-						\centering
-						\caption{
-							\textbf{Az egyesített hálózat legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
-						}
-	
-						\label{table:merged123}
-						\vspace{8pt}
-						\begin{tabular}{|c|c|c|c|c|c|}
-						\hline
-						\textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^1$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^2$}} & \textbf{Azonosító} & \multicolumn{1}{l|}{\textbf{TI$^3$}} \\ \hline
-						phoP            & 64,38                                   & trxA            & 16,61                                   & phoP            & 53,53                                   \\ \hline
-						ssrB           & 59,17										& phoP          & 10.31                                   & ssrB          & 46,15                                   \\ \hline
-						rpoN              & 46,21                                   & yajL           & 9.95                                   & rpoN           & 37.36                                   \\ \hline
-						hilD           & 39,79                                   & hilD           & 8,71                                   & hilD           & 31,07                                 \\ \hline
-						trxA              & 23,77                                  & ssrB               & 7,93                                   & trxA          & 20.10                                   \\ \hline
-						\end{tabular}
-					\end{table}	
+					\centering
+					
+					\caption{
+						\textbf{Az egyesített hálózat legnagyobb topológiai fontosságú pontjai különböző lépésszámoknál}
+					}
+					\label{table:merged123}
+
+
+
+					\begin{tabular}{|c!{\vrule width1.5pt}c|c!{\vrule width1.5pt}c|c!{\vrule width1.5pt}c|c|}
+					\hline
+					\textbf{Sorszám} & \textbf{Azonosító} & \textbf{TI$^1$} & \textbf{Azonosító} & \textbf{TI$^2$} & \textbf{Azonosító} & \textbf{TI$^3$} \\ \hline
+					1.      & phoP               & 64,38                       & trxA               & 16,61                       & phoP               & 53,53                       \\ \hline
+					2.      & ssrB               & 59,17                       & phoP               & 10.31                       & ssrB               & 46,15                       \\ \hline
+					3.      & rpoN               & 46,21                       & yajL               & 9.95                        & rpoN               & 37.36                       \\ \hline
+					4.      & hilD               & 39,79                       & hilD               & 8,71                        & hilD               & 31,07                       \\ \hline
+					5.      & trxA               & 23,77                       & ssrB               & 7,93                        & trxA               & 20.10                       \\ \hline
+					\end{tabular}
+
+					\end{table}
 	
 			Az elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített hálózatra is elvégeztem. A topológiai fontosságot (TI) mind a három hálóra kiszámoltam 1, 2 és 3 lépés távolságra. A többfajta lépéshosszra kiszámolt indexek információt szolgáltatnak arról, hogy egy adott pont topológiai fontossága hogyan változik egy hálózaton belül. Fontos információt nyújt az is, hogy egy pont topológiai fontossága hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.			
 			
@@ -679,11 +684,11 @@ IFR
 			
 	
 						\begin{figure}[H]
-							\includegraphics[scale=0.486]{img/merged-3-step-from-connecting-salmonella.pdf}
+							\includegraphics[scale=0.50]{img/merged-3-step-from-connecting-salmonella.pdf}
 							\centering
 							\caption{ \textbf{Az interfész fehérjéktől három lépésre elérhető pontok}}
 							\begin{imgdesc}
-								Az ábra az egyesített hálózat azon részét tartalmazza mely elérhető három lépésre a \textit{Salmonella} \textit{Salmonella} hat darab interfész fehérjéjétől. A zöld színű élek a predikciókból származnak. A piros színű élek ez esetben a \textit{Salmonella} interfész fehérjéi és ezek \textit{Salmonellán} belüli első szomszédai között húzódnak. Látványos, hogy ez utóbbi élekből több is a nagy topológiai fontosságú pontokhoz tart. A pontok színezése megegyezik az \ref{fig:merged}. ábránál ismertetett sémával.
+								Az ábra az egyesített hálózat azon részét tartalmazza mely elérhető három lépésre a \textit{Salmonella} \textit{Salmonella} hat darab interfész fehérjéjétől. A zöld színű élek a predikciókból származnak. A piros színű élek ez esetben a \textit{Salmonella} interfész fehérjéi és ezek \textit{Salmonellán} belüli első szomszédai között húzódnak. Látványos, hogy ez utóbbi élekből több is a nagy topológiai fontosságú pontokhoz tart. A pontok színezése megegyezik az \ref{fig:merged}. ábránál ismertetett sémával, a színskála a bal felső sarokban látható.
 							\end{imgdesc}			
 							\label{fig:merged-3-step}			 		 
 						\end{figure}			
@@ -695,19 +700,19 @@ IFR
 		Az \textit{ARN} pontjaiból 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével \textit{(\ref{fig:connection}. ábra)}.
 		
 				\begin{figure}[H]
-					\includegraphics[scale=0.6]{img/connection-proteins.pdf}
+					\includegraphics[scale=0.4]{img/connection_prots_v2_complete.pdf}
 					\centering
 					\caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}		
-					\label{fig:connection}			 		 
+					\label{fig:connection}
+					\begin{imgdesc}
+					Az ábrán látható hálótatok az \textit{ARN}-t és a hat \textit{Salmonella} interfész fehérjét ábrázolják TI$^1$ és TI$^2$ értékekre. A hálózatok bal oldalán elhelyezkedő kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. A hálózatok felső részén elhelyezkedő sárga téglalap tartalmazza a \textit{Salmonet} interfész fehérjéit. A szűkre színű élek a emberi fehérjék közötti kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága arányos a topológiai fontosságukkal. A pontok színének megfeleltetése a bal alsó sarokban látható színskálán látható. 
+					\end{imgdesc}			 		 
 				\end{figure}
-				
-
-		\begin{imgdesc}
-			Az ábrán az \textit{ARN} valamint az \textit{ARN}-t és a \textit{Salmonet}-et összekötő hat fehérje látható az egyesített hálózatból kiemelve. Az bal oldali kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. Az ábra felső részén elhelyezkedő pontok a \textit{Salmonet} azont kiragadott pontjai, melyek az \textit{ARN}-nel kapcsolatot létesítenek. A szükre színű élek a emberi fehérjék közötti kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága és színmélysége egyenesen arányos az egy lépésre számított topológiai fontosságukkal. Mivel a hálózat az egyesített hálózatból lett kiemelve, így a pontok TI értékei is a nagy hálóra vonatkoznak, de szemléletesség kedvéért a színezés és a méret kis hálózat minimum és maximum értékeihez van viszonyítva.
-		\end{imgdesc}
 
 				
 		 A 40 darab interspecifikus kapcsolatért \textit{Salmonella} oldalról csupán a következő hat \textit{Salmonella} fehérje a felelős: sifB, slpA, sopB, sseI, sseL, sspH2 (\textit{\ref{fig:connection}. ábra}). A predikciók alapján tehát a \textit{Salmonella} fehérjék mindössze 0,2\%-a létesít csak kapcsolatot a gazda autofágia fehérjéivel. Az ábrán az is megfigyelhető, hogy a négy csak humán kapcsolattal rendelkező fehérje viszonylag kisebb topológiai fontossággal rendelkezik, pedig valóban központi szerepűek.
+		 
+		 A \textit{\ref{fig:connection}. ábra} azt is szemlélteti, hogy az interfész fehérjék többsége egy lépésre még nem számít topológiailag erős kölcsönhatónak, viszont két lépésnél már igen. Ennek a jelenségnek az az oka, hogy az interfész fehérjékből viszonylag kevés kapcsolat ered, azonban ezek a kapcsolatok erősen kölcsönható fehérjék. Ezáltal az interfészfehérjékből kiinduló kétlépéses útvonalak erős elsődleges kölcsönhatókon keresztül érik el célpontjukat.
 		
 
 
@@ -725,7 +730,7 @@ IFR
 			
 			\item \textbf{sseL} -- Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős. \cite{sseL}
 			
-			\item \textbf{slpA} -- Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli. \textcolor{red}{TODO link} A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
+			\item \textbf{slpA} -- Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli. \cite{fkbp} A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
 			
 		\end{itemize}
 		
@@ -750,7 +755,7 @@ IFR
 		
 		Szakdolgozatomban humán oldalról csupán a \textit{Salmonella} autofágiára gyakorolt hatását vizsgáltam. A \textit{Salmonella} azonban befolyásolja még a sejtvázrendszert is például a Rho útvonalon keresztül. \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old}. Mivel a \textit{Signalink} tartalmazza a Rho útvonalat is, így egy ilyen hálózatra is fel lehetne írni topológiai sorrendet .
 		
-		Utóbbiak mellet számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor abba jó minőségű fehérje fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban. \textcolor{red}{hivatkozás} Az adatbázis felhasználásával és a topológiai fontosság alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer működésekor a \textit{Salmonella} fertőzéskor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.
+		Utóbbiak mellet számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor abba jó minőségű fehérje fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban. \cite{innatedb} Az adatbázis felhasználásával és a topológiai fontosság alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer működésekor a \textit{Salmonella} fertőzéskor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.
 		
 		Mint a bevezetőben említettem, a bél mikrobióta metabolitokkal kommunikál egymással és a humán sejtekkel is. Ilyen volt a leptin rendszer befolyásolása, vagy különböző GPCR-ek által például a sejtciklus befolyásolása. \cite{buthyrate_immune} A bél mikrobióta ilyen módon komoly népegészségügyi betegségeket is befolyásol mint az IBD vagy különböző rák típusok. \cite{gut_microbiome} A bél mikrobióta mindezekre saját maguk által termelt metabolitokkal is képes hatni. \cite{scfa_and_vitamine}. Mivel a \textit{Salmonet} mát tartalmaz metabolikus kapcsolatokat, hasonlóan lehetne készíteni egy bél mikrobióta metabolikus hálózatot. Egy ilyen hálózat topológiai fontossággal való elemzésével ki lehetne használni a \textit{TI} azon ökológiai aspektusát, hogy a pontok páros lépésszámoknál erősen visszahatnak magukra. Ez életszerű mivel a bél mikrobiótában az egyes baktériumok metabolitjaikkal hatnak más baktériumok anyagcseréjére és így valószínűleg azok biomasszájára is. \cite{gut_microbiome} Egy ilyen a topológiai fontosságon alapuló rangsorban ki lehetne jelölni hogy a meta-omikák által megállapított személyre jutó körülbelül 160 domináns baktérium fajból \cite{meta_omics} melyek azok amelyek úgymond kulcsfajként viselkednek. Gyógyászati szempontból meg lehetne nézni a különbséget a topológiailag legfontosabb kulcs baktérium fajok között egészséges és például Crohn betegségben, vagy rákban szenvedő betegek mikrobiótája között. Ilyen vizsgálatokkal tehát a gazda-patogén szempont mellett akár a mutualisztikus kapcsolatokat is vizsgálni lehetne humán-baktérium, vagy bélmikróbióta baktérium-baktérium hálózatokban.
  
@@ -801,12 +806,8 @@ IFR
 				
 		\pagebreak
 
-\section{Internetes hivatkozások jegyzéke}
-	1. link \textcolor{red}{TODO github link} \label{lst:github}
-	2. link \textcolor{red}{TODO} homológ fehérje http://www.uniprot.org/uniprot/P0AEM2
-	3. link ATG3 http://www.uniprot.org/uniprot/Q9NT62
-	4. link Beclin-1 http://www.uniprot.org/uniprot/Q14457
 \section{Köszönetnyilvánítás}
+
 \section{Nyilatkozat}
 
 \pagebreak

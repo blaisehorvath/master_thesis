@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  10 MAY 2016 16:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  10 MAY 2016 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -717,21 +717,41 @@ Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 \c@SC@C=\count121
 \SC@BOX=\box41
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+)
+\c@ContinuedFloat=\count122
+Package caption Info: magyar babel option is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: sidecap package is loaded.
+)
    defining Unicode char U+00A0 (decimal 160)
 
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count122
-\Gm@cntv=\count123
-\c@Gm@tempcnt=\count124
-\Gm@bindingoffset=\dimen135
-\Gm@wd@mp=\dimen136
-\Gm@odd@mp=\dimen137
-\Gm@even@mp=\dimen138
-\Gm@layoutwidth=\dimen139
-\Gm@layoutheight=\dimen140
-\Gm@layouthoffset=\dimen141
-\Gm@layoutvoffset=\dimen142
+\Gm@cnth=\count123
+\Gm@cntv=\count124
+\c@Gm@tempcnt=\count125
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks25
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
@@ -739,71 +759,71 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen143
-\extrarowheight=\dimen144
+\col@sep=\dimen150
+\extrarowheight=\dimen151
 \NC@list=\toks26
 \extratabsurround=\skip63
 \backup@length=\skip64
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count125
-\calc@Bcount=\count126
-\calc@Adimen=\dimen145
-\calc@Bdimen=\dimen146
+\calc@Acount=\count126
+\calc@Bcount=\count127
+\calc@Adimen=\dimen152
+\calc@Bdimen=\dimen153
 \calc@Askip=\skip65
 \calc@Bskip=\skip66
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count127
+\calc@Ccount=\count128
 \calc@Cskip=\skip67
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip68
-\enit@outerparindent=\dimen147
+\enit@outerparindent=\dimen154
 \enit@toks=\toks27
 \enit@inbox=\box42
-\enitdp@description=\count128
+\enitdp@description=\count129
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box43
 \beforetitleunit=\skip69
 \aftertitleunit=\skip70
-\ttl@plus=\dimen148
-\ttl@minus=\dimen149
+\ttl@plus=\dimen155
+\ttl@minus=\dimen156
 \ttl@toksa=\toks28
-\titlewidth=\dimen150
-\titlewidthlast=\dimen151
-\titlewidthfirst=\dimen152
+\titlewidth=\dimen157
+\titlewidthlast=\dimen158
+\titlewidthfirst=\dimen159
 )
 (./msc_szakdolgozat.aux)
 \openout1 = `msc_szakdolgozat.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 92.
+Package hyperref Info: Link coloring OFF on input line 96.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -811,11 +831,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count129
+\c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 92.
-LaTeX Info: Redefining \pageref on input line 92.
-LaTeX Info: Redefining \nameref on input line 92.
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
 
 (./msc_szakdolgozat.out) (./msc_szakdolgozat.out)
 \@outlinefile=\write3
@@ -824,16 +844,16 @@ LaTeX Info: Redefining \nameref on input line 92.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count130
-\scratchdimen=\dimen153
+\scratchcounter=\count131
+\scratchdimen=\dimen160
 \scratchbox=\box45
-\nofMPsegments=\count131
-\nofMParguments=\count132
+\nofMPsegments=\count132
+\nofMParguments=\count133
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count133
-\MPscratchDim=\dimen154
-\MPnumerator=\count134
-\makeMPintoPDFobject=\count135
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen161
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
 \everyMPtoPDFconversion=\toks30
 )
 
@@ -879,6 +899,9 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedRightParindent=\skip83
 \JustifyingParindent=\skip84
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -917,173 +940,143 @@ LaTeX Info: Redefining \selectfont on input line 126.
 LaTeX Info: Redefining \cal on input line 506.
 LaTeX Info: Redefining \mit on input line 507.
 )
-LaTeX Font Info:    Try loading font information for U+bbold on input line 94.
+LaTeX Font Info:    Try loading font information for U+bbold on input line 98.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bbold/Ubbold.fd) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
-Overfull \hbox (8.56598pt too wide) in paragraph at lines 126--127
+Overfull \hbox (8.56598pt too wide) in paragraph at lines 132--133
 \OT1/cmr/m/n/12 elt}urni a gyo-mor sa-vass^^Sag^^Sat ^^Ses a ve-lesz^^?ule-tett
  im-mun-rend-szer egy^^Seb hat^^Sasait. A v^^Sekonyb^^Selbe
  []
 
-<img/salmonella_life_cycle.png, id=191, 1116.42094pt x 319.1925pt>
-File: img/salmonella_life_cycle.png Graphic file (type png)
+<img/intracell_bakt_terj_am.png, id=189, 645.16031pt x 189.70876pt>
+File: img/intracell_bakt_terj_am.png Graphic file (type png)
 
-<use img/salmonella_life_cycle.png>
-Package pdftex.def Info: img/salmonella_life_cycle.png used on input line 136.
-(pdftex.def)             Requested size: 468.8936pt x 134.05992pt.
+<use img/intracell_bakt_terj_am.png>
+Package pdftex.def Info: img/intracell_bakt_terj_am.png used on input line 142.
 
-Overfull \hbox (13.64949pt too wide) in paragraph at lines 136--137
- [][] 
- []
-
-[6]
-Overfull \hbox (0.73273pt too wide) in paragraph at lines 146--147
+(pdftex.def)             Requested size: 451.60913pt x 132.79521pt.
+ [6]
+Overfull \hbox (0.73273pt too wide) in paragraph at lines 150--151
 \OT1/cmr/m/n/12 ^^Serett deg-ra-dat^^S^^Pv fa-go-lizosz^^Som^^Sav^^Sa nem v^^Sa
 lik. A bakt^^Seriumok k^^Setf^^Selek^^Seppen k^^Sepesek ^^Seletben
  []
 
 
-Overfull \hbox (3.13168pt too wide) in paragraph at lines 150--152
+Overfull \hbox (3.13168pt too wide) in paragraph at lines 154--156
 \OT1/cmr/m/n/12 ^^Satalak^^S^^Ptj^^Sak a gaz-da ci-to-sz-ke-let-on ar-chi-tekt^
 ^Sur^^Saj^^Sat, membr^^San anyag^^Saraml^^Sas^^Sat, szign^^Sal transz-
  []
 
-[7pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.153 ...Salmonella} és az autofágia kapcsolata}
-                                                   \mbox{}\\ <./img/salmonella_
-life_cycle.png>]
-Overfull \hbox (31.58833pt too wide) in paragraph at lines 153--155
+Overfull \hbox (31.58833pt too wide) in paragraph at lines 157--159
 \OT1/cmr/m/n/12 Az au-tof^^Sagia egy int-ra-cel-lul^^Saris ka-ta-bo-li-kus fo-l
 ya-mat mely-nek sze-re-pe van a feh^^Serjeaggreg^^Satumok
  []
 
 
-Overfull \hbox (23.43286pt too wide) in paragraph at lines 153--155
+Overfull \hbox (23.43286pt too wide) in paragraph at lines 157--159
 \OT1/cmr/m/n/12 ^^Ses k^^Sarosodott sejt-or-ga-nel-lu-mok elt^^Savol^^S^^Pt^^Sa
 s^^Saban ^^Ses a ve-lesz^^?ule-tett im-mun-rend-szer m}uk^^?od^^Ses^^Seben.
  []
 
-
-Overfull \hbox (27.6503pt too wide) in paragraph at lines 156--156
+[7 <./img/intracell_bakt_terj_am.png>]
+Overfull \hbox (27.6503pt too wide) in paragraph at lines 160--160
  |[][]\OT1/cmr/bx/n/14.4 Okol^^Sogiai h^^Sal^^Sozatok elemz^^Ses^^Sere haszn^^S
 alt to-pol^^Sogiai m^^Ser}osz^^Samok| 
  []
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 156.
+(hyperref)                removing `\H' on input line 160.
 
 
-Overfull \hbox (12.86948pt too wide) in paragraph at lines 161--163
+Overfull \hbox (12.86948pt too wide) in paragraph at lines 165--167
 \OT1/cmr/m/n/12 hogy ha ki-esik a Ka-li-for-ni-ai szikl^^Sas ten-ger-par-ti k^^
 ?oz^^?oss^^Segb}ol a \OT1/cmr/m/it/12 Pi-as-ter och-ra-ce-us \OT1/cmr/m/n/12 cs
 ^^Sucsragadoz^^So
  []
 
 [8] [9] [10]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 215.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 219.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 215.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 219.
  [11]
-<img/graphs.pdf, id=262, 434.7599pt x 197.11993pt>
+<img/graphs.pdf, id=260, 434.7599pt x 197.11993pt>
 File: img/graphs.pdf Graphic file (type pdf)
  <use img/graphs.pdf>
-Package pdftex.def Info: img/graphs.pdf used on input line 246.
+Package pdftex.def Info: img/graphs.pdf used on input line 250.
 (pdftex.def)             Requested size: 434.75883pt x 197.11945pt.
 
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.281 	\]
-          <./img/graphs.pdf>] [13] [14]
+[12 <./img/graphs.pdf>] [13] [14]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 289.
+(hyperref)                removing `\H' on input line 293.
 
 
-Overfull \hbox (1.69559pt too wide) in paragraph at lines 301--302
+Overfull \hbox (1.69559pt too wide) in paragraph at lines 305--306
 \OT1/cmr/m/n/12 hogy fel-haszn^^Salhat^^Sok-e az ^^?okol^^Sogi^^Saban fa-jok k^
 ^?ozti kap-cso-la-tok vizsg^^Salat^^Sara haszn^^Salt tiszt^^San
  []
 
 
-Overfull \hbox (0.20918pt too wide) in paragraph at lines 307--308
+Overfull \hbox (0.20918pt too wide) in paragraph at lines 311--312
 []\OT1/cmr/m/n/12 Programok ^^S^^Pr^^Sasa me-lyek k^^Sepesek a Krish-nad-ev ^^S
 es Skhirs-ha-gar f^^Sele hum^^San-\OT1/cmr/m/it/12 Salmonella
  []
 
 
-Overfull \hbox (11.67337pt too wide) in paragraph at lines 308--309
+Overfull \hbox (11.67337pt too wide) in paragraph at lines 312--313
 []\OT1/cmr/m/n/12 Program ^^S^^Pr^^Sasa mely k^^Sepes a l^^Setrehozott Mi-Tab S
 QL f^^Sajlokban a feh^^Serj^^Sek azo-nos^^S^^Pt^^Soj^^Sanak
  []
 
 [15] [16]
-Overfull \hbox (1.03867pt too wide) in paragraph at lines 321--322
+Overfull \hbox (1.03867pt too wide) in paragraph at lines 325--326
 \OT1/cmr/m/n/12 adatb^^Sazis k^^Sezzel gy}ujt^^?ott ^^Ses k^^?uls}o ada-to-kat 
 tar-tal-maz^^So r^^Setegeinek (L0 ^^Ses L3) l^^Setrehoz^^Sasakor
  []
 
 
-Overfull \hbox (32.83276pt too wide) in paragraph at lines 330--331
+Overfull \hbox (32.83276pt too wide) in paragraph at lines 334--335
 \OT1/cmr/m/n/12 nyer-het^^?unk nagy m^^Seret}u h^^Sal^^Sozatokr^^Sol, mi-el}ott
  azo-kat olyan j^^Soval las-sabb m}uk^^?od^^Ses}u h^^Sal^^Sozatkezel}o
  []
 
-<img/Signalink_Layer0.pdf, id=312, 244.915pt x 683.35298pt>
+<img/Signalink_Layer0.pdf, id=310, 244.915pt x 683.35298pt>
 File: img/Signalink_Layer0.pdf Graphic file (type pdf)
 
 <use img/Signalink_Layer0.pdf>
-Package pdftex.def Info: img/Signalink_Layer0.pdf used on input line 333.
+Package pdftex.def Info: img/Signalink_Layer0.pdf used on input line 337.
 (pdftex.def)             Requested size: 171.43932pt x 478.34383pt.
  [17]
-Overfull \hbox (13.0615pt too wide) in paragraph at lines 349--350
+Overfull \hbox (13.0615pt too wide) in paragraph at lines 353--354
 \OT1/cmr/m/n/12 sz^^?uks^^Seges ^^Sujabb szkript ^^S^^Pr^^Sasa, a legt^^?obb sz
 kript-nyelv ren-del-ke-zik va-la-mi-lyen \OT1/cmr/m/it/12 SQ-Li-te \OT1/cmr/m/n
 /12 adatb^^Sazis
  []
 
-[18pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.350 
-       <./img/Signalink_Layer0.pdf>]
-<img/Mitab-SQL.pdf, id=398, 476.179pt x 302.731pt>
+[18 <./img/Signalink_Layer0.pdf>]
+<img/Mitab-SQL.pdf, id=396, 476.179pt x 302.731pt>
 File: img/Mitab-SQL.pdf Graphic file (type pdf)
  <use img/Mitab-SQL.pdf>
-Package pdftex.def Info: img/Mitab-SQL.pdf used on input line 358.
+Package pdftex.def Info: img/Mitab-SQL.pdf used on input line 362.
 (pdftex.def)             Requested size: 333.32303pt x 211.91025pt.
 
-[19pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.367 						\item
-                  A \ref{fig:slk3uml}. ábrán ábrázolt munkafolyamatot le...
- <./img/Mitab-SQL.pdf>]
-Overfull \hbox (13.89278pt too wide) in paragraph at lines 368--369
+[19 <./img/Mitab-SQL.pdf>]
+Overfull \hbox (13.89278pt too wide) in paragraph at lines 372--373
 []\OT1/cmr/m/n/12 A ford^^S^^Pt^^Sashoz haszn^^Salt adatb^^Sazist meg^^Sep^^S^^
 Pt}o szkript (Kad-le-csik Tam^^Sas szkript-je alapj^^San) 
  []
 
 
-Overfull \hbox (31.92339pt too wide) in paragraph at lines 383--385
+Overfull \hbox (31.92339pt too wide) in paragraph at lines 387--389
 \OT1/cmr/m/n/12 A \OT1/cmr/m/it/12 Psi-miSQL \OT1/cmr/m/n/12 egy \OT1/cmr/m/it/
 12 Py-thon \OT1/cmr/m/n/12 2.7-es szin-ta-xis-ban ^^S^^Prt oszt^^Saly, me-lyet 
 m^^Seg a \OT1/cmr/m/it/12 Sig-na-link 3 \OT1/cmr/m/n/12 ^^?ossze^^Sall^^S^^Pt^^
@@ -1091,196 +1084,131 @@ Sas^^Sahoz
  []
 
 
-Overfull \hbox (8.92006pt too wide) in paragraph at lines 383--385
+Overfull \hbox (8.92006pt too wide) in paragraph at lines 387--389
 \OT1/cmr/m/n/12 te adatb^^Sazisokk^^Sa. Az oszt^^Saly sz^^Samos f^^?uggv^^Seny^
 ^Sevel megk^^?onny^^S^^Pti a Mi-Tab SQ-Li-te adatb^^Sazisok
  []
 
 
-Overfull \hbox (0.26308pt too wide) in paragraph at lines 386--388
+Overfull \hbox (0.26308pt too wide) in paragraph at lines 390--392
 \OT1/cmr/m/n/12 En-nek ^^Serdek^^Seben a mind-egyik h^^Sal^^Sozat feh^^Serj^^Se
 it a leg-fri-sebb \OT1/cmr/m/it/12 Uni-prot \OT1/cmr/m/n/12 adatb^^Sazis azo-no
 s^^S^^Pt^^Sokra
  []
 
 [20]
-Overfull \hbox (2.3148pt too wide) in paragraph at lines 391--392
+Overfull \hbox (2.3148pt too wide) in paragraph at lines 395--396
 []\OT1/cmr/m/n/12 A pre-dik-ci^^Sokhoz egy olyan sz^^Sot^^Sarat kel-let l^^Setr
 ehozni, mely \OT1/cmr/m/it/12 Sal-mo-nel-la \OT1/cmr/m/n/12 g^^Senazonos^^S^^Pt
 ^^Sokhoz
  []
 
 [21]
-Overfull \hbox (9.9205pt too wide) in paragraph at lines 404--405
+Overfull \hbox (9.9205pt too wide) in paragraph at lines 408--409
 []\OT1/cmr/m/n/12 Olyan jel^^Satviteli ^^Sutvonalak ^^Ses feh^^Serje-feh^^Serje
  in-ter-ak-ci^^Sok me-lyek k^^?ul^^?onb^^?oz}o ^^Sutvonalakat
  []
 
 [22] [23]
-Overfull \hbox (0.86328pt too wide) in paragraph at lines 428--429
+Overfull \hbox (0.86328pt too wide) in paragraph at lines 432--433
 \OT1/cmr/m/n/12 kap-cso-la-tot sz^^?uks^^Segem van m^^Seg in-ter-spe-ci-fi-kus 
 ^^Selekre is. A pre-dik-ci^^Sos forr^^Sasokb^^Sol sz^^Sarmaz^^So
  []
 
 
-Overfull \hbox (16.08525pt too wide) in paragraph at lines 446--447
+Overfull \hbox (16.08525pt too wide) in paragraph at lines 450--451
 \OT1/cmr/m/n/12 A \OT1/cmr/m/it/12 To-po-lo-gy-Analy-ser \OT1/cmr/m/n/12 oszt^^
 Saly \OT1/cmr/m/it/12 Py-thon 3 \OT1/cmr/m/n/12 szin-ta-xist haszn^^Sal. Az osz
 t^^Saly seg^^S^^Pts^^Seg^^Sevel kisz^^Sam^^S^^Pthat^^So
  []
 
 [24]
-Overfull \hbox (7.98242pt too wide) in paragraph at lines 448--449
+Overfull \hbox (7.98242pt too wide) in paragraph at lines 452--453
 []\OT1/cmr/m/n/12 A Net-workX egy tel-je-sen \OT1/cmr/m/it/12 Py-thon-ban \OT1/
 cmr/m/n/12 ^^S^^Prt cso-mag. Van-nak m^^Seg m^^Sas in-gye-nes h^^Sal^^Sozatkeze
 l}o
  []
 
 [25]
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 469--495
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 473--499
 $[]$ 
  []
 
 [26]
-Overfull \hbox (31.58176pt too wide) in paragraph at lines 521--522
+Overfull \hbox (31.58176pt too wide) in paragraph at lines 525--526
 \OT1/cmr/m/n/12 l^^Sep^^Sesk^^Sent l^^Setrehoz egy ^^Sutvonal list^^Sat a \OT1/
 cmr/m/it/12 get-Path-Way-sToNth-Ne-igh-bours \OT1/cmr/m/n/12 met^^Sodus seg^^S^
 ^Pts^^Seg^^Sevel,
  []
 
-[27] <img/arn_123_comp.pdf, id=466, 830.2685pt x 867.44597pt>
+[27] <img/arn_123_comp.pdf, id=465, 830.2685pt x 867.44597pt>
 File: img/arn_123_comp.pdf Graphic file (type pdf)
 
 <use img/arn_123_comp.pdf>
-Package pdftex.def Info: img/arn_123_comp.pdf used on input line 534.
-(pdftex.def)             Requested size: 332.10152pt x 346.97224pt.
- [28pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.561 
-      pdfTeX warning (ext4): destination with the same identifier (name{table.1
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.561 
-       <./img/arn_123_comp.pdf>] [29]
-Overfull \hbox (15.05194pt too wide) in paragraph at lines 579--580
+Package pdftex.def Info: img/arn_123_comp.pdf used on input line 538.
+(pdftex.def)             Requested size: 415.13322pt x 433.72192pt.
+ [28 <./img/arn_123_comp.pdf>] [29] [30]
+Overfull \hbox (15.05194pt too wide) in paragraph at lines 582--583
 \OT1/cmr/m/n/12 Az Ulk-1 a fa-gof^^Sor k^^Sez}od^^Ses egyik kulcs fak-to-ra. Ak
 -ti-vit^^Sas^^Sat az az mTORC1 szab^^Salyozza.
  []
 
-[30] <img/salmonet_tis.pdf, id=493, 917.83987pt x 770.2983pt>
+<img/salmonet_tis.pdf, id=497, 917.83987pt x 770.2983pt>
 File: img/salmonet_tis.pdf Graphic file (type pdf)
 
 <use img/salmonet_tis.pdf>
-Package pdftex.def Info: img/salmonet_tis.pdf used on input line 586.
+Package pdftex.def Info: img/salmonet_tis.pdf used on input line 589.
 (pdftex.def)             Requested size: 458.91882pt x 385.1482pt.
 
-Overfull \hbox (3.67471pt too wide) in paragraph at lines 586--588
+Overfull \hbox (3.67471pt too wide) in paragraph at lines 589--591
  [][] 
  []
 
 
-Overfull \hbox (23.23703pt too wide) in paragraph at lines 596--597
+Overfull \hbox (23.23703pt too wide) in paragraph at lines 599--600
 \OT1/cmr/m/n/12 l^^Sep^^Sessz^^Samokhoz ren-delt ^^?ot leg-fon-to-sabb feh^^Ser
 j^^Seinek list^^Saja meg-egye-zik az egyes^^S^^Ptett h^^Sal^^Sozat^^Seval.
  []
 
-
-Underfull \hbox (badness 6559) in paragraph at lines 600--600
-[]\OT1/cmr/m/n/12 2. t^^Sabl^^Sazat. []A \OT1/cmr/m/it/12 Sal-mo-net \OT1/cmr/m
-/n/12 leg-na-gyobb to-pol^^Sogiai fon-toss^^Sag^^Su pont-jai k^^?ul^^?onb^^?oz}
-o
- []
-
-[31pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.613 
-       <./img/salmonet_tis.pdf>] [32pdfTeX warning (ext4): destination with the
- same identifier (name{table.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.625 			\end{itemize}
-                      ] <img/merged.pdf, id=517, 705.95299pt x 495.04988pt>
+[31 <./img/salmonet_tis.pdf>] [32]
+<img/merged.pdf, id=521, 705.95299pt x 495.04988pt>
 File: img/merged.pdf Graphic file (type pdf)
+ <use img/merged.pdf>
+Package pdftex.def Info: img/merged.pdf used on input line 632.
+(pdftex.def)             Requested size: 423.57506pt x 297.03221pt.
 
-<use img/merged.pdf>
-Package pdftex.def Info: img/merged.pdf used on input line 630.
-(pdftex.def)             Requested size: 494.16373pt x 346.53255pt.
-
-Overfull \hbox (38.91962pt too wide) in paragraph at lines 630--632
- [][] 
- []
-
-[33pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.658 
-       <./img/merged.pdf>]
-<img/mergedTIs.pdf, id=535, 918.46231pt x 386.24298pt>
+[33 <./img/merged.pdf>] <img/mergedTIs.pdf, id=539, 918.46231pt x 386.24298pt>
 File: img/mergedTIs.pdf Graphic file (type pdf)
- <use img/mergedTIs.pdf>
-Package pdftex.def Info: img/mergedTIs.pdf used on input line 670.
+
+<use img/mergedTIs.pdf>
+Package pdftex.def Info: img/mergedTIs.pdf used on input line 675.
 (pdftex.def)             Requested size: 459.23003pt x 193.12102pt.
 
-Overfull \hbox (3.98592pt too wide) in paragraph at lines 670--672
+Overfull \hbox (3.98592pt too wide) in paragraph at lines 675--677
  [][] 
  []
 
-[34pdfTeX warning (ext4): destination with the same identifier (name{table.3}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.678 						\end{figure}
-                        ]
-<img/merged-3-step-from-connecting-salmonella.pdf, id=541, 641.90364pt x 479.65
+[34]
+<img/merged-3-step-from-connecting-salmonella.pdf, id=545, 705.95648pt x 479.65
 993pt>
 File: img/merged-3-step-from-connecting-salmonella.pdf Graphic file (type pdf)
  <use img/merged-3-step-from-connecting-salmonella.pdf>
 Package pdftex.def Info: img/merged-3-step-from-connecting-salmonella.pdf used 
-on input line 682.
-(pdftex.def)             Requested size: 311.95953pt x 233.11052pt.
- [35pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.696 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-9}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.696 
-       <./img/mergedTIs.pdf> <./img/merged-3-step-from-connecting-salmonella.pd
-f
+on input line 687.
+(pdftex.def)             Requested size: 352.97737pt x 239.82938pt.
+ [35 <./img/mergedTIs.pdf> <./img/merged-3-step-from-connecting-salmonella.pdf
 
 pdfTeX warning: pdflatex (file ./img/merged-3-step-from-connecting-salmonella.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
->] <img/connection-proteins.pdf, id=552, 456.20259pt x 494.56908pt>
-File: img/connection-proteins.pdf Graphic file (type pdf)
+>] <img/connection_prots_v2_complete.pdf, id=561, 1081.1532pt x 684.66245pt>
+File: img/connection_prots_v2_complete.pdf Graphic file (type pdf)
 
-<use img/connection-proteins.pdf>
-Package pdftex.def Info: img/connection-proteins.pdf used on input line 698.
-(pdftex.def)             Requested size: 273.72366pt x 296.74373pt.
- [36pdfTeX warning (ext4): destination with the same identifier (name{figure.10
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.711 
-       <./img/connection-proteins.pdf>]
-Overfull \hbox (15.49432pt too wide) in paragraph at lines 726--727
+<use img/connection_prots_v2_complete.pdf>
+Package pdftex.def Info: img/connection_prots_v2_complete.pdf used on input lin
+e 703.
+(pdftex.def)             Requested size: 432.45361pt x 273.86012pt.
+ [36 <./img/connection_prots_v2_complete.pdf>]
+Overfull \hbox (15.49432pt too wide) in paragraph at lines 731--732
 \OT1/cmr/m/n/12 v^^Segzi. Az sseL-nek \OT1/cmr/m/it/12 in vit-ro \OT1/cmr/m/n/1
 2 a lizin-63 kap-csolt ubik-vi-tin l^^Sancok sok-kal jobb szubsztr^^Satjai,
  []
@@ -1288,135 +1216,129 @@ Overfull \hbox (15.49432pt too wide) in paragraph at lines 726--727
 [37]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 732.
+(hyperref)                removing `\H' on input line 737.
 
-<img/t3ss-inner-salmonella.pdf, id=592, 640.44733pt x 490.03235pt>
+<img/t3ss-inner-salmonella.pdf, id=624, 627.6948pt x 487.9715pt>
 File: img/t3ss-inner-salmonella.pdf Graphic file (type pdf)
 
 <use img/t3ss-inner-salmonella.pdf>
-Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 735.
-(pdftex.def)             Requested size: 384.27135pt x 294.02168pt.
- [38pdfTeX warning (ext4): destination with the same identifier (name{figure.11
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.747 
-       <./img/t3ss-inner-salmonella.pdf>]
-Overfull \hbox (5.02055pt too wide) in paragraph at lines 755--756
+Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 740.
+(pdftex.def)             Requested size: 376.61978pt x 292.78514pt.
+ [38 <./img/t3ss-inner-salmonella.pdf>]
+Overfull \hbox (5.02055pt too wide) in paragraph at lines 760--761
 []\OT1/cmr/m/n/12 Mint a be-ve-zet}oben eml^^S^^Ptettem, a b^^Sel mik-ro-bi^^So
 ta me-ta-bo-li-tok-kal kom-mu-nik^^Sal egym^^Sassal
  []
 
 [39]
-Overfull \hbox (3.39279pt too wide) in paragraph at lines 759--760
+Overfull \hbox (3.39279pt too wide) in paragraph at lines 764--765
 \OT1/cmr/m/n/12 fel^^Sall^^S^^Ptott gazda-patog^^Sen h^^Sal^^Sozaton, vagy hogy
  ho-gyan kor-rel^^Salnak a to-pol^^Sogiai fon-toss^^Sagn^^Sal
  []
 
 
-Overfull \hbox (18.07597pt too wide) in paragraph at lines 761--763
+Overfull \hbox (18.07597pt too wide) in paragraph at lines 766--768
 []\OT1/cmr/m/n/12 Az ed-dig fel-so-rolt ki-te-kint^^Sesek ^^Ses al-kal-maz^^Sas
 i le-het}os^^Seget t^^?obb-nyi-re ^^Suj elm^^Seleti m^^Sodszerekre
  []
 
 
-Overfull \hbox (4.43723pt too wide) in paragraph at lines 761--763
+Overfull \hbox (4.43723pt too wide) in paragraph at lines 766--768
 \OT1/cmr/m/n/12 az or-ga-no-ge-ne-zis, a re-ge-ne-rat^^S^^Pv or-vosl^^Sas a tu-
 mo-ri-ge-ne-zis ^^Ses az em^^Seszt}orendszer m}uk^^?od^^Ses^^Sevel
  []
 
 [40]
-Overfull \hbox (3.6803pt too wide) in paragraph at lines 764--766
+Overfull \hbox (3.6803pt too wide) in paragraph at lines 769--771
 \OT1/cmr/m/n/12 m^^Sodos^^S^^Ptani. [[]Pi-e-ter-se et al., 2009[]] Az ilyen ada
 -tokb^^Sol ^^Sep^^S^^Ptett mo-le-kul^^Saris h^^Sal^^Sozatok elemz^^Sese
  []
 
 [41]
-Overfull \hbox (19.45764pt too wide) in paragraph at lines 771--772
+Overfull \hbox (19.45764pt too wide) in paragraph at lines 776--777
 \OT1/cmr/m/it/12 To-po-lo-gy-Analy-ser Py-thon \OT1/cmr/m/n/12 oszt^^Saly k^^Se
 pes a b^^Sarmilyen h^^Sal^^Sozat form^^Satumb^^Sol k^^?onnyen el}o^^Sall^^S^^Pt
 hat^^So
  []
 
 
-Overfull \hbox (5.1063pt too wide) in paragraph at lines 771--772
+Overfull \hbox (5.1063pt too wide) in paragraph at lines 776--777
 \OT1/cmr/m/n/12 ^^Sellista f^^Sajlt to-pol^^Sogiai elemz^^Ses^^Sere. A cso-port
  ^^Saltal fel^^Sep^^S^^Ptett pro-to-koll egy hat^^Sekony m^^Sodszert
  []
 
 
-Overfull \hbox (1.12569pt too wide) in paragraph at lines 773--774
+Overfull \hbox (1.12569pt too wide) in paragraph at lines 778--779
 \OT1/cmr/m/n/12 mo-le-kul^^Saris h^^Sal^^Sozaton a k^^?ozpon-ti mo-le-kul^^Sak 
 ki-jel^^?ol^^Ses^^Sere. Az ilyen to-pol^^Sogiai m^^Ser}osz^^Samokat
  []
 
 
-Overfull \hbox (11.09003pt too wide) in paragraph at lines 775--776
+Overfull \hbox (11.09003pt too wide) in paragraph at lines 780--781
 []\OT1/cmr/m/n/12 A to-pol^^Sogiai fon-toss^^Sag pa-ram^^Setert}ol f^^?ugg}oen 
 t^^?obb szem-pontb^^Sol is le tud-ja ^^S^^Prni a h^^Sal^^Sozatot.
  []
 
 
-Overfull \hbox (21.1427pt too wide) in paragraph at lines 781--782
+Overfull \hbox (21.1427pt too wide) in paragraph at lines 786--787
 []\OT1/cmr/m/n/12 A to-pol^^Sogiai fon-toss^^Sag alapj^^San fel^^Sall^^S^^Ptott
  sor-ren-dek sz^^Samos k^^S^^Ps^^Serleti c^^Selpont kiv^^Salaszt^^Sas^^Saban
  []
 
-[42] [43]
-Overfull \hbox (55.31238pt too wide) in paragraph at lines 805--809
-\OT1/cmr/m/n/12 1. link []TO-DO git-hub link[] [] 2. link []TO-DO[] ho-mol^^Sog
- feh^^Serje http://www.uniprot.org/uniprot/P0AEM2
- []
-
-
-Overfull \hbox (125.08507pt too wide) in paragraph at lines 805--809
-\OT1/cmr/m/n/12 3. link ATG3 http://www.uniprot.org/uniprot/Q9NT62 4. link Becl
-in-1 http://www.uniprot.org/uniprot/Q14457 
- []
-
-[44] (./msc_szakdolgozat.bbl [45] [46] [47])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 818.
+[42] [43] [44] (./msc_szakdolgozat.bbl [45] [46] [47])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 819.
  [48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 818.
- (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 818.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 818.
-Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
-(rerunfilecheck)             Checksum: 9DED35EEA6E24BEEA02D5DFA95882101;2735.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 818.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 819.
+
+(./msc_szakdolgozat.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 819.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 819.
+
+
+Package rerunfilecheck Warning: File `msc_szakdolgozat.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `msc_szakdolgozat.out':
+(rerunfilecheck)             Before: 9DED35EEA6E24BEEA02D5DFA95882101;2735
+(rerunfilecheck)             After:  AA47E51E2B1DB7ECFAFE1B7990B3EC59;2660.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 819.
  ) 
 Here is how much of TeX's memory you used:
- 11196 strings out of 494465
- 164664 string characters out of 6166362
- 295109 words of memory out of 5000000
- 14122 multiletter control sequences out of 15000+600000
- 15489 words of font info for 57 fonts, out of 8000000 for 9000
+ 12181 strings out of 494465
+ 182959 string characters out of 6166362
+ 313208 words of memory out of 5000000
+ 15097 multiletter control sequences out of 15000+600000
+ 15658 words of font info for 58 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 29i,13n,34p,1808b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti8.pfb>
-Output written on msc_szakdolgozat.pdf (48 pages, 1484721 bytes).
+ 36i,13n,38p,1808b,531s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+ </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmtt12.pfb>
+Output written on msc_szakdolgozat.pdf (48 pages, 1400469 bytes).
 PDF statistics:
- 766 PDF objects out of 1000 (max. 8388607)
- 642 compressed objects within 7 object streams
- 150 named destinations out of 1000 (max. 500000)
+ 816 PDF objects out of 1000 (max. 8388607)
+ 685 compressed objects within 7 object streams
+ 153 named destinations out of 1000 (max. 500000)
  328 words of extra memory for PDF output out of 10000 (max. 10000000)
 

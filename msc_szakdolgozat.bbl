@@ -58,6 +58,16 @@ Haraga, A., Ohlson, M.~B., and Miller, S.~I. (2008).
 \newblock {{S}almonellae interplay with host cells}.
 \newblock {\em Nat. Rev. Microbiol.}, 6(1):53--66.
 
+\bibitem[Horváth, 2015]{github}
+Horváth, B. (2015).
+\newblock {Host Pathogen Networks Repository}.
+\newblock \url{https://github.com/blaisehorvath/host-pathogen-networks}.
+
+\bibitem[InnateDB, 2015]{innatedb}
+InnateDB (2015).
+\newblock {InnateDB}.
+\newblock \url{http://innatedb.com/redirect.do?go=aboutIDB}.
+
 \bibitem[Jo et~al., 2013]{salmonella_authopagy_intro}
 Jo, E.~K., Yuk, J.~M., Shin, D.~M., and Sasakawa, C. (2013).
 \newblock {{R}oles of autophagy in elimination of intracellular bacterial
@@ -196,6 +206,11 @@ Turei, D., Foldvari-Nagy, L., Fazekas, D., Modos, D., Kubisch, J., Kadlecsik,
 \newblock {{A}utophagy {R}egulatory {N}etwork - a systems-level bioinformatics
   resource for studying the mechanism and regulation of autophagy}.
 \newblock {\em Autophagy}, 11(1):155--165.
+
+\bibitem[Uniprot, 2015]{fkbp}
+Uniprot (2015).
+\newblock {FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase}.
+\newblock \url{http://www.uniprot.org/uniprot/P0AEM2}.
 
 \bibitem[Walthers et~al., 2007]{ssrB}
 Walthers, D., Carroll, R.~K., Navarre, W.~W., Libby, S.~J., Fang, F.~C., and
