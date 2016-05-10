@@ -18,6 +18,13 @@ Baranyi, G., Saura, S., Podani, J., and Jordán, F. (2011).
   and uniqueuness of topological indices.
 \newblock {\em Ecological Indicators}.
 
+\bibitem[Bordbar et~al., 2010]{discussion_alveolar_macrophage}
+Bordbar, A., Lewis, N.~E., Schellenberger, J., Palsson, B.~., and Jamshidi, N.
+  (2010).
+\newblock {{I}nsight into human alveolar macrophage and {M}. tuberculosis
+  interactions via metabolic reconstructions}.
+\newblock {\em Mol. Syst. Biol.}, 6:422.
+
 \bibitem[Brown et~al., 2003]{buthyrate_immune}
 Brown, A.~J., Goldsworthy, S.~M., Barnes, A.~A., Eilert, M.~M., Tcheang, L.,
   Daniels, D., Muir, A.~I., Wigglesworth, M.~J., Kinghorn, I., Fraser, N.~J.,
@@ -28,6 +35,11 @@ Brown, A.~J., Goldsworthy, S.~M., Barnes, A.~A., Eilert, M.~M., Tcheang, L.,
   {G}{P}{R}43 are activated by propionate and other short chain carboxylic
   acids}.
 \newblock {\em J. Biol. Chem.}, 278(13):11312--11319.
+
+\bibitem[Date and Sato, 2015]{organoid}
+Date, S. and Sato, T. (2015).
+\newblock {{M}ini-gut organoids: reconstitution of the stem cell niche}.
+\newblock {\em Annu. Rev. Cell Dev. Biol.}, 31:269--289.
 
 \bibitem[Freeman et~al., 2003]{sifB}
 Freeman, J.~A., Ohl, M.~E., and Miller, S.~I. (2003).
@@ -125,6 +137,11 @@ Petrone, B.~L., Stringer, A.~M., and Wade, J.~T. (2014).
 \newblock {{I}dentification of {H}il{D}-regulated genes in {S}almonella
   enterica serovar {T}yphimurium}.
 \newblock {\em J. Bacteriol.}, 196(5):1094--1101.
+
+\bibitem[Pieterse et~al., 2009]{discussion_plant_network}
+Pieterse, C.~M., Leon-Reyes, A., Van~der Ent, S., and Van~Wees, S.~C. (2009).
+\newblock {{N}etworking by small-molecule hormones in plant immunity}.
+\newblock {\em Nat. Chem. Biol.}, 5(5):308--316.
 
 \bibitem[Qin et~al., 2010]{meta_omics}
 Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,

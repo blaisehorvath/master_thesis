@@ -4,45 +4,45 @@ The top-level auxiliary file: msc_szakdolgozat.aux
 The style file: apalike.bst
 Database file #1: msc_szakdolgozat.bib
 Warning--empty note in salmonet
-You've used 27 entries,
+You've used 30 entries,
             1935 wiz_defined-function locations,
-            636 strings with 10842 characters,
-and the built_in function-call counts, 15710 in all, are:
-= -- 1376
-> -- 1254
-< -- 3
-+ -- 473
-- -- 470
-* -- 1621
-:= -- 2856
-add.period$ -- 80
-call.type$ -- 27
-change.case$ -- 368
-chr.to.int$ -- 26
-cite$ -- 28
-duplicate$ -- 369
-empty$ -- 744
-format.name$ -- 499
-if$ -- 2846
+            652 strings with 11392 characters,
+and the built_in function-call counts, 17006 in all, are:
+= -- 1502
+> -- 1318
+< -- 4
++ -- 495
+- -- 492
+* -- 1741
+:= -- 3085
+add.period$ -- 89
+call.type$ -- 30
+change.case$ -- 394
+chr.to.int$ -- 29
+cite$ -- 31
+duplicate$ -- 411
+empty$ -- 828
+format.name$ -- 526
+if$ -- 3092
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 28
-newline$ -- 137
-num.names$ -- 81
-pop$ -- 331
+missing$ -- 31
+newline$ -- 152
+num.names$ -- 90
+pop$ -- 350
 preamble$ -- 1
-purify$ -- 370
+purify$ -- 396
 quote$ -- 0
-skip$ -- 269
+skip$ -- 300
 stack$ -- 0
-substring$ -- 830
-swap$ -- 26
+substring$ -- 925
+swap$ -- 29
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 158
+type$ -- 176
 warning$ -- 1
-while$ -- 92
+while$ -- 103
 width$ -- 0
-write$ -- 344
+write$ -- 383
 (There was 1 warning)

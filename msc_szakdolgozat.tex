@@ -102,6 +102,7 @@ NCBI
 GABARAP -Gamma-aminobutyric acid receptor-associated protein
 MAP-ok
 MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
+IFR
 \pagebreak
 
 \section{Bevezetés}
@@ -735,7 +736,6 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 			\begin{imgdesc}
 				A kép a \textit{\ref{fig:merged-3-step}. ábrán} látható hálózat egy részét tartalmazza, azonos színezéssel. A háló az interfész fehérjék első és második szomszédjait tartalmazza. Az öt \textit{Salmonella} oldali első szomszéd nevei fel vannak tüntetve.
 			\end{imgdesc}
-					
 			\label{fig:t3ss_inner}			 		 
 		\end{figure}
 
@@ -744,8 +744,49 @@ MAP1LC3B - Microtubule-associated proteins 1A/1B light chain 3B
 		\pagebreak
 	
 \section{Diszkusszió}
+		Diplomamunkámban egy ökológiai tisztán topológiai mérőszámot, a topológiai fontosságot (TI) alkalmaztam egy molekuláris hálózatokra. Az index segítségével megpróbáltam felderíteni, hogy mik a topológiailag fontos fehérjék a humán-\textit{Salmonella} hálózatban és az ezt felépítő két alhálózatban. 
+		
+		Szakdolgozatomban humán oldalról csupán a \textit{Salmonella} autofágiára gyakorolt hatását vizsgáltam. A \textit{Salmonella} azonban befolyásolja még a sejtvázrendszert is például a Rho útvonalon keresztül. \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old}. Mivel a \textit{Signalink} tartalmazza a Rho útvonalat is, így egy ilyen hálózatra is fel lehetne írni topológiai sorrendet .
+		
+		Utóbbiak mellet számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor abba jó minőségű fehérje fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban. \textcolor{red}{hivatkozás} Az adatbázis felhasználásával és a topológiai fontosság alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer működésekor a \textit{Salmonella} fertőzéskor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.
+		
+		Mint a bevezetőben említettem, a bél mikrobióta metabolitokkal kommunikál egymással és a humán sejtekkel is. Ilyen volt a leptin rendszer befolyásolása, vagy különböző GPCR-ek által például a sejtciklus befolyásolása. \cite{buthyrate_immune} A bél mikrobióta ilyen módon komoly népegészségügyi betegségeket is befolyásol mint az IBD vagy különböző rák típusok. \cite{gut_microbiome} A bél mikrobióta mindezekre saját maguk által termelt metabolitokkal is képes hatni. \cite{scfa_and_vitamine}. Mivel a \textit{Salmonet} mát tartalmaz metabolikus kapcsolatokat, hasonlóan lehetne készíteni egy bél mikrobióta metabolikus hálózatot. Egy ilyen hálózat topológiai fontossággal való elemzésével ki lehetne használni a \textit{TI} azon ökológiai aspektusát, hogy a pontok páros lépésszámoknál erősen visszahatnak magukra. Ez életszerű mivel a bél mikrobiótában az egyes baktériumok metabolitjaikkal hatnak más baktériumok anyagcseréjére és így valószínűleg azok biomasszájára is. \cite{gut_microbiome} Egy ilyen a topológiai fontosságon alapuló rangsorban ki lehetne jelölni hogy a meta-omikák által megállapított személyre jutó körülbelül 160 domináns baktérium fajból \cite{meta_omics} melyek azok amelyek úgymond kulcsfajként viselkednek. Gyógyászati szempontból meg lehetne nézni a különbséget a topológiailag legfontosabb kulcs baktérium fajok között egészséges és például Crohn betegségben, vagy rákban szenvedő betegek mikrobiótája között. Ilyen vizsgálatokkal tehát a gazda-patogén szempont mellett akár a mutualisztikus kapcsolatokat is vizsgálni lehetne humán-baktérium, vagy bélmikróbióta baktérium-baktérium hálózatokban.
+ 
+ 		A szakirodalomban már csináltak másik humán-baktérium gazda-patogén hálózatot, ami inkább a metabolikus megközelítésre fektette a hangsúlyt. A vizsgálatban tüdő makrofágok \textit{Mycobacterium tubercolosis} általi fertőzését modellezték különböző omikai adatok integrálásával készült hálózatban. A teljes genom szintű integrált hoszt-patogén hálózat segítségével metabolikus változásokat modelleztek, melyek segítségével a fertőzést három különböző patológiai fázisra tudták bontani. \cite{discussion_alveolar_macrophage} Mivel a \textit{Salmonet} is tartalmaz metabolikai adatokat, így az általam összeállított integrált adatbázisban is lehetne hasonló modelleket alkalmazni és ezáltal a fertőzés folyamatának patológiai aspektusaira rávilágítani.
+		
+		A diplomamunkámban csak a topológiai fontosság aspektusában vizsgáltam a gazda-patogén hálózat fehérjéinek fontosságát. Mint a bevezetésben említettem, az ökológiában a kulcs fajok kijelölésére több mérőszámot is használnak egyszerre, melyek más és más aspektusban vizsgálják a fajok fontosságát.\cite{jordan_comparison} \cite{ti} Érdemes lenne, megvizsgálni azt, hogy más mérőszámok hogyan viselkednek az általam felállított gazda-patogén hálózaton, vagy hogy hogyan korrelálnak a topológiai fontosságnál megállapított rangsorral.
+
+		Az eddig felsorolt kitekintések és alkalmazási lehetőséget többnyire új elméleti módszerekre világítottak rá, melyek kísérletes ellenőrzése meglehetősen nehézkes. Azonban organoidok segítségével lehetőség lenne a legtöbb eddig felsorolt elméleti vizsgálat \textit{in vitro} ellenőrzésére. Az organoidokon végzett vizsgálatok már eddig is sok információval szolgáltak az organogenezis, a regeneratív orvoslás a tumorigenezis és az emésztőrendszer működésével kapcsolatban. Az organoidok egyetlen izolált szöveti őssejtből előállított, a valódi \textit{in vivo} szövet karakterisztikáit tükröző mesterségesen \textit{in vitro} struktúrák. \cite{organoid}
+		Egér bélből állítottak elő olyan organoidokat melyek tükrözték a a bél lumen szerkezetét, ezekben kriptákat határoló kitüremkedések voltak megfigyelhetők. Az ilyen módon előállított szérum nélkül, csupán szöveti niche faktorokkal kezelt organoidok önfenntartók és akár több mint egy évig életben maradnak. \cite{organoid} Ilyen rendszerekben lehetőség nyílik a rendszer-biológiai modellekből és fontossági listákból nyert elméleti eredmények, jóslatok kísérleti ellenőrzésére.
+		
+		Az eddig említett elméleti és gyakorlati lehetőségek mind valamilyen szinten humán relevanciával rendelkeztek. Azonban bél mikrobiomhoz hasonlóan a növények is komplex mikrobiológiai rendszerben élnek, melyben mikrobák széles skálája fordul elő. 
+		A növények hasonlóan az állati immunrendszerre felismerik a patogén mintázatot és specifikus válaszokat adnak. A növényi fertőzésekor kis molekulák széles skálája vesz részt a védekezésben. Ezek a molekulák között egymás erősítő és gátló hatások figyelhetőek meg. A növényi patogének hasonló molekulákkal próbálják a fitohormon homeosztázist módosítani. \cite{discussion_plant_network} Az ilyen adatokból épített molekuláris hálózatok elemzése jó alapot szolgáltathat a mezőgazdaságilag fontos növények és patogénjeik között fellépő mechanizmusok feltérképezéséhez.
+		
+		\pagebreak
+
 \section{Összefoglalás}
+		
+		Diplomamunkám során egy humán-\textit{Salmonella} gazda-patogén hálózatot készítettem és elemeztem. A háló előállítása során olyan eszközöket fejlesztettem melyek felhasználhatók hasonló hálózatok építésére és elemzésére. Az ilyen eszközök segítségével könnyen integrálni lehet a bioinformatikában és rendszer-biológiában használt hálózati formátumokat. A csoportunk által alkalmazott MiTab SQL formátum megkönnyíti a molekuláris hálózati adatok tárolását, átalakítását és elemzését. Az általam írt \textit{PsimiSQL} \textit{Python} osztály megkönnyíti a különböző adatbázisok formátumok MiTab SQL-be alakítását. Az általam készített \textit{TopologyAnalyser} \textit{Python} osztály képes a  bármilyen hálózat formátumból könnyen előállítható éllista fájlt topológiai elemzésére.  A csoport által felépített protokoll egy hatékony módszert biztosít molekuláris hálózatok létrehozására. A protokoll jól használhatónak bizonyult \textit{Signalink} és humán-\textit{Salmonella} adatbázis készítésénél.
+		
+		A topológiai fontossági mérőszám bár ökológiai eredetű, de képes volt gazda-patogén molekuláris hálózaton a központi molekulák kijelölésére. Az ilyen topológiai mérőszámokat többnyire nem használják molekuláris hálók vizsgálatára. Diplomamunkám rávilágít arra is, hogy biológiailag releváns eredményeket lehet kapni az ilyen mérőszámok molekuláris hálózatokra alkalmazásával
+		
+		A topológiai fontosság paramétertől függően több szempontból is le tudja írni a hálózatot. Az egy lépésre számolt index megmutatja az erős közvetlen kölcsönhatókat. A páros lépésre számolt esetben az önhatás alakítja a rangsor. Az egynél hosszabb páratlan útvonalakon alapuló topológiai fontosság pedig a pontok közvetett hatását jellemzi.
+		
+		Ebben az adatszettben a predikciós a adatbázisok és a topológiai fontosság rámutatott egy olyan fehérjére aminek eddig nem írták le a szerepét a \textit{Salmonella} virulenciájában. 
+		
+		A megfelelő környezetben vizsgált topológiai fontosság megmutatta a \textit{Salmonella} interfész fehérjéit, amit az irodalom is alátámaszt. A topológiai fontosság megmuatta azt is hogy az interfészfehérjék első szomszédai is nagy fontosak mint azt autofágia, mint a \textit{Salmonella} virulencia és életciklus szabályzásában. Ezzel rávilágítva arra, hogy a \textit{Salmonella} életciklusa erősen függ a gazdával való kölcsönhatásoktól.
+		
+		A topológiai fontosság alapján felállított sorrendek számos kísérleti célpont kiválasztásában segítettek amelyek kivitelezése már elkezdődött a \textit{norwichi} IFR intézetben.
+		
+		\pagebreak
+		
+		
+
 \section{Summary}
+
+		
+		\pagebreak
+
 \section{Internetes hivatkozások jegyzéke}
 	1. link \textcolor{red}{TODO github link} \label{lst:github}
 	2. link \textcolor{red}{TODO} homológ fehérje http://www.uniprot.org/uniprot/P0AEM2
