@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  11 MAY 2016 12:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  11 MAY 2016 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,7 +1096,7 @@ Pt}o szkript (Kad-le-csik Tam^^Sas szkript-je alapj^^San)
  []
 
 
-Overfull \hbox (31.92339pt too wide) in paragraph at lines 398--400
+Overfull \hbox (31.92339pt too wide) in paragraph at lines 399--401
 \OT1/cmr/m/n/12 A \OT1/cmr/m/it/12 Psi-miSQL \OT1/cmr/m/n/12 egy \OT1/cmr/m/it/
 12 Py-thon \OT1/cmr/m/n/12 2.7-es szin-ta-xis-ban ^^S^^Prt oszt^^Saly, me-lyet 
 m^^Seg a \OT1/cmr/m/it/12 Sig-na-link 3 \OT1/cmr/m/n/12 ^^?ossze^^Sall^^S^^Pt^^
@@ -1104,64 +1104,64 @@ Sas^^Sahoz
  []
 
 
-Overfull \hbox (9.49254pt too wide) in paragraph at lines 398--400
+Overfull \hbox (9.49254pt too wide) in paragraph at lines 399--401
 \OT1/cmr/m/it/12 te \OT1/cmr/m/n/12 adatb^^Sazisokk^^Sa. Az oszt^^Saly sz^^Samo
 s f^^?uggv^^Seny^^Sevel megk^^?onny^^S^^Pti a \OT1/cmr/m/it/12 Mi-Tab SQ-Li-te 
 \OT1/cmr/m/n/12 adatb^^Sazisok
  []
 
 
-Overfull \hbox (4.01768pt too wide) in paragraph at lines 398--400
+Overfull \hbox (4.01768pt too wide) in paragraph at lines 399--401
 \OT1/cmr/m/n/12 f^^?uggv^^Senyei me-lyek-kel k^^?onnyen im-port^^Salni ^^Ses ex
 -port^^Salni le-het \OT1/cmr/m/it/12 Mi-Tab SQL \OT1/cmr/m/n/12 adatb^^Sazis f^
 ^Sajlokat. 
  []
 
 [20]
-Overfull \hbox (2.3148pt too wide) in paragraph at lines 406--407
+Overfull \hbox (2.3148pt too wide) in paragraph at lines 407--408
 []\OT1/cmr/m/n/12 A pre-dik-ci^^Sokhoz egy olyan sz^^Sot^^Sarat kel-let l^^Setr
 ehozni, mely \OT1/cmr/m/it/12 Sal-mo-nel-la \OT1/cmr/m/n/12 g^^Senazonos^^S^^Pt
 ^^Sokhoz
  []
 
 [21]
-Overfull \hbox (9.9205pt too wide) in paragraph at lines 419--420
+Overfull \hbox (9.9205pt too wide) in paragraph at lines 420--421
 []\OT1/cmr/m/n/12 Olyan jel^^Satviteli ^^Sutvonalak ^^Ses feh^^Serje-feh^^Serje
  in-ter-ak-ci^^Sok me-lyek k^^?ul^^?onb^^?oz}o ^^Sutvonalakat
  []
 
 [22]
-Overfull \hbox (0.86328pt too wide) in paragraph at lines 443--444
+Overfull \hbox (0.86328pt too wide) in paragraph at lines 444--445
 \OT1/cmr/m/n/12 kap-cso-la-tot sz^^?uks^^Segem van m^^Seg in-ter-spe-ci-fi-kus 
 ^^Selekre is. A pre-dik-ci^^Sos forr^^Sasokb^^Sol sz^^Sarmaz^^So
  []
 
 [23]
-Overfull \hbox (16.08525pt too wide) in paragraph at lines 468--469
+Overfull \hbox (16.08525pt too wide) in paragraph at lines 469--470
 \OT1/cmr/m/n/12 A \OT1/cmr/m/it/12 To-po-lo-gy-Analy-ser \OT1/cmr/m/n/12 oszt^^
 Saly \OT1/cmr/m/it/12 Py-thon 3 \OT1/cmr/m/n/12 szin-ta-xist haszn^^Sal. Az osz
 t^^Saly seg^^S^^Pts^^Seg^^Sevel kisz^^Sam^^S^^Pthat^^So
  []
 
 [24]
-Overfull \hbox (24.29906pt too wide) in paragraph at lines 470--471
+Overfull \hbox (24.29906pt too wide) in paragraph at lines 471--472
 \OT1/cmr/m/n/12 pul^^Sal^^Sas^^Sara ^^Ses elemz^^Ses^^Sere haszn^^Salhat^^So in
 -gye-nes cso-mag. Van-nak m^^Seg m^^Sas in-gye-nes h^^Sal^^Sozatkezel}o
  []
 
 [25]
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 491--517
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 492--518
 $[]$ 
  []
 
 
-Overfull \hbox (14.63675pt too wide) in paragraph at lines 529--530
+Overfull \hbox (14.63675pt too wide) in paragraph at lines 530--531
 \OT1/cmr/m/n/12 hozz^^Saadja egy list^^Sahoz, amit m^^Seg a cik-lu-so-kon k^^S^
 ^Pv^^?ul de-fi-ni^^Saltam. A met^^Sodus visszat^^Ser^^Sesi
  []
 
 [26]
-Overfull \hbox (31.58176pt too wide) in paragraph at lines 545--546
+Overfull \hbox (31.58176pt too wide) in paragraph at lines 546--547
 \OT1/cmr/m/n/12 l^^Sep^^Sesk^^Sent l^^Setrehoz egy ^^Sutvonal list^^Sat a \OT1/
 cmr/m/it/12 get-Path-Way-sToNth-Ne-igh-bours \OT1/cmr/m/n/12 met^^Sodus seg^^S^
 ^Pts^^Seg^^Sevel,
@@ -1171,46 +1171,46 @@ cmr/m/it/12 get-Path-Way-sToNth-Ne-igh-bours \OT1/cmr/m/n/12 met^^Sodus seg^^S^
 File: img/arn_123_comp.pdf Graphic file (type pdf)
 
 <use img/arn_123_comp.pdf>
-Package pdftex.def Info: img/arn_123_comp.pdf used on input line 557.
-(pdftex.def)             Requested size: 415.13322pt x 433.72192pt.
- [28 <./img/arn_123_comp.pdf>] [29] [30]
-Overfull \hbox (15.05194pt too wide) in paragraph at lines 601--602
-\OT1/cmr/m/n/12 Az Ulk-1 a fa-gof^^Sor k^^Sez}od^^Ses egyik kulcs fak-to-ra. Ak
--ti-vit^^Sas^^Sat az az mTORC1 szab^^Salyozza.
+Package pdftex.def Info: img/arn_123_comp.pdf used on input line 560.
+(pdftex.def)             Requested size: 398.52435pt x 416.36934pt.
+ [28 <./img/arn_123_comp.pdf>]
+Overfull \hbox (22.66583pt too wide) in paragraph at lines 587--588
+\OT1/cmr/m/n/12 leg-fon-to-sabb feh^^Serj^^Seit. A t^^Sabl^^Sazatb^^Sol l^^Sath
+at^^So, hogy egy adott feh^^Serje k^^?ul^^?onb^^?oz}o l^^Sep^^Seshosszokn^^Sal
  []
 
-<img/salmonet_tis.pdf, id=525, 917.83987pt x 770.2983pt>
+[29] [30] <img/salmonet_tis.pdf, id=525, 917.83987pt x 770.2983pt>
 File: img/salmonet_tis.pdf Graphic file (type pdf)
 
 <use img/salmonet_tis.pdf>
-Package pdftex.def Info: img/salmonet_tis.pdf used on input line 608.
-(pdftex.def)             Requested size: 458.91882pt x 385.1482pt.
+Package pdftex.def Info: img/salmonet_tis.pdf used on input line 611.
+(pdftex.def)             Requested size: 403.8508pt x 338.9323pt.
 
-Overfull \hbox (3.67471pt too wide) in paragraph at lines 608--610
- [][] 
- []
-
-
-Overfull \hbox (23.23703pt too wide) in paragraph at lines 618--619
+Overfull \hbox (23.23703pt too wide) in paragraph at lines 621--622
 \OT1/cmr/m/n/12 l^^Sep^^Sessz^^Samokhoz ren-delt ^^?ot leg-fon-to-sabb feh^^Ser
 j^^Seinek list^^Saja meg-egye-zik az egyes^^S^^Ptett h^^Sal^^Sozat^^Seval.
  []
 
-[31 <./img/salmonet_tis.pdf>] [32]
-<img/merged.pdf, id=548, 705.95299pt x 495.04988pt>
+[31 <./img/salmonet_tis.pdf>]
+Overfull \hbox (5.3938pt too wide) in paragraph at lines 646--647
+\OT1/cmr/m/n/12 kin^^Sazb^^Sol ^^Ses egy re-gul^^Sator transzk-rip-ci^^Sos fak-
+torb^^Sol ^^Sall. Az ssrA-ssrB rend-szer sz^^?uks^^Seges
+ []
+
+[32] <img/merged.pdf, id=548, 705.95299pt x 495.04988pt>
 File: img/merged.pdf Graphic file (type pdf)
  <use img/merged.pdf>
-Package pdftex.def Info: img/merged.pdf used on input line 651.
+Package pdftex.def Info: img/merged.pdf used on input line 654.
 (pdftex.def)             Requested size: 423.57506pt x 297.03221pt.
 
 [33 <./img/merged.pdf>] <img/mergedTIs.pdf, id=566, 918.46231pt x 386.24298pt>
 File: img/mergedTIs.pdf Graphic file (type pdf)
 
 <use img/mergedTIs.pdf>
-Package pdftex.def Info: img/mergedTIs.pdf used on input line 694.
+Package pdftex.def Info: img/mergedTIs.pdf used on input line 696.
 (pdftex.def)             Requested size: 459.23003pt x 193.12102pt.
 
-Overfull \hbox (3.98592pt too wide) in paragraph at lines 694--696
+Overfull \hbox (3.98592pt too wide) in paragraph at lines 696--698
  [][] 
  []
 
@@ -1220,7 +1220,7 @@ Overfull \hbox (3.98592pt too wide) in paragraph at lines 694--696
 File: img/merged-3-step-from-connecting-salmonella.pdf Graphic file (type pdf)
  <use img/merged-3-step-from-connecting-salmonella.pdf>
 Package pdftex.def Info: img/merged-3-step-from-connecting-salmonella.pdf used 
-on input line 706.
+on input line 708.
 (pdftex.def)             Requested size: 352.97737pt x 239.82938pt.
  [35 <./img/mergedTIs.pdf> <./img/merged-3-step-from-connecting-salmonella.pdf
 
@@ -1231,10 +1231,10 @@ File: img/connection_prots_v2_complete.pdf Graphic file (type pdf)
 
 <use img/connection_prots_v2_complete.pdf>
 Package pdftex.def Info: img/connection_prots_v2_complete.pdf used on input lin
-e 722.
+e 724.
 (pdftex.def)             Requested size: 432.45361pt x 273.86012pt.
  [36 <./img/connection_prots_v2_complete.pdf>]
-Overfull \hbox (15.49432pt too wide) in paragraph at lines 750--751
+Overfull \hbox (15.49432pt too wide) in paragraph at lines 752--753
 \OT1/cmr/m/n/12 v^^Segzi. Az sseL-nek \OT1/cmr/m/it/12 in vit-ro \OT1/cmr/m/n/1
 2 a lizin-63 kap-csolt ubik-vi-tin l^^Sancok sok-kal jobb szubsztr^^Satjai,
  []
@@ -1242,86 +1242,80 @@ Overfull \hbox (15.49432pt too wide) in paragraph at lines 750--751
 [37]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 756.
+(hyperref)                removing `\H' on input line 758.
 
 <img/t3ss-inner-salmonella.pdf, id=651, 627.6948pt x 487.9715pt>
 File: img/t3ss-inner-salmonella.pdf Graphic file (type pdf)
 
 <use img/t3ss-inner-salmonella.pdf>
-Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 759.
+Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 761.
 (pdftex.def)             Requested size: 376.61978pt x 292.78514pt.
  [38 <./img/t3ss-inner-salmonella.pdf>]
-Overfull \hbox (5.02055pt too wide) in paragraph at lines 779--780
+Overfull \hbox (5.02055pt too wide) in paragraph at lines 781--782
 []\OT1/cmr/m/n/12 Mint a be-ve-zet}oben eml^^S^^Ptettem, a b^^Sel mik-ro-bi^^So
 ta me-ta-bo-li-tok-kal kom-mu-nik^^Sal egym^^Sassal
  []
 
 [39]
-Overfull \hbox (3.39279pt too wide) in paragraph at lines 783--784
+Overfull \hbox (3.39279pt too wide) in paragraph at lines 785--786
 \OT1/cmr/m/n/12 fel^^Sall^^S^^Ptott gazda-patog^^Sen h^^Sal^^Sozaton, vagy hogy
  ho-gyan kor-rel^^Salnak a to-pol^^Sogiai fon-toss^^Sagn^^Sal
  []
 
 
-Overfull \hbox (18.07597pt too wide) in paragraph at lines 785--787
+Overfull \hbox (18.07597pt too wide) in paragraph at lines 787--789
 []\OT1/cmr/m/n/12 Az ed-dig fel-so-rolt ki-te-kint^^Sesek ^^Ses al-kal-maz^^Sas
 i le-het}os^^Seget t^^?obb-nyi-re ^^Suj elm^^Seleti m^^Sodszerekre
  []
 
 
-Overfull \hbox (4.43723pt too wide) in paragraph at lines 785--787
+Overfull \hbox (4.43723pt too wide) in paragraph at lines 787--789
 \OT1/cmr/m/n/12 az or-ga-no-ge-ne-zis, a re-ge-ne-rat^^S^^Pv or-vosl^^Sas a tu-
 mo-ri-ge-ne-zis ^^Ses az em^^Seszt}orendszer m}uk^^?od^^Ses^^Sevel
  []
 
-[40]
-Overfull \hbox (3.6803pt too wide) in paragraph at lines 788--790
-\OT1/cmr/m/n/12 m^^Sodos^^S^^Ptani. [[]Pi-e-ter-se et al., 2009[]] Az ilyen ada
--tokb^^Sol ^^Sep^^S^^Ptett mo-le-kul^^Saris h^^Sal^^Sozatok elemz^^Sese
- []
-
-[41]
-Overfull \hbox (19.45764pt too wide) in paragraph at lines 795--796
+[40] [41]
+Overfull \hbox (19.45764pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/it/12 To-po-lo-gy-Analy-ser Py-thon \OT1/cmr/m/n/12 oszt^^Saly k^^Se
 pes a b^^Sarmilyen h^^Sal^^Sozat form^^Satumb^^Sol k^^?onnyen el}o^^Sall^^S^^Pt
 hat^^So
  []
 
 
-Overfull \hbox (5.1063pt too wide) in paragraph at lines 795--796
+Overfull \hbox (5.1063pt too wide) in paragraph at lines 797--798
 \OT1/cmr/m/n/12 ^^Sellista f^^Sajlt to-pol^^Sogiai elemz^^Ses^^Sere. A cso-port
  ^^Saltal fel^^Sep^^S^^Ptett pro-to-koll egy hat^^Sekony m^^Sodszert
  []
 
 
-Overfull \hbox (1.12569pt too wide) in paragraph at lines 797--798
+Overfull \hbox (1.12569pt too wide) in paragraph at lines 799--800
 \OT1/cmr/m/n/12 mo-le-kul^^Saris h^^Sal^^Sozaton a k^^?ozpon-ti mo-le-kul^^Sak 
 ki-jel^^?ol^^Ses^^Sere. Az ilyen to-pol^^Sogiai m^^Ser}osz^^Samokat
  []
 
 
-Overfull \hbox (11.09003pt too wide) in paragraph at lines 799--800
+Overfull \hbox (11.09003pt too wide) in paragraph at lines 801--802
 []\OT1/cmr/m/n/12 A to-pol^^Sogiai fon-toss^^Sag pa-ram^^Setert}ol f^^?ugg}oen 
 t^^?obb szem-pontb^^Sol is le tud-ja ^^S^^Prni a h^^Sal^^Sozatot.
  []
 
 
-Overfull \hbox (21.1427pt too wide) in paragraph at lines 803--804
+Overfull \hbox (21.1427pt too wide) in paragraph at lines 805--806
 []\OT1/cmr/m/n/12 A to-pol^^Sogiai fon-toss^^Sag alapj^^San fel^^Sall^^S^^Ptott
  sor-ren-dek sz^^Samos k^^S^^Ps^^Serleti c^^Selpont kiv^^Salaszt^^Sas^^Saban
  []
 
 [42] [43] [44] (./msc_szakdolgozat.bbl [45] [46] [47])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 836.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 838.
  [48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 836.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 838.
 
 (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 836.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 836.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 838.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 838.
 Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
 (rerunfilecheck)             Checksum: DAC9B4B3AA60503B76011BC98E356ABA;2605.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 836.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 838.
  ) 
 Here is how much of TeX's memory you used:
  12181 strings out of 494465
@@ -1330,7 +1324,7 @@ Here is how much of TeX's memory you used:
  15096 multiletter control sequences out of 15000+600000
  15658 words of font info for 58 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 36i,13n,38p,1808b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,13n,38p,1847b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive
@@ -1351,7 +1345,7 @@ fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmtt12.pfb>
-Output written on msc_szakdolgozat.pdf (49 pages, 1406827 bytes).
+Output written on msc_szakdolgozat.pdf (49 pages, 1408271 bytes).
 PDF statistics:
  845 PDF objects out of 1000 (max. 8388607)
  712 compressed objects within 8 object streams
