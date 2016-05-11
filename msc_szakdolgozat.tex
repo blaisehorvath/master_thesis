@@ -317,10 +317,10 @@ IFR
 
 	\paragraph{A célok eléréséhez tervezett feladatok}
 	\begin{enumerate}
-		\item Program írása mely képes az \textit{ARN (Autophagy Regulatory Network)} adatbázis kurált humán autofágia specifikus fehérje-fehérje kapcsolati rétegének \textit{(``ARN core")} MiTab SQL formátumra átalakítására.
-		\item Program írása mely képes a \textit{Salmonet} adatbázis kurált \textit{Salmonella} fehérje-fehérje kapcsolati hálózatának MiTab SQL formátumra átalakítására.
-		\item Programok írása melyek képesek a Krishnadev és Skhirshagar féle humán-\textit{Salmonella} fehérje-fehéjre kapcsolati predikciók MiTab SQL formátumra alakítására.
-		\item Program írása mely képes a létrehozott MiTab SQL fájlokban a fehérjék azonosítójának \textit{Uniprot} azonosítóra fordítására.
+		\item Program írása mely képes az \textit{ARN (Autophagy Regulatory Network)} adatbázis kurált humán autofágia specifikus fehérje-fehérje kapcsolati rétegének \textit{(``ARN core")} \textit{MiTab SQL} formátumra átalakítására.
+		\item Program írása mely képes a \textit{Salmonet} adatbázis kurált \textit{Salmonella} fehérje-fehérje kapcsolati hálózatának \textit{MiTab SQL} formátumra átalakítására.
+		\item Programok írása melyek képesek a Krishnadev és Skhirshagar féle humán-\textit{Salmonella} fehérje-fehéjre kapcsolati predikciók \textit{MiTab SQL} formátumra alakítására.
+		\item Program írása mely képes a létrehozott \textit{MiTab SQL} fájlokban a fehérjék azonosítójának \textit{Uniprot} azonosítóra fordítására.
 		\item Program írása mely képes a már csak \textit{Uniprot} azonosítókat tartalmazó adatbázisok összeejtésére.
 		\item Program írása mely képes hálózatokban a megadott útvonalhosszra kiszámolni a topológiai fontosságot.
 		\item A kapott adatsorok értékelése, hálózatok ábrázolása, biológiai relevancia keresése.
@@ -339,10 +339,10 @@ IFR
 			Az adatok ideiglenes tárolására, már a \textit{Signalink 3} készítése óta témavezetőm Kadlecsik Tamás javaslatára \textit{SQLite 3} adatbázis fájlokat alkalmazunk. 
 			
 			
-			Az \textit{SQLite 3} egy nyílt forráskódú, \textit{C} nyelven írt API-val rendelkező, beágyazott relációs adatbázis motor. Az SQL sztenderd szintaxisának nagy részét tartalmazza. Sok népszerű programnyelv rendelkezik már beépített \textit{SQLite} támogatással, ilyen például a \textit{Python} is. \cite{sqlite3}			
+			Az \textit{SQLite 3} egy nyílt forráskódú, \textit{C} nyelven írt API-val rendelkező, beágyazott relációs adatbázis motor. Az \textit{SQL} sztenderd szintaxisának nagy részét tartalmazza. Sok népszerű programnyelv rendelkezik már beépített \textit{SQLite} támogatással, ilyen például a \textit{Python} is. \cite{sqlite3}			
 			
 				
-			Az adatok ilyen módú tárolása lehetővé teszi azok gyors szűrését, kategorizálását és átalakítását SQL parancsok segítségével. Ilyen módon még azelőtt gyorsan információkat nyerhetünk nagy méretű hálózatokról, mielőtt azokat olyan jóval lassabb működésű hálózatkezelő programokkal elemezni kezdenénk mint például a \textit{Cytoscape}.
+			Az adatok ilyen módú tárolása lehetővé teszi azok gyors szűrését, kategorizálását és átalakítását \textit{SQL} parancsok segítségével. Ilyen módon még azelőtt gyorsan információkat nyerhetünk nagy méretű hálózatokról, mielőtt azokat olyan jóval lassabb működésű hálózatkezelő programokkal elemezni kezdenénk mint például a \textit{Cytoscape}.
 
 			 	 \begin{figure}[H]
 			 		 \includegraphics[scale=0.7]{img/Signalink_Layer0.pdf}
@@ -351,7 +351,7 @@ IFR
 			 		 \caption{ \textbf{A hálózat létrehozásának folyamata} }
  
  			 		 \begin{imgdesc}
- 				 		 A különböző forrásokból származó adatok esetén először a forrás formátumokat feldolgozni képes szkriptek átalakítják azokat a belső szabványként használt MiTab SQL formátumra. Általában a különböző adatforrások különféle azonosítókkal illetik a komponenseiket. Ahhoz, hogy több hálózatot egyesíteni tudjunk, szükség van arra, hogy egy adott biológiai entitás csak egyfajta azonosítóval szerepeljen. A fordító szkript MiTab SQL fájlból olyan MiTab SQL fájlt készít, amiben az elsődleges azonosító már a kivánt, esetemben \textit{Uniprot} azonosító. Legvégül az adatbázis egyesítő szkript úgy ``összefűzi" a különböző hálózatok pontjait és éleit, hogy ne legyen benne redundáns információ.
+ 				 		 A különböző forrásokból származó adatok esetén először a forrás formátumokat feldolgozni képes szkriptek átalakítják azokat a belső szabványként használt \textit{MiTab SQL} formátumra. Általában a különböző adatforrások különféle azonosítókkal illetik a komponenseiket. Ahhoz, hogy több hálózatot egyesíteni tudjunk, szükség van arra, hogy egy adott biológiai entitás csak egyfajta azonosítóval szerepeljen. A fordító szkript MiTab SQL fájlból olyan \textit{MiTab SQL} fájlt készít, amiben az elsődleges azonosító már a kivánt, esetemben \textit{Uniprot} azonosító. Legvégül az adatbázis egyesítő szkript úgy ``összefűzi" a különböző hálózatok pontjait és éleit, hogy ne legyen benne redundáns információ.
  			 		 \end{imgdesc}
 
 			 		 \label{fig:slk3uml}			 		 
@@ -365,9 +365,9 @@ IFR
 			
 		Az előbb felsorolt okokból a csoportban a szöveges fájlok helyett az \textit{SQLite} adatbázisokat használjuk az adatok köztes tárolására. 
 		
-		Hálózatok tárolására a csoport által létrehozott MiTab SQL formátumot használtam. A MiTab SQL egy \textit{SQLite 3}-ban tárolt a PSI-MI Tab formátummal közel megegyező adatstruktúra. A PSI-MI Tab egy \textit{HUPO Proteomics Standards Initiative} (PSI) szervezet által meghatározott proteomikai adatok tárolására használt formátum. A PSI-MI Tab formátum specifikációja a szervezet honlapján elérhető. \textcolor{red}{TODO: hivatkozást elkérni}
+		Hálózatok tárolására a csoport által létrehozott \textit{MiTab SQL} formátumot használtam. A MiTab SQL egy \textit{SQLite 3}-ban tárolt a PSI-MI Tab formátummal közel megegyező adatstruktúra. A \textit{PSI-MI Tab} egy \textit{HUPO Proteomics Standards Initiative} (PSI) szervezet által meghatározott proteomikai adatok tárolására használt formátum. A PSI-MI Tab formátum specifikációja a szervezet honlapján elérhető. \textcolor{red}{TODO: hivatkozást elkérni}
 		
-		A pontok és az élek külön táblában vannak letárolva az adatbázisban, így a PSI-MI Tab specifikáció pontra és az élre vonatkozó tulajdonságai a megfelelő táblába kerülnek. A MiTab SQL táblák oszlopai azonban nem teljesen egyeznek a PSI-MI Tab kategóriákkal. Ilyen különbség például, hogy a MiTab SQL nem használ néhány opcionális PSI-MI kategóriát viszont tartalmaz a PSI-MI-re nem jellemző tulajdonságokat is mint a topológia. Az éleket tartalmazó táblában a forrás (\textit{interactor\_a\_node\_name}) és a cél pont név oszlopa a \textit{node} tábla azonosító oszlopának idegen kulcsai. (\ref{fig:mitab_scheme}. ábra)
+		A pontok és az élek külön táblában vannak letárolva az adatbázisban, így a \textit{PSI-MI Tab} specifikáció pontra és az élre vonatkozó tulajdonságai a megfelelő táblába kerülnek. A \textit{MiTab SQL} táblák oszlopai azonban nem teljesen egyeznek a \textit{PSI-MI Tab} kategóriákkal. Ilyen különbség például, hogy a \textit{MiTab SQL} nem használ néhány opcionális \textit{PSI-MI} kategóriát viszont tartalmaz a \textit{PSI-MI}-re nem jellemző tulajdonságokat is mint a topológia. Az éleket tartalmazó táblában a forrás (\textit{interactor\_a\_node\_name}) és a cél pont név oszlopa a \textit{node} tábla azonosító oszlopának idegen kulcsai. (\ref{fig:mitab_scheme}. ábra)
 			
 				\begin{figure}[H]
 					 \includegraphics[scale=0.7]{img/Mitab-SQL.pdf}
@@ -377,7 +377,7 @@ IFR
 				\end{figure}
 				
 			\paragraph{Verziókövetés} \mbox{}\\
-			Diplomamunkám készítése során a \textit{Git} verziókövető rendszert használtam, melynek tartalmát a web-alapú \textit{GitHub} tárhely szolgáltatásra töltöttem fel. A diplomamunkám GitHub tárhelyén \cite{github} a következő általam írt kódok érhetők el: 
+			Diplomamunkám készítése során a \textit{Git} verziókövető rendszert használtam, melynek tartalmát a web-alapú \textit{GitHub} tárhely szolgáltatásra töltöttem fel. A diplomamunkám \textit{GitHub} tárhelyén \cite{github} a következő általam írt kódok érhetők el: 
 				\begin{itemize}
 						\item A \ref{fig:slk3uml}. ábrán ábrázolt munkafolyamatot lebonyolító szkriptek
 						\item A fordításhoz használt adatbázist megépítő szkript (Kadlecsik Tamás szkriptje alapján)
@@ -401,14 +401,14 @@ IFR
 			\paragraph{A szótárak építése és a fordítás} \mbox{}\\
 			Ahhoz hogy a feldolgozott forrásokat össze lehessen fűzni egy nagy adatszettbe, szükség van arra, hogy a hálózatokban ne szerepeljen ugyanaz a biológiai entitás más azonosítóval. Ennek érdekében mindegyik hálózat fehérjéit a legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam amihez két szkriptet kellett írnom. 
 			
-			A \textit{Salmonet} és az \textit{ARN} már eleve \textit{Uniprot} azonosítókat használ. Azonban az \textit{Uniprot} adatbázis állandó frissítései miatt, fenn áll a lehetőség, hogy nem egy időben készült fájlok ugyanarra a fehérjére más \textit{Uniprot} azonosítót használnak. Egy másik hibaforrás az lehet, hogy a \textit{Uniprot} adatbázis egy fehérjét több azonosítóval is tárol. Amikor egy fehérjét beletesznek a \textit{Uniprot} adatbázisba, akkor kap egy elsődleges azonosítót. Primer azonosítót kapnak még olyan fehérjék is, melyek már benne voltak az adatbázisban de később külön izoformákra lettek szétválasztva. Új elsődleges azonosítót kapnak olyan fehérjék is melyeket több vélt fehérjéből egyesítettek. Minden ilyen művelet után, a legfrissebb elsődleges azonosító marad az új elsődleges, az összes többi pedig másodlagos azonosítók lesznek. A \textit{Uniprot} azonosítókat még csoportosítani lehet az alapján is, hogy a fehérje manuálisan vagy automatikusan lett annotálva. Az első típusba az úgynevezett \textit{Swissprot} az utóbbiba pedig a \textit{trEMBL} azonosítók tartoznak. A szkriptem az összes pont azonosítójára, ha az nem \textit{Swissprot}, kikeresi a swissprot azonosítót ha létezik, vagy az elsődleges \textit{trEMBL} azonosítót. Az ARN és a Salmonet fordításához szükség volt egy \textit{Salmonella}-\textit{Salmonella} és egy humán-humán szótárra, amiket a Kadlecsik Tamás féle szótárépítő scripttel állítottam elő. Az azonosítókat a szótárak alapján saját készítésű szkripttel fordítottam.
+			A \textit{Salmonet} és az \textit{ARN} már eleve \textit{Uniprot} azonosítókat használ. Azonban az \textit{Uniprot} adatbázis állandó frissítései miatt, fenn áll a lehetőség, hogy nem egy időben készült fájlok ugyanarra a fehérjére más \textit{Uniprot} azonosítót használnak. Egy másik hibaforrás az lehet, hogy a \textit{Uniprot} adatbázis egy fehérjét több azonosítóval is tárol. Amikor egy fehérjét beletesznek a \textit{Uniprot} adatbázisba, akkor kap egy elsődleges azonosítót. Primer azonosítót kapnak még olyan fehérjék is, melyek már benne voltak az adatbázisban de később külön izoformákra lettek szétválasztva. Új elsődleges azonosítót kapnak olyan fehérjék is melyeket több vélt fehérjéből egyesítettek. Minden ilyen művelet után, a legfrissebb elsődleges azonosító marad az új primer azonosító, az összes többi pedig másodlagos azonosítók lesznek. A \textit{Uniprot} azonosítókat még csoportosítani lehet az alapján is, hogy a fehérje manuálisan vagy automatikusan lett annotálva. Az első típusba az úgynevezett \textit{Swissprot} az utóbbiba pedig a \textit{trEMBL} azonosítók tartoznak. A szkriptem az összes pont azonosítójára, ha az nem \textit{Swissprot}, kikeresi a \textit{Swissprot} azonosítót ha létezik, vagy az elsődleges \textit{trEMBL} azonosítót. Az \textit{ARN} és a \textit{Salmonet} fordításához szükség volt egy \textit{Salmonella}-\textit{Salmonella} és egy humán-humán szótárra, amiket a Kadlecsik Tamás szótárépítő szkriptjével állítottam elő. Az azonosítókat a szótárak alapján saját készítésű szkripttel fordítottam.
 			
-			A predikciókhoz egy olyan szótárat kellet létrehozni, mely \textit{Salmonella} génazonosítókhoz rendel \textit{Salmonella} \textit{Uniprot} azonosítókat. Több okból is lehetséges ebben az esetben a génről fehérére fordítás. A \textit{Salmonella} adatbázisok általában csak génazonosítókat tartalmaznak, sőt vannak publikált fehérje-fehérje kapcsolatokat leíró szövegfájlok is melyek csak génneveket tartalmaznak. Másik fő ok, az hogy \textit{Salmonell}ára még nincs megfelelő mennyiségű és felbontású adat. Valamint prokariótákban nincs alternatív splicing, így egy génről készülő fehérjék is jobban megfeleltethetőek. Ezt szintén Kadlecsik Tamás szkriptjével állítottam elő. Egy általam írt másik fordítószkript segítségével pedig az előzőhöz hasonló módon fordítottam a predikciókat.
+			A predikciókhoz egy olyan szótárat kellet létrehozni, mely \textit{Salmonella} génazonosítókhoz rendel \textit{Salmonella} \textit{Uniprot} azonosítókat. Több okból is lehetséges ebben az esetben a génről fehérére fordítás. A \textit{Salmonella} adatbázisok általában csak génazonosítókat tartalmaznak, sőt vannak olyan publikált fehérje-fehérje kapcsolatokat leíró szövegfájlok is melyek csak génneveket tartalmaznak. Másik fő ok, az hogy \textit{Salmonell}ára még nincs megfelelő mennyiségű és felbontású adat. Valamint prokariótákban nincs alternatív splicing, így egy génről készülő fehérjék is jobban megfeleltethetőek. Ezt szintén Kadlecsik Tamás szkriptjével állítottam elő. Egy általam írt másik fordítószkript segítségével pedig az előzőhöz hasonló módon fordítottam a predikciókat.
 			
 			
 		\subsection{A források}
 			\subsubsection{Autophagy Regulatory Network (ARN)}
-			Az ARN egy széles terjedelmű autofágia adatbázis. Az adatbázis az irodalomból kézi gyűjtéssel kapott élek mellett tartalmaz még 19 más adatbázisból importált valamint 4 féle predikcióval készült feltételezett kapcsolatokat is. Az ARN-ben található 1485 darab fehérje között 4013 kapcsolat van. Az adatbázis komponensei között vannak az autofágia mechanizmusában szerepet játszó fehérjék és ezek regulátorai valamint transzkripciós faktorai. Az adatbázisban 413 transzkripciós faktor valamint 386 olyan miRNS melyek képesek lehetnek autofágia komponensek szabályzására.\cite{ARN} \\
+			Az \textit{ARN} egy széles terjedelmű autofágia adatbázis. Az adatbázis az irodalomból kézi gyűjtéssel kapott élek mellett tartalmaz még 19 más adatbázisból importált valamint 4 féle predikcióval készült feltételezett kapcsolatokat is. Az \textit{ARN}-ben található 1485 darab fehérje között 4013 kapcsolat van. Az adatbázis komponensei között vannak az autofágia mechanizmusában szerepet játszó fehérjék és ezek regulátorai valamint transzkripciós faktorai. Az adatbázisban 413 transzkripciós faktor valamint 386 olyan miRNS melyek képesek lehetnek autofágia komponensek szabályzására.\cite{ARN} \\
 			Az ARN hat rétegből épül fel:
 			\begin{enumerate}
 				\item Autofágia fehérjék.
@@ -416,57 +416,66 @@ IFR
 				\item Olyan poszt-transzlációs regulátorok melyek közvetlenül hatnak az első két réteg fehérjéire.
 				\item Az első három réteg transzkripciós szabályzói.
 				\item Az első négy réteg poszt-transzlációs regulátorai.
-				\item Olyan jelátviteli útvonalak és fehérje-fehérje interakciók melyek különböző útvonalakat az autofágia szabályzókhoz kötnek.
+				\item Olyan jelátviteli útvonalak és fehérje-fehérje interakciók melyek különböző útvonalakat az autofágia szabályzóihoz kötnek.
 			\end{enumerate} \cite{ARN}
 			
-			\subsubsection{Az ARN feldolgozása}
-			A gazda patogén hálózat összeállításához az ARN adatbázisnak csak az első, autofágia fehérjéket tartalmazó rétegét használtam fel. A hálózat letöltését követően azt egy általam írt \textit{Python} scripttel MiTab SQL formátumba alakítottam. A fordító szkripttel az akkor legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam. Mindezekre azért volt szükség, mert az \textit{ARN} létrehozásakor még nem használtuk a MiTab SQL formátumot.
+			\subsubsection{Az \textit{ARN} feldolgozása}
+			A gazda patogén hálózat összeállításához az \textit{ARN} adatbázisnak csak az első, autofágia fehérjéket tartalmazó rétegét használtam fel. A hálózat letöltését követően azt egy általam írt \textit{Python} scripttel \textit{MiTab SQL} formátumba alakítottam. A fordító szkripttel az akkor legfrissebb \textit{Uniprot} adatbázis azonosítókra fordítottam. Mindezekre azért volt szükség, mert az \textit{ARN} létrehozásakor még nem használtuk a \textit{MiTab SQL} formátumot.
 		
 			\subsubsection{Salmonet} 
-			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. A hálózat adatai kézi adatgyűjtésből, nagy áteresztőképességű módszerekből valamint predikciókból származnak. Az adatokból integrált hálózat transzkripciónális szabályzási, metabolikus és fehérje-fehérje kölcsönhatási szinteket tartalmaz. A \textit{Salmonet} összesen öt-öt gasztrointesztinális és extraintesztinális \textit{Salmonella} törzs hálózatából lett egyesítve. Egy törzs hálózata a metabolikus, szabályzási és fehérje-fehérje alhálózatok egyesítéséből készült. A \textit{Salmonet} ezen tíz törzs hálózatainak összeejtésével jött létre.
+			A \textit{Salmonet} a csoportunk által készített de még nem publikált molekuláris hálózat. A hálózat adatai kézi adatgyűjtésből, nagy áteresztőképességű módszerekből valamint predikciókból származnak. Az  integrált hálózat transzkripciónális szabályzási, metabolikus és fehérje-fehérje kölcsönhatási szinteket tartalmaz. A \textit{Salmonet} összesen öt-öt gasztrointesztinális és extraintesztinális \textit{Salmonella} törzs hálózatából lett egyesítve. Egy törzs hálózata a metabolikus, szabályzási és fehérje-fehérje alhálózatok egyesítéséből készült. A \textit{Salmonet} ezen tíz törzs hálózatainak összeejtésével jött létre.
 			\cite{salmonet}
 			
 			\paragraph{A metabolikus hálózatok} \mbox{}\\
 				Ha egy metabolit egy bizonyos reakció képződménye és egy másik szubsztrátja, akkor a két reakciót katalizáló fehérje kapcsoltnak tekinthető. A reakciók adatai két forrásból származnak. Az adatok egy része a \textit{Salmonella Typhimurium LT2} kézi gyűjtésű metabolikus modelljéből származik, a másik része pedig a\textit{BioModels} adatbázisból származó predikciókból. \cite{salmonet}
 				
 			\paragraph{A szabályzási hálózatok} \mbox{}\\
-				Szabályzási kapcsolatnak tekintjük a transzkripciós faktor promóterhez való kötődését. Az ilyen típusú kapcsolatok is a szakirodalomból kézileg gyűjtött kísérletesen bizonyított valamint nagy áteresztőképességű kísérletek adatszettjei alapján lettek összeállítva.  \cite{salmonet}
+				Szabályzási kapcsolatnak tekintjük a transzkripciós faktor promóterhez való kötődését. Az ilyen típusú kapcsolatok egy része a szakirodalomból kézileg gyűjtött kísérletesen bizonyított forrásból érkezik. A másik része pedig nagy áteresztőképességű kísérletek adatszettjeiből jön.  \cite{salmonet}
 				
 			\paragraph{A fehérje-fehérje kapcsolati hálók} \mbox{}\\
 				A fehérje-fehérje kapcsolatok is több forrásból kerültek a \textit{Salmonet}be. Kézi gyűjtéshez a csoportunk által a \textit{Signalink} adatbázis létrehozásához használt módszert alkalmaztuk. A kézi gyűjtés mellett kísérletesen igazolt kapcsolatokat az \textit{IntAct} adatbázisból is integráltuk. Az előző két módszer mellett ez a réteg is tartalmaz predikciókból származó kapcsolatokat. 
 				\cite{salmonet}
 			
-			\subsubsection{A Salmonet feldolgozása} \mbox{}\\
-			Az \textit{Salmonet} átalakítása az ARN-hez hasonló módon történt, azzal a különbséggel, hogy fordításkor \textit{Salmonella}-\textit{Salmonella} szótárat használtam.
+			\subsubsection{A Salmonet feldolgozása}
+			Az \textit{Salmonet} átalakítása az \textit{ARN}-hez hasonló módon történt, azzal a különbséggel, hogy fordításkor \textit{Salmonella}-\textit{Salmonella} szótárat használtam.
 
 			\subsubsection{A predikciók}
 			Az eddig ismertetett források csak fajon belüli kapcsolatokból felépülő hálózatokat tartalmaztak. Ahhoz, hogy szakdolgozatomban tudjam tanulmányozni a humán-\textit{Salmonella} kapcsolatot szükségem van még interspecifikus élekre is. A predikciós forrásokból származó interspecifikus kapcsolatok fogják összekapcsolni a gazda hálózatát a patogénével. Szakdolgozatomban \cite{Krishnadev} és \cite{Kshirsagar} humán-\textit{Salmonella} predikcióit használtam.
 			
-			\subsubsection{A predikciók feldolgozása} \mbox{}\\
+			\subsubsection{A predikciók feldolgozása} 
 			A két predikció feldolgozására külön \textit{Python} szkripteket írtam. Csakúgy mint az előző forrásokat, az így elkészült adatbázisokat a legújabb \textit{Uniprot} azonosítóra fordítottam.
 			
 			
 		
 
 	\subsubsection{Az adatbázisok egyesítése}
-		Az adatbázisok egyesítésekor a fő szempont az, hogy az végleges hálózatban ne legyenek redundáns pontok vagy élek. Az adatbázis egyesítő szkript beolvassa az összes adatbázisfájlt és egy \textit{has-map}ben eltárolja a pontokat és éleket és ezek tulajdonságait. A \textit{hasm-map}-ből sokkal gyorsabban ki kereshető, hogy egy adott él vagy pont benne van-e már, mintha SQL lekérdezésekkel oldanám meg. Amíg a szkript végigmegy az összes adatbázisfájlon a \textit{has-map}-ek tartalmából létrehoz egy MiTab SQL fájlt mely nem redundánsan tartalmazza az összes forrás adatbázis tartalmát.
+		Az adatbázisok egyesítésekor a fő szempont az, hogy a végleges hálózatban ne legyenek redundáns pontok vagy élek. Az adatbázis egyesítő szkript beolvassa az összes adatbázisfájlt és egy \textit{has-map}ben eltárolja azok pontjait és éleit, valamint és ezek tulajdonságait. A \textit{hasm-map} adatstruktúra használatával sokkal gyorsabban kikereshető, hogy egy adott él vagy pont benne van-e a hálózatban, mint \textit{SQLite} adatbázisból. Amíg a szkript végigmegy az összes adatbázisfájlon a \textit{has-map}-ek tartalmából létrehoz egy \textit{MiTab SQL} fájlt mely már nem redundánsan tartalmazza az összes forrás adatbázis tartalmát.
 		
-		Az egyesített adatbázis a két kézi gyűjtésű hálózat pontjait és kapcsolatait valamint a predikciókból csak az éleket tartalmazza. A predikciós élek közül is csak azokat tartottam meg, melynek mindkét nódusa megtalálható valamelyik kézi gyűjtésű forrásban. Tehát a predikciókból új pont nem került bele a hálózatba.
+		Az egyesített adatbázis tartalmazza a:
+		\begin{itemize}
+			\item A \textit{Salmonet} pontjait és fajon belüli kapcsolatait.
+			\item Az \textit{ARN} pontjait és fajon belüli kapcsolatait.
+			\item A predikciókból származó interspecifikus éleket
+		\end{itemize}
+		 
+		 A predikciós élek közül is csak azokat tartottam meg, melynek mindkét nódusa megtalálható valamelyik kézi gyűjtésű forrásban. Tehát a predikciókból új pont nem került bele a hálózatba.
 		
-		Ezt az adatbázist már újabb \textit{Python} szkript írása nélkül csupán SQL lekérdezésekkel létre lehet hozni.
+		Ezt az adatbázist már újabb \textit{Python} szkript írása nélkül csupán \textit{SQL} lekérdezésekkel hoztam létre.
 
 	\subsection{A hálózatok topológiai elemzése}
 	
 		\subsubsection{A TopologyAnalyser osztály}
-		A \textit{TopologyAnalyser} osztály \textit{Python 3} szintaxist használ. Az osztály segítségével kiszámítható a Jordán Ferenc féle topológiai fontosság (TI$^n$). Az TopologyAnalyser egyetlen külső függősége a NetworkX csomag. A NetworkX egy \textit{Python}ban írt, komplex hálózatok létrehozására, manipulálására és elemzésére használható ingyenes csomag. 
+		A \textit{TopologyAnalyser} osztály \textit{Python 3} szintaxist használ. Az osztály segítségével kiszámítható a Jordán Ferenc féle topológiai fontosság (TI$^n$). A \textit{TopologyAnalyser} egyetlen külső függősége a \textit{NetworkX} csomag. 
 		
-		A NetworkX egy teljesen \textit{Pythonban} írt csomag. Vannak még más ingyenes hálózatkezelő \textit{Python} modulok, mint például a \textit{graph-tool} és az \textit{Igraph}. Az utóbbi kettő csomag már részben \textit{C/C++}-ban írodott, így kisebb futásidőre képesek. Választásom azért esett a kisebb teljesítményű \textit{NetworkX}-re mert így felhasználhattam régebben megírt szkriptjeimet.A \textit{Signalink} adatbázisának építésekor ugyanis szükségem volt például XGMML fájlok gyors feldolgozásársa, és erre a célra a \textit{NetworkX} egy alosztály használtam. 
+		A \textit{NetworkX} egy teljesen \textit{Python}ban írt, komplex hálózatok létrehozására, manipulálására és elemzésére használható ingyenes csomag. Vannak még más ingyenes hálózatkezelő \textit{Python} modulok, mint például a \textit{graph-tool} és az \textit{Igraph}. Az utóbbi kettő csomag már részben \textit{C/C++}-ban írták, így kisebb futásidőre képesek. Választásom mégis azért esett a kisebb teljesítményű \textit{NetworkX}-re mert így felhasználhattam régebben megírt szkriptjeimet.A \textit{Signalink} adatbázisának építésekor ugyanis szükségem volt például XGMML fájlok gyors feldolgozásársa, és erre a célra a \textit{NetworkX} egy alosztály használtam. 
 		
 		Az osztály konstruktorának egyetlen paramétere egy éllista. Példányosítás után a \textit{TopologyAnalyser} típusú objektum, egy éllistát, egy \textit{Graph} típusú objektumot és egy egység-élerősségi mátrixot tartalmaz.
 		
-		A \textit{Graph} osztály a NetworkX csomag része és irányítatlan gráfok tárolására alkalmas. A hálózat példányhoz kötött \textit{Graph} típusú objektum (\textit{self.graph}) tárolása előnyös, mert így elérhetők a NetworkX csomag különböző gráf elemzésre használható metódusai. Ilyen függvény például a \textit{Graph.neighbors\_iter(node)} mely egy adott pont szomszédjainak iterálható listáját adja vissza.
+		A \textit{Graph} osztály a \textit{NetworkX} csomag része és irányítatlan gráfok tárolására alkalmas. A hálózat példányhoz kötött \textit{Graph} típusú objektum (\textit{self.graph}) tárolása előnyös, mert így elérhetők a \textit{NetworkX} csomag különböző gráf elemzésre használható metódusai. Ilyen függvény például a \textit{Graph.neighbors\_iter(node)} mely egy adott pont szomszédjainak iterálható listáját adja vissza.
 		
 		Az élerősség mátrix (\textit{self.edgeStrength}) egy példányhoz kötött \textit{Python Dictionary}. A \textit{Dictionary} osztály   \textit{Pythonban} \textit{hashmap} adatstruktúrával van implementálva, ezáltal a benne tárolt adatok gyorsan elérhetők. A szótár kulcsai a mátrix indexei, az értékei pedig az élerősségek \textit{Fraction} típusú objektumokként letárolva. Az egységerő mátrix celláinak indexei maguk az élt alkotó pontok \textit{Uniprot} azonosítói. Az élerősség mátrix 0 értékkel rendelkező cellái nincsenek letárolva a \textit{hasmap}-ben.
+		
+		 A \textit{Fraction} objektumban a racionális számok két szám hányadosaként tárlódnak. Az törtszámok ilyen módú tárolása előnyös mert így elég csak akkor tizedestört formátumra hozni a számokat, ha már elvégeztük az összes műveletet. Ilyen módon sokkal pontosabb számításokat végezhetünk. Hátránya, az osztály a matematikából ismert tört műveleteket használja, így több számítást kell végezni.
 		
 		\paragraph{Az osztály fontosabb metódusai és működésük}
 
@@ -474,12 +483,10 @@ IFR
 			\item \textit{getNthNeighbors()}
 			
 			A függvény rekurzívan kikeresi az adott pont $n$. szomszédját.
-			
-			\pagebreak
 		
 			\item \textit{pathFinder()}
 			
-			Ez a függvény megkeresi az összes $n$ hosszúságú útvonalat egy forrás és egy cél nódus között.
+			Ez a függvény megkeresi az összes $n$ hosszúságú útvonalat egy forrás és egy cél nódus között:
 			
 			  		\begin{algorithm}[H]
 						\footnotesize
@@ -509,27 +516,29 @@ IFR
 						
 			  		\end{algorithm}
 			  		
+			  		\begin{imgdesc}
+			  			A \textit{pathFinder metódus algoritmusának pszeudokódja}
+			  		\end{imgdesc}
+			  		
 			\item \textit{buildEdgeUnitStrengthDict()}
 			
-			Ez a függvény egyszer hívódik meg a konstruktor lefutása során. A metódus imperatív módon egy \textbf{for} ciklussal végig iterál a kapott éllistán. A függvény visszatérési értéke egy egységerő mátrix.
+			Ez a függvény egyszer hívódik meg a konstruktor lefutása során. A metódus imperatív módon egy \textbf{for} ciklussal végigiterál a kapott éllistán. A függvény visszatérési értéke egy egységerő mátrix.
 			  		
 			\item \textit{getNthPathwaysForNodes()}
 			
-			A függvény először minden pontnak megkeresi az $n$. szomszédját.  Mint az irodalmi bevezetőben ismertettem, a topológiai fontosság számolásánál páros lépésszámnál hurkon keresztül egy adott pont mindig önmagának a szomszédja is. A metódus két egymásba ágyazott \textbf{for} ciklust használ. A külső ciklus minden ponra előállítja a pont $n$. szomszédjainak halmazát. A belső ciklus pedig minden cél és forrás pont párra meghívja a \textit{pathFinder()} függvényt, majd a kapott útvonalakat imperatívan hozzáadja egy listához, amit még a ciklusokon kívül definiáltam. A metódus visszatérési értéke egy lista amelyben minden lehetséges forrás és célpont közötti $n$ hosszúságú útvonal benne van.
+			A függvény először minden pontnak megkeresi az $n$. szomszédját.  Mint az irodalmi bevezetőben ismertettem, a topológiai fontosság számolásánál páros lépésszámoknál az adott pont legalább egy hurkon keresztül eléri önmagát. A metódus két egymásba ágyazott \textbf{for} ciklust használ. A külső ciklus minden pontra előállítja a nódus $n$. szomszédjainak halmazát. A belső ciklus pedig minden cél és forrás pont párra meghívja a \textit{pathFinder()} függvényt, majd a kapott útvonalakat imperatívan hozzáadja egy listához, amit még a ciklusokon kívül definiáltam. A metódus visszatérési értéke egy lista amelyben minden lehetséges forrás és célpont közötti $n$ hosszúságú útvonal benne van.
 			
 			\item \textit{getEdgesFromPathway()}
 			
 			A metódus egy útvonalat fogad és az azt alkotó élek listájával tér vissza. 
 			
-			\pagebreak
-			
 			\item \textit{countPathwayStrength()}
 			
-			A metódus egy útvonalat kap, amire meghívja a \textit{getEdgesFromPathway} függvényt. A kapott éllistán végigmegy és minden élre kikeresi az egységerő mátrixból a megfelelő értéket. Az összes él erejének összeszorzása után az út erősségével tér vissza.
+			A metódus egy útvonalat kap, amire meghívja a \textit{getEdgesFromPathway} függvényt. Végigmegy a kapott éllistán és minden élre kikeresi a megfelelő értéket az egységerő mátrixból. Az összes él erejének összeszorzása után az út erősségével tér vissza.
 			
 			\item \textit{getPathWaysToNthNeighbours()}
 			
-			Ez a függvény kikeresi egy adott pont összes $n$. szomszédját és egy listában letárolja. Amikor elkészült a szomszédok listájával, akkor ezen egy \textbf{for} ciklus segítségével végigmegy. Ekkor minden periódusban meghívja a forrás és az aktuális cél nódusra a \textit{pathfinder} függvényt, majd a kapott útvonalakat imperatíven hozzáfűzi egy a cikluson kívül definiált listához. A ciklus után a függvény visszatér az elkészül listával.
+			Ez a függvény kikeresi egy adott pont összes $n$. szomszédját és egy listában letárolja. Amikor elkészült a szomszédok listájával, akkor ezen egy \textbf{for} ciklus segítségével végigmegy. Ekkor minden periódusban meghívja a forrás és az aktuális cél nódusra a \textit{pathfinder} függvényt, majd a kapott útvonalakat imperatíven hozzáfűzi egy a cikluson kívül definiált listához. A ciklus után a függvény visszatér az elkészült listával.
 			
 			\item \textit{countTI()}
 			
