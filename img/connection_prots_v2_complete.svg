@@ -11,118 +11,104 @@
    version="1.1"
    x="0px"
    y="0px"
-   width="1346.3925"
-   height="852.63068"
-   viewBox="0 0 1346.3925 852.63068"
+   width="902.10718"
+   height="1507.2021"
+   viewBox="0 0 902.10721 1507.2022"
    id="svg9305"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="connection_prots_v2_complete.pdf">
   <g
-     transform="translate(8.0864107,705.62451)"
+     transform="translate(238.0811,727.48165)"
      id="layer1"
      inkscape:label="1. réteg">
     <rect
        ry="0.48473763"
        rx="23.041018"
-       y="-703.73041"
-       x="826.11151"
+       y="49.412491"
+       x="143.82578"
        height="96.542801"
        width="451.71243"
        id="rect25415"
-       style="opacity:0.3;color:#000000;fill:#e2ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.43185305999999990;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="opacity:0.3;color:#000000;fill:#e2ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.43185306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        style="color:#000000;fill:url(#linearGradient38317);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.34163442;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect43380"
        width="372.86603"
        height="25.81064"
-       x="171.85751"
-       y="59.59515"
+       x="-214.29897"
+       y="-64.404854"
        rx="4.7610044"
        ry="1.1442289" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.27534974;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow2Lend)"
-       d="m 170.7261,124.7131 373.64228,0"
+       d="m -215.43039,-9.2869032 373.64228,0"
        id="path44368"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05294764px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
-       d="m 208.4378,41.909662 0,9.807768"
+       d="m -177.71869,-82.090341 0,9.807768"
        id="path45382"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path45760"
-       d="m 246.56657,41.909662 0,9.807768"
+       d="m -139.58992,-82.090341 0,9.807768"
        style="fill:none;stroke:#000000;stroke-width:1.05294764px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
     <text
        transform="scale(0.95855789,1.0432338)"
        xml:space="preserve"
        style="font-size:42.11790466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="263.92044"
-       y="38.668678"
+       x="-138.93106"
+       y="-80.192505"
        id="text45762"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan45764"
-         x="263.92044"
-         y="38.668678"
+         x="-138.93106"
+         y="-80.192505"
          style="font-size:25.27074623px">2</tspan></text>
     <text
        transform="scale(0.95855789,1.0432338)"
        sodipodi:linespacing="125%"
        id="text45766"
-       y="38.668678"
-       x="224.14311"
+       y="-80.192505"
+       x="-178.70839"
        style="font-size:42.11790466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
        xml:space="preserve"><tspan
          style="font-size:25.27074623px"
-         y="38.668678"
-         x="224.14311"
+         y="-80.192505"
+         x="-178.70839"
          id="tspan45768"
          sodipodi:role="line">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.90677261px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="190.60928"
-       y="106.1638"
+       x="-195.54721"
+       y="-17.836201"
        id="text45770"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan45772"
-         x="190.60928"
-         y="106.1638"
+         x="-195.54721"
+         y="-17.836201"
          style="font-size:22.74406242px">0,11</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text37485"
-       y="106.1638"
-       x="557.28204"
+       y="-17.836201"
+       x="171.12556"
        style="font-size:37.90677261px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
        xml:space="preserve"><tspan
          style="font-size:22.74406242px"
-         y="106.1638"
-         x="557.28204"
+         y="-17.836201"
+         x="171.12556"
          id="tspan37487"
          sodipodi:role="line">4,5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:37.90677261px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="375.94449"
-       y="146.12366"
-       id="text16336"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan16338"
-         x="375.94449"
-         y="146.12366"
-         style="font-size:22.74406242px">TI<tspan
-   style="font-size:14.78384876px;baseline-shift:super"
-   id="tspan24597">1</tspan></tspan></text>
     <rect
        ry="1.1442289"
        rx="4.7610044"
-       y="60.477688"
-       x="878.66797"
+       y="683.62061"
+       x="-212.64038"
        height="25.81064"
        width="372.86603"
        id="rect24561"
@@ -130,81 +116,81 @@
     <path
        inkscape:connector-curvature="0"
        id="path24563"
-       d="m 877.53654,125.59564 373.64226,0"
+       d="m -213.77179,738.7385 373.64226,0"
        style="fill:none;stroke:#000000;stroke-width:1.27534974;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow2Lend)" />
     <path
        inkscape:connector-curvature="0"
        id="path24565"
-       d="m 915.24824,42.792207 0,9.80776"
+       d="m -176.06009,665.93509 0,9.80776"
        style="fill:none;stroke:#000000;stroke-width:1.05294764px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05294764px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
-       d="m 953.37701,42.792207 0,9.80776"
+       d="m -137.93132,665.93509 0,9.80776"
        id="path24567"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
        id="text24569"
-       y="39.514648"
-       x="1001.2889"
+       y="636.83331"
+       x="-137.20091"
        style="font-size:42.11790466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
        xml:space="preserve"
        transform="scale(0.95855789,1.0432338)"><tspan
          style="font-size:25.27074623px"
-         y="39.514648"
-         x="1001.2889"
+         y="636.83331"
+         x="-137.20091"
          id="tspan24571"
          sodipodi:role="line">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:42.11790466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="961.51166"
-       y="39.514648"
+       x="-176.97809"
+       y="636.83331"
        id="text24573"
        sodipodi:linespacing="125%"
        transform="scale(0.95855789,1.0432338)"><tspan
          sodipodi:role="line"
          id="tspan24575"
-         x="961.51166"
-         y="39.514648"
+         x="-176.97809"
+         y="636.83331"
          style="font-size:25.27074623px">1</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text24577"
-       y="107.04635"
-       x="897.41974"
+       y="730.18921"
+       x="-193.88861"
        style="font-size:37.90677261px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
        xml:space="preserve"><tspan
          style="font-size:22.74406242px"
-         y="107.04635"
-         x="897.41974"
+         y="730.18921"
+         x="-193.88861"
          id="tspan24579"
          sodipodi:role="line">0,27</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.90677261px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
-       x="1264.0925"
-       y="107.04635"
+       x="172.78423"
+       y="730.18921"
        id="text24581"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan24583"
-         x="1264.0925"
-         y="107.04635"
+         x="172.78423"
+         y="730.18921"
          style="font-size:22.74406242px">3,32</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text24585"
-       y="147.0062"
-       x="1082.7549"
-       style="font-size:37.90677261px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+       y="779.72052"
+       x="7.355782"
+       style="font-size:69.55632782px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
        xml:space="preserve"><tspan
-         style="font-size:22.74406242px"
-         y="147.0062"
-         x="1082.7549"
+         style="font-size:41.73379517px"
+         y="779.72052"
+         x="7.3557768"
          id="tspan24587"
          sodipodi:role="line">TI<tspan
-   style="font-size:14.78384876px;baseline-shift:super"
+   style="font-size:27.12734795px;baseline-shift:super"
    id="tspan24595">2</tspan></tspan></text>
     <rect
        style="opacity:0.3;color:#000000;fill:#0048ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -219,8 +205,8 @@
     <rect
        ry="1.1442289"
        rx="4.7610044"
-       y="-356.0498"
-       x="665.88739"
+       y="400.52167"
+       x="-6.1126328"
        height="227.89043"
        width="93.338104"
        id="rect25411"
@@ -234,6 +220,20 @@
        y="-702.51825"
        rx="23.041018"
        ry="0.48473763" />
+    <text
+       xml:space="preserve"
+       style="font-size:69.55632782px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola"
+       x="3.485024"
+       y="35.720516"
+       id="text4831"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4833"
+         x="3.4850216"
+         y="35.720516"
+         style="font-size:41.73379517px">TI<tspan
+   style="font-size:27.12734985px;baseline-shift:super"
+   id="tspan4837">1</tspan></tspan></text>
   </g>
   <metadata
      id="metadata11077">
@@ -254,7 +254,7 @@
        xlink:href="#linearGradient44158-9"
        id="linearGradient38317"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.67183067,0,0,0.17372546,137.30626,20.841089)"
+       gradientTransform="matrix(0.67183067,0,0,0.17372546,-248.85023,-103.15892)"
        x1="50.92857"
        y1="297.36218"
        x2="606.92859"
@@ -420,7 +420,7 @@
        xlink:href="#linearGradient44158-9"
        id="linearGradient24591"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.67183067,0,0,0.17372546,844.1167,21.723627)"
+       gradientTransform="matrix(0.67183067,0,0,0.17372546,-247.19163,644.86652)"
        x1="50.92857"
        y1="297.36218"
        x2="606.92859"
@@ -445,36 +445,48 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.82495791"
-     inkscape:cx="521.04478"
-     inkscape:cy="401.47117"
+     inkscape:zoom="0.58333333"
+     inkscape:cx="441.13716"
+     inkscape:cy="467.97126"
      inkscape:window-x="1359"
      inkscape:window-y="-10"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <sodipodi:guide
        orientation="0,1"
-       position="-43.730101,805.7143"
+       position="185.836,1460.2857"
        id="guide22923" />
     <sodipodi:guide
        orientation="1,0"
-       position="363.65492,805.7143"
+       position="593.22102,1460.2857"
        id="guide24557" />
     <sodipodi:guide
        orientation="1,0"
-       position="1072.2699,241.71429"
+       position="1301.836,896.28566"
        id="guide24559" />
     <sodipodi:guide
        orientation="0,1"
-       position="504.84132,5.0683593e-06"
+       position="734.40742,654.57135"
        id="guide24593" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="483.28039,688.85706"
+       id="guide4808" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="382.13753,704.28563"
+       id="guide4810" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-1.4317964,380.8571"
+       id="guide4839" />
   </sodipodi:namedview>
   <desc
      id="desc9309">Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Tuesday, May 10, 2016 8:21:51 PM CEST</desc>
   <g
      stroke-miterlimit="10"
      id="g9311"
-     transform="matrix(1.1361332,0,0,1.1361332,-360.06666,-3.0832036)"
+     transform="matrix(1.1361332,0,0,1.1361332,-130.50055,-3.0832081)"
      style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
     <!-- drawing style -->
     <g
@@ -4727,7 +4739,7 @@
      id="g20274"
      stroke-miterlimit="10"
      style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
-     transform="matrix(1.1361332,0,0,1.1361332,548.36311,-203.70626)">
+     transform="matrix(1.1361332,0,0,1.1361332,104.07794,556.29377)">
     <g
        id="g20276"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />

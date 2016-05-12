@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 MAY 2016 11:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 MAY 2016 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -440,7 +440,7 @@ LaTeX Info: Redefining \mit on input line 507.
 File: img/elte_cimer_vector.pdf Graphic file (type pdf)
 
 <use img/elte_cimer_vector.pdf>
-Package pdftex.def Info: img/elte_cimer_vector.pdf used on input line 94.
+Package pdftex.def Info: img/elte_cimer_vector.pdf used on input line 95.
 (pdftex.def)             Requested size: 141.4089pt x 141.4089pt.
  [1
 
@@ -459,7 +459,7 @@ Here is how much of TeX's memory you used:
 cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmc
 sc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on cimlap.pdf (1 page, 195218 bytes).
+Output written on cimlap.pdf (1 page, 195267 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

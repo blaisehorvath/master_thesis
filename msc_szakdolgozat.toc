@@ -22,19 +22,21 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsection}{\numberline {2.3}\IeC {\"O}kol\IeC {\'o}giai h\IeC {\'a}l\IeC {\'o}zatok elemz\IeC {\'e}s\IeC {\'e}re haszn\IeC {\'a}lt topol\IeC {\'o}giai indexek}{8}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {paragraph}{Az \IeC {\"o}kol\IeC {\'o}giai m\IeC {\'e}r\IeC {\H o}sz\IeC {\'a}mok}{8}{subsection.2.3}
+\defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {paragraph}{Mi\IeC {\'e}rt van sz\IeC {\"u}ks\IeC {\'e}g topol\IeC {\'o}giai m\IeC {\'e}r\IeC {\H o}sz\IeC {\'a}mokra?}{8}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Kulcsfajok}{8}{subsection.2.3}
+\select@language {magyar} \contentsline {paragraph}{Kulcsfajok}{9}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {paragraph}{Rangsorol\IeC {\'a}sra haszn\IeC {\'a}lt topol\IeC {\'o}giai m\IeC {\'e}r\IeC {\H o}sz\IeC {\'a}mok az \IeC {\"o}kol\IeC {\'o}gi\IeC {\'a}ban}{9}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {paragraph}{F\IeC {\H o}bb topol\IeC {\'o}giai m\IeC {\'e}r\IeC {\H o}sz\IeC {\'a}mok}{9}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Normalised degree - D}{9}{subsection.2.3}
+\select@language {magyar} \contentsline {paragraph}{Normalised degree - D}{10}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Closeness centrality - CC vagy C }{9}{subsection.2.3}
+\select@language {magyar} \contentsline {paragraph}{Closeness centrality - CC vagy C }{10}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Betweenness centrality - BC}{10}{equation.2.2}
+\select@language {magyar} \contentsline {paragraph}{Betweenness centrality - BC}{11}{equation.2.2}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {paragraph}{Topological importance - TI\textsuperscript {n}}{11}{equation.2.2}
 \defcounter {refsection}{0}\relax 
@@ -92,7 +94,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {5.1.1}ARN}{27}{subsubsection.5.1.1}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Az \textit {ARN} legnagyobb TI \IeC {\'e}rt\IeC {\'e}k\IeC {\H u} feh\IeC {\'e}rj\IeC {\'e}i}{28}{table.caption.7}
+\select@language {magyar} \contentsline {paragraph}{Az \textit {ARN} legnagyobb TI \IeC {\'e}rt\IeC {\'e}k\IeC {\H u} feh\IeC {\'e}rj\IeC {\'e}i}{28}{figure.caption.7}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {5.1.2}Salmonet}{30}{subsubsection.5.1.2}
 \defcounter {refsection}{0}\relax 
@@ -102,14 +104,14 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {5.3.1}A \textit {Salmonella} kapcsolatai az autof\IeC {\'a}gia feh\IeC {\'e}rj\IeC {\'e}kkel}{35}{subsubsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {5.3.2}A T3SS kapcsolatai \IeC {\'e}s a \textit {Salmonella} bels\IeC {\H o} kapcsolatai}{37}{subsubsection.5.3.2}
+\select@language {magyar} \contentsline {subsubsection}{\numberline {5.3.2}A T3SS kapcsolatai \IeC {\'e}s a \textit {Salmonella} bels\IeC {\H o} kapcsolatai}{38}{subsubsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {6}Diszkusszi\IeC {\'o}}{38}{section.6}
+\select@language {magyar} \contentsline {section}{\numberline {6}Diszkusszi\IeC {\'o}}{39}{section.6}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {7}\IeC {\"O}sszefoglal\IeC {\'a}s}{41}{section.7}
+\select@language {magyar} \contentsline {section}{\numberline {7}\IeC {\"O}sszefoglal\IeC {\'a}s}{42}{section.7}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {8}Summary}{42}{section.8}
+\select@language {magyar} \contentsline {section}{\numberline {8}Summary}{43}{section.8}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {9}K\IeC {\"o}sz\IeC {\"o}netnyilv\IeC {\'a}n\IeC {\'\i }t\IeC {\'a}s}{43}{section.9}
+\select@language {magyar} \contentsline {section}{\numberline {9}K\IeC {\"o}sz\IeC {\"o}netnyilv\IeC {\'a}n\IeC {\'\i }t\IeC {\'a}s}{44}{section.9}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {10}Nyilatkozat}{43}{section.10}
+\select@language {magyar} \contentsline {section}{\numberline {10}Nyilatkozat}{44}{section.10}

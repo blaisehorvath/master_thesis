@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1033.9583"
-   height="1080.2565"
+   width="1039.4314"
+   height="1182.406"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -193,10 +193,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="577.95749"
-     inkscape:cy="524.23826"
+     inkscape:cx="575.88924"
+     inkscape:cy="227.7495"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-6"
+     inkscape:current-layer="g9675"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -204,18 +204,18 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1035"
-     inkscape:window-x="1359"
+     inkscape:window-width="1366"
+     inkscape:window-height="748"
+     inkscape:window-x="-7"
      inkscape:window-y="-10"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="0,1"
-       position="297.48343,582.85718"
+       position="450,400.57138"
        id="guide17046" />
     <sodipodi:guide
        orientation="1,0"
-       position="518.57143,535.71429"
+       position="516.50318,639.22553"
        id="guide5182" />
   </sodipodi:namedview>
   <metadata
@@ -234,7 +234,7 @@
      inkscape:label="1. réteg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-127.51616,125.40124)">
+     transform="translate(-129.58441,124.03944)">
     <g
        id="g4503"
        stroke-miterlimit="10"
@@ -783,12 +783,12 @@
         <text
            xml:space="preserve"
            x="794.08759"
-           y="567.72156"
+           y="655.72156"
            id="text17069"><tspan
              sodipodi:role="line"
              id="tspan17071"
              x="794.08759"
-             y="567.72156"
+             y="655.72156"
              style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:super;font-family:TeX Gyre Schola;-inkscape-font-specification:TeX Gyre Schola">TI<tspan
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan17075">3</tspan></tspan></text>
@@ -7851,7 +7851,7 @@
             <g
                id="g25899"
                stroke-miterlimit="10"
-               transform="translate(-354.65393,649.67217)"
+               transform="translate(-354.65393,745.67217)"
                style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
               <!-- drawing style -->
               <g
@@ -11380,7 +11380,7 @@
           </g>
         </g>
         <g
-           transform="matrix(1.2074969,0,0,1.2074969,55.364335,331.7587)"
+           transform="matrix(1.2074969,0,0,1.2074969,55.364335,441.7587)"
            id="layer1-6"
            inkscape:label="1. réteg">
           <rect

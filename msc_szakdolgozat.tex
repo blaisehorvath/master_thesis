@@ -205,6 +205,9 @@
 		 Az autofágia egy intracelluláris katabolikus folyamat melynek szerepe van a fehérje aggregátumok és károsodott sejtorganellumok eltávolításában és a veleszületett immunrendszer működésében. A \textit{xenofágia} az autofágiának azon formája mely során az intracelluláris baktériumok és vírusok szelektív felismerése és lebontása történik. A szelektív felismerésért az autofágia adaptor fehérjéi felelősek. Ilyen receptor fehérje például a p62 (SQSTM1), a NDP52, optineurin (OPTN) és az NBR1. Az előbb felsorolt receptorok a szubsztrátjuk megkötése után kargo adaptorként viselkednek az LC3 (ATG8) számára. \textit{Salmonella fertőzéskor} a sérült SCV-ből kilépett baktériumok sejtfelszíni fehérjéi poliubiquitin borítást kapnak amit a kargo adaptor fehérjék érzékelnek. \textit{S.} Typhimurium fertőzéskor a poliubiquitinált baktériumokat NDP52 és a p62 is felismeri. Az így megkötött baktériumok xenofágia útján eltávolítódnak \cite{salmonella_authopagy_intro}.
 	
 	\subsection{Ökológiai hálózatok elemzésére használt topológiai indexek}
+	
+	 \paragraph{Az ökológiai mérőszámok}
+	 Első ránézésre egy gazda és patogén baktérium kapcsolata valamint a szupraindividuális rendszereket jellemző mérőszámok egy helyen tárgyalása különlegesnek tűnhet. Jobban belegondolva, viszont e két rendszer sok hasonlóságot mutat egymással, ugyanis mindkettő modellezhető hálózatként. Hálózatok topológiai jellemzését eleinte a szociológiában majd később az ökológiában kezdték alkalmazni \cite{top_indexes}. A molekuláris hálózatok leírására még elég ritkán alkalmaznak tisztán topológiai mérőszámokat. Diplomamunkám során egy gazda-patogén molekuláris hálózatot fogok ökológiai eredetű tisztán topológiai mérőszámmal jellemezni. 
 	 
 	 \paragraph{Miért van szükség topológiai mérőszámokra?} \mbox{}\\ %linebreak after paragraph title
 	 A konzervációbiológia az élettudományok azon ága mely a Föld biodiverzitásának megőrzésével foglalkozik. Mivel az összes faj védelme nem megoldható, ezért szükségessé vált olyan fajok kiválogatása melyek kiemelt figyelmet igényelnek konzervációs biológiai szempontból\cite{new_zeland}. Az 1990-es évek előtt a védelemre való kiválasztás fő szempontja a faj ritkasága volt.  A fajok ilyen alapú szelekciója nem veszi figyelembe hogy például az adott taxon kulcsszerepet játszik-e az ökoszisztéma funkciók ellátásában \cite{jordan_comparison}.
@@ -215,7 +218,8 @@
 	 \paragraph{Rangsorolásra használt topológiai mérőszámok az ökológiában} \mbox{}\\
 	 Ma már a kulcsfajok kiválasztása részben ökológiai interakciós hálózatok elemzése alapján történik. A használt hálók kizárólag biotikus-biotikus (faj-faj) kapcsolatokat tartalmaznak. Erre azért van szükség, mert például minden élőlény összekötésben áll a detritusszal és ez eltorzítaná az analízis eredményét. Sőt ilyen esetben a detritusz maga is struktúrális kulcsfajnak számítana. Egy adott fajnak az ökológiai interakciós hálóban betöltött szerepét pozicionális fontossági mérőszámokkal, vagy más néven centralitási indexekkel lehet jellemezni. A konzervációs biológiában sokfajta ilyen mérőszámot használnak, melyeknek közös tulajdonsága, hogy mindegyik valamilyen egyedi tulajdonságra fekteti a hangsúlyt és az alapján rangsorolja a hálózatban szereplő fajokat. Ilyen eltérés lehet két index között például, az hogy az egyik egy adott pont lokális kapcsolati mintázatára, míg a másik az egész hálózatra vonatkozó hatását számszerűsíti. Adott hálóra különböző mérőszámok eltérő fajsorrendeket adnak, de a hasonló tulajdonságok figyelembevételén alapuló mérőszámok között felállíthatók konszenzus fák \cite{jordan_comparison}.
 	 
-	 \paragraph{Főbb topológiai mérőszámok}
+	 \paragraph{Főbb topológiai mérőszámok} \mbox{}\\
+	 A bonyolult rendszereket modellező hálózatok topológiája alapján sok fontos információ nyerhető a rendszer működéséről. A következő néhány bekezdésben a hálózattudományban alkalmazott legfontosabb mérőszámokat szeretném röviden ismertetni. Végül egy részletesebb leírásban a diplomamunkám alapjául szolgáló TI-t mutatom be.
 	 
 	 \paragraph{Normalised degree - D} \mbox{}\\Az adott ponttal kapcsolódó pontok száma elosztva a hálózat összes pontjának számával \cite{top_indexes}.
 	 
@@ -242,7 +246,7 @@
 	 A vizsgálni kívánt ponton áthaladó a hálózat többi pontpárját összekötő legrövidebb utak összege elosztva a hálózat többi pontpárját összekötő összes legrövidebb út összegével \cite{top_indexes}. 	 Ez a mérőszám azt mutatja meg, hogy egy adott pont milyen arányban szerepel a többi pont között futó útvonalakon. A \textit{betweenness centrality} vagy röviden  \textit{betweenness} olyan hálózatok jó jellemzője, melyekben valamilyen természetű ``áramlás" folyik a pontok között. Ha feltételezzük, hogy egy ilyen hálózat minden kapcsolata között az áramlás során ugyanannyi kicserélődés történik egy egységnyi idő alatt és a kicserélődés a legrövidebb útvonalakon folyik, akkor az összes geodézikus útvonalon is azonos rátával történik az áramlás. Ez azt jelenti, hogy egy adott ponton átmenő áramlás mennyisége arányos azzal, hogy a hálózat legrövidebb útvonalainak milyen arányában szerepel \cite{newman_networks}.
 	 
 	 \paragraph{Topological importance - TI\textsuperscript{n}}  \mbox{}\\
-	 A diplomamunkám során ezt a mérőszámot alkalmazom az általam összeállított molekuláris hálózatokra. Ezen okból a következő néhány bekezdésben, egy jóval részletesebb leírásban mutatom be a TI tulajdonságait. 
+	 A diplomamunkám során ezt a mérőszámot alkalmazom az általam összeállított molekuláris hálózatokra. Ezen okból a következő néhány bekezdésben, egy jóval részletesebb leírásban mutatom be a TI kiszámításának módját és mérőszám tulajdonságait. 
 	 
 	 Ez egy teljesen topológiai alapú mérőszám mely összegzi az egy adott pontból kiinduló összes lehetséges \textit{n} lépéshosszúságú útvonal hatását. A hálózat összes direkt kapcsolatára kiszámítható azok topológiai erőssége:
 	 
@@ -303,8 +307,6 @@
  		 \label{fig:peldagraph}
  	 \end{figure}
  	 
- 	 \pagebreak
- 	 
  	 A \ref{fig:peldagraph}. ábrán látható példagráfra rendre felírhatóak a közvetlen  kölcsönhatások ($d$) és a két lépésnyire közvetített indirekt kölcsönhatások ($d^2$) értékeit tartalmazó mátrixok:
 	
 	% Példamátrixok %
@@ -359,9 +361,9 @@
 
 	\paragraph{A célok eléréséhez tervezett feladatok}
 	\begin{enumerate}
-		\item Olyan adatszerkezet és keretrendszer fejlesztése mely képes molekuláris hálózatok feldolgozására.
+		\item Olyan adatszerkezetek és keretrendszer fejlesztése mely képes molekuláris hálózatok feldolgozására.
 		\item Az \textit{ARN} a \textit{Salmonet} és az  ember-\textit{Salmonella} predikciók alapján integrált gazda-patogén hálózat készítése.
-		\item A TI mérőszámot kiszámolni képes program fejlesztése és tesztelése hogy alkalmas-e kifejezetten a gazda-patogén molekuláris hálózatok elemzésére.
+		\item A TI mérőszámot kiszámolni képes program fejlesztése és, annak tesztelése hogy a TI alkalmas-e kifejezetten a gazda-patogén molekuláris hálózatok leírására.
 	\end{enumerate}
 	\pagebreak
 
@@ -576,21 +578,12 @@
 
 \section{Eredmények}
 
-	Az elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített hálózatra is elvégeztem. A TI-t mind a három hálóra kiszámoltam 1, 2 és 3 lépés távolságra. 
+	Az elemzéseimet a \textit{Salmonet}, az \textit{ARN} és az egyesített hálózatra is elvégeztem. A TI-t mind a három hálóra kiszámoltam 1, 2 és 3 lépés távolságra. A TI alapján a három hálózat pontjaira rangsorokat írtam fel. Ezután megnéztem, hogy a különböző szempontokból fontosnak bizonyult fehérjék milyen biológiai funkciókat látnak el.
 	
 	\subsection{Topológiai indexek az alhálózatokban}
-		\subsubsection{ARN}
-	
-				\begin{figure}[H]
-					\includegraphics[scale=0.48]{img/arn_123_comp.pdf}
-					\centering
-					\caption{ \textbf{Az \textit{ARN} 1, 2 és 3 lépésre számított topológiai fontosságai}}
-					\begin{imgdesc}
-						A pontok színmélységét leíró skála a bal oldalon látható. Az ábra a különböző lépéshosszokra kiszámolt TI értékek eltéréseit szemlélteti. A többfajta lépéshosszra meghatározott indexek információt szolgáltatnak arról, hogy egy adott pont TI értéke hogyan változik egy hálózaton belül.
-					\end{imgdesc}
-		
-					\label{fig:arn123}			 		 
-				\end{figure}
+		\subsubsection{ARN}	
+						
+				Az \ref{table:arnti123}. táblázatban ábrázoltam az \textit{ARN}-re kiszámolt TI$^1$, TI$^2$ és TI$^3$  kategória első öt legfontosabb fehérjéit. A táblázatból látható, hogy egy adott fehérje különböző lépéshosszoknál számolt topológiai indexe nagyjából hasonló értékeket vesz fel. A TI$^2$ adatok mindenképp magukba foglalják azt, hogy a pontok hogyan hatnak vissza önmagukra. A TI$^3$-as értékek is tartalmazhatnak olyan útvonalakat melyeken egy pont önmagára visszahat, de csak akkor ha a két nódusnak van közös első szomszédja. A TI$^3$ tehát magába foglalja az adott pont önhatását de csak közvetett módon. A TI számításánál az egy pontba érő hatás ereje attól függ hogy a pontot hány darab útvonal éri el. Tehát TI számításánál az adott pontba érkező hatások összege mindig egy. Egy pont egységnyi erőt képes befogadni, ami a pontot elérő kapcsolatok között oszlik meg. A páros $n$ úthosszoknál az $n$. szomszédoktól érkező hatások mindenképp gyengébbek lesznek mert a pontra ható egység hatás még az önható útvonalak hatásával is megoszlik.
 				
 				\begin{table}[H]
 				\centering
@@ -606,10 +599,19 @@
 				5.   & ATG2A              & 1,99                        & ATG3               & 1,56                        & GABARAPL1          & 1,68                        \\ \hline
 				\end{tabular}
 				\end{table}
-						
-				Az egyesített hálózat az \textit{ARN}-nél jóval kompaktabb, az \textit{ARN}-ben pontok a kevésbé gazdagon kapcsoltak egymással. Az egyesített hálózat denzitása 0,00136 \%, míg az \textit{ARN}-é 0,00099\%. A denzitási értékekkel ellentétesen az \textit{ARN}-ben nagyobb az olyan nódusok aránya melyeknek nagy a TI értéke. Az egyesített hálózatban csupán a pontok 31,9\%-a rendelkezett egynél nagyobb TI$^3$ értékkel, ugyanakkor ez az arány az \textit{ARN} esetén már 44,1\%.
 				
-				Az \ref{table:arnti123}. táblázatban ábrázoltam az \textit{ARN}-re kiszámolt TI$^1$, TI$^2$ és TI$^3$  kategória első öt legfontosabb fehérjéit. A táblázatból látható, hogy egy adott fehérje különböző lépéshosszoknál számolt topológiai indexe nagyjából hasonló értékeket vesz fel. A TI$^2$ adatok mindenképp magukba foglalják azt, hogy a pontok hogyan hatnak vissza önmagukra. A TI$^3$-as értékek is tartalmazhatnak olyan útvonalakat melyeken egy pont önmagára visszahat, de csak akkor ha a két nódusnak van közös első szomszédja. A TI$^3$ tehát magába foglalja az adott pont önhatását de csak közvetett módon. A TI számításánál az egy pontba érő hatás ereje attól függ hogy a pontot hány darab útvonal éri el. Tehát TI számításánál az adott pontba érkező hatások összege mindig egy. Fordítva, egy pont egységnyi erőt képes befogadni, ami a pontot elérő kapcsolatok között oszlik meg. A páros $n$ úthosszoknál az $n$. szomszédoktól érkező hatások mindenképp gyengébbek lesznek mert a pontra ható egység hatás még az önható útvonalak hatásával is megoszlik.
+				
+				\begin{figure}[H]
+									\includegraphics[scale=0.54]{img/arn_123_comp.pdf}
+									\centering
+									\caption{ \textbf{Az \textit{ARN} 1, 2 és 3 lépésre számított topológiai fontosságai}}
+									\begin{imgdesc}
+										A pontok színmélységét leíró skála a bal oldalon látható. Az ábra a különböző lépéshosszokra kiszámolt TI értékek eltéréseit szemlélteti. A többfajta lépéshosszra meghatározott indexek információt szolgáltatnak arról, hogy egy adott pont TI értéke hogyan változik egy hálózaton belül.
+									\end{imgdesc}
+						
+									\label{fig:arn123}			 		 
+				\end{figure}
+				
 				
 				\paragraph{Az \textit{ARN} legnagyobb TI értékű fehérjéi} \mbox{}\\
 				A következő felsorolásba összegyűjtöttem azokat a fehérjéket amelyek mind a három TI kategóriában megtalálhatók a tíz legfontosabb fehérje halmazában. 			
@@ -624,7 +626,7 @@
 
 					\item \textbf{MAP1LC3B} -- Ez a fehérje a MAP-ok családjába tartozik és emberben két majdnem identikus izoformája van. Első izoláláskor a MAP-1 alegységének vélték és ezért kapta LC3 (\textit{lighnt chain 3}) nevet. Az LC3 és a MAP1LC3B név tehát ugyanarra a fehérjére vonatkozik. Ma már tudjuk, hogy a mikrotubulusok mellett, az autofágiában is kulcsszerepet játszik \cite{atg8_like}.  Az autofágiában két ubikvitin rendszer szerű enzim-komplex dolgozik. Az LC3 autofágia indukciójakor proteolítikus hasítást szenved a citoplazmában és így jön létre az LC3B-I-es izoforma. Az LC3B-I-et az Atg7 egy E1-szerű enzim aktiválja, majd az E2 szerű ATG3-ra kerül. Ezután LC3B-I C-terminálisán helyezkedő glicinje foszfatidiletanolaminnal konjugálódik. Ez utóbbi formát nevezzük LC3B-II-nek. Az LC3B-II a növekvő fagofór külső és belső felszínén is megtalálható. Jelenlegi ismereteink alapján az LC3B-II két fő szerepei a membránok hemifúziója és a lebontásra irányított fehérjék szelekciója az autofagoszómához \cite{autophagy_proteins}. 
 					
-					\item \textbf{MAP1LC3C} -- Ez a fehérje egy LCH3 paralóg, az \textit{LC3C} génről íródik át melynek szabályozása független az LC3-tól. Az LC3-hoz hasonlóan ez a fehérje is a makroautofágia szelektivitását növeli \cite{atg8_like}.
+					\item \textbf{MAP1LC3C} -- Ez a fehérje egy LC3 paralóg, az \textit{LC3C} génről íródik át melynek szabályozása független az LC3-tól. Az LC3-hoz hasonlóan ez a fehérje is a makroautofágia szelektivitását növeli \cite{atg8_like}.
 					
 					\item \textbf{ULK1} -- Az ULK-1 egy szerin-threonin-protein-kináz, az ATG1 emlős homológja. Az ULK-1 a fagofór kéződés egyik kulcs faktora. Aktivitását az az mTORC1 szabályozza. Az mTORC1 egyik legfontosabb feladata emlős sejtekben az energiaszint érzékelés. Az mTORC1 magas tápanyagtartalom vagy aktiváló jelátvitel hatására foszforillálja az ULK-1 szubsztrátját, így az ULK-1 nem tudja beteljesíteni a fagofór kéződésében játszott szerepét és az autofágia gátlódik \cite{autophagy_proteins}. 
 				\end{itemize}
@@ -632,18 +634,7 @@
 		
 		\subsubsection{Salmonet}
 		
-			\begin{figure}[H]
-					\includegraphics[scale=0.44]{img/salmonet_tis.pdf}
-					\centering
-					\caption{ \textbf{A \textit{Salmonet} pontjainak rang abundancia diagramjai}}
-					\begin{imgdesc}
-						Az ábrán látható grafikonokon a \textit{Salmonet} pontjai a különböző TI értékek szerint sorba vannak rendezve. 
-					\end{imgdesc}
-		
-					\label{fig:salmonet_stats}			 		 
-				\end{figure}
-		
-			A \textit{Salmonet} 2425 nódust és 7973 élt tartalmaz. A \textit{Salmonet} jobban hasonlít az egyesített hálózatra. Az \textit{ARN}-el ellentétben de az integrált hálózathoz hasonlóan, jóval  magasabbak a legnagyobb TI-vel rendelkező pontjainak értékei. Sőt a \textit{Salmonet} különböző lépésszámokhoz rendelt öt legfontosabb fehérjéinek listája megegyezik az egyesített hálózatéval. (\textit{\ref{table:salmonet123}. és \ref{table:merged123}. táblázat}) 
+				A \textit{Salmonet} 2425 nódust és 7973 élt tartalmaz. A \textit{Salmonet} jobban hasonlít az egyesített hálózatra. Az \textit{ARN}-el ellentétben de az integrált hálózathoz hasonlóan, jóval  magasabbak a legnagyobb TI-vel rendelkező pontjainak értékei. Sőt a \textit{Salmonet} különböző lépésszámokhoz rendelt öt legfontosabb fehérjéinek listája megegyezik az egyesített hálózatéval (\textit{\ref{table:salmonet123}. és \ref{table:merged123}. táblázat}). 
 										
 				\begin{table}[H]
 				\centering
@@ -660,6 +651,19 @@
 				\end{tabular}
 				\end{table}
 				
+				A \textit{Salmonet} már túl sok pontot és kapcsolatot tartalmaz, hogy a különböző TI értékeit a \textit{\ref{fig:arn123}}. ábrához hasonlóan látványosan lehessen szemléltetni. A TI jellemzésére viszont ilyen nagy hálózatokra is kiváló lehetőséget nyújtanak az ökológiában használt rang abundancia diagramok. A \textit{Salmonet} rang abundancia diagramjainak lefutásai, hasonló mintázatot adnak, mint a Jordán és munkatársai által ökológiai hálózatok TI értékeire felírható görbék \cite{ti}.
+				
+				\begin{figure}[H]
+						\includegraphics[scale=0.44]{img/salmonet_tis.pdf}
+						\centering
+						\caption{ \textbf{A \textit{Salmonet} pontjainak rang abundancia diagramjai}}
+						\begin{imgdesc}
+							Az ábrán látható grafikonokon a \textit{Salmonet} pontjai a különböző TI értékek szerint sorba vannak rendezve. 
+						\end{imgdesc}
+			
+						\label{fig:salmonet_stats}			 		 
+				\end{figure}
+				
 			A \textit{Salmonet}-ben négy olyan fehérje van mely mind a három topológiai index szempontjából a legerősebb tíz helyezettben van:
 			
 			\begin{itemize}
@@ -674,6 +678,12 @@
 			\end{itemize}
 			
 	\subsection{Topológiai indexek az integrált hálózatban}
+	
+		Eddig csak adott hálózaton belül hasonlítottam össze a pontok topolügiai fontosságát. Azonban fontos információt nyújt az is, hogy egy pont TI értéke hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
+	
+		Az egyesített hálózat az \textit{ARN}-nél jóval kompaktabb, az \textit{ARN}-ben pontok a kevésbé gazdagon kapcsoltak egymással. Az egyesített hálózat denzitása 0,00136 \%, míg az \textit{ARN}-é 0,00099\%. A denzitási értékekkel ellentétesen az \textit{ARN}-ben nagyobb az olyan nódusok aránya melyeknek nagy a TI értéke. Az egyesített hálózatban csupán a pontok 31,9\%-a rendelkezett egynél nagyobb TI$^3$ értékkel, ugyanakkor ez az arány az \textit{ARN} esetén már 44,1\%.
+		
+		A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van. A \textit{Salmonet}-ben pedig 2425 pont van amik között 7973 él húzódik. A predikciók az \textit{ARN}-ből és \textit{Salmonet}-ből származó 2459 nódus közé még 40 kapcsolatot adnak. A végleges hálózat így 2459 pontot és 8199 élt tartalmaz.
 			
 					\begin{figure}[H]
 						\includegraphics[scale=0.6]{img/merged.pdf}
@@ -705,11 +715,7 @@
 					5.      & trxA               & 23,77                       & ssrB               & 7,93                        & trxA               & 20.10                       \\ \hline
 					\end{tabular}
 
-					\end{table}
-				
-			Eddig csak adott hálózaton belül hasonlítottuk össze a pontok topolügiai fontosságát. Azonban fontos információt nyújt az is, hogy egy pont TI értéke hogyan változik azzal, hogy az eredeti vagy az egyesített hálózatban vizsgáljuk.
-			
-			A feldolgozott \textit{ARN} hálózat 34 pontot tartalmaz amik között 186 él van. A \textit{Salmonet}-ben pedig 2425 pont van amik között 7973 él húzódik. A predikciók az \textit{ARN}-ből és \textit{Salmonet}-ből származó 2459 nódus közé még 40 kapcsolatot adnak. A végleges hálózat így 2459 pontot és 8199 élt tartalmaz. 			
+					\end{table}	 			
 						
 			Az integrált hálózatban a \textit{Salmonet} tulajdonságai érvényesülnek. Az első öt nódus mind a három TI kategóriájában \textit{Salmonet} eredetű. (\textit{\ref{table:merged123}. táblázat})  A hálózatban a legerősebb hatással rendelkező humán fehérje a GABARAP, ami TI$^1$ (2,54) és TI$^3$ (2,12) esetén a 88., TI$^2$-nél (2,61) pedig a 112. legerősebb hatású pontnak számít.   
 			
@@ -734,7 +740,7 @@
 				\centering
 				\caption{ \textbf{Az interfész fehérjéktől három lépésre elérhető pontok}}
 				\begin{imgdesc}
-					Az ábra az egyesített hálózat azon részét tartalmazza mely elérhető három lépésre a \textit{Salmonella} \textit{Salmonella} hat darab interfész fehérjéjétől. A zöld színű élek a predikciókból származnak és a \textit{Salmonetet} \textit{(jobb)} kötik össze az \textit{ARN}-el \textit{(bal)}. A piros színű élek ez esetben a \textit{Salmonella} interfész fehérjéi és ezek \textit{Salmonellán} belüli első szomszédai között húzódnak. Látványos, hogy ez utóbbi élekből a legtöbb a legerősebb TI értékű pontokhoz tart. A pontok színezése megegyezik az \ref{fig:merged}. ábránál ismertetett sémával, a színskála a bal felső sarokban látható.
+					Az ábra az egyesített hálózat azon részét tartalmazza mely elérhető három lépésre a \textit{Salmonella} hat darab interfész fehérjéjétől. Ez az a környezet, ahol az interfészfehérjék TI$^3$-at alkotó topológiai hatásai érvényesülnek. A zöld színű élek a predikciókból származnak és a \textit{Salmonetet} \textit{(jobb)} kötik össze az \textit{ARN}-el \textit{(bal)}. A piros színű élek ez esetben a \textit{Salmonella} interfész fehérjéi és ezek \textit{Salmonellán} belüli első szomszédai között húzódnak. Látványos, hogy ez utóbbi élekből a legtöbb a legerősebb TI értékű pontokhoz tart. A pontok színezése megegyezik az \ref{fig:merged}. ábránál ismertetett sémával, a színskála a bal felső sarokban látható.
 				\end{imgdesc}			
 				\label{fig:merged-3-step}			 		 
 			\end{figure}			
@@ -743,20 +749,19 @@
 		
 		\subsubsection{A \textit{Salmonella} kapcsolatai az autofágia fehérjékkel}
 		
-		Az \textit{ARN} pontjaiból 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével \textit{(\ref{fig:connection}. ábra)}.
+		Az \textit{ARN} fehérjéiből 30 létesít összesen 40 kapcsolatot valamilyen \textit{Salmonella} fehérjével. A predikciók alapján tehát hálózatban szereplő humán autofágia fehérjék 88\%-a létesíthet kapcsolatot \textit{Salmonella} fehérjével \textit{(\ref{fig:connection}. ábra)}.
+		
+		 A 40 darab fajok közötti kapcsolatért \textit{Salmonella} oldalról csupán a következő hat \textit{Salmonella} fehérje a felelős: sifB, slpA, sopB, sseI, sseL, sspH2 (\textit{\ref{fig:connection}. ábra}). A predikciók alapján tehát a \textit{Salmonella} fehérjék mindössze 0,2\%-a létesít csak kapcsolatot a gazda autofágia fehérjéivel. Az ábrán az is megfigyelhető, hogy a négy csak humán kapcsolattal rendelkező fehérje viszonylag kisebb TI-vel rendelkezik, pedig valóban központi szerepűek.
 		
 				\begin{figure}[H]
-					\includegraphics[scale=0.4]{img/connection_prots_v2_complete.pdf}
+					\includegraphics[scale=0.48]{img/connection_prots_v2_complete.pdf}
 					\centering
 					\caption{ \textbf{Az \textit{ARN} és kapcsolatai az egyesített hálózattal}}		
 					\label{fig:connection}
 					\begin{imgdesc}
-					Az ábrán látható hálózatok az \textit{ARN}-t és a hat \textit{Salmonella} interfész fehérjét ábrázolják. A hálók a TI$^1$ (\textit{bal}) és a TI$^2$ \textit{(jobb)} értékeket szemléltetik. A hálózatok bal oldalán elhelyezkedő kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. A hálózatok felső részén elhelyezkedő sárga téglalap tartalmazza a \textit{Salmonet} interfész fehérjéit. A szűkre színű élek a emberi fehérjék közötti kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága arányos a TI értékükkel. A pontok színének megfeleltetése a bal alsó sarokban látható színskálán látható. 
+					Az ábrán látható hálózatok az \textit{ARN}-t és a hat \textit{Salmonella} interfész fehérjét ábrázolják. A hálók a TI$^1$ (\textit{felső}) és a TI$^2$ \textit{(alsó)} értékeket szemléltetik. A hálózatok bal oldalán elhelyezkedő kék hátterű pontok jelképezik az \textit{ARN}-nek azon részét, mely csak belső kapcsolatokkal rendelkezik. A hálózatok felső részén elhelyezkedő sárga téglalap tartalmazza a \textit{Salmonet} interfész fehérjéit. A szűkre színű élek a emberi fehérjék közötti kapcsolatok, a narancs színűek pedig a predikciókból származó interspecifikus kapcsolatok. A pontok nagysága arányos a TI értékükkel. A pontok színének megfeleltetése a hálózatok bal alsó részén látható. 
 					\end{imgdesc}			 		 
 				\end{figure}
-
-				
-		 A 40 darab interspecifikus kapcsolatért \textit{Salmonella} oldalról csupán a következő hat \textit{Salmonella} fehérje a felelős: sifB, slpA, sopB, sseI, sseL, sspH2 (\textit{\ref{fig:connection}. ábra}). A predikciók alapján tehát a \textit{Salmonella} fehérjék mindössze 0,2\%-a létesít csak kapcsolatot a gazda autofágia fehérjéivel. Az ábrán az is megfigyelhető, hogy a négy csak humán kapcsolattal rendelkező fehérje viszonylag kisebb TI-vel rendelkezik, pedig valóban központi szerepűek.
 		 
 		 A \textit{\ref{fig:connection}. ábra} azt is szemlélteti, hogy az interfész fehérjék többsége egy lépésre még nem számít topológiailag erős kölcsönhatónak, viszont két lépésnél már igen. Ennek a jelenségnek az az oka, hogy az interfész fehérjékből viszonylag kevés kapcsolat ered, azonban ezek a kapcsolatok erősen kölcsönható fehérjék. Ezáltal az interfészfehérjékből kiinduló kétlépéses útvonalak erős elsődleges kölcsönhatókon keresztül érik el célpontjukat.
 		
@@ -787,7 +792,7 @@
 			\centering
 			\caption{ \textbf{A T3SS fehérjéinek első és második szomszédai}}
 			\begin{imgdesc}
-				Az ábra a \textit{\ref{fig:merged-3-step}. ábrán} látható hálózatból az interfész fehérjéket valamint ezek első és második szomszédjait tartalmazza. A feltüntetett nevű fehérjék az interfész fehérjék \textit{Salmonella} oldali első szomszédai. A predikciókból származó interspecifikus kapcsolatok zölddel vannak jelölve. Az interfész fehérjéket és \textit{Salmonella}-án belüli első szomszédaikat piros élek kötik össze. A pontok nagysága és színmélysége a TI$^3$ értékükkel arányos. A jobb felső sarokban a színeket magyarázó skála látható.
+				Az ábra a \textit{\ref{fig:merged-3-step}. ábrán} látható hálózatból az interfész fehérjéket valamint ezek első és második szomszédjait tartalmazza. A feltüntetett nevű fehérjék az interfész fehérjék \textit{Salmonella} oldali első szomszédai. A predikciókból származó interspecifikus kapcsolatok zölddel vannak jelölve. Az interfész fehérjéket és \textit{Salmonella}-án belüli első szomszédaikat piros élek kötik össze. A pontok nagysága és színmélysége a TI$^3$ értékükkel arányos. A bal felső sarokban a színeket magyarázó skála látható.
 			\end{imgdesc}
 			\label{fig:t3ss_inner}			 		 
 		\end{figure}
