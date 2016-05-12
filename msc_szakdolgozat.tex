@@ -814,10 +814,9 @@
 		
 		\subsection{Kitekintések}
 		\subsubsection{A TI használata a \textit{Salmonella} és az immunrendszer kölcsönhatásának tanulmányozásához}
-		Számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor fehérje-fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban \cite{innatedb}. Az adatbázis felhasználásával és a TI alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer és \textit{Salmonella} kölcsönhatásakor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.
+		Számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor fehérje-fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban \cite{innatedb}. Az adatbázis felhasználásával és a TI alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer és \textit{Salmonella} kölcsönhatásakor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.	 
 		
- 
- 		\subsubsection{Az egyesített hálózat felhasználása a \textit{Salmonella} fertőzés modellezésére}
+ 		\subsubsection{A \textit{Salmonella} fertőzés további modellezése}
 		A diplomamunkámban csak a TI aspektusában vizsgáltam a gazda-patogén hálózat fehérjéinek fontosságát. Mint a bevezetésben említettem, az ökológiában a kulcs fajok kijelölésére több mérőszámot is használnak egyszerre, melyek más és más aspektusban vizsgálják a fajok fontosságát \cite{jordan_comparison} \cite{ti}. Érdemes lenne, megvizsgálni azt, hogy más mérőszámok hogyan viselkednek az általam felállított gazda-patogén hálózaton, vagy hogy korrelálnak-e a TI-vel megállapított rangsorral.
  		
  		A szakirodalomban már csináltak másik humán-baktérium gazda-patogén hálózatot, ami inkább a metabolikus megközelítésre fektette a hangsúlyt. A vizsgálatban tüdő makrofágok \textit{Mycobacterium tubercolosis} általi fertőzését modellezték különböző omikai adatok integrálásával készült hálózatban. A teljes genom szintű integrált hoszt-patogén hálózat segítségével metabolikus változásokat modelleztek, melyek segítségével a fertőzést három különböző patológiai fázisra tudták bontani \cite{discussion_alveolar_macrophage}.  Mivel a \textit{Salmonet} is tartalmaz metabolikai adatokat, így az általam összeállított integrált adatbázisban is lehetne hasonló modelleket alkalmazni és ezáltal a fertőzés folyamatának patológiai aspektusaira rávilágítani.
@@ -838,7 +837,23 @@
 
 \section{Összefoglalás}
 		
+		Diplomamunkám során olyan eszközöket hoztam létre melyek megkönnyítik a molekuláris hálózatok építését.  Az általunk tervezett \textit{MiTab SQL} formátum megkönnyíti a molekuláris hálózat adatok tárolását, átalakítását és elemzését. Létrehoztam a  \textit{PsimiSQL Python} osztályt, melynek segítségével számos különböző formátumú adat gyorsan átalakítható \textit{MiTab SQL} formátumra. A kutatócsoportunk létrehozott egy olyan protokollt, mely hatékony módszert biztosít molekuláris hálózatok létrehozására. A protokoll segítségével hatékonyan fel tudtam építeni az ember-\textit{Salmonella} adatbázist.
+		
+		\vspace{22pt}
+		
+		A \textit{TopologyAnalyser} egy szintén általam készített \textit{Python} oszály mely segítségével él-lista fájlok elemezhetők. Az osztály képes a beadott hálózat TI értékeinek kiszámítására. Ilyen él-listák bármilyen hálózatból könnyen készíthetők. 
+		
+		\vspace{22pt}
+		
+		A TI-t én alkalmaztam először gazda patogén molekuláris hálózaton. A TI alkalmasnak bizonyult Bár a TI egy ökológiai mérőszám, de mégis használhatónak bizonyult a gazda-patogén hálózat központ fehérjéinek kijelölésében. Az ilyen típusú topológiai mérőszámokat csak ritkán alkalmazzák molekuláris hálózatokra. A diplomamunkám bebizonyította, hogy biológiailag releváns eredmények érhetőek el az ilyen mérőszámok alkalmazásával.
 
+		\vspace{22pt} 
+		
+		Az integrált adatbázisban az ember-\textit{Salmonella} predikciók és a TI kiemelt egy olyan fehérjét aminek \textit{Salmonella} virulenciájában játszott szerepe még nincsen leírva.
+
+		\vspace{22pt}
+		
+		Az általam készített adatszerkezetek és szkriptek segítségével meghatározott TI alapján a \textit{Salmonella} és bélsejtek közti kapcsolatokat vizsgáló kísérletek már folyamatban vannak.
 		
 		
 		\pagebreak
@@ -847,16 +862,23 @@
 
 \section{Summary}
 		
-		In my thesis work I built and analyzed a human-\textit{Salmonella} host-pathogen network. While constructing the network I created tools that can be used for building and analyzing similar networks. This tools can be used to integrate data formats used in bioinformatics and systems-biology. Our group's MiTab SQLite format makes it easier to  store, transform and analyze molecular network data.
-		I built the \textit{PsimiSQL Python class} that can be used to convert several data formats to MiTab SQL easily. I also built another \textit{Python class} \textit{TopologyAnalyser} that can analyze edge-list files. Edge-list files can be easily obtained from any network. Our research group created a powerful protocol for constructing molecular networks. The protocol proved to be well usable for the establishment of the Signalink and the human-\textit{Salmonella} database.
+		In my thesis work I created efficient tools and data structures that can be used for building molecular networks. Our \textit{MiTab SQLite} format makes it easier to  store, transform and analyze molecular network data. I built the \textit{PsimiSQL Python} class that can be used to convert several data formats to MiTab SQL easily. Our research group created a powerful protocol for constructing molecular networks. The protocol proved to be well usable for the establishment of the human-\textit{Salmonella} database.
 		
-		Although the topological importance is an ecological index, it is proven that it can be used to mark the central proteins of a host-pathogen network. These kind of topological indices are rarely used for the analysis of molecular networks. My thesis reveals that biologically relevant results can be obtained by using indices like this. 
+		\vspace{22pt}
 		
-		Based on the parameter, the topological importance can describe the analyzed network in several aspects. The index calculated for one step paths shows nodes that have strong direct topological effect. The ranking produced with the formula used with even parameters emphasizes nodes with heavy effects on themselves. Using longer odd step paths marks nodes that are important  indirect inter-actors.
+		I also built another \textit{Python class} \textit{TopologyAnalyser} that can analyze edge-list files. The class can count the TI values forthe given network. Edge-list files can be easily obtained from any network. 
+		
+		\vspace{22pt}
+		
+		For the first time I applied TI in the analysis of a host-pathogen molecular network. Although the topological importance is an ecological index, it is proven that it can be used to mark the central proteins of a host-pathogen network. These kind of topological indices are rarely used for the analysis of molecular networks. My thesis reveals that biologically relevant results can be obtained by using indices like this.
+		
+		\vspace{22pt} 
 		
 		In this data set, the predictions and the topological importance marked a protein that haven't been described in \textit{Salmonella} virulence yet.
-
-		TI$^2$ emphasized the importance of the \textit{Salmonella} interface proteins. The importance of these proteins was already described in the literature. The reason behind that effect is that the interface proteins have just a few edges in the direction of \textit{ARN}, but those edges pass through topologically very powerful proteins. The TI also showed that the first neighbors of the interface proteins are very important in autophagy and in the regulation of Salmonella life cycle. This shines light on the fact that the life cycle of Salmonella is dependent on interaction with the host cell. 
+		 
+		\vspace{22pt} 
+		
+		Experiments that aim to explore the connections between \textit{Salmonella} and enterocytes have already started based on results that were achieved by my scripts and data structures.
 				
 		\pagebreak
 

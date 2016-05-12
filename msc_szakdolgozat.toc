@@ -116,9 +116,13 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.1}A TI haszn\IeC {\'a}lata a \textit {Salmonella} \IeC {\'e}s az immunrendszer k\IeC {\"o}lcs\IeC {\"o}nhat\IeC {\'a}s\IeC {\'a}nak tanulm\IeC {\'a}nyoz\IeC {\'a}s\IeC {\'a}hoz}{40}{subsubsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.2}A TI felhaszn\IeC {\'a}l\IeC {\'a}sa b\IeC {\'e}l mikro\IeC {\"o}kol\IeC {\'o}gi\IeC {\'a}j\IeC {\'a}nak jellemz\IeC {\'e}s\IeC {\'e}re}{40}{subsubsection.6.3.2}
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.2}A \textit {Salmonella} fert\IeC {\H o}z\IeC {\'e}s tov\IeC {\'a}bbi modellez\IeC {\'e}se}{40}{subsubsection.6.3.2}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.3}Az egyes\IeC {\'\i }tett h\IeC {\'a}l\IeC {\'o}zat felhaszn\IeC {\'a}l\IeC {\'a}sa a \textit {Salmonella} fert\IeC {\H o}z\IeC {\'e}s modellez\IeC {\'e}s\IeC {\'e}re}{41}{subsubsection.6.3.3}
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.3}A TI felhaszn\IeC {\'a}l\IeC {\'a}sa b\IeC {\'e}l mikro\IeC {\"o}kol\IeC {\'o}gi\IeC {\'a}j\IeC {\'a}nak jellemz\IeC {\'e}s\IeC {\'e}re}{41}{subsubsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.4}A modellekb\IeC {\H o}l nyert adatok k\IeC {\'\i }s\IeC {\'e}rletes ellen\IeC {\H o}rz\IeC {\'e}s\IeC {\'e}nek lehet\IeC {\H o}s\IeC {\'e}ge}{42}{subsubsection.6.3.4}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.5}A TI alkalmaz\IeC {\'a}s\IeC {\'a}nak lehet\IeC {\H o}s\IeC {\'e}ge a botanik\IeC {\'a}ban}{42}{subsubsection.6.3.5}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {section}{\numberline {7}\IeC {\"O}sszefoglal\IeC {\'a}s}{43}{section.7}
 \defcounter {refsection}{0}\relax 
