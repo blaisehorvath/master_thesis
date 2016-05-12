@@ -1,4 +1,7 @@
 \documentclass[a4paper,12pt]{article}
+%DIF LATEXDIFF DIFFERENCE FILE
+%DIF DEL msc_szakdolgozat_master.tex   Thu May 12 18:28:05 2016
+%DIF ADD msc_szakdolgozat.tex          Thu May 12 18:54:16 2016
 
 %temporary includes
 \usepackage{textcomp} %for arrows in comments
@@ -107,8 +110,30 @@
 \title{Bakteriális patogén és ember közötti molekuláris hálózatok vizsgálata}
 \author{Horváth Balázs}
 \date{2015}
-
-
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF UNDERLINE PREAMBLE %DIF PREAMBLE
+\RequirePackage[normalem]{ulem} %DIF PREAMBLE
+\RequirePackage{color}\definecolor{RED}{rgb}{1,0,0}\definecolor{BLUE}{rgb}{0,0,1} %DIF PREAMBLE
+\providecommand{\DIFaddtex}[1]{{\protect\color{blue}\uwave{#1}}} %DIF PREAMBLE
+\providecommand{\DIFdeltex}[1]{{\protect\color{red}\sout{#1}}}                      %DIF PREAMBLE
+%DIF SAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddbegin}{} %DIF PREAMBLE
+\providecommand{\DIFaddend}{} %DIF PREAMBLE
+\providecommand{\DIFdelbegin}{} %DIF PREAMBLE
+\providecommand{\DIFdelend}{} %DIF PREAMBLE
+%DIF FLOATSAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddFL}[1]{\DIFadd{#1}} %DIF PREAMBLE
+\providecommand{\DIFdelFL}[1]{\DIFdel{#1}} %DIF PREAMBLE
+\providecommand{\DIFaddbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFaddendFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelendFL}{} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF HYPERREF PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFadd}[1]{\texorpdfstring{\DIFaddtex{#1}}{#1}} %DIF PREAMBLE
+\providecommand{\DIFdel}[1]{\texorpdfstring{\DIFdeltex{#1}}{}} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
 
 \begin{document}
 %\maketitle
@@ -358,13 +383,13 @@
 	A topológiai elemzés során kapott adatok alapján véleményt szeretnék alkotni arról, hogy felhasználhatók-e az ökológiában fajok közti kapcsolatok vizsgálatára használt tisztán topológiai adatokon alapuló mérőszámok a molekuláris kapcsolati hálók elemzésére. Valamint, hogy az így előállított rangsorok mennyire korrelálnak a jelenleg használt \textit{Salmonella} és humán bélsejteket vizsgáló módszerek eredményeivel.
 
 	\paragraph{A célok eléréséhez tervezett feladatok}
-  A következő 3 legyen:
-  \begin{enumerate}
-    \item adatszerkezet és keretrendszer fejlezstése molekuláris hálózatok feldolgozására
-    \item az arn és a salmonet és a predikciók alapján integrált hoszt-patogén hálózat készítésec
-    \item ti leprogramozása és tesztelése hogy alkalmas-e molekuláris kifejezetten hoszt patogén hálózatok elemzésére.
-  \end{enumerate}
-	\begin{enumerate}
+  \DIFaddbegin \DIFadd{A következő 3 legyen:
+  }\begin{enumerate}
+    \item \DIFadd{adatszerkezet és keretrendszer fejlezstése molekuláris hálózatok feldolgozására
+    }\item \DIFadd{az arn és a salmonet és a predikciók alapján integrált hoszt-patogén hálózat készítésec
+    }\item \DIFadd{ti leprogramozása és tesztelése hogy alkalmas-e molekuláris kifejezetten hoszt patogén hálózatok elemzésére.
+  }\end{enumerate}
+	\DIFaddend \begin{enumerate}
 		\item Program írása mely képes az \textit{ARN (Autophagy Regulatory Network)} adatbázis kézzel gyűjtött  humán autofágia specifikus fehérje-fehérje kapcsolati rétegének \textit{(``ARN core")} \textit{MiTab SQL} formátumra átalakítására.
 		\item Program írása mely képes a \textit{Salmonet} adatbázis kézzel gyűjtött  \textit{Salmonella} fehérje-fehérje kapcsolati hálózatának \textit{MiTab SQL} formátumra átalakítására.
 		\item Programok írása melyek képesek a Krishnadev és Skhirshagar féle humán-\textit{Salmonella} fehérje-fehéjre kapcsolati predikciók \textit{MiTab SQL} formátumra alakítására.
@@ -815,23 +840,25 @@
 		\pagebreak
 
 \section{Diszkusszió}
+\DIFaddbegin 
 
-    FONTOS! Alfejezetekre tagolni a kitekintést is gondokalmenetneként
+    \DIFadd{FONTOS! Alfejezetekre tagolni a kitekintést is gondokalmenetneként
+}
 
-    A következő bekezdés legyel bele olvasztva az össze foglalás első bekezdésébe amit ide kell átmozgatni!
-		Diplomamunkámban egy tisztán topológiai ökológiai mérőszámot, a topológiai fontosságot (TI) alkalmaztam molekuláris hálózatokra. Az index segítségével megpróbáltam felderíteni, hogy mik a topológiailag fontos fehérjék a humán-\textit{Salmonella} hálózatban és az ezt felépítő két alhálózatban.
+    \DIFadd{A következő bekezdés legyel bele olvasztva az össze foglalás első bekezdésébe amit ide kell átmozgatni!
+		}\DIFaddend Diplomamunkámban egy tisztán topológiai ökológiai mérőszámot, a topológiai fontosságot (TI) alkalmaztam molekuláris hálózatokra. Az index segítségével megpróbáltam felderíteni, hogy mik a topológiailag fontos fehérjék a humán-\textit{Salmonella} hálózatban és az ezt felépítő két alhálózatban.
 
-    Ide a következő dolgokat kell átírni az összefoglalásból:
-    \begin{itemize}
-        \item Az öszefoglalás első bekezdése az előző bekezdéssel össze olvasztva
-        \item Az összefoglalás harmadik bekezdése kibővítve a mindhárom esetet ( TI1 TI2 TI3) azzal hogy mire jó és miért. az utolsó fjeztből is átemelve az ide vonatkozó részeket
-        \item Az össze foglalás utolsó bekezdése, az adatokra kihangsúlyozva és arra hogy milyen következtetéseket vontál le a TI segítségével bőven kifejteve több bekezdésben
-        \item Az összefoglalás második bekezdése, kiegészítve a Főnök javításaival és azzal hogy te használtad először molekuláris hálózatokban, és gazda-patogén hálókban és mind kettőre használható, itt más indoklás nem kell ez a záró rész kb, innentől csak kitekintés van
-        \item
+    \DIFaddbegin \DIFadd{Ide a következő dolgokat kell átírni az összefoglalásból:
+    }\begin{itemize}
+        \item \DIFadd{Az öszefoglalás első bekezdése az előző bekezdéssel össze olvasztva
+        }\item \DIFadd{Az összefoglalás harmadik bekezdése kibővítve a mindhárom esetet ( TI1 TI2 TI3) azzal hogy mire jó és miért. az utolsó fjeztből is átemelve az ide vonatkozó részeket
+        }\item \DIFadd{Az össze foglalás utolsó bekezdése, az adatokra kihangsúlyozva és arra hogy milyen következtetéseket vontál le a TI segítségével bőven kifejteve több bekezdésben
+        }\item \DIFadd{Az összefoglalás második bekezdése, kiegészítve a Főnök javításaival és azzal hogy te használtad először molekuláris hálózatokban, és gazda-patogén hálókban és mind kettőre használható, itt más indoklás nem kell ez a záró rész kb, innentől csak kitekintés van
+        }\item
     \end{itemize}
 
-    A következő bekezdést arra módosítsd, hogy milyen adat adat szettek állnak rendelkezésre a laborban amivel a slamonetet össze lehetne hozni, pl rho, és ne legyen benne negatív jelző a szakdolgozatról, pl \"csupán\", ez álltalánosan is igaz.
-		Szakdolgozatomban humán oldalról csupán a \textit{Salmonella} autofágiára gyakorolt hatását vizsgáltam. A \textit{Salmonella} azonban befolyásolja még a sejtvázrendszert is például a Rho útvonalon keresztül \cite{salmonella_and_host_cell_nature}  \cite{salmonella_autophagy_nature_old}. Mivel a \textit{Signalink} tartalmazza a Rho útvonalat is, így egy ilyen hálózatra is fel lehetne írni topológiai sorrendet .
+    \DIFadd{A következő bekezdést arra módosítsd, hogy milyen adat adat szettek állnak rendelkezésre a laborban amivel a slamonetet össze lehetne hozni, pl rho, és ne legyen benne negatív jelző a szakdolgozatról, pl }\"csupán\"\DIFadd{, ez álltalánosan is igaz.
+		}\DIFaddend Szakdolgozatomban humán oldalról csupán a \textit{Salmonella} autofágiára gyakorolt hatását vizsgáltam. A \textit{Salmonella} azonban befolyásolja még a sejtvázrendszert is például a Rho útvonalon keresztül \cite{salmonella_and_host_cell_nature}  \cite{salmonella_autophagy_nature_old}. Mivel a \textit{Signalink} tartalmazza a Rho útvonalat is, így egy ilyen hálózatra is fel lehetne írni topológiai sorrendet .
 
 		Utóbbiak mellet számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor abba jó minőségű fehérje fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban \cite{innatedb}. Az adatbázis felhasználásával és a TI alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer és \textit{Salmonella} kölcsönhatásakor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.
 
@@ -851,16 +878,16 @@
 
 \section{Összefoglalás}
 
-    Ide a következő bekezdések kellenek röviden:
-    \begin{itemize}
-        \item az általad tervezett adat szerkezet és adat integrációs python rendszer, röviden
-        \item az általad írt TI számoló szkript
-        \item te alakamaztad előszöt ti-t molekuláris hálózatokon, ezt ez előzővel vagy a következővel egyben
-        \item a ti alkalmas molekuláris és hoszt-patogén hálózatok viszgálatára
-        \item a te adatszerkezeted python szripjeid segítségévels zámot ti alapján levon követekeztések alapján a szalmonella és béljestek közti kapcsolatokat viszgáló kísétletek tervezése folyamatban van
-    \end{itemize}
+    \DIFaddbegin \DIFadd{Ide a következő bekezdések kellenek röviden:
+    }\begin{itemize}
+        \item \DIFadd{az általad tervezett adat szerkezet és adat integrációs python rendszer, röviden
+        }\item \DIFadd{az általad írt TI számoló szkript
+        }\item \DIFadd{te alakamaztad előszöt ti-t molekuláris hálózatokon, ezt ez előzővel vagy a következővel egyben
+        }\item \DIFadd{a ti alkalmas molekuláris és hoszt-patogén hálózatok viszgálatára
+        }\item \DIFadd{a te adatszerkezeted python szripjeid segítségévels zámot ti alapján levon követekeztések alapján a szalmonella és béljestek közti kapcsolatokat viszgáló kísétletek tervezése folyamatban van
+    }\end{itemize}
 
-		Diplomamunkám során egy humán-\textit{Salmonella} gazda-patogén hálózatot készítettem és elemeztem. A hálózat előállítása során olyan eszközöket fejlesztettem melyek felhasználhatók hasonló hálózatok építésére és elemzésére. Ezek eszközök segítségével könnyen integrálni lehet a bioinformatikában és rendszer-biológiában használt hálózati formátumokat. A csoportunk által alkalmazott MiTab SQL formátum megkönnyíti a molekuláris hálózati adatok tárolását, átalakítását és elemzését. Az általam írt \textit{PsimiSQL} \textit{Python} osztály megkönnyíti a különböző adatformátumok MiTab SQL-be alakítását. Az általam készített \textit{TopologyAnalyser} \textit{Python} osztály képes a  bármilyen hálózat formátumból könnyen előállítható éllista fájlt topológiai elemzésére.  A csoport által felépített protokoll egy hatékony módszert biztosít molekuláris hálózatok létrehozására. A protokoll jól használhatónak bizonyult \textit{Signalink} és humán-\textit{Salmonella} adatbázis készítésénél.
+		\DIFaddend Diplomamunkám során egy humán-\textit{Salmonella} gazda-patogén hálózatot készítettem és elemeztem. A hálózat előállítása során olyan eszközöket fejlesztettem melyek felhasználhatók hasonló hálózatok építésére és elemzésére. Ezek eszközök segítségével könnyen integrálni lehet a bioinformatikában és rendszer-biológiában használt hálózati formátumokat. A csoportunk által alkalmazott MiTab SQL formátum megkönnyíti a molekuláris hálózati adatok tárolását, átalakítását és elemzését. Az általam írt \textit{PsimiSQL} \textit{Python} osztály megkönnyíti a különböző adatformátumok MiTab SQL-be alakítását. Az általam készített \textit{TopologyAnalyser} \textit{Python} osztály képes a  bármilyen hálózat formátumból könnyen előállítható éllista fájlt topológiai elemzésére.  A csoport által felépített protokoll egy hatékony módszert biztosít molekuláris hálózatok létrehozására. A protokoll jól használhatónak bizonyult \textit{Signalink} és humán-\textit{Salmonella} adatbázis készítésénél.
 
 		A TI bár ökológiai eredetű, de képes volt gazda-patogén molekuláris hálózaton a központi molekulák kijelölésére. Az ilyen topológiai mérőszámokat többnyire nem használják molekuláris hálók vizsgálatára. Diplomamunkám rávilágít arra is, hogy biológiailag releváns eredményeket lehet kapni az ilyen mérőszámok molekuláris hálózatokra alkalmazásával
 
@@ -874,8 +901,10 @@
 
 
 \section{Summary}
+\DIFaddbegin 
 
-    Ezt is átírni az új összefoglalás alapján
+    \DIFadd{Ezt is átírni az új összefoglalás alapján
+}\DIFaddend 
 
 		In my thesis work I built and analyzed a human-\textit{Salmonella} host-pathogen network. While constructing the network I created tools that can be used for building and analyzing similar networks. This tools can be used to integrate data formats used in bioinformatics and systems-biology. Our group's MiTab SQLite format makes it easier to  store, transform and analyze molecular network data.
 		I built the \textit{PsimiSQL Python class} that can be used to convert several data formats to MiTab SQL easily. I also built another \textit{Python class} \textit{TopologyAnalyser} that can analyze edge-list files. Edge-list files can be easily obtained from any network. Our research group created a powerful protocol for constructing molecular networks. The protocol proved to be well usable for the establishment of the Signalink and the human-\textit{Salmonella} database.
