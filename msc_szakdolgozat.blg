@@ -1,48 +1,61 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: msc_szakdolgozat.aux
-The style file: apalike.bst
-Database file #1: msc_szakdolgozat.bib
-Warning--empty note in salmonet
-You've used 33 entries,
-            1935 wiz_defined-function locations,
-            664 strings with 11693 characters,
-and the built_in function-call counts, 17741 in all, are:
-= -- 1580
-> -- 1339
-< -- 7
-+ -- 501
-- -- 498
-* -- 1786
-:= -- 3232
-add.period$ -- 98
-call.type$ -- 33
-change.case$ -- 412
-chr.to.int$ -- 32
-cite$ -- 34
-duplicate$ -- 441
-empty$ -- 873
-format.name$ -- 535
-if$ -- 3227
-int.to.chr$ -- 2
-int.to.str$ -- 0
-missing$ -- 31
-newline$ -- 167
-num.names$ -- 99
-pop$ -- 359
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: msc_szakdolgozat-blx.bib
+Database file #2: msc_szakdolgozat.bib
+Biblatex version: 2.8
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 34 entries,
+            6047 wiz_defined-function locations,
+            1329 strings with 16570 characters,
+and the built_in function-call counts, 134536 in all, are:
+= -- 4312
+> -- 4884
+< -- 891
++ -- 1814
+- -- 2167
+* -- 14527
+:= -- 8840
+add.period$ -- 0
+call.type$ -- 34
+change.case$ -- 384
+chr.to.int$ -- 54
+cite$ -- 66
+duplicate$ -- 15895
+empty$ -- 13509
+format.name$ -- 4350
+if$ -- 28543
+int.to.chr$ -- 0
+int.to.str$ -- 71
+missing$ -- 0
+newline$ -- 1766
+num.names$ -- 1394
+pop$ -- 11494
 preamble$ -- 1
-purify$ -- 414
+purify$ -- 651
 quote$ -- 0
-skip$ -- 327
+skip$ -- 6887
 stack$ -- 0
-substring$ -- 961
-swap$ -- 29
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 194
-warning$ -- 1
-while$ -- 109
+substring$ -- 1557
+swap$ -- 5677
+text.length$ -- 1074
+text.prefix$ -- 34
+top$ -- 1
+type$ -- 1280
+warning$ -- 0
+while$ -- 648
 width$ -- 0
-write$ -- 419
-(There was 1 warning)
+write$ -- 1731

@@ -8,11 +8,25 @@
 
 %includes
 \usepackage{color}
-\usepackage{cite}
+
+
+% magyar references
+\usepackage[magyar]{babel}
+\def\magyarOptions{hyphenation=huhyphn}
+ 
+\usepackage[style=magyar,babel=magyar,backend=bibtex]{biblatex}
+\def\magyarOptions{hyphenation=huhyphn}
+
+
+\bibliography{msc_szakdolgozat}
+
+
+%\usepackage{cite}
 
 % magyar nyelv
 \usepackage[magyar]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{t1enc}
 
 \usepackage{fixltx2e}
 \usepackage{hyperref}
@@ -60,6 +74,9 @@
 \usepackage{array}
 \usepackage{calc}
 
+% For including the title page
+\usepackage{pdfpages}
+
 
 % Equation description
 \usepackage{enumitem}
@@ -87,8 +104,11 @@
 		\end{center}	
 	}
 
+
+
+
+
 %Title page 
-%TODO: add more information, logo and stuff as requested
 \title{Bakteriális patogén és ember közötti molekuláris hálózatok vizsgálata}
 \author{Horváth Balázs}
 \date{2015}
@@ -96,8 +116,10 @@
 
 
 \begin{document}
-\maketitle
-\thispagestyle{empty}
+%\maketitle
+%\thispagestyle{empty}
+\includepdf[pages={1}]{cimlap.pdf}
+
 \pagebreak
 
 % tartalomjegyzék
@@ -129,12 +151,13 @@
 		IBD                                             & \begin{tabular}[c]{@{}l@{}}gyulladásos bélbetegség \\ (Inflammatory Bowl Disease)\end{tabular}      & SPI-I és II                 & Salmonella patogenitási sziget 1 és 2                                                                             \\
 		IFR                                             & Institute of Food Research                                                                          & SQL                         & Structured Query Language                                                                                         \\
 		LC3                                             & lighnt chain 3 (ATG8 homológ)                                                                       & T3SS                        & \begin{tabular}[c]{@{}l@{}}Hármas típusó szekréciós rendszer \\ (Type three secretion system)\end{tabular}        \\
-		LC3                                             & \multicolumn{1}{c}{Lighnt Chain 3}                                                                  & TrEMBL                      & \begin{tabular}[c]{@{}l@{}}Translated EMBL Nucleotide \\ Sequence Data Library\end{tabular}                       \\
-		M cell                                          & \multicolumn{1}{c}{Microfold sejt}                                                                  & ULK-1                       & szerin-threonin-protein-kináz ULK1                                                                                \\
-		MAP                                             & \multicolumn{1}{c}{Microtubule Associated Protein}                                                  & VPS34                       & foszfatidilinozitol-3-kináz VPS34                                                                                
-		\end{tabular}
+		LC3                                             & Lighnt Chain 3                                                                                      & TrEMBL                      & \begin{tabular}[c]{@{}l@{}}Translated EMBL Nucleotide \\ Sequence Data Library\end{tabular}                       \\
+		M cell                                          & Microfold sejt                                                                                      & ULK-1                       & szerin-threonin-protein-kináz ULK1                                                                                \\
+		MAP                                             & Microtubule Associated Protein                                                                      & VPS34                       & foszfatidilinozitol-3-kináz VPS34                                                                                
+		\end{tabular}                                                             
 		}
 		\end{table}
+		
 
 		\pagebreak
 
@@ -186,9 +209,9 @@
 		 A T3SS evolúciósan a flagelláris export rendszerrel mutat rokonságot. Jelenléte esszenciális ahhoz, hogy a \textit{Salmonella} képes legyen a fertőzésre és gazda sejtjeinek kolonizálására. A T3SS felelős a baktérium virulencia vagy effektor fehérjéinek átviteléért. Az effektorok az eukarióta sejtbe jutva megváltoztatják annak sejtfunkcióit. Az virulenciafehérjék átalakítják a gazda citoszkeleton architektúráját, membrán anyagáramlását, szignál transzdukcióját és citokin expresszióját, ezzel segítve a baktériumok túlélését és további kolonizációját. \cite{salmonella_and_host_cell_nature}
 		 
 		 \paragraph{A \textit{Salmonella} és az autofágia kapcsolata} \mbox{}\\
-		 Az autofágia egy intracelluláris katabolikus folyamat melynek szerepe van a fehérjeaggregátumok és károsodott sejtorganellumok eltávolításában és a veleszületett immunrendszer működésében. A \textit{xenofágia} az autofágiának azon formája mely során az intracelluláris baktériumok és vírusok szelektív felismerése és lebontása történik. A szelektív felismerésért az autofágia adaptor fehérjéi felelősek. Ilyen receptor fehérje például a p62 (SQSTM1), a NDP52, optineurin (OPTN) és az NBR1. Az előbb felsorolt receptorok a szubsztrátjuk megkötése után kargo adaptorként viselkednek az LC3 (ATG8) számára. \textit{Salmonella fertőzéskor} a sérült SCV-ből kilépett baktériumok sejtfelszíni fehérjéi poliubiquitin borítást kapnak amit a kargo adaptor fehérjék érzékelnek. \textit{S. typhimurium} fertőzéskor a poliubiquitinált baktériumokat NDP52 és a p62 is felismeri. Az így megkötött baktériumok xenofágia útján eltávolítódnak. \cite{salmonella_authopagy_intro}
+		 Az autofágia egy intracelluláris katabolikus folyamat melynek szerepe van a fehérje aggregátumok és károsodott sejtorganellumok eltávolításában és a veleszületett immunrendszer működésében. A \textit{xenofágia} az autofágiának azon formája mely során az intracelluláris baktériumok és vírusok szelektív felismerése és lebontása történik. A szelektív felismerésért az autofágia adaptor fehérjéi felelősek. Ilyen receptor fehérje például a p62 (SQSTM1), a NDP52, optineurin (OPTN) és az NBR1. Az előbb felsorolt receptorok a szubsztrátjuk megkötése után kargo adaptorként viselkednek az LC3 (ATG8) számára. \textit{Salmonella fertőzéskor} a sérült SCV-ből kilépett baktériumok sejtfelszíni fehérjéi poliubiquitin borítást kapnak amit a kargo adaptor fehérjék érzékelnek. \textit{S. typhimurium} fertőzéskor a poliubiquitinált baktériumokat NDP52 és a p62 is felismeri. Az így megkötött baktériumok xenofágia útján eltávolítódnak. \cite{salmonella_authopagy_intro}
 	
-	\subsection{Ökológiai hálózatok elemzésére használt topológiai mérőszámok}
+	\subsection{Ökológiai hálózatok elemzésére használt topológiai indexek}
 	 
 	 \paragraph{Miért van szükség topológiai mérőszámokra?} \mbox{}\\ %linebreak after paragraph title
 	 A konzervrációs biológia az élettudományok azon ága mely a Föld biodiverzitásának megőrzésével foglalkozik. Mivel az összes faj védelme nem megoldható, ezért szükségessé vált olyan fajok kiválogatása melyek kiemelt figyelmet igényelnek konzervációs biológiai szempontból.\cite{new_zeland} Az 1990-es évek előtt a védelemre való kiválasztás fő szempontja a faj ritkasága volt.  A fajok ilyen alapú szelekciója nem veszi figyelembe hogy például az adott taxon kulcsszerepet játszik-e az ökoszisztéma funkciók ellátásában. \cite{jordan_comparison}
@@ -366,7 +389,7 @@
 			Az \textit{SQLite 3} egy nyílt forráskódú, \textit{C} nyelven írt API-val rendelkező, beágyazott relációs adatbázis motor. Az \textit{SQL} sztenderd szintaxisának nagy részét tartalmazza. Sok népszerű programnyelv rendelkezik már beépített \textit{SQLite} támogatással, ilyen például a \textit{Python} is. \cite{sqlite3}			
 			
 				
-			Az adatok ilyen módú tárolása lehetővé teszi azok gyors szűrését, kategorizálását és átalakítását \textit{SQL} parancsok segítségével. Ilyen módon még azelőtt gyorsan információkat nyerhetünk nagy méretű hálózatokról, mielőtt azokat olyan jóval lassabb működésű hálózatkezelő programokkal elemezni kezdenénk mint például a \textit{Cytoscape}.
+			Az adatok ilyen módú tárolása lehetővé teszi azok gyors szűrését, kategorizálását és átalakítását \textit{SQL} parancsok segítségével. Ilyen módon még azelőtt gyorsan információkat nyerhetünk nagy méretű hálózatokról, mielőtt azokat olyan jóval lassabb működésű hálózat kezelő programokkal elemezni kezdenénk mint például a \textit{Cytoscape}.
 
 			 	 \begin{figure}[H]
 			 		 \includegraphics[scale=0.7]{img/Signalink_Layer0.pdf}
@@ -853,8 +876,11 @@
 \pagebreak
 
 
-\bibliography{msc_szakdolgozat}{}
-\bibliographystyle{apalike}
+%\bibliography{msc_szakdolgozat}{}
+%\bibliographystyle{apalike}
+%\nocite{*}
+
+\printbibliography
 
 \end{document}
 

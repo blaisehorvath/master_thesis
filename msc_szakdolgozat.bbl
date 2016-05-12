@@ -1,223 +1,1793 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[Backhed et~al., 2005a]{scfa_and_vitamine}
-Backhed, F., Ley, R.~E., Sonnenburg, J.~L., Peterson, D.~A., and Gordon, J.~I.
-  (2005a).
-\newblock {{H}ost-bacterial mutualism in the human intestine}.
-\newblock {\em Science}, 307(5717):1915--1920.
+\entry{scfa_and_vitamine}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Backhed}{B.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ley}{L.}%
+     {R.~E.}{R.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sonnenburg}{S.}%
+     {J.~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peterson}{P.}%
+     {D.~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gordon}{G.}%
+     {J.~I.}{J.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BF+1}
+  \strng{fullhash}{BFLRESJLPDAGJI1}
+  \field{labelyear}{2005}
+  \field{extrayear}{1}
+  \field{sortinit}{B}
+  \field{number}{5717}
+  \field{pages}{1915\bibrangedash 1920}
+  \field{title}{{{H}ost-bacterial mutualism in the human intestine}}
+  \field{volume}{307}
+  \field{journaltitle}{Science}
+  \field{year}{2005}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Backhed et~al., 2005b]{host_bacterial_mutualism}
-Backhed, F., Ley, R.~E., Sonnenburg, J.~L., Peterson, D.~A., and Gordon, J.~I.
-  (2005b).
-\newblock {{H}ost-bacterial mutualism in the human intestine}.
-\newblock {\em Science}, 307(5717):1915--1920.
+\entry{host_bacterial_mutualism}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Backhed}{B.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ley}{L.}%
+     {R.~E.}{R.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sonnenburg}{S.}%
+     {J.~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peterson}{P.}%
+     {D.~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gordon}{G.}%
+     {J.~I.}{J.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BF+1}
+  \strng{fullhash}{BFLRESJLPDAGJI1}
+  \field{labelyear}{2005}
+  \field{extrayear}{2}
+  \field{sortinit}{B}
+  \field{number}{5717}
+  \field{pages}{1915\bibrangedash 1920}
+  \field{title}{{{H}ost-bacterial mutualism in the human intestine}}
+  \field{volume}{307}
+  \field{journaltitle}{Science}
+  \field{year}{2005}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Baranyi et~al., 2011]{top_indexes}
-Baranyi, G., Saura, S., Podani, J., and Jordán, F. (2011).
-\newblock Contribution of habitat patches to network connectivity: Redundancy
-  and uniqueuness of topological indices.
-\newblock {\em Ecological Indicators}.
+\entry{top_indexes}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Baranyi}{B.}%
+     {Gabriella}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Saura}{S.}%
+     {Santiago}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Podani}{P.}%
+     {János}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jordán}{J.}%
+     {Ferenc}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BG+1}
+  \strng{fullhash}{BGSSPJJF1}
+  \field{labelyear}{2011}
+  \field{sortinit}{B}
+  \field{title}{Contribution of habitat patches to network connectivity:
+  Redundancy and uniqueuness of topological indices}
+  \field{journaltitle}{Ecological Indicators}
+  \field{year}{2011}
+\endentry
 
-\bibitem[Bordbar et~al., 2010]{discussion_alveolar_macrophage}
-Bordbar, A., Lewis, N.~E., Schellenberger, J., Palsson, B.~., and Jamshidi, N.
-  (2010).
-\newblock {{I}nsight into human alveolar macrophage and {M}. tuberculosis
-  interactions via metabolic reconstructions}.
-\newblock {\em Mol. Syst. Biol.}, 6:422.
+\entry{discussion_alveolar_macrophage}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Bordbar}{B.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lewis}{L.}%
+     {N.~E.}{N.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schellenberger}{S.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Palsson}{P.}%
+     {B.~?.}{B.~.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jamshidi}{J.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BA+1}
+  \strng{fullhash}{BALNESJPBJN1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{pages}{422}
+  \field{title}{{{I}nsight into human alveolar macrophage and {M}. tuberculosis
+  interactions via metabolic reconstructions}}
+  \field{volume}{6}
+  \field{journaltitle}{Mol. Syst. Biol.}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Brown et~al., 2003]{buthyrate_immune}
-Brown, A.~J., Goldsworthy, S.~M., Barnes, A.~A., Eilert, M.~M., Tcheang, L.,
-  Daniels, D., Muir, A.~I., Wigglesworth, M.~J., Kinghorn, I., Fraser, N.~J.,
-  Pike, N.~B., Strum, J.~C., Steplewski, K.~M., Murdock, P.~R., Holder, J.~C.,
-  Marshall, F.~H., Szekeres, P.~G., Wilson, S., Ignar, D.~M., Foord, S.~M.,
-  Wise, A., and Dowell, S.~J. (2003).
-\newblock {{T}he {O}rphan {G} protein-coupled receptors {G}{P}{R}41 and
+\entry{buthyrate_immune}{article}{}
+  \name{author}{22}{}{%
+    {{}%
+     {Brown}{B.}%
+     {A.~J.}{A.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goldsworthy}{G.}%
+     {S.~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barnes}{B.}%
+     {A.~A.}{A.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Eilert}{E.}%
+     {M.~M.}{M.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tcheang}{T.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Daniels}{D.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muir}{M.}%
+     {A.~I.}{A.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wigglesworth}{W.}%
+     {M.~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kinghorn}{K.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fraser}{F.}%
+     {N.~J.}{N.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pike}{P.}%
+     {N.~B.}{N.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strum}{S.}%
+     {J.~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steplewski}{S.}%
+     {K.~M.}{K.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Murdock}{M.}%
+     {P.~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holder}{H.}%
+     {J.~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marshall}{M.}%
+     {F.~H.}{F.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Szekeres}{S.}%
+     {P.~G.}{P.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilson}{W.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ignar}{I.}%
+     {D.~M.}{D.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foord}{F.}%
+     {S.~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wise}{W.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dowell}{D.}%
+     {S.~J.}{S.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BAJ+1}
+  \strng{fullhash}{BAJGSMBAAEMMTLDDMAIWMJKIFNJPNBSJCSKMMPRHJCMFHSPGWSIDMFSMWADSJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{B}
+  \field{number}{13}
+  \field{pages}{11312\bibrangedash 11319}
+  \field{title}{{{T}he {O}rphan {G} protein-coupled receptors {G}{P}{R}41 and
   {G}{P}{R}43 are activated by propionate and other short chain carboxylic
-  acids}.
-\newblock {\em J. Biol. Chem.}, 278(13):11312--11319.
+  acids}}
+  \field{volume}{278}
+  \field{journaltitle}{J. Biol. Chem.}
+  \field{year}{2003}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Date and Sato, 2015]{organoid}
-Date, S. and Sato, T. (2015).
-\newblock {{M}ini-gut organoids: reconstitution of the stem cell niche}.
-\newblock {\em Annu. Rev. Cell Dev. Biol.}, 31:269--289.
+\entry{organoid}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Date}{D.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sato}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DSST1}
+  \strng{fullhash}{DSST1}
+  \field{labelyear}{2015}
+  \field{sortinit}{D}
+  \field{pages}{269\bibrangedash 289}
+  \field{title}{{{M}ini-gut organoids: reconstitution of the stem cell niche}}
+  \field{volume}{31}
+  \field{journaltitle}{Annu. Rev. Cell Dev. Biol.}
+  \field{year}{2015}
+\endentry
 
-\bibitem[Freeman et~al., 2003]{sifB}
-Freeman, J.~A., Ohl, M.~E., and Miller, S.~I. (2003).
-\newblock {{T}he {S}almonella enterica serovar typhimurium translocated
+\entry{sifB}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Freeman}{F.}%
+     {J.~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ohl}{O.}%
+     {M.~E.}{M.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {S.~I.}{S.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FJAOMEMSI1}
+  \strng{fullhash}{FJAOMEMSI1}
+  \field{labelyear}{2003}
+  \field{sortinit}{F}
+  \field{number}{1}
+  \field{pages}{418\bibrangedash 427}
+  \field{title}{{{T}he {S}almonella enterica serovar typhimurium translocated
   effectors {S}se{J} and {S}if{B} are targeted to the {S}almonella-containing
-  vacuole}.
-\newblock {\em Infect. Immun.}, 71(1):418--427.
+  vacuole}}
+  \field{volume}{71}
+  \field{journaltitle}{Infect. Immun.}
+  \field{year}{2003}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Glick et~al., 2010]{autophagy_proteins}
-Glick, D., Barth, S., and Macleod, K.~F. (2010).
-\newblock {{A}utophagy: cellular and molecular mechanisms}.
-\newblock {\em J. Pathol.}, 221(1):3--12.
+\entry{autophagy_proteins}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Glick}{G.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barth}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Macleod}{M.}%
+     {K.~F.}{K.~F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GDBSMKF1}
+  \strng{fullhash}{GDBSMKF1}
+  \field{labelyear}{2010}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{3\bibrangedash 12}
+  \field{title}{{{A}utophagy: cellular and molecular mechanisms}}
+  \field{volume}{221}
+  \field{journaltitle}{J. Pathol.}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Haraga et~al., 2008]{salmonella_and_host_cell_nature}
-Haraga, A., Ohlson, M.~B., and Miller, S.~I. (2008).
-\newblock {{S}almonellae interplay with host cells}.
-\newblock {\em Nat. Rev. Microbiol.}, 6(1):53--66.
+\entry{salmonella_and_host_cell_nature}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Haraga}{H.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ohlson}{O.}%
+     {M.~B.}{M.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {S.~I.}{S.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HAOMBMSI1}
+  \strng{fullhash}{HAOMBMSI1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{53\bibrangedash 66}
+  \field{title}{{{S}almonellae interplay with host cells}}
+  \field{volume}{6}
+  \field{journaltitle}{Nat. Rev. Microbiol.}
+  \field{year}{2008}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Horváth, 2015]{github}
-Horváth, B. (2015).
-\newblock {Host Pathogen Networks Repository}.
-\newblock \url{https://github.com/blaisehorvath/host-pathogen-networks}.
+\entry{github}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Horváth}{H.}%
+     {Balázs}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HB1}
+  \strng{fullhash}{HB1}
+  \field{labelyear}{2015}
+  \field{sortinit}{H}
+  \field{howpublished}{\url{https://github.com/blaisehorvath/host-pathogen-networks}}
+  \field{title}{{Host Pathogen Networks Repository}}
+  \field{year}{2015}
+\endentry
 
-\bibitem[InnateDB, 2015]{innatedb}
-InnateDB (2015).
-\newblock {InnateDB}.
-\newblock \url{http://innatedb.com/redirect.do?go=aboutIDB}.
+\entry{innatedb}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {InnateDB}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
+  \field{labelyear}{2015}
+  \field{sortinit}{I}
+  \field{howpublished}{\url{http://innatedb.com/redirect.do?go=aboutIDB}}
+  \field{title}{{InnateDB}}
+  \field{year}{2015}
+\endentry
 
-\bibitem[Jo et~al., 2013]{salmonella_authopagy_intro}
-Jo, E.~K., Yuk, J.~M., Shin, D.~M., and Sasakawa, C. (2013).
-\newblock {{R}oles of autophagy in elimination of intracellular bacterial
-  pathogens}.
-\newblock {\em Front Immunol}, 4:97.
+\entry{salmonella_authopagy_intro}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Jo}{J.}%
+     {E.~K.}{E.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yuk}{Y.}%
+     {J.~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shin}{S.}%
+     {D.~M.}{D.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sasakawa}{S.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JEK+1}
+  \strng{fullhash}{JEKYJMSDMSC1}
+  \field{labelyear}{2013}
+  \field{sortinit}{J}
+  \field{pages}{97}
+  \field{title}{{{R}oles of autophagy in elimination of intracellular bacterial
+  pathogens}}
+  \field{volume}{4}
+  \field{journaltitle}{Front Immunol}
+  \field{year}{2013}
+\endentry
 
-\bibitem[Jordán et~al., 2007]{jordan_comparison}
-Jordán, F., Benedek, Z., and Podani, J. (2007).
-\newblock Quantifying positional importance in food webs: A comparison of
-  centrality indices.
-\newblock {\em Ecological modelling}.
+\entry{jordan_comparison}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Jordán}{J.}%
+     {Ferenc}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Benedek}{B.}%
+     {Zsófia}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Podani}{P.}%
+     {János}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JFBZPJ1}
+  \strng{fullhash}{JFBZPJ1}
+  \field{labelyear}{2007}
+  \field{sortinit}{J}
+  \field{title}{Quantifying positional importance in food webs: A comparison of
+  centrality indices}
+  \field{journaltitle}{Ecological modelling}
+  \field{year}{2007}
+\endentry
 
-\bibitem[Jordán et~al., 2003]{ti}
-Jordán, F., Liu, W.-C., and van Veen, F. (2003).
-\newblock Quantifying the importance of species and their interactions in a
-  host-parasitoid community.
-\newblock {\em Community ecology}.
+\entry{ti}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Jordán}{J.}%
+     {Ferenc}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liu}{L.}%
+     {W.-C.}{W.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Veen}{V.}%
+     {F.J.F.}{F.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \strng{namehash}{JFLWCVFv1}
+  \strng{fullhash}{JFLWCVFv1}
+  \field{labelyear}{2003}
+  \field{sortinit}{J}
+  \field{title}{Quantifying the importance of species and their interactions in
+  a host-parasitoid community}
+  \field{journaltitle}{Community ecology}
+  \field{year}{2003}
+\endentry
 
-\bibitem[Karlsson et~al., 2011]{gut_microbiome}
-Karlsson, F.~H., Nookaew, I., Petranovic, D., and Nielsen, J. (2011).
-\newblock {{P}rospects for systems biology and modeling of the gut microbiome}.
-\newblock {\em Trends Biotechnol.}, 29(6):251--258.
+\entry{gut_microbiome}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Karlsson}{K.}%
+     {F.~H.}{F.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nookaew}{N.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Petranovic}{P.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nielsen}{N.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KFH+1}
+  \strng{fullhash}{KFHNIPDNJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{number}{6}
+  \field{pages}{251\bibrangedash 258}
+  \field{title}{{{P}rospects for systems biology and modeling of the gut
+  microbiome}}
+  \field{volume}{29}
+  \field{journaltitle}{Trends Biotechnol.}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Krishnadev and Srinivasan, 2011]{Krishnadev}
-Krishnadev, O. and Srinivasan, N. (2011).
-\newblock {{P}rediction of protein-protein interactions between human host and
-  a pathogen and its application to three pathogenic bacteria}.
-\newblock {\em Int. J. Biol. Macromol.}, 48(4):613--619.
+\entry{Krishnadev}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Krishnadev}{K.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Srinivasan}{S.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KOSN1}
+  \strng{fullhash}{KOSN1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{number}{4}
+  \field{pages}{613\bibrangedash 619}
+  \field{title}{{{P}rediction of protein-protein interactions between human
+  host and a pathogen and its application to three pathogenic bacteria}}
+  \field{volume}{48}
+  \field{journaltitle}{Int. J. Biol. Macromol.}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Kshirsagar et~al., 2012]{Kshirsagar}
-Kshirsagar, M., Carbonell, J., and Klein-Seetharaman, J. (2012).
-\newblock {{T}echniques to cope with missing data in host-pathogen protein
-  interaction prediction}.
-\newblock {\em Bioinformatics}, 28(18):i466--i472.
+\entry{Kshirsagar}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kshirsagar}{K.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carbonell}{C.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein-Seetharaman}{K.-S.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KMCJKSJ1}
+  \strng{fullhash}{KMCJKSJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{K}
+  \field{number}{18}
+  \field{pages}{i466\bibrangedash i472}
+  \field{title}{{{T}echniques to cope with missing data in host-pathogen
+  protein interaction prediction}}
+  \field{volume}{28}
+  \field{journaltitle}{Bioinformatics}
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Lathrop et~al., 2015]{phoP}
-Lathrop, S.~K., Binder, K.~A., Starr, T., Cooper, K.~G., Chong, A., Carmody,
-  A.~B., and Steele-Mortimer, O. (2015).
-\newblock {{R}eplication of {S}almonella enterica {S}erovar {T}yphimurium in
-  {H}uman {M}onocyte-{D}erived {M}acrophages}.
-\newblock {\em Infect. Immun.}, 83(7):2661--2671.
+\entry{phoP}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Lathrop}{L.}%
+     {S.~K.}{S.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Binder}{B.}%
+     {K.~A.}{K.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Starr}{S.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cooper}{C.}%
+     {K.~G.}{K.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chong}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carmody}{C.}%
+     {A.~B.}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steele-Mortimer}{S.-M.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LSK+1}
+  \strng{fullhash}{LSKBKASTCKGCACABSMO1}
+  \field{labelyear}{2015}
+  \field{sortinit}{L}
+  \field{number}{7}
+  \field{pages}{2661\bibrangedash 2671}
+  \field{title}{{{R}eplication of {S}almonella enterica {S}erovar {T}yphimurium
+  in {H}uman {M}onocyte-{D}erived {M}acrophages}}
+  \field{volume}{83}
+  \field{journaltitle}{Infect. Immun.}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Métris et~al., 2015]{salmonet}
-Métris, A., Sudhakar, P., Fazekas, D., Demeter, A., Ari, E., Branchu, P.,
-  Kingsley, R., Baranyi, J., and Korcsmáros, T. (2015).
-\newblock Salmonet, an integrated network of ten salmonella enterica strains
-  reveals common and distinct pathways to host adaptation.
+\entry{salmonet}{unpublished}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Métris}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sudhakar}{S.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fazekas}{F.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Demeter}{D.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ari}{A.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Branchu}{B.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kingsley}{K.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baranyi}{B.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Korcsmáros}{K.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MA+1}
+  \strng{fullhash}{MASPFDDAAEBPKRBJKT1}
+  \field{labelyear}{2015}
+  \field{sortinit}{M}
+  \field{title}{SalmoNet, an integrated network of ten Salmonella enterica
+  strains reveals common and distinct pathways to host adaptation}
+  \field{year}{2015}
+\endentry
 
-\bibitem[Newman, 2010]{newman_networks}
-Newman, M. (2010).
-\newblock {\em Networks: An Introduction}.
-\newblock Oxford University Press.
+\entry{newman_networks}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Newman}{N.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{NM1}
+  \strng{fullhash}{NM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{N}
+  \field{isbn}{0199206651}
+  \field{title}{Networks: An Introduction}
+  \verb{url}
+  \verb http://www.amazon.com/Networks-An-Introduction-Mark-Newman/dp/019920665
+  \verb 1%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode
+  \verb %3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0199206651
+  \endverb
+  \field{year}{2010}
+\endentry
 
-\bibitem[Owens, 2006]{sqlite3}
-Owens, M. (2006).
-\newblock {\em The Definitive Guide to SQLite}.
-\newblock Apress.
+\entry{sqlite3}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Owens}{O.}%
+     {Mike}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Apress}%
+  }
+  \strng{namehash}{OM1}
+  \strng{fullhash}{OM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{O}
+  \field{isbn}{1590596730}
+  \field{title}{The Definitive Guide to SQLite}
+  \verb{url}
+  \verb http://www.amazon.com/Definitive-Guide-SQLite-Mike-Owens/dp/1590596730%
+  \verb 3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3
+  \verb Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1590596730
+  \endverb
+  \field{year}{2006}
+\endentry
 
-\bibitem[Payton et~al., 2002]{new_zeland}
-Payton, I.~J., Fenner, M., and Lee, W.~G. (2002).
-\newblock Keystone species: the concept and its relevance for conservation
-  management in {N}ew {Z}ealand.
-\newblock {\em Science for canservation}.
+\entry{new_zeland}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Payton}{P.}%
+     {Ian~J.}{I.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fenner}{F.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lee}{L.}%
+     {William~G.}{W.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PIJFMLWG1}
+  \strng{fullhash}{PIJFMLWG1}
+  \field{labelyear}{2002}
+  \field{sortinit}{P}
+  \field{title}{Keystone species: the concept and its relevance for
+  conservation management in {N}ew {Z}ealand}
+  \field{journaltitle}{Science for canservation}
+  \field{year}{2002}
+\endentry
 
-\bibitem[Peters et~al., 2010]{trxA}
-Peters, S.~E., Paterson, G.~K., Bandularatne, E.~S., Northen, H.~C., Pleasance,
-  S., Willers, C., Wang, J., Foote, A.~K., Constantino-Casas, F., Scase, T.~J.,
-  Blacklaws, B.~A., Bryant, C.~E., Mastroeni, P., Charles, I.~G., and Maskell,
-  D.~J. (2010).
-\newblock {{S}almonella enterica serovar typhimurium trx{A} mutants are
+\entry{trxA}{article}{}
+  \name{author}{15}{}{%
+    {{}%
+     {Peters}{P.}%
+     {S.~E.}{S.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paterson}{P.}%
+     {G.~K.}{G.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bandularatne}{B.}%
+     {E.~S.}{E.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Northen}{N.}%
+     {H.~C.}{H.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pleasance}{P.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Willers}{W.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foote}{F.}%
+     {A.~K.}{A.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Constantino-Casas}{C.-C.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scase}{S.}%
+     {T.~J.}{T.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blacklaws}{B.}%
+     {B.~A.}{B.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bryant}{B.}%
+     {C.~E.}{C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mastroeni}{M.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Charles}{C.}%
+     {I.~G.}{I.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maskell}{M.}%
+     {D.~J.}{D.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PSE+1}
+  \strng{fullhash}{PSEPGKBESNHCPSWCWJFAKCCFSTJBBABCEMPCIGMDJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{P}
+  \field{number}{1}
+  \field{pages}{326\bibrangedash 336}
+  \field{title}{{{S}almonella enterica serovar typhimurium trx{A} mutants are
   protective against virulent challenge and induce less inflammation than the
-  live-attenuated vaccine strain {S}{L}3261}.
-\newblock {\em Infect. Immun.}, 78(1):326--336.
+  live-attenuated vaccine strain {S}{L}3261}}
+  \field{volume}{78}
+  \field{journaltitle}{Infect. Immun.}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Petrone et~al., 2014]{hilD}
-Petrone, B.~L., Stringer, A.~M., and Wade, J.~T. (2014).
-\newblock {{I}dentification of {H}il{D}-regulated genes in {S}almonella
-  enterica serovar {T}yphimurium}.
-\newblock {\em J. Bacteriol.}, 196(5):1094--1101.
+\entry{hilD}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Petrone}{P.}%
+     {B.~L.}{B.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stringer}{S.}%
+     {A.~M.}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wade}{W.}%
+     {J.~T.}{J.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PBLSAMWJT1}
+  \strng{fullhash}{PBLSAMWJT1}
+  \field{labelyear}{2014}
+  \field{sortinit}{P}
+  \field{number}{5}
+  \field{pages}{1094\bibrangedash 1101}
+  \field{title}{{{I}dentification of {H}il{D}-regulated genes in {S}almonella
+  enterica serovar {T}yphimurium}}
+  \field{volume}{196}
+  \field{journaltitle}{J. Bacteriol.}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Pieterse et~al., 2009]{discussion_plant_network}
-Pieterse, C.~M., Leon-Reyes, A., Van~der Ent, S., and Van~Wees, S.~C. (2009).
-\newblock {{N}etworking by small-molecule hormones in plant immunity}.
-\newblock {\em Nat. Chem. Biol.}, 5(5):308--316.
+\entry{discussion_plant_network}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Pieterse}{P.}%
+     {C.~M.}{C.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leon-Reyes}{L.-R.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ent}{E.}%
+     {S.}{S.}%
+     {Van~der}{V.~d.}%
+     {}{}}%
+    {{}%
+     {Van~Wees}{V.~W.}%
+     {S.~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PCM+1}
+  \strng{fullhash}{PCMLRAESVdVWSC1}
+  \field{labelyear}{2009}
+  \field{sortinit}{P}
+  \field{number}{5}
+  \field{pages}{308\bibrangedash 316}
+  \field{title}{{{N}etworking by small-molecule hormones in plant immunity}}
+  \field{volume}{5}
+  \field{journaltitle}{Nat. Chem. Biol.}
+  \field{year}{2009}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Qin et~al., 2010]{meta_omics}
-Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K.~S., Manichanh, C.,
-  Nielsen, T., Pons, N., Levenez, F., Yamada, T., Mende, D.~R., Li, J., Xu, J.,
-  Li, S., Li, D., Cao, J., Wang, B., Liang, H., Zheng, H., Xie, Y., Tap, J.,
-  Lepage, P., Bertalan, M., Batto, J.~M., Hansen, T., Le~Paslier, D.,
-  Linneberg, A., Nielsen, H.~B., Pelletier, E., Renault, P., Sicheritz-Ponten,
-  T., Turner, K., Zhu, H., Yu, C., Li, S., Jian, M., Zhou, Y., Li, Y., Zhang,
-  X., Li, S., Qin, N., Yang, H., Wang, J., Brunak, S., Dore, J., Guarner, F.,
-  Kristiansen, K., Pedersen, O., Parkhill, J., Weissenbach, J., Bork, P.,
-  Ehrlich, S.~D., Wang, J., Antolin, M., Artiguenave, F., Blottiere, H.,
-  Borruel, N., Bruls, T., Casellas, F., Chervaux, C., Cultrone, A., Delorme,
-  C., Denariaz, G., Dervyn, R., Forte, M., Friss, C., van~de Guchte, M.,
-  Guedon, E., Haimet, F., Jamet, A., Juste, C., Kaci, G., Kleerebezem, M.,
-  Knol, J., Kristensen, M., Layec, S., Le~Roux, K., Leclerc, M., Maguin, E.,
-  Minardi, R.~M., Oozeer, R., Rescigno, M., Sanchez, N., Tims, S., Torrejon,
-  T., Varela, E., de~Vos, W., Winogradsky, Y., and Zoetendal, E. (2010).
-\newblock {{A} human gut microbial gene catalogue established by metagenomic
-  sequencing}.
-\newblock {\em Nature}, 464(7285):59--65.
+\entry{meta_omics}{article}{}
+  \name{author}{89}{}{%
+    {{}%
+     {Qin}{Q.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raes}{R.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Arumugam}{A.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burgdorf}{B.}%
+     {K.~S.}{K.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manichanh}{M.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nielsen}{N.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pons}{P.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Levenez}{L.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yamada}{Y.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mende}{M.}%
+     {D.~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Xu}{X.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cao}{C.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liang}{L.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zheng}{Z.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Xie}{X.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tap}{T.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lepage}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bertalan}{B.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Batto}{B.}%
+     {J.~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hansen}{H.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Le~Paslier}{L.~P.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Linneberg}{L.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nielsen}{N.}%
+     {H.~B.}{H.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pelletier}{P.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Renault}{R.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sicheritz-Ponten}{S.-P.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turner}{T.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yu}{Y.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jian}{J.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhou}{Z.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {X.}{X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Qin}{Q.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yang}{Y.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brunak}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dore}{D.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guarner}{G.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kristiansen}{K.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pedersen}{P.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Parkhill}{P.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Weissenbach}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bork}{B.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ehrlich}{E.}%
+     {S.~D.}{S.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Antolin}{A.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Artiguenave}{A.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blottiere}{B.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Borruel}{B.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bruls}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casellas}{C.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chervaux}{C.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cultrone}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Delorme}{D.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Denariaz}{D.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dervyn}{D.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Forte}{F.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Friss}{F.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guchte}{G.}%
+     {M.}{M.}%
+     {van~de}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Guedon}{G.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haimet}{H.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jamet}{J.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Juste}{J.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaci}{K.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleerebezem}{K.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knol}{K.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kristensen}{K.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Layec}{L.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Le~Roux}{L.~R.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leclerc}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maguin}{M.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Minardi}{M.}%
+     {R.~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oozeer}{O.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rescigno}{R.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sanchez}{S.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tims}{T.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Torrejon}{T.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Varela}{V.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vos}{V.}%
+     {W.}{W.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Winogradsky}{W.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zoetendal}{Z.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{QJ+1}
+  \strng{fullhash}{QJLRRJAMBKSMCNTPNLFYTMDRLJXJLSLDCJWBLHZHXYTJLPBMBJMHTLPDLANHBPERPSPTTKZHYCLSJMZYLYZXLSQNYHWJBSDJGFKKPOPJWJBPESDWJAMAFBHBNBTCFCCCADCDGDRFMFCGMvdGEHFJAJCKGKMKJKMLSLRKLMMEMRMORRMSNTSTTVEVWdWYZE1}
+  \field{labelyear}{2010}
+  \field{sortinit}{Q}
+  \field{number}{7285}
+  \field{pages}{59\bibrangedash 65}
+  \field{title}{{{A} human gut microbial gene catalogue established by
+  metagenomic sequencing}}
+  \field{volume}{464}
+  \field{journaltitle}{Nature}
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Quezada et~al., 2009]{ssph2}
-Quezada, C.~M., Hicks, S.~W., Galan, J.~E., and Stebbins, C.~E. (2009).
-\newblock {{A} family of {S}almonella virulence factors functions as a distinct
-  class of autoregulated {E}3 ubiquitin ligases}.
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 106(12):4864--4869.
+\entry{ssph2}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Quezada}{Q.}%
+     {C.~M.}{C.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hicks}{H.}%
+     {S.~W.}{S.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Galan}{G.}%
+     {J.~E.}{J.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stebbins}{S.}%
+     {C.~E.}{C.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{QCM+1}
+  \strng{fullhash}{QCMHSWGJESCE1}
+  \field{labelyear}{2009}
+  \field{sortinit}{Q}
+  \field{number}{12}
+  \field{pages}{4864\bibrangedash 4869}
+  \field{title}{{{A} family of {S}almonella virulence factors functions as a
+  distinct class of autoregulated {E}3 ubiquitin ligases}}
+  \field{volume}{106}
+  \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+  \field{year}{2009}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Ray et~al., 2009]{salmonella_autophagy_nature_old}
-Ray, K., Marteyn, B., Sansonetti, P.~J., and Tang, C.~M. (2009).
-\newblock {{L}ife on the inside: the intracellular lifestyle of cytosolic
-  bacteria}.
-\newblock {\em Nat. Rev. Microbiol.}, 7(5):333--340.
+\entry{salmonella_autophagy_nature_old}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Ray}{R.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marteyn}{M.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sansonetti}{S.}%
+     {P.~J.}{P.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tang}{T.}%
+     {C.~M.}{C.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RK+1}
+  \strng{fullhash}{RKMBSPJTCM1}
+  \field{labelyear}{2009}
+  \field{sortinit}{R}
+  \field{number}{5}
+  \field{pages}{333\bibrangedash 340}
+  \field{title}{{{L}ife on the inside: the intracellular lifestyle of cytosolic
+  bacteria}}
+  \field{volume}{7}
+  \field{journaltitle}{Nat. Rev. Microbiol.}
+  \field{year}{2009}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Rytkonen et~al., 2007]{sseL}
-Rytkonen, A., Poh, J., Garmendia, J., Boyle, C., Thompson, A., Liu, M.,
-  Freemont, P., Hinton, J.~C., and Holden, D.~W. (2007).
-\newblock {{S}se{L}, a {S}almonella deubiquitinase required for macrophage
-  killing and virulence}.
-\newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 104(9):3502--3507.
+\entry{sseL}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Rytkonen}{R.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poh}{P.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garmendia}{G.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boyle}{B.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liu}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Freemont}{F.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinton}{H.}%
+     {J.~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holden}{H.}%
+     {D.~W.}{D.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RA+1}
+  \strng{fullhash}{RAPJGJBCTALMFPHJCHDW1}
+  \field{labelyear}{2007}
+  \field{sortinit}{R}
+  \field{number}{9}
+  \field{pages}{3502\bibrangedash 3507}
+  \field{title}{{{S}se{L}, a {S}almonella deubiquitinase required for
+  macrophage killing and virulence}}
+  \field{volume}{104}
+  \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+  \field{year}{2007}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Szalai et~al., 2015]{atg8_like}
-Szalai, P., Hagen, L.~K., S?tre, F., Luhr, M., Sponheim, M., ?verbye, A.,
-  Mills, I.~G., Seglen, P.~O., and Engedal, N. (2015).
-\newblock {{A}utophagic bulk sequestration of cytosolic cargo is independent of
-  {L}{C}3, but requires {G}{A}{B}{A}{R}{A}{P}s}.
-\newblock {\em Exp. Cell Res.}, 333(1):21--38.
+\entry{atg8_like}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Szalai}{S.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hagen}{H.}%
+     {L.~K.}{L.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {S?tre}{S.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Luhr}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sponheim}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {?verbye}{v.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mills}{M.}%
+     {I.~G.}{I.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Seglen}{S.}%
+     {P.~O.}{P.~O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Engedal}{E.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SP+1}
+  \strng{fullhash}{SPHLKSFLMSMvAMIGSPOEN1}
+  \field{labelyear}{2015}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{21\bibrangedash 38}
+  \field{title}{{{A}utophagic bulk sequestration of cytosolic cargo is
+  independent of {L}{C}3, but requires {G}{A}{B}{A}{R}{A}{P}s}}
+  \field{volume}{333}
+  \field{journaltitle}{Exp. Cell Res.}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem[Turei et~al., 2015]{ARN}
-Turei, D., Foldvari-Nagy, L., Fazekas, D., Modos, D., Kubisch, J., Kadlecsik,
-  T., Demeter, A., Lenti, K., Csermely, P., Vellai, T., and Korcsmaros, T.
-  (2015).
-\newblock {{A}utophagy {R}egulatory {N}etwork - a systems-level bioinformatics
-  resource for studying the mechanism and regulation of autophagy}.
-\newblock {\em Autophagy}, 11(1):155--165.
+\entry{ARN}{article}{}
+  \name{author}{11}{}{%
+    {{}%
+     {Turei}{T.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foldvari-Nagy}{F.-N.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fazekas}{F.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Modos}{M.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kubisch}{K.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kadlecsik}{K.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Demeter}{D.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lenti}{L.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Csermely}{C.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vellai}{V.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Korcsmaros}{K.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TD+1}
+  \strng{fullhash}{TDFNLFDMDKJKTDALKCPVTKT1}
+  \field{labelyear}{2015}
+  \field{sortinit}{T}
+  \field{number}{1}
+  \field{pages}{155\bibrangedash 165}
+  \field{title}{{{A}utophagy {R}egulatory {N}etwork - a systems-level
+  bioinformatics resource for studying the mechanism and regulation of
+  autophagy}}
+  \field{volume}{11}
+  \field{journaltitle}{Autophagy}
+  \field{year}{2015}
+\endentry
 
-\bibitem[Uniprot, 2015]{fkbp}
-Uniprot (2015).
-\newblock {FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase}.
-\newblock \url{http://www.uniprot.org/uniprot/P0AEM2}.
+\entry{fkbp}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Uniprot}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U1}
+  \strng{fullhash}{U1}
+  \field{labelyear}{2015}
+  \field{sortinit}{U}
+  \field{howpublished}{\url{http://www.uniprot.org/uniprot/P0AEM2}}
+  \field{title}{{FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase}}
+  \field{year}{2015}
+\endentry
 
-\bibitem[Walthers et~al., 2007]{ssrB}
-Walthers, D., Carroll, R.~K., Navarre, W.~W., Libby, S.~J., Fang, F.~C., and
-  Kenney, L.~J. (2007).
-\newblock {{T}he response regulator {S}sr{B} activates expression of diverse
-  {S}almonella pathogenicity island 2 promoters and counters silencing by the
-  nucleoid-associated protein {H}-{N}{S}}.
-\newblock {\em Mol. Microbiol.}, 65(2):477--493.
+\entry{ssrB}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Walthers}{W.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carroll}{C.}%
+     {R.~K.}{R.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Navarre}{N.}%
+     {W.~W.}{W.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Libby}{L.}%
+     {S.~J.}{S.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fang}{F.}%
+     {F.~C.}{F.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kenney}{K.}%
+     {L.~J.}{L.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WD+1}
+  \strng{fullhash}{WDCRKNWWLSJFFCKLJ1}
+  \field{labelyear}{2007}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{477\bibrangedash 493}
+  \field{title}{{{T}he response regulator {S}sr{B} activates expression of
+  diverse {S}almonella pathogenicity island 2 promoters and counters silencing
+  by the nucleoid-associated protein {H}-{N}{S}}}
+  \field{volume}{65}
+  \field{journaltitle}{Mol. Microbiol.}
+  \field{year}{2007}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\end{thebibliography}
+\lossort
+\endlossort
+
+\endinput
