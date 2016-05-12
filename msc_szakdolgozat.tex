@@ -126,14 +126,6 @@
 
 \section{Rövidítésjegyzék}
 
-		\begin{table}[H]
-		\centering
-		\resizebox{\columnwidth}{!}{	
-		
-		
-		
-		}
-		\end{table}
 		
 		\begin{table}[H]
 		\centering
@@ -308,7 +300,7 @@
  		 \includegraphics[scale=1]{img/graphs.pdf}
  		 \centering
  		 \caption{\textbf{TI$^1$ \textit{(bal)} és TI\textsuperscript{2} \textit{(jobb)} szemléltetése ugyanazon a példagráfon} }
- 		 A pontok átmérője arányos az adott nódusra kiszámolt TI$^1$ \textit{(bal)} és TI$^2$ (\textit{jobb)}). \cite{ti} alapján módosítva.
+ 		 A pontok átmérője arányos az adott nódusra kiszámolt TI$^1$ \textit{(bal)} és TI$^2$ (\textit{jobb)}). (\cite{ti}) alapján módosítva.
  		 \label{fig:peldagraph}
  	 \end{figure}
  	 
@@ -342,12 +334,12 @@
 	\end{blockarray}
 	\]
 	
-	Az ábrázolt mátrixok elrendezése követi a populációdinamikai konvenciókat, tehát például $d_{BF}=\frac{1}{2}$ azt jelenti, hogy $F$ pont a $B$-re $\frac{1}{2}$ erővel hat. Mindkét mátrixra érvényes az, hogy az adott oszlop értékeinek összege egy. Ez a tulajdonság a $d$ érték definíciójából fakad. $d$ azt mutatja meg, hogy adott pont a cél pont kapcsolatainak hányad részét adja. Ezáltal minden pont egy egységnyi hatást kap ami eloszlik a vele kapcsolatban álló pontok között \cite{ti}. Ezt a hatást jól szemlélteti a \ref{fig:peldagraph}. ábra bal oldali része amin látható, hogy az $A$, $B$, $C$ és $D$ pontok kimenő hatása kisebb, mivel célpontjaik sok hatást fogadnak.
+	Az ábrázolt mátrixok elrendezése követi a populációdinamikai konvenciókat, tehát például $d_{BF}=\frac{1}{2}$ azt jelenti, hogy $F$ pont a $B$-re $\frac{1}{2}$ erővel hat. Mindkét mátrixra érvényes az, hogy az adott oszlop értékeinek összege egy. Ez a tulajdonság a $d$ érték definíciójából fakad. $d$ azt mutatja meg, hogy adott pont a cél pont kapcsolatainak hányad részét adja. Ezáltal minden pont egy egységnyi hatást kap ami eloszlik a vele kapcsolatban álló pontok között (\cite{ti}). Ezt a hatást jól szemlélteti a \ref{fig:peldagraph}. ábra bal oldali része amin látható, hogy az $A$, $B$, $C$ és $D$ pontok kimenő hatása kisebb, mivel célpontjaik sok hatást fogadnak.
 	
-	Ugyancsak mindkét mátrixra jellemző, hogy a sorok összege azt mutatja meg, hogy egy adott pont mennyire erős kölcsönható, tehát mekkora TI$^n$ értéke. Például $B$ pont két lépés távolságban összesen $\frac{4}{3}$ erővel hat, ez alapján erősebb kölcsönhatónak mondható mint az $A$ pont a maga $\frac{2}{3}$ értékű összesített kimenő két lépés hosszú hatásaival \cite{ti}.
+	Ugyancsak mindkét mátrixra jellemző, hogy a sorok összege azt mutatja meg, hogy egy adott pont mennyire erős kölcsönható, tehát mekkora TI$^n$ értéke. Például $B$ pont két lépés távolságban összesen $\frac{4}{3}$ erővel hat, ez alapján erősebb kölcsönhatónak mondható mint az $A$ pont a maga $\frac{2}{3}$ értékű összesített kimenő két lépés hosszú hatásaival (\cite{ti}).
 	
 	Az \ref{fig:peldagraph}. ábrán az is jól megfigyelhető, hogy $C$ pont a gyengébb közvetlen kölcsönhatók közé tartozik. Ugyanakkor mivel a $C$-ből eredő két lépéses útvonalak erős elsődleges kölcsönhatókon keresztül érik el végpontjaikat, ezáltal két lépés távolság viszonylatában már $C$ is az erős kölcsönhatók közé tartozik. \\
-	\indent Az $n > 1$ lépésszámú $d^n$ értékeket tartalmazó mátrixokban már egy adott pont indirekt hatása önmagára is kiterjedhet. Páros számú lépések esetén viszont mindenképpen felírhatók olyan útvonalak melyeken a pont eléri önmagát, \cite{ti} vagyis $d^n_{X,X} \neq 0$ ha n $\in$ \{ $2k :  k \in \mathbb{Z}$ \}. Az \ref{fig:peldagraph}. ábrán látszik, hogy például az $F$ pont két lépés távolságban a következű útvonalakon hat önmagára: $F \rightarrow B \rightarrow F$, $F \rightarrow C \rightarrow F$ és  $F \rightarrow D \rightarrow F$.
+	\indent Az $n > 1$ lépésszámú $d^n$ értékeket tartalmazó mátrixokban már egy adott pont indirekt hatása önmagára is kiterjedhet. Páros számú lépések esetén viszont mindenképpen felírhatók olyan útvonalak melyeken a pont eléri önmagát, (\cite{ti}) vagyis $d^n_{X,X} \neq 0$ ha n $\in$ \{ $2k :  k \in \mathbb{Z}$ \}. Az \ref{fig:peldagraph}. ábrán látszik, hogy például az $F$ pont két lépés távolságban a következű útvonalakon hat önmagára: $F \rightarrow B \rightarrow F$, $F \rightarrow C \rightarrow F$ és  $F \rightarrow D \rightarrow F$.
  	 \pagebreak
 
 \section{Célkitűzések}
@@ -381,7 +373,7 @@
 			A diplomamunkám során alkalmazott szkriptek egy részét a \textit{Signalink} 3 (\textit{SLK 3}) szignalizációs adatbázis kézzel gyűjtött és külső adatokat tartalmazó rétegeinek létrehozásakor készítettem.  Mivel a \textit{Signalink} rétegei is több adatbázisból integrálnak fehérje-fehérje interakciókat, így az ott alkalmazott munkafolyamat felhasználható volt a diplomamunkám gazda-patogén hálózatának létrehozásakor is. \textit{(\ref{fig:slk3uml}}. ábra) A humán-\textit{Salmonella} hálózat szerkezete azonban különbözik a \textit{Signalink} 3-étól. A \textit{Signalink} adatbázisának készítésekor kifejezetten szűrtük például az interspecifikus kapcsolatokat. A két hálózat különbségei miatt, a diplomamunkámban az adatokat kezelő algoritmusok bár hasonlítanak a \textit{Signalink}et létrehozókra, de azokkal nem azonosak.
 			
 			\paragraph{Az adatok tárolása} \mbox{}\\
-			Az adatok ideiglenes tárolására, már a \textit{Signalink 3} készítése óta témavezetőm Kadlecsik Tamás javaslatára \textit{SQLite 3} adatbázis fájlokat alkalmazunk. Az \textit{SQLite 3} egy nyílt forráskódú, \textit{C} nyelven írt API-val rendelkező, beágyazott relációs adatbázis motor. Az \textit{SQL} sztenderd szintaxisának nagy részét tartalmazza. Sok népszerű programnyelv rendelkezik már beépített \textit{SQLite} támogatással, ilyen például a \textit{Python} is \cite{sqlite3}. 			
+			Az adatok ideiglenes tárolására, már a \textit{Signalink 3} készítése óta témavezetőm Kadlecsik Tamás javaslatára \textit{SQLite 3} adatbázis fájlokat alkalmazunk. Az \textit{SQLite 3} egy nyílt forráskódú, \textit{C} nyelven írt API-val rendelkező, beágyazott relációs adatbázis motor. Az \textit{SQL} sztenderd szintaxisának nagy részét tartalmazza. Sok népszerű programnyelv rendelkezik már beépített \textit{SQLite} támogatással, ilyen például a \textit{Python} is (\cite{sqlite3}). 			
 			
 				
 			Az adatok ilyen módú tárolása lehetővé teszi azok gyors szűrését, kategorizálását és átalakítását \textit{SQL} parancsok segítségével. Ilyen módon még azelőtt gyorsan információkat nyerhetünk nagy méretű hálózatokról, mielőtt azokat olyan jóval lassabb működésű hálózat kezelő programokkal elemezni kezdenénk mint például a \textit{Cytoscape}.
@@ -405,7 +397,7 @@
 			
 		 Az \textit{SQLite} adatbázisfájlok másik előnye, hogy rendelkezésünkre áll az \textit{SQL} nyelv. Mivel \textit{SQL} parancsok segítségével gyorsan kezelhetőek a feldolgozott adatok, így csak ritkán van szükség adatmanipulálási célból egy újabb szkript írására. Amennyiben mégis szükséges újabb szkript írása, a legtöbb szkriptnyelv rendelkezik valamilyen \textit{SQLite} adatbázis kezelési opcióval. Nagy méretű és mennyiségű biológiai adatot tároló \textit{SQLite} fájlban a keresés is igen gyorsan megoldható az adatbázis beindexelésével, sőt még gyorsabb keresés is megvalósítható az indexelt táblák memóriába csatolásával. Az \textit{SQLite} segítségével könnyen lehet importálni és exportálni a legtöbb népszerű adattárolási formátumba. Az előbb felsorolt okokból a csoportban a szöveges fájlok helyett az \textit{SQLite} adatbázisokat használjuk az adatok köztes tárolására. 
 		
-		Hálózatok tárolására a csoport által létrehozott \textit{MiTab SQL} formátumot használtam. A MiTab SQL egy \textit{SQLite 3}-ban tárolt a PSI-MI Tab formátummal közel megegyező adatstruktúra. A \textit{PSI-MI Tab} egy \textit{HUPO Proteomics Standards Initiative} (PSI) szervezet által meghatározott proteomikai adatok tárolására használt formátum. A PSI-MI Tab formátum specifikációja a szervezet honlapján elérhető. \cite{hupo}
+		Hálózatok tárolására a csoport által létrehozott \textit{MiTab SQL} formátumot használtam. A MiTab SQL egy \textit{SQLite 3}-ban tárolt a PSI-MI Tab formátummal közel megegyező adatstruktúra. A \textit{PSI-MI Tab} egy \textit{HUPO Proteomics Standards Initiative} (PSI) szervezet által meghatározott proteomikai adatok tárolására használt formátum. A PSI-MI Tab formátum specifikációja a szervezet honlapján elérhető. (\cite{hupo})
 		
 		A pontok és az élek külön táblában vannak letárolva az adatbázisban, így a \textit{PSI-MI Tab} specifikáció pontra és az élre vonatkozó tulajdonságai a megfelelő táblába kerülnek. A \textit{MiTab SQL} táblák oszlopai azonban nem teljesen egyeznek a \textit{PSI-MI Tab} kategóriákkal. Ilyen különbség például, hogy a \textit{MiTab SQL} nem használ néhány opcionális \textit{PSI-MI} kategóriát viszont tartalmaz a \textit{PSI-MI}-re nem jellemző tulajdonságokat is mint a topológia. Az éleket tartalmazó táblában a forrás (\textit{interactor\_a\_node\_name}) és a cél pont név oszlopa a \textit{node} tábla azonosító oszlopának idegen kulcsai. (\ref{fig:mitab_scheme}. ábra)
 			
@@ -417,7 +409,7 @@
 				\end{figure}
 				
 			\paragraph{Verziókövetés} \mbox{}\\
-			Diplomamunkám készítése során a \textit{Git} verziókövető rendszert használtam, melynek tartalmát a web-alapú \textit{GitHub} tárhely szolgáltatásra töltöttem fel. A diplomamunkám \textit{GitHub} tárhelyén \cite{github} a következő általam írt kódok érhetők el: 
+			Diplomamunkám készítése során a \textit{Git} verziókövető rendszert használtam, melynek tartalmát a web-alapú \textit{GitHub} tárhely szolgáltatásra töltöttem fel. A diplomamunkám \textit{GitHub} tárhelyén (\cite{github}) a következő általam írt kódok érhetők el: 
 				\begin{itemize}
 						\item A \ref{fig:slk3uml}. ábrán ábrázolt munkafolyamatot lebonyolító szkriptek
 						\item A fordításhoz használt adatbázist megépítő szkript (Kadlecsik Tamás szkriptje alapján)
@@ -437,7 +429,7 @@
 \subsection{A források}
 			
 			\subsubsection{Autophagy Regulatory Network (\textit{ARN})}
-			Az \textit{ARN} egy nagy terjedelmű autofágia adatbázis. Az adatbázis az irodalomból kézi gyűjtéssel kapott élek mellett tartalmaz még 19 más adatbázisból importált valamint 4 féle módszerrel prediktált kapcsolatokat is. Az \textit{ARN}-ben található 1485 darab fehérje között 4013 kapcsolat van. Az adatbázis komponensei között vannak az autofágia mechanizmusában szerepet játszó fehérjék és ezek regulátorai valamint transzkripciós faktorai. Az adatbázisban 413 transzkripciós faktor valamint 386 olyan miRNS melyek képesek lehetnek autofágia komponensek szabályzására\cite{ARN}. \\
+			Az \textit{ARN} egy nagy terjedelmű autofágia adatbázis. Az adatbázis az irodalomból kézi gyűjtéssel kapott élek mellett tartalmaz még 19 más adatbázisból importált valamint 4 féle módszerrel prediktált kapcsolatokat is. Az \textit{ARN}-ben található 1485 darab fehérje között 4013 kapcsolat van. Az adatbázis komponensei között vannak az autofágia mechanizmusában szerepet játszó fehérjék és ezek regulátorai valamint transzkripciós faktorai. Az adatbázisban 413 transzkripciós faktor valamint 386 olyan miRNS melyek képesek lehetnek autofágia komponensek szabályzására(\cite{ARN}). \\
 			Az ARN hat rétegből épül fel:
 			\begin{enumerate}
 				\item Autofágia fehérjék.
@@ -445,16 +437,16 @@
 				\item Olyan poszt-transzlációs regulátorok melyek közvetlenül hatnak az első két réteg fehérjéire.
 				\item Az első három réteg transzkripciós szabályzói.
 				\item Az első négy réteg poszt-transzlációs regulátorai.
-				\item Olyan jelátviteli útvonalak és fehérje-fehérje interakciók melyek különböző útvonalakat az autofágia szabályzóihoz kötnek \cite{ARN}.
+				\item Olyan jelátviteli útvonalak és fehérje-fehérje interakciók melyek különböző útvonalakat az autofágia szabályzóihoz kötnek (\cite{ARN}).
 			\end{enumerate} 
 					
 			\subsubsection{Salmonet} 
-			A \textit{Salmonet} a csoportunk által, jelenleg bírálat alatt álló molekuláris hálózat. A hálózat adatai kézi adatgyűjtésből, nagy áteresztőképességű módszerekből valamint predikciókból származnak. Az  integrált hálózat transzkripciónális szabályzási, metabolikus és fehérje-fehérje kölcsönhatási szinteket tartalmaz. A \textit{Salmonet} összesen öt-öt gasztrointesztinális és extraintesztinális \textit{Salmonella} törzs hálózatából lett egyesítve. Egy törzs hálózata a metabolikus, szabályzási és fehérje-fehérje alhálózatok egyesítéséből készült \cite{salmonet}.
+			A \textit{Salmonet} a csoportunk által, jelenleg bírálat alatt álló molekuláris hálózat. A hálózat adatai kézi adatgyűjtésből, nagy áteresztőképességű módszerekből valamint predikciókból származnak. Az  integrált hálózat transzkripciónális szabályzási, metabolikus és fehérje-fehérje kölcsönhatási szinteket tartalmaz. A \textit{Salmonet} összesen öt-öt gasztrointesztinális és extraintesztinális \textit{Salmonella} törzs hálózatából lett egyesítve. Egy törzs hálózata a metabolikus, szabályzási és fehérje-fehérje alhálózatok egyesítéséből készült (\cite{salmonet}).
 			
 			A kapcsolatokat a nem fehérje-fehérje kölcsönhatási szinteken eltérően definiálhatók. Ha egy metabolit egy bizonyos reakció képződménye és egy másik szubsztrátja, akkor a két reakciót katalizáló fehérje kapcsoltnak tekinthető. Szabályzási kapcsolatnak pedig egy transzkripciós faktor a másik fehérje promóteréhez való kötődését értjük. 
 			
 			\subsubsection{Az ember-\textit{Salmonella} predikciók}
-			Az eddig ismertetett források csak fajon belüli kapcsolatokból felépülő hálózatokat tartalmaztak. Ahhoz, hogy szakdolgozatomban tudjam tanulmányozni a humán-\textit{Salmonella} kapcsolatot szükségem van még interspecifikus élekre is. A predikciós forrásokból származó interspecifikus kapcsolatok fogják összekapcsolni a gazda hálózatát a patogénével. Szakdolgozatomban \cite{Krishnadev} és \cite{Kshirsagar} humán-\textit{Salmonella} predikcióit használtam.
+			Az eddig ismertetett források csak fajon belüli kapcsolatokból felépülő hálózatokat tartalmaztak. Ahhoz, hogy szakdolgozatomban tudjam tanulmányozni a humán-\textit{Salmonella} kapcsolatot szükségem van még interspecifikus élekre is. A predikciós forrásokból származó interspecifikus kapcsolatok fogják összekapcsolni a gazda hálózatát a patogénével. Szakdolgozatomban (\cite{Krishnadev}) és (\cite{Kshirsagar}) humán-\textit{Salmonella} predikcióit használtam.
 			
 
 		
@@ -656,7 +648,7 @@
 				\end{tabular}
 				\end{table}
 				
-				A \textit{Salmonet} már túl sok pontot és kapcsolatot tartalmaz, hogy a különböző TI értékeit a \textit{\ref{fig:arn123}}. ábrához hasonlóan látványosan lehessen szemléltetni. A TI jellemzésére viszont ilyen nagy hálózatokra is kiváló lehetőséget nyújtanak az ökológiában használt rang abundancia diagramok. A \textit{Salmonet} rang abundancia diagramjainak lefutásai, hasonló mintázatot adnak, mint a Jordán és munkatársai által ökológiai hálózatok TI értékeire felírható görbék \cite{ti}.
+				A \textit{Salmonet} már túl sok pontot és kapcsolatot tartalmaz, hogy a különböző TI értékeit a \textit{\ref{fig:arn123}}. ábrához hasonlóan látványosan lehessen szemléltetni. A TI jellemzésére viszont ilyen nagy hálózatokra is kiváló lehetőséget nyújtanak az ökológiában használt rang abundancia diagramok. A \textit{Salmonet} rang abundancia diagramjainak lefutásai, hasonló mintázatot adnak, mint a Jordán és munkatársai által ökológiai hálózatok TI értékeire felírható görbék (\cite{ti}).
 				
 				\begin{figure}[H]
 						\includegraphics[scale=0.44]{img/salmonet_tis.pdf}
@@ -672,14 +664,14 @@
 			A \textit{Salmonet}-ben négy olyan fehérje van mely mind a három topológiai index szempontjából a legerősebb tíz helyezettben van:
 			
 			\begin{itemize}
-				\item \textbf{hilD} -- \textit{Salmonella} Typhimuriumban a patogenitási sziget 1 (SPI-1) kódolja a T3SS fehérjéit amik az invázióhoz szükségesek. Az SPI-1 génjei többnyire a szigeten kívüli transzkripciós faktorok által szabályozódnak. A sziget mester transzkripciós faktora a hilA, melyet két másik fehérje mellett a hilD szabályoz. A hilD-nek eddig 17 kötési helyét írták le a \textit{Salmonella} genomban \cite{hilD}. 
+				\item \textbf{hilD} -- \textit{Salmonella} Typhimuriumban a patogenitási sziget 1 (SPI-1) kódolja a T3SS fehérjéit amik az invázióhoz szükségesek. Az SPI-1 génjei többnyire a szigeten kívüli transzkripciós faktorok által szabályozódnak. A sziget mester transzkripciós faktora a hilA, melyet két másik fehérje mellett a hilD szabályoz. A hilD-nek eddig 17 kötési helyét írták le a \textit{Salmonella} genomban (\cite{hilD}). 
 
 				\item \textbf{phoP} -- A T3SS komponenseit kódoló patogenitási sziget mellett egy másik fontos virulencia rendszer is szerepet játszik a \textit{Salmonella} fertőzés sikerességében. 
-				A phoP-phoQ egy kétkomponensű rendszer mely intracelluláris szignálokra aktiválódik, és nélkülözhetetlen a baktériumsejtek túléléséhez és replikációjához. A phoQ egy kináz mely a megfelelő jelátvitel hatására foszforilállja a phoP-t ami ekkor ki tudja fejezni transzkripciós aktivátor hatását \cite{phoP}. 
+				A phoP-phoQ egy kétkomponensű rendszer mely intracelluláris szignálokra aktiválódik, és nélkülözhetetlen a baktériumsejtek túléléséhez és replikációjához. A phoQ egy kináz mely a megfelelő jelátvitel hatására foszforilállja a phoP-t ami ekkor ki tudja fejezni transzkripciós aktivátor hatását (\cite{phoP}). 
 				
-				\item \textbf{ssrB} -- Az ssrA-ssrB is egy kétkomponensű rendszer mely szintén egy szenzor kinázból és egy regulátor transzkripciós faktorból áll. Az ssrA-ssrB rendszer szükséges a baktériumsejtek makrofágokon belüli túléléséhez és replikációjához. A PSI-2 (patogenitási sziget 2) több ssrB promótert is tartalmaz. Az ssrB több gén mellett az SPI-2-ben kódolt T3SS fehérjéinek átírásáért is felelős \cite{ssrB}. 
+				\item \textbf{ssrB} -- Az ssrA-ssrB is egy kétkomponensű rendszer mely szintén egy szenzor kinázból és egy regulátor transzkripciós faktorból áll. Az ssrA-ssrB rendszer szükséges a baktériumsejtek makrofágokon belüli túléléséhez és replikációjához. A PSI-2 (patogenitási sziget 2) több ssrB promótert is tartalmaz. Az ssrB több gén mellett az SPI-2-ben kódolt T3SS fehérjéinek átírásáért is felelős (\cite{ssrB}). 
 				
-				\item \textbf{trxA} -- A trxA is egy több komponensű rendszer része. A trxA egyike a \textit{Salmonella} genom két ismert thioredoxinjának. A trxA által kódolt fehérje a trx1 egy kicsi oldható diszulfid reduktáz enzim.  A trx1 sok specifikus célfehérjéinn thiol-diszulfid redox folyamatot hajt végre, így fontos szerepet játszik az oxidatív stressz elleni védelemben. Az oxidált trx1 a redukált trxB-ből regenerálódik, mely NADPH-ból szerzi a redukálóerőt \cite{trxA}. 
+				\item \textbf{trxA} -- A trxA is egy több komponensű rendszer része. A trxA egyike a \textit{Salmonella} genom két ismert thioredoxinjának. A trxA által kódolt fehérje a trx1 egy kicsi oldható diszulfid reduktáz enzim.  A trx1 sok specifikus célfehérjéinn thiol-diszulfid redox folyamatot hajt végre, így fontos szerepet játszik az oxidatív stressz elleni védelemben. Az oxidált trx1 a redukált trxB-ből regenerálódik, mely NADPH-ból szerzi a redukálóerőt (\cite{trxA}). 
 			\end{itemize}
 			
 	\subsection{Topológiai indexek az integrált hálózatban}
@@ -776,17 +768,17 @@
 		\noindent A hat fehérje közül a következő öt bizonyítottan a T3SS-el jut ki a baktériumsejtből, míg az utolsóról kevés információnk van: 
 		
 		\begin{itemize}
-			\item \textbf{sifB} -- A virulencia vagy más néven effektor fehérjék közé tartozik. Fertőzéskor \textit{Salmonella} által kiváltott filamentumok (\textit{Sif}) mentén eltávolodnak az SCV-től \cite{sifB}. 
+			\item \textbf{sifB} -- A virulencia vagy más néven effektor fehérjék közé tartozik. Fertőzéskor \textit{Salmonella} által kiváltott filamentumok (\textit{Sif}) mentén eltávolodnak az SCV-től (\cite{sifB}). 
 			\textit{}
-			\item \textbf{sspH2} -- Szintén effektor fehérje. Egy olyan E3 ubikvitin ligáz mely a gazda ubikvitinációs szignalizációját befolyásolja. A szubsztrát hiányában öngátló állapotban van. Szubsztrát kötésekor bekapcsolódik \cite{ssph2}.  Az sspH2 gátló hatással van az aktin polimerizációra \cite{salmonella_and_host_cell_nature}. 
+			\item \textbf{sspH2} -- Szintén effektor fehérje. Egy olyan E3 ubikvitin ligáz mely a gazda ubikvitinációs szignalizációját befolyásolja. A szubsztrát hiányában öngátló állapotban van. Szubsztrát kötésekor bekapcsolódik (\cite{ssph2}).  Az sspH2 gátló hatással van az aktin polimerizációra \cite{salmonella_and_host_cell_nature}. 
 			
 			\item \textbf{sopB} -- Egy olyan esszenciális virulencia fehérje mely inozitol-foszfát-foszfatáz mechanizmusával közvetetten aktiválja a gazda Rho-GTP-ázait. Ilyen kis-G fehérje a Cdc42 és a Rho-G. Az aktiválások hatásának eredője az aktin sejtváz átrendeződése, ami elősegíti a \textit{Salmonella} bejutását a gazdasejtbe \cite{salmonella_and_host_cell_nature}. 
 			
 			\item \textbf{sseI} -- Egy olyan effektor fehérje melynek aminoterminusa nagy hasonlóságot mutat a SspH2-vel. Filaminon keresztül képes a polimerizált aktin kötésére \cite{salmonella_and_host_cell_nature}. 
 			
-			\item \textbf{sseL} -- Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős \cite{sseL}. 
+			\item \textbf{sseL} -- Egy deubikvitináz enzim, mely  mono és polyubikvitin láncok hidrolizálását végzi. Az sseL-nek \textit{in vitro} a lizin-63 kapcsolt ubikvitin láncok sokkal jobb szubsztrátjai, melyből arra lehet következtetni, hogy a proteoszómális degradáció befolyásolása helyett inkább at ubikvitin szignalizáció módosításáért felelős (\cite{sseL}). 
 			
-			\item \textbf{slpA} -- Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli \cite{fkbp}.  A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
+			\item \textbf{slpA} -- Ez a fehérje egy peptidil-prolil cisz-transz izomeráz. A szakirodalomban a \textit{Salmonella} ezen fehérjéjéhez nem találtam olyan cikket, mely részletesen leírta volna a funkcióját. Az \textit{Uniprot} adatbázis segítségével azonban találtam a legalább 90\%-os hasonlóságot mutató fehérjék listájában egy \textit{Swissprot} bejegyzést. Ez a hasonló de annotált fehérje az \textit{E. coli} FKBP typusú 16 kDa-os peptidil-prolil izomeráza, mely fehérjék hajtogatási sebességét növeli (\cite{fkbp}).  A két fehérje szekvenciáját az \textit{NCBI BLAST} algoritmusán alapuló \textit{blastp suite-2sequences} és az \textit{ExPASy} fehérjeszekvencia összehasonlító programjával is összehasonlítottam. Az első 92\%-os egyezést adott (E=5$\cdot 10^{-104}$) a második pedig 91,9\%-t.
 			
 		\end{itemize}
 		
@@ -819,10 +811,10 @@
 		
 		\subsection{Kitekintések}
 		\subsubsection{A TI használata a \textit{Salmonella} és az immunrendszer kölcsönhatásának tanulmányozásához}
-		Számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} \cite{hilD} említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor fehérje-fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban \cite{innatedb}. Az adatbázis felhasználásával és a TI alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer és \textit{Salmonella} kölcsönhatásakor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.	 
+		Számtalan forrás \cite{salmonella_and_host_cell_nature} \cite{salmonella_autophagy_nature_old} (\cite{hilD}) említette, hogy a \textit{Salmonella} a bélhámsejtek mellett immunsejtekben, köztük makrofágokban is tud szaporodni. A \textit{Signalink} készítésekor fehérje-fehérje kapcsolatokat integráltam az \textit{InnateDB}-ből. Az \textit{InnateDB} egy kifejezetten immunológiai útvonalakkal foglalkozó publikus rendszer-biológiai adatbázis mely kísérletesen bizonyított jól annotált fehérje-fehérje kapcsolatokat tartalmaz. Az \textit{InnateDB} főleg a veleszületett immunrendszer molekuláris kapcsolataival foglalkozik, melyekből már több mint 18 700 található az a adatbázisban (\cite{innatedb}). Az adatbázis felhasználásával és a TI alkalmazásával meglehetne vizsgálni, hogy a melyek a topológiailag fontos fehérjék az immunrendszer és \textit{Salmonella} kölcsönhatásakor. Egy ilyen hálózat akár új gyógyszercélpontokra is rámutathat.	 
 		
  		\subsubsection{A \textit{Salmonella} fertőzés további modellezése}
-		A diplomamunkámban csak a TI aspektusában vizsgáltam a gazda-patogén hálózat fehérjéinek fontosságát. Mint a bevezetésben említettem, az ökológiában a kulcs fajok kijelölésére több mérőszámot is használnak egyszerre, melyek más és más aspektusban vizsgálják a fajok fontosságát \cite{jordan_comparison} \cite{ti}. Érdemes lenne, megvizsgálni azt, hogy más mérőszámok hogyan viselkednek az általam felállított gazda-patogén hálózaton, vagy hogy korrelálnak-e a TI-vel megállapított rangsorral.
+		A diplomamunkámban csak a TI aspektusában vizsgáltam a gazda-patogén hálózat fehérjéinek fontosságát. Mint a bevezetésben említettem, az ökológiában a kulcs fajok kijelölésére több mérőszámot is használnak egyszerre, melyek más és más aspektusban vizsgálják a fajok fontosságát \cite{jordan_comparison} (\cite{ti}). Érdemes lenne, megvizsgálni azt, hogy más mérőszámok hogyan viselkednek az általam felállított gazda-patogén hálózaton, vagy hogy korrelálnak-e a TI-vel megállapított rangsorral.
  		
  		A szakirodalomban már csináltak másik humán-baktérium gazda-patogén hálózatot, ami inkább a metabolikus megközelítésre fektette a hangsúlyt. A vizsgálatban tüdő makrofágok \textit{Mycobacterium tubercolosis} általi fertőzését modellezték különböző omikai adatok integrálásával készült hálózatban. A teljes genom szintű integrált hoszt-patogén hálózat segítségével metabolikus változásokat modelleztek, melyek segítségével a fertőzést három különböző patológiai fázisra tudták bontani \cite{discussion_alveolar_macrophage}.  Mivel a \textit{Salmonet} is tartalmaz metabolikai adatokat, így az általam összeállított integrált adatbázisban is lehetne hasonló modelleket alkalmazni és ezáltal a fertőzés folyamatának patológiai aspektusaira rávilágítani.
 		
@@ -831,8 +823,8 @@
 		
 
 		\subsubsection{A modellekből nyert adatok kísérletes ellenőrzésének lehetősége}
-		Az eddig felsorolt kitekintések és alkalmazási lehetőséget többnyire új elméleti módszerekre világítottak rá, melyek kísérletes ellenőrzése meglehetősen nehézkes. Azonban organoidok segítségével lehetőség lenne a legtöbb eddig felsorolt elméleti vizsgálat \textit{in vitro} ellenőrzésére. Az organoidokon végzett vizsgálatok már eddig is sok információval szolgáltak az organogenezis, a regeneratív orvoslás a tumorigenezis és az emésztőrendszer működésével kapcsolatban. Az organoidok egyetlen izolált szöveti őssejtből előállított, a valódi \textit{in vivo} szövet karakterisztikáit tükröző mesterségesen \textit{in vitro} struktúrák \cite{organoid}.
-		Egér bélből állítottak elő olyan organoidokat melyek tükrözték a a bél lumen szerkezetét, ezekben kriptákat határoló kitüremkedések voltak megfigyelhetők. Az ilyen módon előállított szérum nélkül, csupán szöveti niche faktorokkal kezelt organoidok önfenntartók és akár több mint egy évig életben maradnak \cite{organoid}.  Ilyen rendszerekben lehetőség nyílik a rendszer-biológiai modellekből és fontossági listákból nyert elméleti eredmények, jóslatok kísérleti ellenőrzésére.
+		Az eddig felsorolt kitekintések és alkalmazási lehetőséget többnyire új elméleti módszerekre világítottak rá, melyek kísérletes ellenőrzése meglehetősen nehézkes. Azonban organoidok segítségével lehetőség lenne a legtöbb eddig felsorolt elméleti vizsgálat \textit{in vitro} ellenőrzésére. Az organoidokon végzett vizsgálatok már eddig is sok információval szolgáltak az organogenezis, a regeneratív orvoslás a tumorigenezis és az emésztőrendszer működésével kapcsolatban. Az organoidok egyetlen izolált szöveti őssejtből előállított, a valódi \textit{in vivo} szövet karakterisztikáit tükröző mesterségesen \textit{in vitro} struktúrák (\cite{organoid}).
+		Egér bélből állítottak elő olyan organoidokat melyek tükrözték a a bél lumen szerkezetét, ezekben kriptákat határoló kitüremkedések voltak megfigyelhetők. Az ilyen módon előállított szérum nélkül, csupán szöveti niche faktorokkal kezelt organoidok önfenntartók és akár több mint egy évig életben maradnak (\cite{organoid}).  Ilyen rendszerekben lehetőség nyílik a rendszer-biológiai modellekből és fontossági listákból nyert elméleti eredmények, jóslatok kísérleti ellenőrzésére.
 		
 		\subsubsection{A TI alkalmazásának lehetősége a botanikában}
 		Az eddig említett elméleti és gyakorlati lehetőségek mind valamilyen szinten humán relevanciával rendelkeztek. Azonban bél mikrobiomhoz hasonlóan a növények is komplex mikrobiológiai rendszerben élnek, melyben mikrobák széles skálája fordul elő. 
@@ -894,7 +886,9 @@
 \pagebreak
 
 
-\printbibliography[title={Felhasznált irodalom}]
+\printbibliography[title={Felhasznált irodalom},heading=bibintoc,type=article]
+
+\printbibliography[title={Internetes hivatkozások},heading=bibintoc,type=misc]
 
 \end{document}
 

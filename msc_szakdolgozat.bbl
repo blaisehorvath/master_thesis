@@ -934,7 +934,7 @@
   \field{year}{2015}
 \endentry
 
-\entry{newman_networks}{book}{}
+\entry{newman_networks}{article}{}
   \name{author}{1}{}{%
     {{}%
      {Newman}{N.}%
@@ -960,7 +960,7 @@
   \field{year}{2010}
 \endentry
 
-\entry{sqlite3}{book}{}
+\entry{sqlite3}{article}{}
   \name{author}{1}{}{%
     {{}%
      {Owens}{O.}%
