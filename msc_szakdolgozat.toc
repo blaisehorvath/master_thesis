@@ -16,9 +16,9 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {paragraph}{A \textit {Salmonella} \IeC {\'e}letciklusa}{6}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{A h\IeC {\'a}rmas t\IeC {\'\i }pus\IeC {\'u} szekr\IeC {\'e}ci\IeC {\'o}s rendszer (T3SS vagy TTSS)}{7}{figure.caption.2}
+\select@language {magyar} \contentsline {paragraph}{A h\IeC {\'a}rmas t\IeC {\'\i }pus\IeC {\'u} szekr\IeC {\'e}ci\IeC {\'o}s rendszer (T3SS vagy TTSS)}{7}{figure.caption.3}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{A \textit {Salmonella} \IeC {\'e}s az autof\IeC {\'a}gia kapcsolata}{8}{figure.caption.2}
+\select@language {magyar} \contentsline {paragraph}{A \textit {Salmonella} \IeC {\'e}s az autof\IeC {\'a}gia kapcsolata}{8}{figure.caption.3}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsection}{\numberline {2.3}\IeC {\"O}kol\IeC {\'o}giai h\IeC {\'a}l\IeC {\'o}zatok elemz\IeC {\'e}s\IeC {\'e}re haszn\IeC {\'a}lt topol\IeC {\'o}giai indexek}{8}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
@@ -54,11 +54,11 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {paragraph}{Az adatok t\IeC {\'a}rol\IeC {\'a}sa}{16}{subsection.4.1}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Verzi\IeC {\'o}k\IeC {\"o}vet\IeC {\'e}s}{19}{figure.caption.5}
+\select@language {magyar} \contentsline {paragraph}{Verzi\IeC {\'o}k\IeC {\"o}vet\IeC {\'e}s}{19}{figure.caption.6}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Tesztel\IeC {\'e}s}{19}{figure.caption.5}
+\select@language {magyar} \contentsline {paragraph}{Tesztel\IeC {\'e}s}{19}{figure.caption.6}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Adatok \IeC {\'a}br\IeC {\'a}zol\IeC {\'a}sa}{19}{figure.caption.5}
+\select@language {magyar} \contentsline {paragraph}{Adatok \IeC {\'a}br\IeC {\'a}zol\IeC {\'a}sa}{19}{figure.caption.6}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsection}{\numberline {4.2}A forr\IeC {\'a}sok}{19}{subsection.4.2}
 \defcounter {refsection}{0}\relax 
@@ -94,7 +94,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {5.1.1}ARN}{27}{subsubsection.5.1.1}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {paragraph}{Az \textit {ARN} legnagyobb TI \IeC {\'e}rt\IeC {\'e}k\IeC {\H u} feh\IeC {\'e}rj\IeC {\'e}i}{28}{figure.caption.7}
+\select@language {magyar} \contentsline {paragraph}{Az \textit {ARN} legnagyobb TI \IeC {\'e}rt\IeC {\'e}k\IeC {\H u} feh\IeC {\'e}rj\IeC {\'e}i}{28}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {5.1.2}Salmonet}{30}{subsubsection.5.1.2}
 \defcounter {refsection}{0}\relax 
