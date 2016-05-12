@@ -17,7 +17,7 @@
 \endgroup
 
 \entry{scfa_and_vitamine}{article}{}
-  \name{author}{5}{}{%
+  \name{author}{4}{}{%
     {{}%
      {Backhed}{B.}%
      {F.}{F.}%
@@ -38,63 +38,16 @@
      {D.~A.}{D.~A.}%
      {}{}%
      {}{}}%
-    {{}%
-     {Gordon}{G.}%
-     {J.~I.}{J.~I.}%
-     {}{}%
-     {}{}}%
   }
   \strng{namehash}{BF+1}
-  \strng{fullhash}{BFLRESJLPDAGJI1}
+  \strng{fullhash}{BFLRESJLPDA1}
   \field{labelyear}{2005}
-  \field{extrayear}{1}
   \field{sortinit}{B}
   \field{number}{5717}
   \field{pages}{1915\bibrangedash 1920}
   \field{title}{{{H}ost-bacterial mutualism in the human intestine}}
   \field{volume}{307}
-  \field{journaltitle}{Science}
-  \field{year}{2005}
-  \warn{\item Invalid format of field 'month'}
-\endentry
-
-\entry{host_bacterial_mutualism}{article}{}
-  \name{author}{5}{}{%
-    {{}%
-     {Backhed}{B.}%
-     {F.}{F.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Ley}{L.}%
-     {R.~E.}{R.~E.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Sonnenburg}{S.}%
-     {J.~L.}{J.~L.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Peterson}{P.}%
-     {D.~A.}{D.~A.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Gordon}{G.}%
-     {J.~I.}{J.~I.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{BF+1}
-  \strng{fullhash}{BFLRESJLPDAGJI1}
-  \field{labelyear}{2005}
-  \field{extrayear}{2}
-  \field{sortinit}{B}
-  \field{number}{5717}
-  \field{pages}{1915\bibrangedash 1920}
-  \field{title}{{{H}ost-bacterial mutualism in the human intestine}}
-  \field{volume}{307}
+  \field{langid}{magyar}
   \field{journaltitle}{Science}
   \field{year}{2005}
   \warn{\item Invalid format of field 'month'}
@@ -129,6 +82,7 @@
   \field{sortinit}{B}
   \field{title}{Contribution of habitat patches to network connectivity:
   Redundancy and uniqueuness of topological indices}
+  \field{langid}{magyar}
   \field{journaltitle}{Ecological Indicators}
   \field{year}{2011}
 \endentry
@@ -169,6 +123,7 @@
   \field{title}{{{I}nsight into human alveolar macrophage and {M}. tuberculosis
   interactions via metabolic reconstructions}}
   \field{volume}{6}
+  \field{langid}{magyar}
   \field{journaltitle}{Mol. Syst. Biol.}
   \field{year}{2010}
   \warn{\item Invalid format of field 'month'}
@@ -297,6 +252,7 @@
   {G}{P}{R}43 are activated by propionate and other short chain carboxylic
   acids}}
   \field{volume}{278}
+  \field{langid}{magyar}
   \field{journaltitle}{J. Biol. Chem.}
   \field{year}{2003}
   \warn{\item Invalid format of field 'month'}
@@ -322,6 +278,7 @@
   \field{pages}{269\bibrangedash 289}
   \field{title}{{{M}ini-gut organoids: reconstitution of the stem cell niche}}
   \field{volume}{31}
+  \field{langid}{magyar}
   \field{journaltitle}{Annu. Rev. Cell Dev. Biol.}
   \field{year}{2015}
 \endentry
@@ -354,6 +311,7 @@
   effectors {S}se{J} and {S}if{B} are targeted to the {S}almonella-containing
   vacuole}}
   \field{volume}{71}
+  \field{langid}{magyar}
   \field{journaltitle}{Infect. Immun.}
   \field{year}{2003}
   \warn{\item Invalid format of field 'month'}
@@ -385,6 +343,7 @@
   \field{pages}{3\bibrangedash 12}
   \field{title}{{{A}utophagy: cellular and molecular mechanisms}}
   \field{volume}{221}
+  \field{langid}{magyar}
   \field{journaltitle}{J. Pathol.}
   \field{year}{2010}
   \warn{\item Invalid format of field 'month'}
@@ -416,8 +375,221 @@
   \field{pages}{53\bibrangedash 66}
   \field{title}{{{S}almonellae interplay with host cells}}
   \field{volume}{6}
+  \field{langid}{magyar}
   \field{journaltitle}{Nat. Rev. Microbiol.}
   \field{year}{2008}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{hupo}{article}{}
+  \name{author}{39}{}{%
+    {{}%
+     {Hermjakob}{H.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montecchi-Palazzi}{M.-P.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bader}{B.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wojcik}{W.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salwinski}{S.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ceol}{C.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moore}{M.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Orchard}{O.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sarkans}{S.}%
+     {U.}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mering}{M.}%
+     {C.}{C.}%
+     {von}{v.}%
+     {}{}}%
+    {{}%
+     {Roechert}{R.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poux}{P.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jung}{J.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mersch}{M.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kersey}{K.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lappe}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zeng}{Z.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rana}{R.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nikolski}{N.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Husi}{H.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brun}{B.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shanker}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grant}{G.}%
+     {S.~G.}{S.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sander}{S.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bork}{B.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pandey}{P.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brazma}{B.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jacq}{J.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vidal}{V.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sherman}{S.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Legrain}{L.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cesareni}{C.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Xenarios}{X.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Eisenberg}{E.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steipe}{S.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hogue}{H.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Apweiler}{A.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HH+1}
+  \strng{fullhash}{HHMPLBGWJSLCAMSOSSUMCvRBPSJEMHKPLMLYZRRDNMHHBCSKGSGSCBPZWPABAJBVMSDLPCGXIEDSBHCAR1}
+  \field{labelyear}{2004}
+  \field{sortinit}{H}
+  \field{number}{2}
+  \field{pages}{177\bibrangedash 183}
+  \field{title}{{{T}he {H}{U}{P}{O} {P}{S}{I}'s molecular interaction format--a
+  community standard for the representation of protein interaction data}}
+  \field{volume}{22}
+  \field{journaltitle}{Nat. Biotechnol.}
+  \field{year}{2004}
   \warn{\item Invalid format of field 'month'}
 \endentry
 
@@ -435,6 +607,7 @@
   \field{sortinit}{H}
   \field{howpublished}{\url{https://github.com/blaisehorvath/host-pathogen-networks}}
   \field{title}{{Host Pathogen Networks Repository}}
+  \field{langid}{magyar}
   \field{year}{2015}
 \endentry
 
@@ -452,6 +625,7 @@
   \field{sortinit}{I}
   \field{howpublished}{\url{http://innatedb.com/redirect.do?go=aboutIDB}}
   \field{title}{{InnateDB}}
+  \field{langid}{magyar}
   \field{year}{2015}
 \endentry
 
@@ -486,6 +660,7 @@
   \field{title}{{{R}oles of autophagy in elimination of intracellular bacterial
   pathogens}}
   \field{volume}{4}
+  \field{langid}{magyar}
   \field{journaltitle}{Front Immunol}
   \field{year}{2013}
 \endentry
@@ -514,6 +689,7 @@
   \field{sortinit}{J}
   \field{title}{Quantifying positional importance in food webs: A comparison of
   centrality indices}
+  \field{langid}{magyar}
   \field{journaltitle}{Ecological modelling}
   \field{year}{2007}
 \endentry
@@ -542,6 +718,7 @@
   \field{sortinit}{J}
   \field{title}{Quantifying the importance of species and their interactions in
   a host-parasitoid community}
+  \field{langid}{magyar}
   \field{journaltitle}{Community ecology}
   \field{year}{2003}
 \endentry
@@ -578,6 +755,7 @@
   \field{title}{{{P}rospects for systems biology and modeling of the gut
   microbiome}}
   \field{volume}{29}
+  \field{langid}{magyar}
   \field{journaltitle}{Trends Biotechnol.}
   \field{year}{2011}
   \warn{\item Invalid format of field 'month'}
@@ -605,6 +783,7 @@
   \field{title}{{{P}rediction of protein-protein interactions between human
   host and a pathogen and its application to three pathogenic bacteria}}
   \field{volume}{48}
+  \field{langid}{magyar}
   \field{journaltitle}{Int. J. Biol. Macromol.}
   \field{year}{2011}
   \warn{\item Invalid format of field 'month'}
@@ -637,6 +816,7 @@
   \field{title}{{{T}echniques to cope with missing data in host-pathogen
   protein interaction prediction}}
   \field{volume}{28}
+  \field{langid}{magyar}
   \field{journaltitle}{Bioinformatics}
   \field{year}{2012}
   \warn{\item Invalid format of field 'month'}
@@ -689,12 +869,13 @@
   \field{title}{{{R}eplication of {S}almonella enterica {S}erovar {T}yphimurium
   in {H}uman {M}onocyte-{D}erived {M}acrophages}}
   \field{volume}{83}
+  \field{langid}{magyar}
   \field{journaltitle}{Infect. Immun.}
   \field{year}{2015}
   \warn{\item Invalid format of field 'month'}
 \endentry
 
-\entry{salmonet}{unpublished}{}
+\entry{salmonet}{article}{}
   \name{author}{9}{}{%
     {{}%
      {Métris}{M.}%
@@ -748,6 +929,8 @@
   \field{sortinit}{M}
   \field{title}{SalmoNet, an integrated network of ten Salmonella enterica
   strains reveals common and distinct pathways to host adaptation}
+  \field{langid}{magyar}
+  \field{journaltitle}{Kézirat}
   \field{year}{2015}
 \endentry
 
@@ -773,6 +956,7 @@
   \verb 1%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode
   \verb %3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0199206651
   \endverb
+  \field{langid}{magyar}
   \field{year}{2010}
 \endentry
 
@@ -798,6 +982,7 @@
   \verb 3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3
   \verb Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1590596730
   \endverb
+  \field{langid}{magyar}
   \field{year}{2006}
 \endentry
 
@@ -825,6 +1010,7 @@
   \field{sortinit}{P}
   \field{title}{Keystone species: the concept and its relevance for
   conservation management in {N}ew {Z}ealand}
+  \field{langid}{magyar}
   \field{journaltitle}{Science for canservation}
   \field{year}{2002}
 \endentry
@@ -917,6 +1103,7 @@
   protective against virulent challenge and induce less inflammation than the
   live-attenuated vaccine strain {S}{L}3261}}
   \field{volume}{78}
+  \field{langid}{magyar}
   \field{journaltitle}{Infect. Immun.}
   \field{year}{2010}
   \warn{\item Invalid format of field 'month'}
@@ -949,6 +1136,7 @@
   \field{title}{{{I}dentification of {H}il{D}-regulated genes in {S}almonella
   enterica serovar {T}yphimurium}}
   \field{volume}{196}
+  \field{langid}{magyar}
   \field{journaltitle}{J. Bacteriol.}
   \field{year}{2014}
   \warn{\item Invalid format of field 'month'}
@@ -985,6 +1173,7 @@
   \field{pages}{308\bibrangedash 316}
   \field{title}{{{N}etworking by small-molecule hormones in plant immunity}}
   \field{volume}{5}
+  \field{langid}{magyar}
   \field{journaltitle}{Nat. Chem. Biol.}
   \field{year}{2009}
   \warn{\item Invalid format of field 'month'}
@@ -1447,6 +1636,7 @@
   \field{title}{{{A} human gut microbial gene catalogue established by
   metagenomic sequencing}}
   \field{volume}{464}
+  \field{langid}{magyar}
   \field{journaltitle}{Nature}
   \field{year}{2010}
   \warn{\item Invalid format of field 'month'}
@@ -1484,6 +1674,7 @@
   \field{title}{{{A} family of {S}almonella virulence factors functions as a
   distinct class of autoregulated {E}3 ubiquitin ligases}}
   \field{volume}{106}
+  \field{langid}{magyar}
   \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
   \field{year}{2009}
   \warn{\item Invalid format of field 'month'}
@@ -1521,6 +1712,7 @@
   \field{title}{{{L}ife on the inside: the intracellular lifestyle of cytosolic
   bacteria}}
   \field{volume}{7}
+  \field{langid}{magyar}
   \field{journaltitle}{Nat. Rev. Microbiol.}
   \field{year}{2009}
   \warn{\item Invalid format of field 'month'}
@@ -1583,6 +1775,7 @@
   \field{title}{{{S}se{L}, a {S}almonella deubiquitinase required for
   macrophage killing and virulence}}
   \field{volume}{104}
+  \field{langid}{magyar}
   \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
   \field{year}{2007}
   \warn{\item Invalid format of field 'month'}
@@ -1645,6 +1838,7 @@
   \field{title}{{{A}utophagic bulk sequestration of cytosolic cargo is
   independent of {L}{C}3, but requires {G}{A}{B}{A}{R}{A}{P}s}}
   \field{volume}{333}
+  \field{langid}{magyar}
   \field{journaltitle}{Exp. Cell Res.}
   \field{year}{2015}
   \warn{\item Invalid format of field 'month'}
@@ -1718,6 +1912,7 @@
   bioinformatics resource for studying the mechanism and regulation of
   autophagy}}
   \field{volume}{11}
+  \field{langid}{magyar}
   \field{journaltitle}{Autophagy}
   \field{year}{2015}
 \endentry
@@ -1736,6 +1931,7 @@
   \field{sortinit}{U}
   \field{howpublished}{\url{http://www.uniprot.org/uniprot/P0AEM2}}
   \field{title}{{FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase}}
+  \field{langid}{magyar}
   \field{year}{2015}
 \endentry
 
@@ -1782,6 +1978,7 @@
   diverse {S}almonella pathogenicity island 2 promoters and counters silencing
   by the nucleoid-associated protein {H}-{N}{S}}}
   \field{volume}{65}
+  \field{langid}{magyar}
   \field{journaltitle}{Mol. Microbiol.}
   \field{year}{2007}
   \warn{\item Invalid format of field 'month'}

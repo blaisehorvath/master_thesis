@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 MAY 2016 15:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 MAY 2016 18:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -250,224 +250,7 @@ Package babel Info: Making ` an active character on input line 2731.
 \c@footnote@add=\count99
 \c@footnote@ch=\count100
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex1.sty
-Package: biblatex1 2013/11/25 v2.8a programmable bibliographies (bibtex) (PK/JW
-/AB)
-
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count101
-)
-\etb@tempcnta=\count102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count103
-
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count104
-\c@listtotal=\count105
-\c@listcount=\count106
-\c@liststart=\count107
-\c@liststop=\count108
-\c@citecount=\count109
-\c@citetotal=\count110
-\c@multicitecount=\count111
-\c@multicitetotal=\count112
-\c@instcount=\count113
-\c@maxnames=\count114
-\c@minnames=\count115
-\c@maxitems=\count116
-\c@minitems=\count117
-\c@citecounter=\count118
-\c@savedcitecounter=\count119
-\c@uniquelist=\count120
-\c@uniquename=\count121
-\c@refsection=\count122
-\c@refsegment=\count123
-\c@maxextrayear=\count124
-\c@maxextraalpha=\count125
-\c@abbrvpenalty=\count126
-\c@highnamepenalty=\count127
-\c@lownamepenalty=\count128
-\c@maxparens=\count129
-\c@parenlevel=\count130
-\blx@tempcnta=\count131
-\blx@tempcntb=\count132
-\blx@tempcntc=\count133
-\blx@maxsection=\count134
-\blx@maxsegment=\count135
-\blx@notetype=\count136
-\blx@parenlevel@text=\count137
-\blx@parenlevel@foot=\count138
-\labelnumberwidth=\skip44
-\labelalphawidth=\skip45
-\shorthandwidth=\skip46
-\biblabelsep=\skip47
-\bibitemsep=\skip48
-\bibnamesep=\skip49
-\bibinitsep=\skip50
-\bibparsep=\skip51
-\bibhang=\skip52
-\blx@auxin=\read1
-\blx@auxout=\write3
-\c@mincomprange=\count139
-\c@maxcomprange=\count140
-\c@mincompwidth=\count141
-\c@labelname=\count142
-\c@savedlabelname=\count143
-\c@author=\count144
-\c@savedauthor=\count145
-\c@shortauthor=\count146
-\c@savedshortauthor=\count147
-\c@editor=\count148
-\c@savededitor=\count149
-\c@editora=\count150
-\c@savededitora=\count151
-\c@editorb=\count152
-\c@savededitorb=\count153
-\c@editorc=\count154
-\c@savededitorc=\count155
-\c@shorteditor=\count156
-\c@savedshorteditor=\count157
-\c@bookauthor=\count158
-\c@savedbookauthor=\count159
-\c@translator=\count160
-\c@savedtranslator=\count161
-\c@annotator=\count162
-\c@savedannotator=\count163
-\c@commentator=\count164
-\c@savedcommentator=\count165
-\c@introduction=\count166
-\c@savedintroduction=\count167
-\c@foreword=\count168
-\c@savedforeword=\count169
-\c@afterword=\count170
-\c@savedafterword=\count171
-\c@holder=\count172
-\c@savedholder=\count173
-\c@namea=\count174
-\c@savednamea=\count175
-\c@nameb=\count176
-\c@savednameb=\count177
-\c@namec=\count178
-\c@savednamec=\count179
-\c@institution=\count180
-\c@savedinstitution=\count181
-\c@language=\count182
-\c@savedlanguage=\count183
-\c@location=\count184
-\c@savedlocation=\count185
-\c@organization=\count186
-\c@savedorganization=\count187
-\c@origlocation=\count188
-\c@savedoriglocation=\count189
-\c@origpublisher=\count190
-\c@savedorigpublisher=\count191
-\c@pageref=\count192
-\c@savedpageref=\count193
-\c@publisher=\count194
-\c@savedpublisher=\count195
-\c@lista=\count196
-\c@savedlista=\count197
-\c@listb=\count198
-\c@savedlistb=\count199
-\c@listc=\count200
-\c@savedlistc=\count201
-\c@listd=\count202
-\c@savedlistd=\count203
-\c@liste=\count204
-\c@savedliste=\count205
-\c@listf=\count206
-\c@savedlistf=\count207
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 
-\c@textcitecount=\count208
-\c@textcitetotal=\count209
-\c@textcitemaxnames=\count210
-\c@biburlnumpenalty=\count211
-\c@biburlucpenalty=\count212
-\c@biburllcpenalty=\count213
-\c@smartand=\count214
-)
-Package biblatex Info: Trying to load bibliography style 'magyar'...
-Package biblatex Info: ... file 'magyar.bbx' found.
- (./magyar.bbx
-File: magyar.bbx 
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count215
-\c@bbx:relatedtotal=\count216
-)))
-Package biblatex Info: Trying to load citation style 'magyar'...
-Package biblatex Info: ... file 'magyar.cbx' found.
-
-(./magyar.cbx
-File: hugplain.cbx 
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-))
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-File: biblatex.cfg 
-)
-
-Package biblatex Warning: 'babel' option is deprecated, use 'autolang' instead.
-
-
-
-! Package biblatex Error: Option 'autolang=magyar' invalid.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10676 \blx@processoptions
-                           
-The option you have supplied is invalid.
-See the biblatex manual for valid option keys and possible values.
-
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
@@ -768,6 +551,214 @@ Package: t1enc 1994/06/01 Standard LaTeX package
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
 LaTeX Info: Redefining \em on input line 420.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex1.sty
+Package: biblatex1 2013/11/25 v2.8a programmable bibliographies (bibtex) (PK/JW
+/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count101
+)
+\etb@tempcnta=\count102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count103
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count104
+\c@listtotal=\count105
+\c@listcount=\count106
+\c@liststart=\count107
+\c@liststop=\count108
+\c@citecount=\count109
+\c@citetotal=\count110
+\c@multicitecount=\count111
+\c@multicitetotal=\count112
+\c@instcount=\count113
+\c@maxnames=\count114
+\c@minnames=\count115
+\c@maxitems=\count116
+\c@minitems=\count117
+\c@citecounter=\count118
+\c@savedcitecounter=\count119
+\c@uniquelist=\count120
+\c@uniquename=\count121
+\c@refsection=\count122
+\c@refsegment=\count123
+\c@maxextrayear=\count124
+\c@maxextraalpha=\count125
+\c@abbrvpenalty=\count126
+\c@highnamepenalty=\count127
+\c@lownamepenalty=\count128
+\c@maxparens=\count129
+\c@parenlevel=\count130
+\blx@tempcnta=\count131
+\blx@tempcntb=\count132
+\blx@tempcntc=\count133
+\blx@maxsection=\count134
+\blx@maxsegment=\count135
+\blx@notetype=\count136
+\blx@parenlevel@text=\count137
+\blx@parenlevel@foot=\count138
+\labelnumberwidth=\skip44
+\labelalphawidth=\skip45
+\shorthandwidth=\skip46
+\biblabelsep=\skip47
+\bibitemsep=\skip48
+\bibnamesep=\skip49
+\bibinitsep=\skip50
+\bibparsep=\skip51
+\bibhang=\skip52
+\blx@auxin=\read1
+\blx@auxout=\write3
+\c@mincomprange=\count139
+\c@maxcomprange=\count140
+\c@mincompwidth=\count141
+\c@labelname=\count142
+\c@savedlabelname=\count143
+\c@author=\count144
+\c@savedauthor=\count145
+\c@shortauthor=\count146
+\c@savedshortauthor=\count147
+\c@editor=\count148
+\c@savededitor=\count149
+\c@editora=\count150
+\c@savededitora=\count151
+\c@editorb=\count152
+\c@savededitorb=\count153
+\c@editorc=\count154
+\c@savededitorc=\count155
+\c@shorteditor=\count156
+\c@savedshorteditor=\count157
+\c@bookauthor=\count158
+\c@savedbookauthor=\count159
+\c@translator=\count160
+\c@savedtranslator=\count161
+\c@annotator=\count162
+\c@savedannotator=\count163
+\c@commentator=\count164
+\c@savedcommentator=\count165
+\c@introduction=\count166
+\c@savedintroduction=\count167
+\c@foreword=\count168
+\c@savedforeword=\count169
+\c@afterword=\count170
+\c@savedafterword=\count171
+\c@holder=\count172
+\c@savedholder=\count173
+\c@namea=\count174
+\c@savednamea=\count175
+\c@nameb=\count176
+\c@savednameb=\count177
+\c@namec=\count178
+\c@savednamec=\count179
+\c@institution=\count180
+\c@savedinstitution=\count181
+\c@language=\count182
+\c@savedlanguage=\count183
+\c@location=\count184
+\c@savedlocation=\count185
+\c@organization=\count186
+\c@savedorganization=\count187
+\c@origlocation=\count188
+\c@savedoriglocation=\count189
+\c@origpublisher=\count190
+\c@savedorigpublisher=\count191
+\c@pageref=\count192
+\c@savedpageref=\count193
+\c@publisher=\count194
+\c@savedpublisher=\count195
+\c@lista=\count196
+\c@savedlista=\count197
+\c@listb=\count198
+\c@savedlistb=\count199
+\c@listc=\count200
+\c@savedlistc=\count201
+\c@listd=\count202
+\c@savedlistd=\count203
+\c@liste=\count204
+\c@savedliste=\count205
+\c@listf=\count206
+\c@savedlistf=\count207
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count208
+\c@textcitetotal=\count209
+\c@textcitemaxnames=\count210
+\c@biburlnumpenalty=\count211
+\c@biburlucpenalty=\count212
+\c@biburllcpenalty=\count213
+\c@smartand=\count214
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load bibliography style 'magyar'...
+Package biblatex Info: ... file 'magyar.bbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/bbx/magyar.bbx
+File: magyar.bbx 
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count215
+\c@bbx:relatedtotal=\count216
+)))
+Package biblatex Info: Trying to load citation style 'magyar'...
+Package biblatex Info: ... file 'magyar.cbx' found.
+
+(/usr/share/texmf/tex/latex/biblatex/cbx/magyar.cbx
+File: hugplain.cbx 
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
 \c@AlgoLine=\count217
@@ -1027,7 +1018,8 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 )
 Package biblatex Info: Trying to load language 'magyar' -> 'magyar'...
 Package biblatex Info: ... file 'magyar.lbx' found.
- (./magyar.lbx
+
+(/usr/share/texmf/tex/latex/biblatex/lbx/magyar.lbx
 File: magyar.lbx 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1047,30 +1039,30 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./msc_szakdolgozat.aux)
 \openout1 = `msc_szakdolgozat.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 118.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 113.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
 \AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring OFF on input line 118.
+Package hyperref Info: Link coloring OFF on input line 113.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1080,9 +1072,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count292
 )
-LaTeX Info: Redefining \ref on input line 118.
-LaTeX Info: Redefining \pageref on input line 118.
-LaTeX Info: Redefining \nameref on input line 118.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
 
 (./msc_szakdolgozat.out) (./msc_szakdolgozat.out)
 \@outlinefile=\write4
@@ -1103,13 +1095,10 @@ LaTeX Info: Redefining \nameref on input line 118.
 \makeMPintoPDFobject=\count298
 \everyMPtoPDFconversion=\toks31
 )
-
-Package magyar.ldf Warning: No effect of \def\magyarOptions{...}
-(magyar.ldf)                please move it before \usepackage[magyar]{babel}.
-
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
+
 
 Package biblatex Warning: Data encoding is 'utf8'.
 (biblatex)                Use backend=biber.
@@ -1122,11 +1111,6 @@ Package biblatex Info: ... file 'msc_szakdolgozat.bbl' found.
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'scfa_and_vitamine':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'host_bacterial_mutualism':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1152,6 +1136,11 @@ Package biblatex Warning: BibTeX reported the following issues
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'salmonella_and_host_cell_nature':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'hupo':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -1220,8 +1209,8 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'month'.
 
 )
-Package biblatex Info: Reference section=0 on input line 118.
-Package biblatex Info: Reference segment=0 on input line 118.
+Package biblatex Info: Reference section=0 on input line 113.
+Package biblatex Info: Reference segment=0 on input line 113.
  (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1305,35 +1294,35 @@ LaTeX Info: Redefining \mit on input line 507.
 <cimlap.pdf, id=132, 597.50829pt x 845.0471pt>
 File: cimlap.pdf Graphic file (type pdf)
  <use cimlap.pdf>
-Package pdftex.def Info: cimlap.pdf used on input line 121.
+Package pdftex.def Info: cimlap.pdf used on input line 116.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: cimlap.pdf Graphic file (type pdf)
 
 <use cimlap.pdf>
-Package pdftex.def Info: cimlap.pdf used on input line 121.
+Package pdftex.def Info: cimlap.pdf used on input line 116.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
  <cimlap.pdf, id=135, page=1, 597.50829pt x 845.0471pt>
 File: cimlap.pdf Graphic file (type pdf)
 
 <use cimlap.pdf, page 1>
-Package pdftex.def Info: cimlap.pdf, page1 used on input line 121.
+Package pdftex.def Info: cimlap.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: cimlap.pdf Graphic file (type pdf)
  <use cimlap.pdf, page 1>
-Package pdftex.def Info: cimlap.pdf, page1 used on input line 121.
+Package pdftex.def Info: cimlap.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cimlap.pdf Graphic file (type pdf)
  <use cimlap.pdf, page 1>
-Package pdftex.def Info: cimlap.pdf, page1 used on input line 121.
+Package pdftex.def Info: cimlap.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cimlap.pdf Graphic file (type pdf)
 
 <use cimlap.pdf, page 1>
-Package pdftex.def Info: cimlap.pdf, page1 used on input line 121.
+Package pdftex.def Info: cimlap.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cimlap.pdf Graphic file (type pdf)
  <use cimlap.pdf, page 1>
-Package pdftex.def Info: cimlap.pdf, page1 used on input line 121.
+Package pdftex.def Info: cimlap.pdf, page1 used on input line 116.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [1
 
@@ -1352,144 +1341,150 @@ pdfTeX warning: pdflatex: pop empty color page stack 0
 \openout5 = `msc_szakdolgozat.toc'.
 
  [2] [3] [4] [5]
-<img/intracell_bakt_terj_am.png, id=247, 645.16031pt x 189.70876pt>
+<img/intracell_bakt_terj_am.png, id=248, 645.16031pt x 189.70876pt>
 File: img/intracell_bakt_terj_am.png Graphic file (type png)
 
 <use img/intracell_bakt_terj_am.png>
-Package pdftex.def Info: img/intracell_bakt_terj_am.png used on input line 196.
+Package pdftex.def Info: img/intracell_bakt_terj_am.png used on input line 189.
 
 (pdftex.def)             Requested size: 451.60913pt x 132.79521pt.
  [6] [7 <./img/intracell_bakt_terj_am.png>] [8] [9] [10] [11] <img/graphs.pdf, 
-id=314, 434.7599pt x 197.11993pt>
+id=315, 434.7599pt x 197.11993pt>
 File: img/graphs.pdf Graphic file (type pdf)
 
 <use img/graphs.pdf>
-Package pdftex.def Info: img/graphs.pdf used on input line 304.
+Package pdftex.def Info: img/graphs.pdf used on input line 299.
 (pdftex.def)             Requested size: 434.75883pt x 197.11945pt.
  [12 <./img/graphs.pdf>] [13] [14]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 351.
+(hyperref)                removing `\H' on input line 346.
 
-[15] [16] <img/Signalink_Layer0.pdf, id=364, 244.915pt x 683.35298pt>
+[15] [16] <img/Signalink_Layer0.pdf, id=365, 244.915pt x 683.35298pt>
 File: img/Signalink_Layer0.pdf Graphic file (type pdf)
 
 <use img/Signalink_Layer0.pdf>
-Package pdftex.def Info: img/Signalink_Layer0.pdf used on input line 395.
+Package pdftex.def Info: img/Signalink_Layer0.pdf used on input line 387.
 (pdftex.def)             Requested size: 171.43932pt x 478.34383pt.
  [17] [18 <./img/Signalink_Layer0.pdf>]
-<img/Mitab-SQL.pdf, id=450, 476.179pt x 302.731pt>
+<img/Mitab-SQL.pdf, id=452, 476.179pt x 302.731pt>
 File: img/Mitab-SQL.pdf Graphic file (type pdf)
  <use img/Mitab-SQL.pdf>
-Package pdftex.def Info: img/Mitab-SQL.pdf used on input line 420.
+Package pdftex.def Info: img/Mitab-SQL.pdf used on input line 410.
 (pdftex.def)             Requested size: 333.32303pt x 211.91025pt.
 
 [19 <./img/Mitab-SQL.pdf>] [20] [21] [22] [23] [24] [25]
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 539--565
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 529--555
 $[]$ 
  []
 
-[26] [27] <img/arn_123_comp.pdf, id=519, 830.2685pt x 867.44597pt>
+[26] [27] <img/arn_123_comp.pdf, id=522, 830.2685pt x 867.44597pt>
 File: img/arn_123_comp.pdf Graphic file (type pdf)
 
 <use img/arn_123_comp.pdf>
-Package pdftex.def Info: img/arn_123_comp.pdf used on input line 607.
+Package pdftex.def Info: img/arn_123_comp.pdf used on input line 597.
 (pdftex.def)             Requested size: 398.52435pt x 416.36934pt.
  [28 <./img/arn_123_comp.pdf>] [29] [30]
-<img/salmonet_tis.pdf, id=552, 917.83987pt x 770.2983pt>
+<img/salmonet_tis.pdf, id=555, 917.83987pt x 770.2983pt>
 File: img/salmonet_tis.pdf Graphic file (type pdf)
 
 <use img/salmonet_tis.pdf>
-Package pdftex.def Info: img/salmonet_tis.pdf used on input line 658.
+Package pdftex.def Info: img/salmonet_tis.pdf used on input line 648.
 (pdftex.def)             Requested size: 403.8508pt x 338.9323pt.
  [31 <./img/salmonet_tis.pdf>] [32]
-<img/merged.pdf, id=575, 705.95299pt x 495.04988pt>
+<img/merged.pdf, id=578, 705.95299pt x 495.04988pt>
 File: img/merged.pdf Graphic file (type pdf)
  <use img/merged.pdf>
-Package pdftex.def Info: img/merged.pdf used on input line 701.
+Package pdftex.def Info: img/merged.pdf used on input line 691.
 (pdftex.def)             Requested size: 423.57506pt x 297.03221pt.
 
-[33 <./img/merged.pdf>] <img/mergedTIs.pdf, id=594, 918.46231pt x 386.24298pt>
+[33 <./img/merged.pdf>] <img/mergedTIs.pdf, id=597, 918.46231pt x 386.24298pt>
 File: img/mergedTIs.pdf Graphic file (type pdf)
 
 <use img/mergedTIs.pdf>
-Package pdftex.def Info: img/mergedTIs.pdf used on input line 743.
+Package pdftex.def Info: img/mergedTIs.pdf used on input line 733.
 (pdftex.def)             Requested size: 459.23003pt x 193.12102pt.
 
-Overfull \hbox (3.98592pt too wide) in paragraph at lines 743--745
+Overfull \hbox (3.98592pt too wide) in paragraph at lines 733--735
  [][] 
  []
 
 [34]
-<img/merged-3-step-from-connecting-salmonella.pdf, id=600, 705.95648pt x 479.65
+<img/merged-3-step-from-connecting-salmonella.pdf, id=603, 705.95648pt x 479.65
 993pt>
 File: img/merged-3-step-from-connecting-salmonella.pdf Graphic file (type pdf)
  <use img/merged-3-step-from-connecting-salmonella.pdf>
 Package pdftex.def Info: img/merged-3-step-from-connecting-salmonella.pdf used 
-on input line 755.
+on input line 745.
 (pdftex.def)             Requested size: 352.97737pt x 239.82938pt.
  [35 <./img/mergedTIs.pdf> <./img/merged-3-step-from-connecting-salmonella.pdf
 
 pdfTeX warning: pdflatex (file ./img/merged-3-step-from-connecting-salmonella.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
->] <img/connection_prots_v2_complete.pdf, id=616, 1081.1532pt x 684.66245pt>
+>] <img/connection_prots_v2_complete.pdf, id=619, 1081.1532pt x 684.66245pt>
 File: img/connection_prots_v2_complete.pdf Graphic file (type pdf)
 
 <use img/connection_prots_v2_complete.pdf>
 Package pdftex.def Info: img/connection_prots_v2_complete.pdf used on input lin
-e 771.
+e 761.
 (pdftex.def)             Requested size: 432.45361pt x 273.86012pt.
  [36 <./img/connection_prots_v2_complete.pdf>] [37]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 805.
+(hyperref)                removing `\H' on input line 795.
 
-<img/t3ss-inner-salmonella.pdf, id=676, 627.6948pt x 487.9715pt>
+<img/t3ss-inner-salmonella.pdf, id=679, 627.6948pt x 487.9715pt>
 File: img/t3ss-inner-salmonella.pdf Graphic file (type pdf)
 
 <use img/t3ss-inner-salmonella.pdf>
-Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 808.
+Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 798.
 (pdftex.def)             Requested size: 376.61978pt x 292.78514pt.
  [38 <./img/t3ss-inner-salmonella.pdf>]
 [39] [40] [41] [42] [43] [44]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 883.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 869.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ) [45]
-Overfull \hbox (18.81062pt too wide) in paragraph at lines 884--884
+Overfull \hbox (14.33879pt too wide) in paragraph at lines 869--869
+\T1/cmr/m/n/12 sing da-ta in host-pathogen pro-te-in in-ter-ac-ti-on pre-dic-ti
+-on''. \T1/cmr/m/it/12 Bi-o-in-for-ma-tics \T1/cmr/m/n/12 28.18, pp. i466^^U
+ []
+
+
+Overfull \hbox (18.81062pt too wide) in paragraph at lines 869--869
 [][]\T1/cmr/m/n/12 Newman Mark (2010). \T1/cmr/m/it/12 Net-works: An Int-ro-duc
 -ti-on\T1/cmr/m/n/12 . Ox-ford Uni-ver-sity Press. \T1/cmr/m/sc/12 isbn\T1/cmr/
 m/n/12 : 0199206651.
  []
 
 
-Overfull \hbox (2.69867pt too wide) in paragraph at lines 884--884
+Overfull \hbox (2.69867pt too wide) in paragraph at lines 869--869
 []$\T1/cmtt/m/n/12 http : / / www . amazon . com / Definitive -[] Guide -[] SQL
 ite -[] Mike -[] Owens / dp / 1590596730 %
  []
 
-[46]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 885.
- [47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 885.
+[46] [47]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 871.
+ [48]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 871.
  (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 885.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 885.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 871.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 871.
 Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
 (rerunfilecheck)             Checksum: 3BD38E180E80FFB2FF01083F9E2DAF06;2596.
 Package logreq Info: Writing requests to 'msc_szakdolgozat.run.xml'.
 \openout1 = `msc_szakdolgozat.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 885.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 871.
  ) 
 Here is how much of TeX's memory you used:
- 17689 strings out of 494465
- 277568 string characters out of 6166362
- 512594 words of memory out of 5000000
- 20526 multiletter control sequences out of 15000+600000
- 23956 words of font info for 59 fonts, out of 8000000 for 9000
+ 17731 strings out of 494465
+ 278507 string characters out of 6166362
+ 516298 words of memory out of 5000000
+ 20560 multiletter control sequences out of 15000+600000
+ 24657 words of font info for 60 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
  39i,18n,54p,1823b,1902s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1200.600pk> </home/
@@ -1502,28 +1497,29 @@ en/ec/tcrm1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
 > </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> </home/b
 laise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0800.600pk> </home/blaise/.tex
 mf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/blaise/.texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbi1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecti1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk>
- </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on msc_szakdolgozat.pdf (48 pages, 1637463 bytes).
+ts/pk/ljfour/jknappen/ec/ecbi1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecbi1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1
+200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
+ </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/bl
+aise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk></usr/share/texlive/
+texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on msc_szakdolgozat.pdf (49 pages, 1642857 bytes).
 PDF statistics:
- 1502 PDF objects out of 1728 (max. 8388607)
- 764 compressed objects within 8 object streams
- 151 named destinations out of 1000 (max. 500000)
+ 1518 PDF objects out of 1728 (max. 8388607)
+ 774 compressed objects within 8 object streams
+ 152 named destinations out of 1000 (max. 500000)
  332 words of extra memory for PDF output out of 10000 (max. 10000000)
 

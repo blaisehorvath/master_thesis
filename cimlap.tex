@@ -1,0 +1,99 @@
+%ELTE Biológia Címlap Latex
+
+% magyar nyelv
+\documentclass[a4paper,12pt]{article}
+\usepackage[magyar]{babel}
+\usepackage[utf8]{inputenc}
+
+% margók stb. beállítása
+\usepackage{geometry}
+\geometry{
+    left=25mm,
+    right=25mm,
+    top=25mm,
+    bottom=25mm,
+}
+
+% paraméterek definiálása
+% cím
+\newcommand{\thesistitle}[1]{
+
+	\vspace{48pt}
+	\textbf{\noindent \huge {#1}}
+	\vspace{24pt}
+
+}
+
+% szakirány
+\newcommand{\spec}[1]{
+
+		\Large Diplomamunka \\
+		\large biológus mesterszak \\
+		\large {#1} szakirány
+		\vspace{48pt}
+}
+
+% név
+\newcommand{\name}[1]{
+	\large{készítette:} \\
+	\Large\textbf{{#1}}
+	\vspace{84pt}
+	
+
+}
+
+% témavezető adatai
+\newcommand{\consulent}[3]{
+	\large{#1}, {#2} \\
+	\large{{#3}}
+}
+
+% címer
+\usepackage{graphicx}
+\graphicspath{ {img/} }
+\usepackage{float}
+\newcommand{\footer}[1]{
+
+	\textsc{Eötvös Loránd Tudományegyetem}\\
+	\textsc{Természettudományi Kar}\\
+	\textsc{Biológiai Intézet} \\
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[scale=0.35]{img/elte_cimer_vector.pdf}
+	\end{figure}
+	
+	Budapest,#1
+
+
+}
+
+\begin{document}
+
+	% ne legyen számozva az oldal
+	\thispagestyle{empty}
+	
+	\begin{center}
+			\thesistitle{Bakteriális patogén és ember közötti molekuláris hálózatok vizsgálata}
+			
+			\spec{Molekuláris Genetika, Sejt- és Fejlődésbiológia}
+			
+			\name{Horváth Balázs}
+			
+			\large Témavezetők:
+			\vspace{0.21cm}
+			
+			\consulent{KADLECSIK TAMÁS}{PhD hallgató}{ELTE Biológiai Intézet, Genetikai Tanszék}
+			
+			\vspace{16pt}
+			
+			\consulent{KORCSMÁROS TAMÁS}{beosztás}{TGAC, The Genome Analysis Centre, Norwich, Egyesült Királyság}
+			
+			\vspace{48pt}
+			
+			\footer{2016}
+			
+	\end{center}
+
+	
+\end{document}
