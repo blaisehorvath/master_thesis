@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 MAY 2016 22:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.9)  12 MAY 2016 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1291,7 +1291,7 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \cal on input line 506.
 LaTeX Info: Redefining \mit on input line 507.
 )
-<cimlap.pdf, id=120, 597.50829pt x 845.0471pt>
+<cimlap.pdf, id=144, 597.50829pt x 845.0471pt>
 File: cimlap.pdf Graphic file (type pdf)
  <use cimlap.pdf>
 Package pdftex.def Info: cimlap.pdf used on input line 116.
@@ -1301,7 +1301,7 @@ File: cimlap.pdf Graphic file (type pdf)
 <use cimlap.pdf>
 Package pdftex.def Info: cimlap.pdf used on input line 116.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
- <cimlap.pdf, id=123, page=1, 597.50829pt x 845.0471pt>
+ <cimlap.pdf, id=147, page=1, 597.50829pt x 845.0471pt>
 File: cimlap.pdf Graphic file (type pdf)
 
 <use cimlap.pdf, page 1>
@@ -1332,7 +1332,7 @@ dolgozat.tocpdfTeX warning (ext4): destination with the same identifier (name{p
 age.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.115 ...n\IeC {\'\i }t\IeC {\'a}s}{45}{section.9}
+l.117 ...}s\IeC {\'a}hoz}{40}{subsubsection.6.3.1}
                                                    [1
 
 pdfTeX warning: pdflatex: pop empty color page stack 0
@@ -1341,7 +1341,7 @@ pdfTeX warning: pdflatex: pop empty color page stack 0
 \openout5 = `msc_szakdolgozat.toc'.
 
  [2] [3] [4] [5]
-<img/intracell_bakt_terj_am.png, id=233, 645.16031pt x 189.70876pt>
+<img/intracell_bakt_terj_am.png, id=264, 645.16031pt x 189.70876pt>
 File: img/intracell_bakt_terj_am.png Graphic file (type png)
 
 <use img/intracell_bakt_terj_am.png>
@@ -1349,7 +1349,7 @@ Package pdftex.def Info: img/intracell_bakt_terj_am.png used on input line 189.
 
 (pdftex.def)             Requested size: 451.60913pt x 132.79521pt.
  [6] [7 <./img/intracell_bakt_terj_am.png>] [8] [9] [10] [11] <img/graphs.pdf, 
-id=298, 434.7599pt x 197.11993pt>
+id=330, 434.7599pt x 197.11993pt>
 File: img/graphs.pdf Graphic file (type pdf)
 
 <use img/graphs.pdf>
@@ -1360,14 +1360,14 @@ Package pdftex.def Info: img/graphs.pdf used on input line 303.
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\H' on input line 348.
 
-[15] <img/Signalink_Layer0.pdf, id=343, 244.915pt x 683.35298pt>
+[15] <img/Signalink_Layer0.pdf, id=374, 244.915pt x 683.35298pt>
 File: img/Signalink_Layer0.pdf Graphic file (type pdf)
 
 <use img/Signalink_Layer0.pdf>
 Package pdftex.def Info: img/Signalink_Layer0.pdf used on input line 385.
 (pdftex.def)             Requested size: 171.43932pt x 478.34383pt.
  [16] [17 <./img/Signalink_Layer0.pdf>]
-<img/Mitab-SQL.pdf, id=429, 476.179pt x 302.731pt>
+<img/Mitab-SQL.pdf, id=460, 476.179pt x 302.731pt>
 File: img/Mitab-SQL.pdf Graphic file (type pdf)
  <use img/Mitab-SQL.pdf>
 Package pdftex.def Info: img/Mitab-SQL.pdf used on input line 408.
@@ -1378,28 +1378,28 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 519--545
 $[]$ 
  []
 
-[24] [25] [26] <img/arn_123_comp.pdf, id=498, 834.6634pt x 949.47202pt>
+[24] [25] [26] <img/arn_123_comp.pdf, id=529, 834.6634pt x 949.47202pt>
 File: img/arn_123_comp.pdf Graphic file (type pdf)
 
 <use img/arn_123_comp.pdf>
 Package pdftex.def Info: img/arn_123_comp.pdf used on input line 605.
 (pdftex.def)             Requested size: 450.71153pt x 512.70726pt.
  [27] [28 <./img/arn_123_comp.pdf>] [29] [30]
-<img/salmonet_tis.pdf, id=540, 917.83987pt x 770.2983pt>
+<img/salmonet_tis.pdf, id=571, 917.83987pt x 770.2983pt>
 File: img/salmonet_tis.pdf Graphic file (type pdf)
 
 <use img/salmonet_tis.pdf>
 Package pdftex.def Info: img/salmonet_tis.pdf used on input line 657.
 (pdftex.def)             Requested size: 403.8508pt x 338.9323pt.
  [31 <./img/salmonet_tis.pdf>]
-<img/merged.pdf, id=553, 705.95299pt x 495.04988pt>
+<img/merged.pdf, id=584, 705.95299pt x 495.04988pt>
 File: img/merged.pdf Graphic file (type pdf)
  <use img/merged.pdf>
 Package pdftex.def Info: img/merged.pdf used on input line 689.
 (pdftex.def)             Requested size: 423.57506pt x 297.03221pt.
 
 [32] [33 <./img/merged.pdf>]
-<img/mergedTIs.pdf, id=577, 918.46231pt x 386.24298pt>
+<img/mergedTIs.pdf, id=609, 918.46231pt x 386.24298pt>
 File: img/mergedTIs.pdf Graphic file (type pdf)
  <use img/mergedTIs.pdf>
 Package pdftex.def Info: img/mergedTIs.pdf used on input line 727.
@@ -1410,7 +1410,7 @@ Overfull \hbox (3.98592pt too wide) in paragraph at lines 727--729
  []
 
 
-<img/merged-3-step-from-connecting-salmonella.pdf, id=578, 705.95648pt x 479.65
+<img/merged-3-step-from-connecting-salmonella.pdf, id=610, 705.95648pt x 479.65
 993pt>
 File: img/merged-3-step-from-connecting-salmonella.pdf Graphic file (type pdf)
  <use img/merged-3-step-from-connecting-salmonella.pdf>
@@ -1418,7 +1418,7 @@ Package pdftex.def Info: img/merged-3-step-from-connecting-salmonella.pdf used
 on input line 739.
 (pdftex.def)             Requested size: 352.97737pt x 239.82938pt.
  [34 <./img/mergedTIs.pdf>]
-<img/connection_prots_v2_complete.pdf, id=589, 724.39204pt x 1210.28333pt>
+<img/connection_prots_v2_complete.pdf, id=621, 724.39204pt x 1210.28333pt>
 File: img/connection_prots_v2_complete.pdf Graphic file (type pdf)
 
 <use img/connection_prots_v2_complete.pdf>
@@ -1434,98 +1434,108 @@ Overfull \vbox (22.22495pt too high) has occurred while \output is active []
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\H' on input line 788.
 
-<img/t3ss-inner-salmonella.pdf, id=661, 627.6948pt x 487.9715pt>
+<img/t3ss-inner-salmonella.pdf, id=692, 627.6948pt x 487.9715pt>
 File: img/t3ss-inner-salmonella.pdf Graphic file (type pdf)
 
 <use img/t3ss-inner-salmonella.pdf>
 Package pdftex.def Info: img/t3ss-inner-salmonella.pdf used on input line 791.
 (pdftex.def)             Requested size: 376.61978pt x 292.78514pt.
  [38 <./img/t3ss-inner-salmonella.pdf>]
-[39] [40] [41] [42] [43] [44]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 862.
+[39] [40]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 822.
+
+[41] [42] [43] [44] [45]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 872.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [45]
-Overfull \hbox (14.33879pt too wide) in paragraph at lines 862--862
+) [46]
+Overfull \hbox (14.33879pt too wide) in paragraph at lines 872--872
 \T1/cmr/m/n/12 sing da-ta in host-pathogen pro-te-in in-ter-ac-ti-on pre-dic-ti
 -on''. \T1/cmr/m/it/12 Bi-o-in-for-ma-tics \T1/cmr/m/n/12 28.18, pp. i466^^U
  []
 
 
-Overfull \hbox (18.81062pt too wide) in paragraph at lines 862--862
+Overfull \hbox (18.81062pt too wide) in paragraph at lines 872--872
 [][]\T1/cmr/m/n/12 Newman Mark (2010). \T1/cmr/m/it/12 Net-works: An Int-ro-duc
 -ti-on\T1/cmr/m/n/12 . Ox-ford Uni-ver-sity Press. \T1/cmr/m/sc/12 isbn\T1/cmr/
 m/n/12 : 0199206651.
  []
 
 
-Overfull \hbox (2.69867pt too wide) in paragraph at lines 862--862
+Overfull \hbox (2.69867pt too wide) in paragraph at lines 872--872
 []$\T1/cmtt/m/n/12 http : / / www . amazon . com / Definitive -[] Guide -[] SQL
 ite -[] Mike -[] Owens / dp / 1590596730 %
  []
 
-[46] [47]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 864.
- [48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 864.
+[47] [48]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 874.
+ [49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 874.
  (./msc_szakdolgozat.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 864.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 864.
-Package rerunfilecheck Info: File `msc_szakdolgozat.out' has not changed.
-(rerunfilecheck)             Checksum: 46E762C348E037B78BEA5CFAAE769A88;2321.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 874.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 874.
 
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package rerunfilecheck Warning: File `msc_szakdolgozat.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
+Package rerunfilecheck Info: Checksums for `msc_szakdolgozat.out':
+(rerunfilecheck)             Before: 046E53DCED8B2770E87A337CD33C7C0B;3030
+(rerunfilecheck)             After:  C256D737F20169E76038131DD167AD86;3040.
 Package logreq Info: Writing requests to 'msc_szakdolgozat.run.xml'.
 \openout1 = `msc_szakdolgozat.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 864.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 874.
  ) 
 Here is how much of TeX's memory you used:
- 17720 strings out of 494465
- 278327 string characters out of 6166362
- 513291 words of memory out of 5000000
- 20556 multiletter control sequences out of 15000+600000
+ 17732 strings out of 494465
+ 278529 string characters out of 6166362
+ 514287 words of memory out of 5000000
+ 20560 multiletter control sequences out of 15000+600000
  24657 words of font info for 60 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 39i,18n,54p,1823b,1902s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1200.600pk> </home/
-blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/blaise/.te
-xmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/blaise/.texmf-var/fo
-nts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/blaise/.texmf-var/fonts/pk/ljf
-our/jknappen/ec/ecbx1000.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknapp
-en/ec/tcrm1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
-1095.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk
-> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> </home/b
-laise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0800.600pk> </home/blaise/.tex
-mf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/blaise/.texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecbi1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecbi1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1
-200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
- </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/bl
-aise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk></usr/share/texlive/
-texmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on msc_szakdolgozat.pdf (49 pages, 1643639 bytes).
+ 39i,18n,54p,1823b,1922s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsection.6.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+ </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1200.600pk> </home/bl
+aise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/blaise/.texm
+f-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/blaise/.texmf-var/font
+s/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/blaise/.texmf-var/fonts/pk/ljfou
+r/jknappen/ec/ecbx1000.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen
+/ec/tcrm1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti10
+95.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> 
+</home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> </home/bla
+ise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0800.600pk> </home/blaise/.texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/blaise/.texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecbi1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecbx1440.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecbi1200.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti120
+0.600pk> </home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> <
+/home/blaise/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/blai
+se/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk></usr/share/texlive/te
+xmf-dist/fonts/type1/public/bbold-type1/bbold10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on msc_szakdolgozat.pdf (50 pages, 1646814 bytes).
 PDF statistics:
- 1501 PDF objects out of 1728 (max. 8388607)
- 755 compressed objects within 8 object streams
- 145 named destinations out of 1000 (max. 500000)
- 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1540 PDF objects out of 1728 (max. 8388607)
+ 789 compressed objects within 8 object streams
+ 153 named destinations out of 1000 (max. 500000)
+ 356 words of extra memory for PDF output out of 10000 (max. 10000000)
 

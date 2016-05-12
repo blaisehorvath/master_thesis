@@ -108,10 +108,22 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {section}{\numberline {6}Diszkusszi\IeC {\'o}}{39}{section.6}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {7}\IeC {\"O}sszefoglal\IeC {\'a}s}{42}{section.7}
+\select@language {magyar} \contentsline {subsection}{\numberline {6.1}Diplomamunk\IeC {\'a}m eredm\IeC {\'e}nyei}{39}{subsection.6.1}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {8}Summary}{43}{section.8}
+\select@language {magyar} \contentsline {subsection}{\numberline {6.2}Molekul\IeC {\'a}ris h\IeC {\'a}l\IeC {\'o}zatok jellemz\IeC {\'e}se TI alapj\IeC {\'a}n}{39}{subsection.6.2}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {9}K\IeC {\"o}sz\IeC {\"o}netnyilv\IeC {\'a}n\IeC {\'\i }t\IeC {\'a}s}{44}{section.9}
+\select@language {magyar} \contentsline {subsection}{\numberline {6.3}Kitekint\IeC {\'e}sek}{40}{subsection.6.3}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {10}Nyilatkozat}{44}{section.10}
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.1}A TI haszn\IeC {\'a}lata a \textit {Salmonella} \IeC {\'e}s az immunrendszer k\IeC {\"o}lcs\IeC {\"o}nhat\IeC {\'a}s\IeC {\'a}nak tanulm\IeC {\'a}nyoz\IeC {\'a}s\IeC {\'a}hoz}{40}{subsubsection.6.3.1}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.2}A TI felhaszn\IeC {\'a}l\IeC {\'a}sa b\IeC {\'e}l mikro\IeC {\"o}kol\IeC {\'o}gi\IeC {\'a}j\IeC {\'a}nak jellemz\IeC {\'e}s\IeC {\'e}re}{40}{subsubsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {6.3.3}Az egyes\IeC {\'\i }tett h\IeC {\'a}l\IeC {\'o}zat felhaszn\IeC {\'a}l\IeC {\'a}sa a \textit {Salmonella} fert\IeC {\H o}z\IeC {\'e}s modellez\IeC {\'e}s\IeC {\'e}re}{41}{subsubsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {section}{\numberline {7}\IeC {\"O}sszefoglal\IeC {\'a}s}{43}{section.7}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {section}{\numberline {8}Summary}{44}{section.8}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {section}{\numberline {9}K\IeC {\"o}sz\IeC {\"o}netnyilv\IeC {\'a}n\IeC {\'\i }t\IeC {\'a}s}{45}{section.9}
+\defcounter {refsection}{0}\relax 
+\select@language {magyar} \contentsline {section}{\numberline {10}Nyilatkozat}{45}{section.10}
