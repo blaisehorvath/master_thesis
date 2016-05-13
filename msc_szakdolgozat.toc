@@ -130,8 +130,8 @@
 \defcounter {refsection}{0}\relax 
 \select@language {magyar} \contentsline {section}{\numberline {9}K\IeC {\"o}sz\IeC {\"o}netnyilv\IeC {\'a}n\IeC {\'\i }t\IeC {\'a}s}{45}{section.9}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{\numberline {10}Nyilatkozat}{45}{section.10}
+\select@language {magyar} \contentsline {section}{\numberline {10}Nyilatkozat}{46}{section.10}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{Felhaszn\IeC {\'a}lt irodalom}{46}{section.10}
+\select@language {magyar} \contentsline {section}{Felhaszn\IeC {\'a}lt irodalom}{47}{section.10}
 \defcounter {refsection}{0}\relax 
-\select@language {magyar} \contentsline {section}{Internetes hivatkoz\IeC {\'a}sok}{49}{section.10}
+\select@language {magyar} \contentsline {section}{Internetes hivatkoz\IeC {\'a}sok}{50}{section.10}
